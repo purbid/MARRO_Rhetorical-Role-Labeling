@@ -1,0 +1,330 @@
+A school minibus draws up on a country road on a winters evening.	FAC
+Two children get off.	FAC
+One of the children tries to cross the road.	FAC
+She steps out from behind the minibus, into the path of an oncoming car.	FAC
+The driver is driving too fast: he has seen the bus, but has made no allowance for the possibility that a child might attempt to cross in front of him.	FAC
+He is not keeping a proper look out, and does not see her, but he is going too fast to have stopped in time even if he had seen her.	FAC
+His car hits the child, causing her to sustain severe injuries.	FAC
+If he had been driving at a reasonable speed, and had been keeping a proper look out, he would not have hit her.	FAC
+The trial judge finds that the accident was caused by the drivers negligence, but that the child was also contributorily negligent.	RLC
+He assesses her contributory negligence at 90%, and reduces the award of damages accordingly.	RLC
+On appeal, the court reduces that assessment to 70%.	RLC
+On a further appeal, this court is invited to reduce the assessment further.	Ratio
+How should responsibility be apportioned in a case of this kind? What principles should govern the review of an apportionment by an appellate court? These are the central questions posed by this appeal.	Ratio
+The facts of the case	FAC
+The facts of the case, as found by the Lord Ordinary, Lord Tyre, are not in dispute.	FAC
+It should be said at the outset that he faced considerable difficulties in establishing the facts, and he exercised notable care in doing so.	FAC
+The accident occurred on 12 January 2004 on the A98 road between Banff and Fraserburgh, near its junction with a private road leading to the farm where the pursuer lived with her parents and her twin sister.	FAC
+At that point, the A98 is 7.6 metres wide.	FAC
+Traffic is subject to a 60 mph speed limit.	FAC
+There is no street lighting.	FAC
+The pursuer was then 13 years old.	FAC
+She and her sister travelled to and from school every day by school minibus.	FAC
+On the way home, the minibus dropped off the various children at or near their homes.	FAC
+In particular, it dropped off the pursuer and her sister on the opposite side of the road from the entrance to the farm road.	FAC
+They would then cross the road to the farm road.	FAC
+On the day of the accident, the bus arrived at the farm road end at about 4.30 pm.	FAC
+It was then about 40 minutes after sunset, and the light was fading.	FAC
+Vehicles had their lights on.	FAC
+The bus stopped, with its headlights on, and signs to the front and rear indicating that it was a school bus.	FAC
+The driver put on the buss hazard lights.	FAC
+A number of vehicles following the bus stopped behind it.	FAC
+The defender was driving home in the opposite direction.	FAC
+His lights were switched on.	FAC
+As he approached the scene, he saw the stationary bus on the other carriageway.	FAC
+He had a view of the stationary bus for at least 200 metres.	FAC
+He had seen the school bus on this road before.	FAC
+He was travelling at about 50 mph.	FAC
+He did not slow down.	FAC
+His position in evidence was that he could not remember whether he had thought at the time that the bus might have stopped to drop children off.	FAC
+He regarded the risk of children running out unexpectedly as irrelevant: such a risk was not his fault, as he put it.	FAC
+Partly in view of the defenders evidence about the irrelevance, to his responsibilities as a driver, of the possibility that children might unexpectedly attempt to cross the road, the Lord Ordinary inferred that he did not address his mind to the risk that a person might emerge from behind the stationary bus and attempt to cross the road in front of his car.	FAC
+The pursuer and her sister got off the bus on its nearside.	FAC
+The pursuer passed between the rear of the bus, which was still stationary, and the car behind it.	FAC
+She paused briefly at the offside rear of the bus and then took one or two steps into the road, before breaking into a run.	FAC
+She was struck by the defenders car, still travelling at about 50 mph.	FAC
+She was projected into the air by the force of the impact, and the car passed beneath her.	FAC
+She landed on the road surface.	FAC
+At the point of impact, she was running across the road.	FAC
+The defender was unaware of her presence until the moment of impact.	FAC
+Since she must have been within his line of vision for approximately 1.5 seconds between emerging from behind the bus and the moment of impact, the Lord Ordinary inferred that he was not keeping a look out for the possibility of such an event occurring.	FAC
+If he had had in mind the possibility that someone might emerge, he would have seen her earlier than he did.	FAC
+The negligence of the defender	FAC
+The Lord Ordinary found that the defender had failed to drive with reasonable care.	FAC
+He ought in the first place to have kept a proper look out.	FAC
+In the exercise of that duty, he ought to have identified the bus as being a school bus, or at least as a bus from which children were likely to alight.	FAC
+He ought then to have foreseen that there was a risk that a person might, however foolishly, attempt to cross the road.	FAC
+The defender had not done so.	FAC
+Either he did not identify the bus as a school bus, or he did not regard that as relevant to the manner in which he ought to drive towards it and past it.	FAC
+Secondly, the defender had failed to modify his driving.	FAC
+He did not reduce his speed from 50 mph as he approached the stationary bus.	FAC
+That was too high a speed at which to approach the hazard which it potentially presented.	FAC
+A reasonable speed in the circumstances would have been somewhere between 30 and 40 mph.	FAC
+He ought to have been travelling at no more than 40 mph for at least 100 metres before reaching the bus.	FAC
+Thirdly, the defender had failed to be vigilant for any child stepping out or running into the road.	FAC
+These findings are not now in dispute.	FAC
+Causation	FAC
+The Lord Ordinary found that the defender could not have reacted in the time available to him, after the pursuer emerged from behind the bus, so as to avoid hitting her.	Ratio
+If, however, he had been travelling at a reasonable speed, the pursuer would have made it safely past the line of the cars travel before the car arrived at the point of impact, and the accident would not have occurred.	Ratio
+Contributory negligence	Ratio
+The Lord Ordinary considered that the principal cause of the accident was the recklessness of the pursuer in attempting to cross the road without taking proper care to check that the road was clear to allow her to do so.	Ratio
+At the age of 13, she was fully aware of the danger of crossing a major road without taking reasonable care to check that no cars were approaching.	Ratio
+The pursuers own account of the critical events was unreliable, and there was a paucity of other reliable evidence.	Ratio
+Her decision to cross could not however have been the result of a justifiable misjudgement: at the time when she emerged from behind the minibus, the defenders car could only have been about 30 40 metres away.	Ratio
+The Lord Ordinary concluded: 46.	RLC
+Either she did not look to the left before proceeding across the road or, having done so, she failed to identify and react sensibly to the presence of the defender's car in close proximity.	RLC
+On either scenario, the overwhelmingly greater cause of this unhappy accident was the movement of the pursuer into the path of the defender's car at a time when it was impossible for him to avoid a collision. 47.	RLC
+One has, therefore, in my opinion, a situation in which the pursuer bears responsibility for having committed an act of reckless folly, and the defender bears responsibility for having failed to take reasonable care for the safety of a person such as the pursuer who might commit an act of reckless folly.	RLC
+In that situation, I consider that a very large proportion of the overall responsibility rests upon the perpetrator of the act.	RLC
+On that basis, the Lord Ordinary assessed contributory negligence at 90%.	FAC
+An appeal against that finding was allowed by an Extra Division of the Inner House (Lord Clarke, Lord Drummond Young and Lord Wheatley), for reasons explained in an opinion delivered by Lord Drummond Young.	FAC
+His Lordship noted that it had been said in Porter v Strathclyde Regional Council 1991 SLT 446, 449 that the Inner House would not interfere with the Lord Ordinarys apportionment of negligence except in exceptional circumstances which must demonstrate that he has manifestly and to a substantial degree gone wrong.	PRE
+The Extra Division considered that the Lord Ordinary had clearly been entitled to hold that contributory negligence existed in this case.	RLC
+At the age of 13, the pursuer must have been fully aware of the danger of crossing a major road from behind a bus without taking reasonable care to check for approaching cars.	Ratio
+She was familiar with the location and accepted that she was aware of the potential dangers of crossing this particular road.	Ratio
+She was aware of the risk of traffic on what was a relatively major road.	Ratio
+In those circumstances it was difficult to imagine any reason that she might have for not checking properly for approaching cars and, if a car was approaching, not crossing the road.	Ratio
+On that basis, the obvious course for her to take was to remain on the verge or at least to remain behind the bus until it moved off and she had a clear view of other traffic and drivers had a clear view of her.	Ratio
+At the very most she could have stopped between the bus and the centre line of the road.	Ratio
+The argument that these points should have been put to the pursuer in cross examination, and had not been put, was rejected: they were too obvious for cross examination on these points to be necessary.	Ratio
+In relation to apportionment, the Extra Division considered that the Lord	FAC
+Ordinarys apportionment of 90% of the responsibility for the accident to	FAC
+the pursuer was too high.	FAC
+The court reduced this to 70%.	FAC
+It gave four reasons for its decision, at paras 27 28: (1) In the first place, we are of opinion that insufficient regard was had to the circumstances of the pursuer.	RLC
+The pursuer was only 13 at the time of the accident.	RLC
+While at 13 she was old enough to understand the dangers of traffic, a 13 year old will not necessarily have the same level of judgment and self control as an adult.	RLC
+Moreover, in assessing whether it was safe to cross, she was required to take account of the defender's car approaching at a fair speed, 50 mph, in very poor light conditions with its headlights on.	RLC
+The assessment of speed in those circumstances is far from easy even for an adult, and even more so for a 13 year old. (2) In the second place, we are of opinion that greater stress should have been placed on the actings of the defender.	RLC
+He was found to have been driving at excessive speed and not to have modified his speed to take account of the potential danger presented by the minibus.	RLC
+The danger was obvious because the minibus had its hazard lights on.	RLC
+The Lord Ordinary inferred that as he approached the minibus the defender did not address his mind to the risk that a person might emerge from behind it and attempt to cross the road.	RLC
+In all the circumstances we consider that the defender's behaviour was culpable to a substantial degree, and that that is a factor which should be taken into account. (3) In the third place, we are of opinion that the Lord Ordinary was wrong to describe the actings of the pursuer as an act of reckless folly.	RLC
+Those actings were clearly negligent, but recklessness implies that the pursuer acted without caring about the consequences.	RLC
+We do not think that such a description of the pursuer's conduct is justified on the facts found by the Lord Ordinary. (4) In the fourth place, the causative potency of the parties' actings must be taken into account.	Ratio
+Two factors are relevant in this connection.	Ratio
+First, in apportioning responsibility account must be taken not only of the relative blameworthiness of the parties but also the causative potency of their acts.	Ratio
+As is pointed out in Eagle [v Chambers [2003] EWCA Civ 1107; [2004] RTR 115] and Smith [v Chief Constable Nottinghamshire 18.	PRE
+Police [2012] EWCA Civ 161; [2012] RTR 294], a car is potentially a dangerous weapon, and accordingly the attribution of causative potency to the driver must be greater than that to the pedestrian.	PRE
+Secondly, the Lord Ordinary held that the pursuer would have escaped the accident had she had an additional 1.12 seconds available.	Ratio
+That suggests that the defender's excessive speed was causally significant.	Ratio
+The court concluded, at para 28: When all of these factors are taken together, we are of opinion that they clearly support an apportionment that is more favourable to the pursuer than the Lord Ordinary's apportionment.	RLC
+We nevertheless recognize that the major share of responsibility must be attributed to the pursuer, because her negligence was both seriously blameworthy and of major causative significance.	Ratio
+Was there contributory negligence?	Ratio
+It is contended on the pursuers behalf that, on the findings of fact made by the Lord Ordinary, there was no basis for a finding of contributory negligence.	ARG
+It had been assumed that the pursuer ought to have looked to her left very shortly before emerging from behind the bus, and that if she had done so, the defenders car would have been so close that she ought to have realised that it was unsafe for her to cross the road.	Ratio
+The pursuer had however also to bear in mind the possibility of traffic emerging from her right, or from the farm track across the road.	Ratio
+She could reasonably have looked to her left at a time when the defenders car was far enough away for her to think that it was safe to cross the road, unaware of the excessive speed at which the car was being driven.	Ratio
+I am unable to accept this contention.	Ratio
+Counsel for the pursuer neither challenges the findings in fact made by the Lord Ordinary nor proposes that any additional findings should be made.	Ratio
+On the findings made, either she did not look to the left before proceeding across the road or, having done so, she failed to identify and react sensibly to the presence of the defender's car in close proximity.	Ratio
+The contention now advanced is inconsistent with either of those scenarios.	Ratio
+I should add, in relation to the latter scenario, that the Lord Ordinary calculated that a vehicle travelling at 50 mph covers a distance of 100 metres in 4.47 seconds.	Ratio
+He also concluded that the defenders car was only 30 40 metres away when the pursuer stepped out.	Ratio
+He was entitled to conclude that, if the pursuer had looked to her left within a reasonable time before stepping out into the road, the defenders car would have been within such proximity that she ought to have realised that it was unsafe to cross.	Ratio
+Apportionment 19.	Ratio
+Section 1(1) of the Law Reform (Contributory Negligence) Act 1945 provides: Where any person suffers damage as the result partly of his own fault and partly of the fault of any other person or persons, a claim in respect of that damage shall not be defeated by reason of the fault of the person suffering the damage, but the damages recoverable in respect thereof shall be reduced to such extent as the court thinks just and equitable having regard to the claimants share in the responsibility for the damage. 20.	STA
+Section 1(1) does not specify how responsibility is to be apportioned, beyond requiring the damages to be reduced to such extent as the court thinks just and equitable having regard to the claimants share in the responsibility for the damage (not, it is to be noted, responsibility for the accident).	STA
+Further guidance can however be found in the decided cases.	Ratio
+In particular, in Stapley v Gypsum Mines Ltd [1953] AC 663, 682, Lord Reid stated: A court must deal broadly with the problem of apportionment and in considering what is just and equitable must have regard to the blameworthiness of each party, but the claimants share in the responsibility for the damage cannot, I think, be assessed without considering the relative importance of his acts in causing the damage apart from his blameworthiness. 21.	PRE
+That approach is illustrated by its application to the facts of that case, where the deceased and a co worker had been instructed by their employer to bring down a dangerous roof, and not to work beneath it in the meantime.	Ratio
+In disobedience of the instruction, they had given up their attempts to bring down the roof, and the deceased had then proceeded to work beneath it.	Ratio
+It collapsed and killed him.	Ratio
+Although there was held to have been negligence on the part of the co worker, for which the employer was responsible, the deceaseds conduct had contributed much more immediately to the accident than anything that the co worker did or failed to do: both men were at fault up to the stage when the deceased entered the area in question, but he alone was at fault in working beneath the dangerous roof.	Ratio
+The House of Lords therefore assessed the contributory negligence of the deceased at 80%, altering the 50% apportionment made by the trial judge. 22.	Ratio
+A further illustration is provided by Baker v Willoughby [1970] AC 467.	PRE
+The case was one in which the plaintiff was a pedestrian who had been struck by the defendants car while crossing the road.	PRE
+The plaintiff had negligently failed to see the defendants car approaching.	PRE
+The defendant had a clear view of the plaintiff prior to the collision, but was driving at an excessive speed or failing to keep a proper look out or both.	PRE
+The judge found that the plaintiff was 25% to blame.	PRE
+On appeal, the Court of Appeal increased that apportionment to 50%.	PRE
+The House of Lords restored the judges assessment. 23.	PRE
+Lord Reid, with the agreement of the other members of the House, made some general observations about apportionment in cases of this kind at p 490: The Court of Appeal recognised that the trial judge's assessment ought not to be varied unless some error in the judge's approach is clearly discernible.	Ratio
+But they appear to have thought it impossible to differentiate when both parties had a clear view of each other for 200 yards prior to impact and neither did anything about it.	Ratio
+I am unable to agree.	Ratio
+There are two elements in an assessment of liability, causation and blameworthiness.	Ratio
+I need not consider whether in such circumstances the causative factors must necessarily be equal, because in my view there is not even a presumption to that effect as regards blameworthiness.	Ratio
+A pedestrian has to look to both sides as well as forwards.	Ratio
+He is going at perhaps three miles an hour and at that speed he is rarely a danger to anyone else.	Ratio
+The motorist has not got to look sideways though he may have to observe over a wide angle ahead: and if he is going at a considerable speed he must not relax his observation, for the consequences may be disastrous .	Ratio
+In my opinion it is quite possible that the motorist may be very much more to blame than the pedestrian. 24.	Ratio
+That dictum was applied by the Second Division in McCluskey v Wallace 1998 SC 711, a case in which a child aged 10 had crossed the road without taking reasonable care to check whether traffic was coming.	PRE
+She was struck by a driver who was driving at an appropriate speed but had failed to notice 28. her, and could have avoided her if he had been paying proper attention.	Ratio
+An assessment of the childs contributory negligence at 20% was upheld. 25.	Ratio
+A similar approach to the assessment of blameworthiness, in cases concerning motorists who drive negligently and hit careless pedestrians, can be seen in the judgment of the Court of Appeal, delivered by Hale LJ, in Eagle v Chambers [2003] EWCA Civ 1107; [2004] RTR 115.	PRE
+The claimant had been walking down the middle of a well lit road, late at night, while in an emotional state.	Ratio
+The defendant motorist would have seen and avoided her if he had been driving with reasonable care.	Ratio
+He had however failed to see her.	Ratio
+His ability to drive safely was impaired by alcohol.	Ratio
+The trial judge reduced the claimants damages by 60%.	Ratio
+On appeal, that apportionment was reduced to 40%. 26.	Ratio
+Hale LJ noted that there were two aspects to apportioning liability between claimant and defendant, namely the respective causative potency of what they had done, and their respective blameworthiness.	Ratio
+In relation to the former, it was accepted that the defendants causative potency was much greater than the claimants on the facts of the case.	Ratio
+In relation to blameworthiness, the defendant was equally if not more blameworthy.	Ratio
+In that regard, Hale LJ noted that a car could do much more damage to a person than a person could usually do to a car, and that the potential destructive disparity between the parties could be taken into account as an aspect of blameworthiness.	Ratio
+The court had consistently imposed a high burden upon the drivers of cars, to reflect the potentially dangerous nature of driving.	Ratio
+In the circumstances of the case, the judges apportionment had been plainly wrong.	Ratio
+Review of apportionment 27.	Ratio
+It is not possible for a court to arrive at an apportionment which is demonstrably correct.	Ratio
+The problem is not merely that the factors which the court is required to consider are incapable of precise measurement.	Ratio
+More fundamentally, the blameworthiness of the pursuer and the defender are incommensurable.	Ratio
+The defender has acted in breach of a duty (not necessarily a duty of care) which was owed to the pursuer; the pursuer, on the other hand, has acted with a want of regard for her own interests.	Ratio
+The word fault in section 1(1), as applied to the person suffering the damage on the one hand, and the other person or persons on the other hand, is therefore being used in two different senses.	Ratio
+The court is not comparing like with like.	Ratio
+It follows that the apportionment of responsibility is inevitably a somewhat rough and ready exercise (a feature reflected in the judicial preference for round figures), and that a variety of possible answers can legitimately be given.	Ratio
+That is consistent with the requirement under section 1(1) to arrive at a result which the court considers just and equitable.	Ratio
+Since different judges may legitimately take different views of what would be just and equitable in particular circumstances, it follows that those differing views should be respected, within the limits of reasonable disagreement.	Ratio
+In Kerry v Carter [1969] 1 WLR 1372, the Court of Appeal reviewed some earlier authorities concerned with appellate review of apportionments under the 1945 Act.	PRE
+Lord Denning MR said, with the agreement of the other members of the court: 29.	PRE
+We have been referred to cases on this subject, particularly the recent case of Brown v Thompson [1968] 1 WLR 1003.	PRE
+Since that case it seems to have been assumed in some quarters that this court will rarely, if ever, alter an apportionment made by the judge.	Ratio
+Such is a misreading of that case.	Ratio
+I think that the attitude of this court was correctly stated in that case, at p 1012, by Edmund Davies LJ when he quoted from the judgment of Sellers LJ in Quintas v National Smelting Board [1961] 1 WLR 401, 409.	PRE
+This court adopts in regard to apportionment the same attitude as it does to damages.	Ratio
+We will interfere if the judge has gone wrong in principle or is shown to have misapprehended the facts: but, even if neither of these is shown, we will interfere if we are of opinion that the judge was clearly wrong.	Ratio
+After all, the function of this court is to be a Court of Appeal.	Ratio
+We are here to put right that which has gone wrong.	Ratio
+If we think that the judge below was wrong, then we ought to say so, and alter the apportionment accordingly. (p 1376) In that case, the court altered an apportionment which placed 80% of the responsibility on the defendant to one which placed two thirds of the responsibility on the plaintiff.	Ratio
+The dictum of the Master of the Rolls has been applied in subsequent cases: see, for example, Pride Valley Foods v Hall and Partners [2001] 76 Con LR 1. 30.	Ratio
+The same approach is in principle appropriate in the event that a question of apportionment comes before this court.	Ratio
+In practice, such a question would not ordinarily raise an arguable point of law of general public importance, and therefore would not ordinarily meet the criteria for the granting of permission to appeal.	Ratio
+Where, however, permission has been granted (as, for example, in Dubai Aluminium Co Ltd v Salaam [2002] UKHL 48; [2003] 2 AC 366, where there was a question concerning apportionment under the Civil Liability (Contribution) Act 1978), or is not required (as in the present case), then this court also approaches the matter as a court of appeal. 31.	PRE
+Given the broad nature of the judgment which has to be made, and the consequent impossibility of determining a right answer to the question of apportionment, one can say in this context, as Lord Fraser of Tullybelton said in relation to an exercise of judgment of a different kind in G v G (Minors: Custody Appeal) [1985] 1 WLR 647, 651: It is comparatively seldom that the Court of Appeal, even if it would itself have preferred a different answer, can say that the judge's decision was wrong, and unless it can say so, it will leave his decision undisturbed. 32.	PRE
+As one would expect, given that section 1(1) applies throughout the United Kingdom, the same approach has been followed in Scotland.	PRE
+In McCusker v Saveheat Cavity Wall Insulation Ltd 1987 SLT 24, 29, Lord Justice Clerk Ross cited the dictum of Lord Justice Clerk Wheatley in the unreported case of Beattie v Halliday, 4 February 1982: An appeal court will not lightly interfere with an apportionment fixed by the judge of first instance.	PRE
+It will only do so if it appears that he has manifestly and to a substantial degree gone wrong.	Ratio
+The case of Beattie concerned contribution between joint wrongdoers, where the court is concerned with the comparative responsibility of persons who are both liable for the damage.	Ratio
+The dictum would apply a fortiori to apportionment under the 1945 Act, where the difficulties are more acute, for the reasons I have explained. 33.	Ratio
+Applying the dictum in Beattie v Halliday, Lord Justice Clerk Ross said in McCusker that although he would have made a different apportionment from the Lord Ordinary, he was not satisfied that the Lord Ordinary had gone so far wrong that the court would be warranted in interfering with his apportionment.	PRE
+The same approach was followed in MacIntosh v National Coal Board 1988 SLT 348 and Porter v Strathclyde Regional Council 1991 SLT 446.	PRE
+In McFarlane v Scottish Borders Council 2005 SLT 359, and in the present case, the court confirmed the general approach while overturning the assessment of contributory negligence made at first instance. 34.	PRE
+It should be noted that words such as manifestly and to a substantial degree merely add emphasis, and do not modify the substance of the test.	Ratio
+As Lord Fraser said in G v G, at p 652: Certainly it would not be useful to inquire whether different shades of meaning are intended to be conveyed by words such as blatant error used by the President in the present case, and words such as clearly wrong, plainly wrong, or simply wrong used by other judges in other cases.	Ratio
+All these various expressions were used in order to emphasise the point that the appellate court should only interfere when they consider that the judge of first instance has not merely preferred an imperfect solution which is different from an alternative imperfect solution which the Court of Appeal might or would have adopted, but has exceeded the generous ambit within which a reasonable disagreement is possible. 35.	Ratio
+The question, therefore, is whether the court below went wrong.	Ratio
+In the absence of an identifiable error, such as an error of law, or the taking into account of an irrelevant matter, or the failure to take account of a relevant matter, it is only a difference of view as to the apportionment of responsibility which exceeds the ambit of reasonable disagreement that warrants the conclusion that the court below has gone wrong.	Ratio
+In other words, in the absence of an identifiable error, the appellate court must be satisfied that the apportionment made by the court below was not one which was reasonably open to it. 36.	Ratio
+There may be cases of apportionment under the 1945 Act where the appellate court can identify an error on the part of the court below.	Ratio
+In the case of Stapley, for example, although Lord Reid observed at p 682 that normally one would not disturb such an award, the trial judge appeared to have left out of account a material fact, namely that the deceased deliberately and culpably entered the area of danger.	Ratio
+Similarly, in the present case, the Extra Division identified an error on the part of the Lord Ordinary in categorising the pursuers conduct as reckless. 37.	Ratio
+Even in the absence of an identifiable error, a wide difference of view as to the apportionment which is just and equitable, going beyond what Lord Fraser described as the generous ambit within which a reasonable disagreement is possible, can in itself justify the conclusion that the court below has gone wrong.	Ratio
+The point is illustrated by the case of National Coal Board v England [1954] AC 403, in which the trial judge considered a 50% apportionment to be appropriate, on the basis that the plaintiff and the defendants employee were equally to blame.	PRE
+The House of Lords held that the damages should be reduced by only 25%.	RLC
+Lord Reid observed at p 427 that it was not right to disturb the trial judges apportionment lightly, but that the difference between holding the parties equally to blame and holding the ones share of responsibility to be three times that of the other is so substantial that we should give effect to it.	RLC
+Lord Porter, with whom Lord Oaksey agreed, similarly considered that, as in Stapley, the wide difference between [the Houses] view and that held in the court of first instance warranted a variation in the proportional amount awarded (p 420). 38.	RLC
+The need for the appellate court to be satisfied, in the absence of an identifiable error, that the apportionment made by the court below was outside the range of reasonable determinations is reflected in the fact that apportionments are not altered by appellate courts merely on the basis of a disagreement as to the precise figure.	Ratio
+In Kerry v Carter, as I have explained, the appellate court disagreed with the trial judge as to which party bore the greater share of responsibility.	Ratio
+In Quintas v National Smelting Co Ltd [1961] 1 WLR 401, Brannan v Airtours Plc, The Times, February 1, 1999 and McFarlane v Scottish Borders Council, as in Stapley v Gypsum Mines Ltd, National Coal Board v England and Baker v Willoughby, the appellate court intervened on the basis of a difference of view as to whether the parties bore equal responsibility or one party bore much greater responsibility than the other.	PRE
+The same is true of Eagle v Chambers, where Hale LJ observed that a finding as to which of the parties, if either, was the more responsible for the damage was different from a finding as to the precise extent of a less than 50% contribution.	PRE
+There was a qualitative difference between a finding of 60% contribution and a finding of 40% which was not so apparent in the quantitative difference between 40% and 20%.	Ratio
+The present case 39.	Ratio
+Having explained the reasons for their conclusion that the Lord Ordinarys apportionment of 90% of the responsibility for the accident to the pursuer was too high, the Extra Division provided only a very brief explanation of their own apportionment of 70% of the responsibility to the pursuer, at para 28: We nevertheless recognize that the major share of responsibility must be attributed to the pursuer, because her negligence was both seriously blameworthy and of major causative significance.	Ratio
+The Extra Division had however already stated, at para 27, that the defenders behaviour was culpable to a substantial degree.	Ratio
+They had also stated, at para 28, that the defenders excessive speed was causally significant and that the attribution of causative potency to the driver must be greater than that to the pedestrian.	Ratio
+It would appear to follow that it could be said of the defender, as well as the pursuer, that his negligence was both seriously blameworthy and of major causative significance.	Ratio
+Why then did the Extra Division conclude that the major share of responsibility must be attributed to the pursuer? 40.	Ratio
+As the Extra Division recognised, it is necessary when applying section 1(1) of the 1945 Act to take account both of the blameworthiness of the parties and the causative potency of their acts.	Ratio
+In relation to causation, the Extra Division based its view that the attribution of causative potency to the driver must be greater than that to the pedestrian on the fact that a car is potentially a dangerous weapon.	Ratio
+Like the Court of Appeal in Eagle v Chambers, I would take the potentially dangerous nature of a car being driven at speed into account when assessing blameworthiness; but the overall assessment of responsibility should not be affected by the heading under which that factor is taken into account.	Ratio
+Even leaving out of account the potentially dangerous nature of a car being driven at speed, I would not have assessed the causative potency of the conduct of the defender as being any less than that of the pursuer.	Ratio
+This is not a case, such as Ehrari v Curry [2007] EWCA Civ 120; [2007] RTR 521 (where contributory negligence was assessed at 70%), in which a pedestrian steps directly into the path of a car which is travelling at a reasonable speed, and the driver fails to take avoiding action as promptly as he ought to have done.	PRE
+In such a case, the more direct and immediate cause of the damage can be said to be the conduct of the pedestrian, which interrupted a situation in which an accident would not otherwise have occurred.	Ratio
+Nor is it a case, such as Eagle v Chambers (in which contributory negligence was assessed at 40%) or McCluskey v Wallace (where the contributory negligence of a child was assessed at 20%), in which a driver ploughs into a pedestrian who has been careless of her own safety but has been in his line of vision for long enough for him easily to have avoided her.	Ratio
+In the present case, the causation of the injury depended upon the combination of the pursuers attempting to cross the road when she did, and the defenders driving at an excessive speed and without keeping a proper look out.	Ratio
+If the pursuer had waited until the defender had passed, he would not have collided with her.	Ratio
+Equally, if he had slowed to a reasonable speed in the circumstances and had kept a proper look out, he would have avoided her. 41.	Ratio
+Given the Extra Divisions conclusion that the causative potency of the defenders conduct was greater than that of the pursuers, their conclusion that the major share of the responsibility must be attributed to the pursuer, to the extent of 70%, can only be explained on the basis that the pursuer was considered to be far more blameworthy than the defender.	Ratio
+I find that difficult to understand, given the factors which their Lordships identified.	Ratio
+As I have explained, they rightly considered that the pursuer did not take reasonable care for her own safety: either she did not look to her left within a reasonable time before stepping out, or she failed to make a reasonable judgment as to the risk posed by the defenders car.	Ratio
+On the other hand, as the Extra Division recognised, regard has to be had to the circumstances of the pursuer.	Ratio
+As they pointed out, she was only 13 at the time, and a 13 year old will not necessarily have the same level of judgment and self control as an adult.	Ratio
+As they also pointed out, she had to take account of the defenders car approaching at speed, in very poor light conditions, with its headlights on.	Ratio
+As they recognised, the assessment of speed in those circumstances is far from easy, even for an adult, and even more so for a 13 year old.	Ratio
+It is also necessary to bear in mind that the situation of a pedestrian attempting to cross a relatively major road with a 60 mph speed limit, after dusk and without street lighting, is not straightforward, even for an adult. 42.	Ratio
+On the other hand, the Extra Division considered that the defenders behaviour was culpable to a substantial agree.	Ratio
+I would agree with that assessment.	Ratio
+He had to observe the road ahead and keep a proper look out, adjusting his speed in the event that a potential hazard presented itself.	Ratio
+As the Extra Division noted, he was found to have been driving at an excessive speed and not to have modified his speed to take account of the potential danger presented by the minibus.	Ratio
+The danger was obvious, because the minibus had its hazard lights on.	Ratio
+Notwithstanding that danger, he continued driving at 50 mph.	Ratio
+As the Lord Ordinary noted, the Highway Code advises drivers that at 40 mph your vehicle will probably kill any pedestrians it hits.	Ratio
+As in Baker v Willoughby and McCluskey v Wallace, that level of danger points to a very considerable degree of blameworthiness on the part of a driver who fails to take reasonable care while driving at speed.	PRE
+In these circumstances, I cannot discern in the reasoning of the Extra Division any satisfactory explanation of their conclusion that the major share of the responsibility must be attributed to the pursuer: a conclusion which, as I have explained, appears to depend on the view that the pursuers conduct was far more blameworthy than that of the defender.	Ratio
+As it appears to me, the defenders conduct played at least an equal role to that of the pursuer in causing the damage and was at least equally blameworthy. 43. 44.	Ratio
+The view that parties are equally responsible for the damage suffered by the pursuer is substantially different from the view that one party is much more responsible than the other.	Ratio
+Such a wide difference of view exceeds the ambit of reasonable disagreement, and warrants the conclusion that the court below has gone wrong.	Ratio
+I would accordingly allow the appeal and award 50% of the agreed damages to the pursuer.	Ratio
+LORD HODGE: (with whom Lord Wilson agrees) 45. 46.	Ratio
+I am grateful to Lord Reed for setting out the facts of the case (in paras 4 9 and 12 of his judgment) and also the legal principles that govern the apportionment of responsibility under section 1(1) of the Law Reform (Contributory Negligence) Act 1945.	Ratio
+I agree with his presentation of those legal principles and consider it unfortunate that I find myself having to dissent in an appeal which does not raise a disputed issue of legal principle.	Ratio
+I agree that no court can arrive at an apportionment that is demonstrably correct.	Ratio
+The exercise is one of broad judgment and different views must be respected for the reasons which Lord Reed gives.	Ratio
+The ground on which this court or any appellate court can overturn the assessment of responsibility which another court has made is that the court below has manifestly and to a substantial degree gone wrong.	Ratio
+In Stapley v Gypsum Mines Ltd [1953] AC 663 Lord Reid observed (at p 682) that normally an appellate court would not disturb an award following an assessment of responsibility.	PRE
+An appellate court can intervene only if it is satisfied that the court, whose judgment is under appeal, has gone wrong in the sense that its determination is outside the generous limits of reasonable agreement.	Ratio
+On that I agree with the majority view in this case.	RPC
+My disagreement is in the application of the test in the circumstances of this case. 47.	Ratio
+The Lord Ordinary assessed the pursuers contributory negligence at 90%.	Ratio
+In reaching that view he appears to have been influenced by the evidence of the eyewitnesses of their impressions about what had occurred.	Ratio
+The bus driver, Mr Fraser, stated that the defenders car was not travelling at an excessive speed.	Ratio
+Mr Scroggie, an experienced driver who was in a stationary Land Rover two vehicles behind the bus, had told the police of his impression that the pursuer was 100% responsible for the accident.	Ratio
+Mrs Corbett, a passenger in another car immediately behind the bus, said that the defenders car was not going fast and denied that the pursuer had stopped and looked before attempting to cross the carriageway.	Ratio
+The late Mr Corbett, the driver of that car, had told the police that the pursuer had run into the westbound carriageway and that he had known that she was going to get knocked down. 48.	Ratio
+But the Lord Ordinary also preferred the defenders recollection of his speed to the eye witnesses estimates.	Ratio
+He held that the defender in the exercise of reasonable care should have reduced his speed from approximately 50 mph to somewhere between 30 and 40 mph before he approached the bus, and also inferred that he had not addressed his mind to the possibility of someone coming from behind the stationary bus to cross the road in front of his car.	Ratio
+While the defender could have done nothing to avoid the accident in the circumstances that existed at the moment when the pursuer suddenly appeared from behind the bus, his prior failure to reduce his speed on approaching the bus was a potent cause of the accident.	Ratio
+This assessment put a different perspective on the matter from that of the eye witnesses who appear to have focused on the immediate circumstances of the accident.	Ratio
+In my view, the Extra Division were entitled to conclude that in finding the pursuer responsible to the extent of 90% the Lord Ordinary had gone wrong to the requisite degree. 49.	RPC
+Where I differ from the majority in this appeal is that I am not persuaded that the Extra Divisions assessment is open to the same criticism.	Ratio
+It is true that the Extra Division did more to explain why they were reducing the percentage to be attributed to the pursuers contributory negligence than they did to justify their acceptance of the Lord Ordinarys view that the major share of responsibility rested with her.	Ratio
+But there were findings of fact in the Lord Ordinarys opinion which are the background to their assessment and are capable of supporting their judgment.	Ratio
+In my view the Extra Division were entitled to share the Lord Ordinarys view that the pursuer was more responsible for the accident than the defender. 50.	Ratio
+Each case must depend upon its particular facts and a court gets little assistance from detailed comparisons of outcomes in other cases.	Ratio
+But case law points up general principles.	Ratio
+One such principle, which favours the pursuer, is the recognition of the moral blameworthiness or, alternatively, the causative potency of driving a motor vehicle without exercising reasonable care, because a vehicle can be a dangerous weapon.	Ratio
+The trend of the case law is to attribute more responsibility to the driver than to a pedestrian.	Ratio
+Hale LJ stated in Eagle v Chambers (at para 16): It is rare indeed for a pedestrian to be found more responsible than a driver unless the pedestrian has suddenly moved into the path of an oncoming vehicle.	PRE
+The reason for that is not hard to find: it is the vehicles potential to injure.	Ratio
+The Highway Code states that a vehicle driven at 40 mph is likely to kill a pedestrian if it hits her.	Ratio
+The Extra Division recognised this and attributed greater causative potency to the defender than to the pursuer.	Ratio
+In reaching their apportionment the Extra Division clearly thought that the pursuers behaviour was significantly more blameworthy than the defenders.	Ratio
+The question therefore is: do the Lord Ordinarys findings of fact give sufficient support to that conclusion?. 52. 51.	Ratio
+Neither counsel sought to persuade this court to depart from the Lord Ordinarys findings of fact.	Ratio
+But there is a danger of an appellate court attaching significance to findings which they do not carry and reinterpreting them and what may have lain behind them in a way which the judge, who heard the evidence, did not intend.	Ratio
+I deal first with the fault of the defender.	Ratio
+Counsel for the pursuer in both the Inner House and this court put emphasis in his submissions on what he called the defenders failure to respond to the buss hazard lights.	Ratio
+But there is nothing in the Lord Ordinarys findings that treats the hazard lights as doing more than alerting the traffic to the stationary bus because it was holding up the traffic.	Ratio
+As Mr Hooghiemstra explained in his evidence, the principal use of hazard lights in the Highway Code (Rule 116) is when a vehicle is stationary to warn that it is temporarily obstructing traffic.	Ratio
+It was possible, as the defender conceded, that the hazard lights might have been used to alert of another risk.	Ratio
+But there was no evidence that they were used on this occasion, and would reasonably have been understood to be used, to warn of children crossing the opposite carriageway and no finding of fact to that effect.	Ratio
+The significance of the hazard lights was that they drew attention to the stationary bus and a careful driver could foresee the possibility that passengers, including children, might alight from the bus. 53.	Ratio
+The bus had its headlights on and the sign on the windscreen which identified it as a school bus was not illuminated.	Ratio
+The sign may not have been visible at dusk to a driver approaching the bus on the opposite carriageway.	Ratio
+The Lord Ordinarys conclusion was not that the defender should have identified the bus as a school bus.	Ratio
+He stated alternatives: if not, the defender should at least have identified the bus as a bus from which children were likely to alight. 54.	Ratio
+Counsel for the defender did not dispute that the defender was culpable to the extent that the Extra Division had found.	ARG
+But the defenders negligence amounted to this.	ARG
+While he was driving well within the statutory speed limit in a rural location, he failed to anticipate a foreseeable risk.	Ratio
+He approached the bus which was stationary in the opposite carriageway at what might have been a bus stop.	Ratio
+He was negligent in not reducing his speed by at least 10 mph and not keeping a proper lookout because there was a danger, which he ought to have foreseen, that a passenger, who might be a child, might emerge from behind the bus and attempt to cross the road without exercising care. 55.	Ratio
+Turning to the Lord Ordinarys findings concerning the pursuers responsibility, the Extra Division did not accept his characterisation of reckless folly because they thought it could not be said that she had acted without caring about the consequences.	Ratio
+But they treated her behaviour as being at the serious end of the spectrum of carelessness, rejecting her counsels submission that she had not darted out from behind the bus.	Ratio
+There was no challenge to the Lord Ordinarys finding that she was fully aware of the danger of crossing the road.	Ratio
+Such a challenge would have been difficult to mount having regard to her age and experience and as the bus driver, Mr Fraser, had given evidence that he had warned the pursuer and her sister in the past when they had run across the road. 56.	Ratio
+Counsel for the pursuer was not justified in suggesting that she faced significant risks from traffic approaching from several directions.	Ratio
+The predominant risk which the pursuer faced from traffic was from vehicles approaching on the westbound carriageway, as the defender did.	Ratio
+Vehicles on the eastbound carriageway were forbidden to overtake by a solid white line on the road; vehicles had to stop behind the stationary bus, as they did.	Ratio
+Traffic from the farm road was not a problem on this occasion.	Ratio
+The pursuers mothers car was in the bellmouth of the farm road opposite as she waited to pick her up in accordance with her normal practice and her fathers tractor had entered the farm road.	Ratio
+In short, faced with a clear and predominant risk from traffic approaching on the westbound carriageway of a major road, the pursuer ran out in front of the defenders vehicle when it was only 30 40 metres away. 57.	Ratio
+On the Lord Ordinarys unchallenged findings, there was no reason for the pursuer not to have seen the approaching car.	Ratio
+Either she did not look or (as he said, at para 46) she failed to identify and react sensibly to the presence of the defenders car in close proximity.	Ratio
+I construe the latter possibility as meaning that she saw the car and took the risk of running in front of it.	Ratio
+Not to look or knowingly to run into the path of the car displayed a very high degree of carelessness.	Ratio
+The Extra Division were entitled to view her behaviour as both very seriously blameworthy and of major causative significance and also, because of the extent of her blameworthiness, to attribute to her the major share of responsibility. 58.	Ratio
+As I have said, the opinion of the Extra Division must be read with the Lord Ordinarys findings of fact.	Ratio
+On those findings I might have concluded that the defender was one third responsible and the pursuer two thirds.	Ratio
+But that is not the role of an appellate court, which cannot substitute its judgment for that of a court below unless that court is plainly wrong.	Ratio
+Nobody has submitted that the Extra Division failed to take into account any material fact or misunderstood the evidence.	Ratio
+Thus their assessment is one of broad judgment in which there is ample room for reasonable disagreement. 59.	Ratio
+As I am not persuaded that the Extra Divisions determination was outside the generous limits of reasonable disagreement, I would have dismissed the appeal.	RPC

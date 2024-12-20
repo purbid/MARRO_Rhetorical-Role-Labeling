@@ -1,0 +1,314 @@
+The principal issue in this appeal concerns the role, if any, of the courts of England and Wales (including the Supreme Court of the United Kingdom) in the legislative process of one of the Channel Islands.	Ratio
+It raises fundamental questions about the constitutional relationship between the United Kingdom and the Bailiwicks of Guernsey and Jersey.	Ratio
+It also raises questions about the constitutional relationship between the courts and a representative or democratically elected legislature.	Ratio
+The case concerns an Order in Council of 12 October 2011 by which Royal Assent was given to the Reform (Sark) (Amendment) (No 2) Law 2010 (the 2010 Reform Law) which had been passed by the Chief Pleas, the legislature of Sark.	FAC
+The claimants originally applied to the Administrative Court for the Order to be quashed, and without the Order the Law could not become law.	FAC
+At the outset of the hearing, they modified that claim, to seek only a declaration that the decision of the Committee of the Privy Council which recommended approval of the Law was an unlawful decision, on the ground that, in certain respects, the Law was incompatible with the European Convention on Human Rights.	FAC
+The Administrative Court granted such a declaration: [2013] EWHC 1183 (Admin).	RLC
+The appellants claim that the Court had no jurisdiction to do so, or, if it had, that that jurisdiction should not have been exercised.	FAC
+If it was open to the court to make such a declaration, two further issues arise.	Ratio
+First, is the correctness of Government legal advice given as to the meaning and effect of an international treaty ever justiciable in the courts of England and Wales as the House of Lords in R v Secretary of State for the Home Department, ex p Launder [1997] 1 WLR 839 held that it could be? Second, if it is, was the Administrative Court correct to hold that, in one limited respect, the 2010 Reform Law was incompatible with the European Convention? The Supreme Court elected to hear argument from all parties on the jurisdiction issues first.	Ratio
+Having done so, we announced that we did not require to hear argument on the two further issues.	Ratio
+It follows, as all parties will have understood, that the appeal will be allowed on the principal issue and the declaration made by the Administrative Court set aside.	Ratio
+The claimants in this action, Sir David and Sir Frederick Barclay, have withdrawn from the proceedings.	FAC
+They have agreed not to enforce the costs order made in their favour in the Administrative Court.	FAC
+The defendants in the action and appellants in this court, the Secretary of State for Justice and Lord Chancellor, the Privy Council Committee for the Affairs of Jersey and Guernsey, and the Privy Council itself, have agreed not to apply for costs orders against the claimants in any circumstances.	FAC
+Despite the Barclay brothers withdrawal, it seemed to this court that the constitutional issues raised by the appeal were of such importance that we should have the assistance of advocates to the court, who could put forward such counter arguments to those of the appellants as appeared to them proper.	Ratio
+We are most grateful to the Hon Michael Beloff QC and Mr Ivan Hare for their able assistance.	Ratio
+We are also grateful that the Attorney General of Jersey and the States of Guernsey have intervened in this appeal, given that the appeal raises such serious issues about the relationship between the United Kingdom and the Channel Islands.	Ratio
+This is a leap frog appeal, the Administrative Court having granted a certificate pursuant to section 12 of the Administration of Justice Act 1969.	STA
+That court did not think it right to decline jurisdiction, in the light of two decisions which are binding both on that court and on the Court of Appeal.	Ratio
+In R (Bancoult) v Secretary of State for Foreign and Commonwealth Affairs (No 2) [2008] UKHL 61, [2009] 1 AC 453 (Bancoult (No 2)), the House of Lords held that the courts of England and Wales did have jurisdiction to rule upon the lawfulness of Orders in Council, made under the Royal prerogative, legislating in respect of a British Overseas Territory.	PRE
+In R (Barclay) v Lord Chancellor and Secretary of State for Justice [2009] UKSC 9, [2010] 1 AC 464 (Barclay (No 1)), the Barclay brothers and a resident of Sark mounted a similar challenge to this against the Reform (Sark) Law 2008 (the 2008 Reform Law).	PRE
+It was conceded at all levels in Barclay (No 1) that, in the light of the decisions of the Court of Appeal and House of Lords in Bancoult (No 2), the Order in Council granting Royal Assent to the Law was amenable to judicial review in the courts of England and Wales.	PRE
+The Administrative Court did not think it right to embark upon a process of distinguishing Bancoult (No 2) which had not been considered in Barclay (No 1) (para 46).	Ratio
+The relationship between the Channel Islands, the Crown and the United Kingdom	Ratio
+The Channel Islands, like the Isle of Man (although it has a rather different history), are not part of the United Kingdom.	Ratio
+Nor have they ever been British colonies, or British Overseas Territories as the few remaining colonies are now termed.	Ratio
+They are Crown Dependencies, enjoying a unique relationship with the United Kingdom and the rest of the British Commonwealth through the Crown, in the person of the Sovereign.	Ratio
+The constitutional relationship between the Channel Islands, the Crown and the United Kingdom is discussed at length in Chapter 31 of the Report of the Royal Commission on the Constitution, 1969 1973 (the Kilbrandon Commission), 1973, Cmnd 5460.	Ratio
+This is now supplemented by the House of Commons Justice Committees Eighth Report of Session 2009 2010, Crown Dependencies, 2010, HC 56 1; the Government response to that Report, 2010, Cm 7965; the Justice Committees Tenth Report of Session 2013 2014, Crown Dependencies: developments since 2010, 2014, HC 726; and the Governments response to that Report, 2014, Cm 8837.	Ratio
+In none of these is the jurisdiction of the courts of England and Wales over the institutions of the Channel Islands, or over the acts of the United Kingdom government in relation to the Channel Islands, discussed.	Ratio
+Many aspects of the relationship are uncertain and practice is still developing.	Ratio
+Nevertheless, some things are clear.	Ratio
+The Channel Islands consist of the Bailiwicks of Jersey and Guernsey.	Ratio
+The Bailiwick of Guernsey includes the islands of Alderney and Sark, which have their own legislative and executive institutions.	Ratio
+Not being part of the United Kingdom, unlike Wales, Scotland and Northern Ireland, the Bailiwicks are not represented in the Parliament of the United Kingdom.	Ratio
+They are economically self sufficient.	Ratio
+They pay no taxes to the United Kingdom and they receive no contribution from the revenues of the United Kingdom.	Ratio
+They were not settled by, or conquered by or ceded to, the United Kingdom as colonies.	Ratio
+Their link with the United Kingdom and the rest of the Commonwealth is through the Crown, not in the sense of the ultimate executive authority in the United Kingdom, but in the sense of the person of the Sovereign.	Ratio
+The Sovereigns personal representative in each Bailiwick is the Lieutenant Governor.	Ratio
+This link stems from the Norman conquest of England in 1066, when the Duke of Normandy became King of England.	Ratio
+The Islands were part of the Duchy of Normandy.	Ratio
+King Philippe Auguste of France succeeded in retaking possession of continental Normandy from King John of England in 1204, but was not able permanently to retake the Islands, which remained in the possession of and retained their allegiance to the King of England.	Ratio
+The Treaty of Calais of 1360 contained a clause confirming that the King of England shall have and hold all the islands which he now holds: see Minquiers and Ecrehos Case (France v United Kingdom) [1953] ICJ Rep 47, 54.	Ratio
+The States of Guernsey told the Kilbrandon Commission that, after the ducal title was surrendered, the King of England continued to rule the Islands as though he were Duke of Normandy, observing their laws and customs and liberties; and these were later confirmed by the charters of successive sovereigns which secured for them their own judiciaries and freedom from process of English courts and other important privileges of which the Islands were justly proud and which have always been respected (Cmnd 5460, para 1349).	Ratio
+The Charter granted by Queen Elizabeth I to the people of Guernsey, Alderney and Sark in 1560, for example, granted to the bailiff and jurats and all other magistrates and officers of justice . full and absolute authority, power and faculty to have the cognisance, jurisdiction, and judgment concerning and touching all and all sorts of pleas, processes, lawsuits, actions, quarrels and causes arising within the islands and maritime places aforesaid (clause 5).	Ratio
+Further, it provided that the islands authorities and people should none of them be cited, or summoned, or drawn into any lawsuit, or forced in any manner by any writs or process, issued from any of our courts of the kingdom of England, to appear and answer before any judges, courts or other officers of justice, out of any of the islands and maritime places aforesaid, touching or concerning anything, dispute, causes or matters in controversy whatsoever, arising in the aforesaid islands . (clause 6).	Ratio
+Nevertheless, the Bailiwicks are not independent states in international law.	Ratio
+The United Kingdom Government is responsible for their international relations and for their defence.	Ratio
+But it is the practice to consult the Island authorities before entering into any international agreement which would apply to them.	Ratio
+The UK has also undertaken not to act internationally on behalf of a Crown Dependency without prior consultation; recognises that their interests may differ from those of the UK (especially in relation to the European Union, of which the Islands are not members) and so it may have to represent them both; and supports the principle of the Dependencies further developing their own international identities (Cm 8837, p 10).	Ratio
+The United Kingdom Parliament has power to legislate for the Islands, but Acts of Parliament do not extend to the Islands automatically, but only by express mention or necessary implication.	Ratio
+The more common practice is for an Act of Parliament to give power to extend its application to the Islands by Order in Council.	Ratio
+It is the practice to consult the Islands before any UK legislation is extended to them.	Ratio
+The Kilbrandon Commission observed that it can be said that a constitutional convention has been established whereby Parliament does not legislate for the islands without their consent on domestic matters (Cmnd 5460, para 1469).	Ratio
+Nevertheless, in the light of the view taken by the Judicial Committee of the Privy Council in Madzimbamuto v Lardner Burke [1969] 1 AC 645, at 722 3, the Commission concluded that in the eyes of the courts the UK Parliament did have a paramount power to legislate for the Islands on any matter, domestic or international, without their consent, although it should be no more ready than in the past to interfere in their domestic affairs (para 1473).	PRE
+The Crown also retains the right to legislate for the Islands by Order in Council.	Ratio
+The evidence of the States of Guernsey to the Kilbrandon Commission was that the last instance of this was the Court of Appeal (Channel Islands) Order 1949 (Jersey Order in Council 12/1949), which was based on a scheme which had the prior approval of the States.	Ratio
+For the most part, therefore, the Islands legislate for themselves.	Ratio
+Jersey, Guernsey, Alderney and Sark each have their own legislature.	Ratio
+The States of Guernsey have power to legislate for the whole Bailiwick, including Alderney and Sark.	Ratio
+On criminal matters they may do this without the consent of the Alderney and Sark legislatures, but on other matters their consent is required.	Ratio
+The Human Rights (Bailiwick of Guernsey) Law, 2000 applies throughout the Bailiwick, including Sark.	Ratio
+On some matters, the Islands can legislate for themselves.	Ratio
+For instance, the States of Guernsey may legislate by Ordinance, the limits of which power were considered by the Judicial Committee of the Privy Council in Jersey Fishermens Association Ltd v States of Guernsey [2007] UKPC 30; [2007] Eu LR 670.	PRE
+However, generally they legislate by Laws which require the Royal Assent after being passed as a Projet de Loi by the local legislature.	Ratio
+Royal Assent is given by Order in Council.	Ratio
+Since 1668, there has been a Standing Committee of the Privy Council which deals (originally among many other things) with the affairs of Jersey and Guernsey.	Ratio
+This was instituted before the development of cabinet government as we now know it.	Ratio
+In the 18th century there developed the constitutional convention that, in relation to Great Britain and later the United Kingdom, the Sovereign would only act on the advice of those Privy Councillors who were members of the cabinet and thus accountable to Parliament.	Ratio
+But that did not apply to the Channel Islands, and at least until the end of the 19th century, the Committee for the Affairs of Jersey and Guernsey was composed of Privy Councillors the majority of whom were not members of the United Kingdom government (see WJ Heyting, The Privy Council Committee for the Affairs of Jersey and Guernsey, in The Constitutional Relationship between Jersey and the United Kingdom, 1977, The Jersey Constitutional Association).	Ratio
+The present Committee was constituted at the beginning of the reign of Her Majesty the Queen by Order in Council dated 22 February 1952.	Ratio
+This appoints the whole Privy Council, or any three or more of them, as the Committee and provides that all Acts passed, or to be passed, by the States of the Islands of Jersey and Guernsey and its Dependencies, and submitted to Her Majesty in Council, for Her Majestys approval, and all petitions received from those Islands be, and the same are hereby, referred to the said Committee for their consideration and report.	Ratio
+In practice, the Committee consists of the Lord President of the Council, the member of the cabinet responsible for relations with the Channel Islands, and one or two other government ministers.	Ratio
+Responsibility for relations with the Islands used to lie with the Home Secretary but has now been passed to the Lord Chancellor.	Ratio
+The committee in this case consisted of the Lord Chancellor, a Minister of State in the Ministry of Justice and the Lord President.	Ratio
+Thus, in contrast to earlier centuries, Her Majesty in Council is now advised solely by members of the United Kingdom government.	Ratio
+The practice is that a Projet de Loi is sent by the Island authorities to the Ministry of Justice, together with an explanatory report.	Ratio
+Petitions can be lodged either for or against it.	Ratio
+A small team of civil servants in the Ministry scrutinises it to see whether approval should be recommended.	Ratio
+It is common ground between the appellants and the interveners in this case that there is a strong presumption in favour of granting Royal Assent to a measure which has been passed by an Island legislature.	Ratio
+The 2010 Justice Committee report stated that the grounds for withholding Assent are not entirely clear (2010, HC 56, para 51).	Ratio
+The question does not arise in this appeal, as approval of the 2010 Reform Law was indeed recommended.	Ratio
+However, it should be recorded that the appellants and the interveners are not agreed on the permissible scope for recommending the refusal of Royal Assent to a measure which has been passed by an Island legislature.	Ratio
+The Justice Committee took the view, shared by the appellants, that it would certainly be legitimate to withhold Assent if the legislation would put the relevant Island in breach of an international obligation which applies to the Island and for which the UK is responsible (2010, HC 56, para 51; see also Cm 7965, p 16, note 36).	Ratio
+The interveners position is that Assent may be withheld if the Projet de Loi would breach an international obligation which has been extended, by agreement, to the Islands, but that this does not apply where the relevant agreement has already been incorporated by legislation into the domestic law of the Islands.	Ratio
+The democratic decision of the Island legislature should not be supplanted by the executives view of an executive agreed treaty obligation.	Ratio
+Further, the appellants take the view that Assent may be withheld if it would clearly not be in the public interest for it to become law (Treasury Solicitors letter to the claimants, 16 November 2007).	Ratio
+This too is not accepted by the interveners.	Ratio
+The Kilbrandon Report did state that the Crown has ultimate responsibility for the good government of the Islands (Cmnd 5460, para 1361).	Ratio
+Intervention by the United Kingdom Government would certainly be justifiable to preserve law and order in the event of grave internal disruption; but the UK Government and Parliament ought to be very slow to seek to impose their will on the Islands merely on the grounds that they know better than the Islands what is good for them (para 1502).	Ratio
+The Justice Committee reported a high degree of consensus that good government would only be called into question in the most serious of circumstances, such as a fundamental breakdown in public order or endemic corruption in an Island government, legislature or judiciary (2010, HC 56, para 37).	Ratio
+The Government agreed (Cm 7965, p 9).	Ratio
+Given this very narrow scope for direct intervention, the interveners argue that the public interest is not a ground upon which Royal Assent can be refused.	Ratio
+These questions do not arise on this appeal, nor do they necessarily cover the full ground: it is possible, for example, that Royal Assent might lawfully be withheld to Island legislation, not because it put the Island in breach of an applicable international obligation but in the light of the United Kingdoms international relations generally (as is the implication of the discussion, obiter, in the Jersey Fishermens Association case, at paras 29 to 38).	Ratio
+It is not necessary for this court to express a view upon these contentious issues.	Ratio
+We flag them up because they would arise in the (no doubt highly unlikely) event of a recommendation that Royal Assent be withheld.	Ratio
+We note only that, as the interveners were not party to Barclay (No 1), in which the issue also did not arise, or to this case in the Administrative Court, any statement in the judgments in those cases as to the scope for withholding Royal Assent cannot be treated as authoritative.	Ratio
+Sark has a population of around 600.	PRE
+Queen Elizabeth I of England granted the island as a Royal Fief to the first Seigneur, Helier de Carteret, by letters patent in 1565.	PRE
+The fief descends by inheritance but can be sold with royal consent.	PRE
+The family of the present Seigneur acquired the fief in 1852 and he inherited it from his grandmother in 1974.	PRE
+The letters patent required the Seigneur to keep the island continually inhabited by 40 men, the quarantine.	PRE
+He therefore leased 40 parcels of land, known as tenements, at low rents, on condition that a house was built and maintained on the tenement and a man and musket provided for the defence of the island.	PRE
+These 40 tenements still exist, although some tenants own more than one.	PRE
+The Barclay litigation is concerned with both the judiciary and the legislature of the Island.	PRE
+The chief judge of the island is the Seneschal, whose office of Seneschal was created by the Crown in 1675.	PRE
+He was originally appointed by the Seigneur with the approval of the Lieutenant Governor of Guernsey, the Sovereigns representative in the Bailiwick.	PRE
+The court of the Seneschal has unlimited jurisdiction in civil matters, but a more limited jurisdiction in criminal matters.	PRE
+There is an appeal from his court to the Royal Court of Guernsey, which also has concurrent first instance jurisdiction in civil matters and sole jurisdiction over more serious criminal matters.	PRE
+Appeals from the Royal Court lie to the Court of Appeal for Guernsey, and from that Court to the Judicial Committee of the Privy Council.	PRE
+The legislature of Sark is the Chief Pleas, which is also the islands executive, operating through committees in the style which used to be adopted by most local authorities in England and Wales.	PRE
+However, as already noted, the legislature of Guernsey may also legislate for the island in criminal matters without the consent of the Chief Pleas and in other matters with its consent.	PRE
+Under the constitution of Sark as set out in the Reform (Sark) Law 1951, the Chief Pleas consisted of the Seigneur and the Seneschal, the 40 tenants, and 12 elected deputies of the people.	PRE
+The Seneschal was ex officio President.	PRE
+Major changes were made by the 2008 Reform Law, which was passed by the Chief Pleas in 2006 and given Royal Assent in 2008.	PRE
+The principal change was that the Chief Pleas became a wholly elected body of 28 conseilleurs, apart from the Seigneur and the Seneschal, who remained members but could not vote.	PRE
+The Seneschal remained ex officio President.	PRE
+In Barclay (No 1) the 2008 Reform Law was challenged on three grounds: that the continued membership of the Chief Pleas of the Seigneur and Seneschal was incompatible with article 3 of the First Protocol to the European Convention; that while alien residents of Sark could vote in the elections for conseilleurs, they could not stand for election, which was also said to be incompatible with article 3 of the First Protocol; and that the dual role of the Seneschal as President of the Chief Pleas and chief judge was incompatible with article 6 of the Convention.	PRE
+All three challenges failed before Wyn Williams J: [2008] EWHC 1354 (Admin); the first two failed both on appeal to the Court of Appeal and to the Supreme Court: [2008] EWCA Civ 1319; [2009] UKSC 9; the third challenge succeeded in the Court of Appeal and there was no cross appeal against that to the Supreme Court.	PRE
+The Court of Appeal declined to quash the Law, but made a declaration that the Seneschals dual role breached article 6 of the Convention.	PRE
+As a result, the Chief Pleas enacted the 2010 Reform Law which is in issue in these proceedings.	Ratio
+Under this, the Seneschal is no longer to serve as President or member of the Chief Pleas and a new office of President is created; and new provisions are made for the appointment, removal, renewal and remuneration of the Seneschal.	Ratio
+The claimants challenged the latter provisions as being incompatible with the impartiality and independence of the judiciary which is required by article 6 of the Convention.	Ratio
+The Administrative Court rejected the challenges to the provisions for the appointment, removal and renewal of the Seneschal.	Ratio
+But it held that the provision for the remuneration of the Seneschal, out of public funds to be determined by the Chief Pleas on the recommendation of its General Purposes and Advisory Committee in consultation with its Finance and Commerce Committee, was incompatible with article 6.	Ratio
+This was because the court held that there was nothing to prevent the Chief Pleas making an arbitrary reduction in the remuneration of the Seneschal.	Ratio
+In such a small community, an objective outsider would see the Seneschal as vulnerable to pressure from the members of the Chief Pleas not to make decisions which would be unpopular with them.	Ratio
+The court therefore granted the claimants a declaration that the decision of the Committee for Jersey and Guernsey to recommend approval of the provisions of the 2010 Reform Law amending the 2008 Reform Law was an unlawful decision, as in respect of the remuneration of the office of the Seneschal, the law was incompatible with article 6 of the Convention.	Ratio
+The court made it clear that the incompatibility could be cured by amending the law to restore the role of the Lieutenant Governor, whose approval of the remuneration of the Seneschal had been required under the 2008 Reform Law.	Ratio
+Jurisdiction	Ratio
+The appellants and the interveners both argue (i) that the courts of England and Wales do not have jurisdiction to entertain this claim, and (ii) that if they do have such jurisdiction, they should not have exercised it in this case.	ARG
+As will become apparent, it is not possible to state a general rule as to whether or not an Order made by Her Majesty in Council is amenable to judicial review in the courts of England and Wales, given the wide variety of circumstances in which such Orders are made.	Ratio
+However, the principal argument of both the appellants and the interveners in support of each of the above propositions is that any attack upon Island legislation on the ground that it is incompatible with the European Convention on Human Rights ought to be brought in the Island courts under the local Human Rights legislation, in this case the Human Rights (Bailiwick of Guernsey) Law 2000, and not in the courts of England and Wales.	ARG
+This argument was placed at the forefront of the written and oral submissions of the interveners and of the oral submissions of the appellant.	Ratio
+It is therefore convenient to consider the lesser jurisdiction question (ii) above, should it be exercised, before the greater jurisdiction question (i), does it exist?	Ratio
+(i) Exercise	Ratio
+The Human Rights (Bailiwick of Guernsey) Law 2000 is closely modelled on the United Kingdoms Human Rights Act 1998 (the 1998 Act).	STA
+Thus, so far as it is possible to do so, primary legislation and subordinate legislation must be read and given effect in a way which is compatible with the Convention rights (s 3(1)).	STA
+This does not affect the validity, continuing operation or enforcement of any incompatible primary legislation (s 3(2)).	Ratio
+If a court is satisfied that a provision of primary legislation is incompatible with a Convention right, it may make a declaration of that incompatibility (s 4(2)).	Ratio
+Such a declaration does not affect the validity, continuing operation or enforcement of the provision in question and is not binding on the parties (s 4(6)).	Ratio
+A court for this purpose means (a) the Judicial Committee of the Privy Council, (b) the Guernsey Court of Appeal, (c) the Royal Court of Guernsey, sitting otherwise than as an Ordinary Court dealing with a criminal matter, (d) the Court of Alderney, sitting otherwise than as a criminal trial court, and (e) the Court of the Seneschal of Sark, sitting otherwise than as a criminal trial court (s 4(5)).	Ratio
+When any court is considering whether to make a declaration of incompatibility, Her Majestys Procureur is entitled to be given notice of this and to be joined as a party to the proceedings (s 5(1) and (2)).	Ratio
+Primary legislation means any (a) Act of the UK Parliament which applies or extends directly to Guernsey, (b) Church of England measure applicable to Guernsey, (c) Order in Council extending to Guernsey an Act of Parliament, (d) Law, (e) Ordinance other than one made under a power contained in another enactment, and (f) Order in Council (i) made in exercise of Her Majestys Royal Prerogative, or (ii) amending an Act of Parliament, which applies to Guernsey (s 17).	Ratio
+Laws and Ordinances (unless made under a power contained in another enactment) passed by an Island legislature are clearly primary legislation for this purpose.	Ratio
+So too are the three methods by which other bodies may legislate for the Islands: an Act of the UK Parliament which extends to the Islands (now unusual), an Order in Council extending an Act of the UK Parliament to the Islands (now the usual way of applying UK legislation to the Islands), or an Order in Council made in the exercise of Her Majestys prerogative to legislate directly for the Islands (now rare, see para 12 above).	Ratio
+Thus the claimants could have applied, either to have the 2010 Reform Law read down in accordance with section 3(1) of the Human Rights (Bailiwick of Guernsey) Law 2000 or for a declaration of incompatibility in accordance with section 4(2).	STA
+Such an application could have been brought either in the Royal Court of Guernsey or in the Court of the Seneschal (but given that the challenge was concerned with the appointment and terms of service of the Seneschal the former would have been more appropriate).	Ratio
+In each case the ultimate route of appeal would be to the Judicial Committee of the Privy Council.	Ratio
+The remedies available would have been different from, in one sense wider and in another sense narrower than, the remedies available on a judicial review of the decision to recommend Royal Assent to an Island Law.	Ratio
+On the one hand, in an appropriate case, it is possible to read and give effect to legislation which would otherwise be incompatible with a Convention right in a way which is compatible with that right.	Ratio
+This is a flexible power which is capable of directly remedying the complaint of a person who argues that legislation is incompatible with his rights.	Ratio
+In the United Kingdom it is regarded as the power of first resort: Ghaidan v Godin Mendoza [2004] UKHL 30, [2004] 2 AC 557.	PRE
+A declaration of incompatibility, on the other hand, leaves the incompatible law intact, although it sends a clear message to the legislature that the state will be in breach of its international obligations unless and until it is put right.	Ratio
+While it is unlawful for other public authorities to act in a way which is incompatible with the Convention rights (s 6(1)), unless effectively obliged to do so by primary legislation (s 6(2)), a public authority for this purpose does not include an Island legislature or a person exercising functions in connection with proceedings in an Island legislature (s 6(3)).	Ratio
+In this way, as with the United Kingdoms 1998 Act, a delicate balance is drawn which respects the supremacy of the Island legislatures.	Ratio
+It was not suggested in Barclay (No 1) that those remedies are available in respect of an Island Law in the courts of England and Wales.	Ratio
+An Island Law is not included in the list of primary legislation in the 1998 Act (s 21(1)).	Ratio
+The list does include an Order in Council made in exercise of Her Majestys Royal Prerogative, but there is nothing in the 1998 Act to indicate that this extends to Orders in Council made in the exercise of the prerogative power to give Royal Assent to Island legislation or to legislate for territories outside the United Kingdom.	Ratio
+It was suggested in Barclay (No 1) that the Secretary of State for Justice and Lord Chancellor, the Committee for the Affairs of Jersey and Guernsey and the Privy Council were acting as public authorities for the purpose of sections 6 and 7 of the 1998 Act when they recommended and approved the 2008 Reform Law.	Ratio
+That suggestion was rejected both at first instance and in the Court of Appeal.	Ratio
+The arguments were canvassed in the Supreme Court (paras 102 to 111) but the Court declined to express a view, because it had been conceded that the recommendation, and indeed the resulting decision of the Privy Council to approve the Law, were amenable to judicial review on ordinary principles (paras 100, 111).	Ratio
+The applicability of the 1998 Act to territories outside the United Kingdom but for whose international relations the United Kingdom is responsible was considered by the House of Lords in R (Quark Fishing Ltd) v Secretary of State for Foreign and Commonwealth Affairs [2005] UKHL 57, [2006] 1 AC 529 (Quark Fishing).	PRE
+The company alleged that their rights under article 1 of the First Protocol to the European Convention had been breached by the denial of a licence to fish for Patagonian toothfish in the territorial waters of the South Georgia and South Sandwich Islands (SGSSI).	STA
+Having succeeded in getting the decision quashed on ordinary judicial review principles, the company applied for damages under the 1998 Act.	Ratio
+The company could succeed only if (a) those responsible for refusing them the licence the Director of Fisheries for the SGSSI acting under the instructions of the Commissioner for the SGSSI acting under the instructions of the Secretary of State for Foreign and Commonwealth Affairs were a public authority for the purpose of the 1998 Act, and (b) the rights contained in article 1 of the First Protocol were Convention rights within the meaning of the 1998 Act.	Ratio
+The SGSSI is a British Overseas Territory governed as provided for in the South Georgia and South Sandwich Islands Order 1985.	Ratio
+The United Kingdom is responsible for the international relations of the SGSSI for the purpose of article 56 of the European Convention, under which any member state may (or may not) declare that the Convention shall extend to all or any of such territories.	Ratio
+The United Kingdom had made such a declaration in respect of the Convention itself, but (for some unknown reason) had neglected to do so in respect of the First Protocol.	Ratio
+The House of Lords was unanimous in concluding that the rights contained in article 1 of the First Protocol were not Convention rights for the purpose of the 1998 Act.	Ratio
+Section 1 of the 1998 Act defines the Convention Rights as the rights set out in the listed articles of the Convention and two of its Protocols.	STA
+By section 21, the Convention means the European Convention as it has effect for the time being in relation to the United Kingdom.	STA
+I decided the case on the narrowest possible ground, that the rights in question could not have effect in relation to the United Kingdom when the United Kingdom had not extended them to the territory in question (para 97).	Ratio
+Lord Nicholls decided the case on the same basis, but also stated that the rights brought home by the Act do not include Convention rights arising from these extended obligations assumed by the United Kingdom in respect of its overseas territories.	Ratio
+The United Kingdom thereby became responsible in international law for securing the protection of those rights but it did not extend the reach of sections 7 and 8 of the 1998 Act (para 36).	Ratio
+Lord Hoffmann also stated that declarations under article 56 operated only in international law (para 56).	Ratio
+However, the majority, Lord Bingham, Lord Hoffmann and Lord Hope, decided the case on the basis that the instructions had been given on behalf of Her Majesty in right of the SGSSI and not in right of the United Kingdom.	Ratio
+Thus the Secretary of State and the SGSSI officials could not be acting as United Kingdom public authorities for the purpose of sections 6 and 7 of the 1998 Act.	Ratio
+Both Lord Nicholls and I considered that the capacity in which the Crown acted was irrelevant.	Ratio
+What mattered was the intended scope of the 1998 Act.	Ratio
+On any view, it would have been strange to hold that the 1998 Act applied to Quarks claim, when the United Kingdom had a choice about whether to extend the rights in question to the SGSSI and had not done so.	Ratio
+Thus it was tolerably clear that Quark would not be able to succeed before the European Court of Human Rights (as indeed turned out to be the case: see Quark Fishing Ltd v United Kingdom, Application no 15305/06, Decision of 19 September 2006).	PRE
+Does it make a difference to the scope of the 1998 Act that the United Kingdom has extended the rights in question to the Channel Islands? On the one hand, under our dualist approach to the incorporation of international treaties, there is an important distinction between assuming responsibility in international law and extending rights and responsibilities in domestic law.	Ratio
+On the other hand, the House of Lords has decided since Quark Fishing that the 1998 Act applies to the acts of United Kingdom public authorities in relation to persons within its jurisdiction for the purposes of article 1 of the Convention wherever they may be in the world: R (Al Skeini) v Secretary of State for Defence (The Redress Trust intervening) [2008] AC 153.	Ratio
+Liability under sections 6 and 7 of the 1998 Act is therefore likely to depend upon whether the alleged victim was within the jurisdiction of the United Kingdom and whether the perpetrator was a United Kingdom public authority.	STA
+It certainly cannot be ruled out that violations of Convention rights committed in one of the Channel Islands by a United Kingdom public authority are actionable in the United Kingdom courts under the 1998 Act.	Ratio
+But in my view it can be ruled out that sections 3 and 4 of the 1998 Act were intended by Parliament to apply to Channel Islands legislation as it applies in the Channel Islands.	Ratio
+It is not for the courts of England and Wales to interpret the law of the Channel Islands or decide what is law there.	Ratio
+Insofar as that task rests with the courts, it rests with the Island courts, culminating ultimately in the Judicial Committee of the Privy Council.	Ratio
+It is not for the courts of England and Wales to read down Island legislation so as to make it conform to the Convention rights.	Ratio
+It is not for the courts of England and Wales to declare that Island legislation is incompatible with the Convention rights.	Ratio
+I would not, therefore, read an Order in Council made in exercise of [the royal prerogative] in the definition of primary legislation in section 21(1) of the 1998 Act as including an Order in Council giving Royal Assent to Island legislation or legislating directly for an Island.	Ratio
+For the courts of England and Wales to entertain challenges to the compatibility of Island legislation with the Convention rights would clearly be to subvert the scheme of the Islands own human rights legislation.	Ratio
+It would also be to subvert the method by which the United Kingdom extended the European Convention to the Channel Islands.	Ratio
+This was not by extending the 1998 Act to them: amendments to that effect were resisted in the UK Parliament.	Ratio
+It was by extending the scope of the Convention in international law by a declaration under article 56, and leaving it to the Islands to legislate to incorporate the rights contained in the Convention into Island law.	Ratio
+happened to adopt the same model as the 1998 Act but they did not have to	Ratio
+do so.	Ratio
+It would be inconsistent with that scheme for the definition of primary legislation in the 1998 Act to cover any form of primary Island legislation as defined in the Human Rights (Bailiwick of Guernsey) Law 2000.	Ratio
+It is no answer to say that the challenge in this case was not to the legislation itself, but to the advice given to the Privy Council by the Ministry of Justice and the Committee for the Affairs of Jersey and Guernsey.	Ratio
+If that advice was unlawful, then the decision to approve the legislation was unlawful, and it would in principle have been open to the court to quash the Order in Council approving it.	Ratio
+It will be recalled that this was the relief originally sought by the claimants, not only in their Statement of Facts and Grounds but also in their skeleton argument for the substantive hearing in the Administrative Court.	Ratio
+It was only abandoned at the outset of the hearing.	Ratio
+As the Administrative Court itself pointed out, it would be a surprising outcome if the courts of England and Wales could quash the final stage in the Islands legislative process when the courts of the Bailiwick must respect the primacy of the legislative process (para 37).	Ratio
+The interveners make the further point that issues of compatibility with Convention rights often involve consideration of whether the legislation in question has struck a fair balance between the protection of individual rights and the general interests of the community.	Ratio
+In cases such as Lautsi v Italy (2011) 54 EHRR 60 (Grand Chamber) and SAS v France, Application no 43835/11, Grand Chamber judgment of 1 July 2014, Strasbourg has shown increasing respect for the particular national context and cultural traditions where interferences with qualified rights are concerned.	PRE
+In cases such as Al Khawaja and Tahery v United Kingdom, (2011) 54 EHRR 23 (Grand Chamber), Strasbourg has been sensitive to national concepts of due process when considering the requirements of article 6.	PRE
+The courts of the Bailiwick are infinitely better placed to assess whether an Island measure is necessary in a democratic society or whether an Island court would lack the required independence and impartiality.	Ratio
+If it be thought that there is a risk of complacency in the judicial, legislative or administrative authorities, of a small community, where most if not all of the prominent actors will be known to one another, the ultimate safeguard lies with the Judicial Committee of the Privy Council.	Ratio
+Unlike the courts of England and Wales, the Judicial Committee has the inestimable benefit of the considered judgments of the courts of first instance and appeal in the Island jurisdictions.	Ratio
+Furthermore, the Island authorities will have every opportunity to take part in the case.	Ratio
+This Court has benefitted greatly from the intervention of the Attorney General of Jersey and the States of Guernsey, an advantage which the Administrative Court did not enjoy.	Ratio
+For all those reasons, it is clear to me that the courts of the Bailiwick are the appropriate forum in which challenges to Island legislation on grounds of incompatibility with the European Convention should be heard.	Ratio
+The courts of England and Wales should not have entertained the challenge in Barclay (No 1) and we should not entertain the challenge in Barclay (No 2).	Ratio
+That is sufficient to dispose of the case.	Ratio
+(ii) Existence	Ratio
+Nevertheless, both the appellants and the interveners go further and argue that the courts of England and Wales have no jurisdiction judicially to review the process whereby the Privy Council gives Royal Assent to Island legislation.	Ratio
+Channel Islands legislation, it is argued, is quite different from the Orders in Council which were in issue in Bancoult (No 2).	Ratio
+Furthermore, even if those differences are not such as to deny the existence of the jurisdiction, they are a further reason why it should not have been exercised in this case.	Ratio
+It is necessary, therefore, to go into the details of the Bancoult case.	Ratio
+As is now well known, in 1966, the British Government made a formal agreement with the Government of the United States of America for the establishment of a military base on Diego Garcia, the principal island in the Chagos archipelago in the Indian Ocean.	PRE
+At that time the islands were a dependency of Mauritius, a colony which had been ceded to the United Kingdom by France in 1814.	PRE
+The USA was unwilling that sovereignty over Diego Garcia should pass into the hands of Mauritius, which was soon to gain its independence.	PRE
+So the United Kingdom made the British Indian Ocean Territories Order 1965 (the BIOT Order).	PRE
+This detached the Chagos islands from Mauritius and constituted them (with some other islands) a new colony known as the BIOT.	PRE
+The Chagos islands had a small settled population mainly employed in the coconut and copra industries.	PRE
+The islanders presence was seen as an obstacle to the construction of the base.	PRE
+So the Commissioner of the BIOT, using the legislative powers given him under the BIOT Order, made the Immigration Ordinance 1971.	PRE
+Section 4 forbad anyone to enter or remain in the territory without a permit.	PRE
+Between 1968 and 1973 the whole population of the islands was removed, mainly to Mauritius.	PRE
+This was done with a callous disregard of their interests (Lord Hoffmann, Bancoult (No 2), para 10).	PRE
+This was mainly because the UK Government refused to acknowledge that there was any indigenous population of the islands, for fear that the United Kingdom might be held responsible for them in international law.	PRE
+Some of the islanders have been fighting to return to the islands, other than Diego Garcia, ever since.	PRE
+In R (Bancoult) v Secretary of State for Foreign and Commonwealth Affairs [2001] QB 1067 (Bancoult (No 1)), the Divisional Court of the Queens Bench Division quashed section 4 of the Immigration Ordinance 1971, on the ground that the power to legislate for the peace, order and good government of the BIOT did not include a power to expel all the inhabitants.	PRE
+The Government did not appeal.	PRE
+Indeed, the Foreign Secretary of the day announced, not only that they would put in place a new Immigration Ordinance which would allow the islanders to return to the outer island, but also that they were working on the feasibility of resettling them there.	PRE
+However, in 2004, having concluded that re settlement was not feasible and being concerned about the possibility of landings on the islands, the Government decided to restore full immigration control.	PRE
+A new British Indian Ocean Territory (Constitution) Order 2004 was made, section 9 of which stated that no person had the right of abode in the territory and that no one was entitled to enter or be present in the territory without authorisation.	PRE
+The British Indian Ocean Territory (Immigration) Order 2004 dealt with the details.	PRE
+Bancoult (No 2) was a challenge to the validity of those Orders.	PRE
+It succeeded in the Divisional Court ([2006] EWHC 1038 (Admin)) and in the Court of Appeal ([2008] QB 365) but failed by a majority of three to two in the House of Lords: [2008] UKHL 61, [2009] 1 AC 453.	PRE
+Nevertheless, the House was unanimous that the Orders in Council were amenable to judicial review in the courts of England and Wales.	PRE
+It was common ground that the Crown had the prerogative power to legislate for a ceded colony by Order in Council (and indeed in other ways): Campbell v Hall (1774) 1 Cowp 204, 211.	PRE
+It was argued for the Government that the courts had no power to review the validity of such legislation, either because it was primary legislation having the same validity as an Act of Parliament, or because of the terms of the Colonial Laws Validity Act 1865 (28 & 29 Vict c 63). (The 1865 Act does not apply to Channel Islands legislation and so we need not concern ourselves with the second argument).	PRE
+Rejecting the first argument, Lord Hoffmann could see no reason why prerogative legislation should not be subject to review on ordinary principles of legality, rationality and procedural impropriety in the same way as any other executive action.	PRE
+The principle of the sovereignty of Parliament was founded upon the unique authority Parliament derives from its representative character.	PRE
+The exercise of prerogative power by the executive lacked this quality (para 35).	PRE
+Lord Bingham simply observed that it is for the courts to inquire into whether a particular prerogative power exists or not and, if it does exist, into its extent (para 69).	PRE
+Lord Rodger expressly agreed with Lord Hoffmann on this point (para 105), as did Lord Carswell (para 122), and Lord Mance, who could see no good reason why the making of legislative Orders in Council should not be reviewable in the same way as other steps, administrative or legislative, by the executive, and every reason why they should be, on the familiar grounds of legality, rationality and procedural propriety (para 141).	PRE
+The appellants put forward two main reasons why this case is different from Bancoult (No 2).	Ratio
+First and foremost, Bancoult concerned a colony which had no legislature other than the Commissioner whose powers were conferred by the very Orders under attack.	Ratio
+There was no semblance of a representative or democratic legislature.	Ratio
+The Orders were the act of the UK executive alone.	Ratio
+By contrast, the Order in question here was the last stage in the process of passing legislation by an established and representative legislature.	Ratio
+Unlike the BIOT, Sark has a functioning legislature, as well as its own functioning system of laws and its own courts.	Ratio
+The courts of England and Wales have no more power to interfere in that process than they have to interfere with the process of giving Royal Assent to the Acts of the UK Parliament.	Ratio
+This is indeed a very powerful reason why the courts of England and Wales should not interfere in something which is no business of theirs but is very much the business of the people of Sark and the Bailiwick of Guernsey.	Ratio
+But it does not follow that there is no jurisdiction to entertain a challenge in a more appropriate case.	Ratio
+It is common ground that the United Kingdom government is responsible for the international relations of the Channel Islands.	Ratio
+The interveners do not accept that the United Kingdom government may scrutinise a Projet de Loi, even for conformity with its international obligations as they apply to the Channel Islands, if those obligations have already been translated into law in the Channel Islands.	Ratio
+In the case of the Human Rights (Bailiwick of Guernsey) Law 2000, which provides its own careful balance between the legislature, the executive and the judiciary, that is a compelling reason for not exercising whatever jurisdiction there is.	Ratio
+However, it is the clear responsibility of the United Kingdom government in international law to ensure that the Islands comply with such international obligations as apply to them.	Ratio
+Just as the United Kingdom Parliament has the constitutional right to legislate for the Islands, even without their consent, on such matters, so must the United Kingdom executive have the constitutional power to ensure that proposed Island legislation is also compliant.	Ratio
+As was pointed out in evidence to the Kilbrandon Commission, to hold otherwise would be to assign responsibility to the United Kingdom without the power to put that responsibility into effect (Cmnd 5460, para 1433).	Ratio
+Nor is the analogy with Royal Assent to Acts of the United Kingdom Parliament exact: the Queen in Parliament is sovereign and its procedures cannot be questioned in the courts of the United Kingdom.	Ratio
+It is to be hoped (and expected) that any disputes would be decided by negotiation between the UK Government and the Island authorities, but what if they cannot be resolved otherwise than by litigation? The question is perhaps more likely to arise in relation to the refusal of Royal Assent to a Project de Loi.	Ratio
+The Administrative Court refers (para 26) to a dispute which arose in 1998.	Ratio
+The Jersey legislature had passed fiscal legislation to which the United Kingdom Treasury objected as being potentially contrary to a commitment made to the Organisation for Economic Co operation and Development.	Ratio
+Consideration was given in Jersey to bringing proceedings against the Secretary of State in respect of the failure to recommend approval, but never brought because the legislation was eventually approved.	Ratio
+It is interesting that the interveners reserve their position in relation to jurisdiction judicially to review the refusal of Royal assent, while arguing that there is no jurisdiction to review a decision that Royal Assent should be granted.	Ratio
+Would either the courts of the Island in question, culminating in the Judicial Committee of the Privy Council, or of the United Kingdom, culminating in this court, have jurisdiction in such a case? This leads to consideration of the second reason advanced for distinguishing Bancoult (No 2) from this case.	Ratio
+In Bancoult (No 2), it was common ground in the House of Lords that the Orders in Council had been made by the Crown in right of the United Kingdom rather than in right of the BIOT (para 76).	Ratio
+As that term of art had been explained in Quark Fishing, they had been made as part of the machinery of government of the United Kingdom, and in the interests of the United Kingdom, rather than as part of the machinery of government of the BIOT.	Ratio
+In Quark Fishing on the other hand, the majority held that the instruction to refuse a licence had been made as part of the machinery of government of the SGSSI and not of the United Kingdom.	Ratio
+As Lord Bingham put it, the Foreign Secretary was merely the mouthpiece and medium of the Queen as Queen of the SGSSI: [2006] 1 AC 529, para 12.	Ratio
+The majority view in Quark Fishing (which also informed the decision of the Court of Appeal in Bancoult (No 2)) was severely criticised by Professor John Finnis, in Common Law Constraints: Whose Common Good Counts? (University of Oxford Faculty of Law Legal Studies Research Paper Series, Working Paper No 10/2008).	PRE
+He pointed out that to regard a Minister of the Crown as the mouthpiece and medium of the Sovereign was to stand the constitutional theory of responsible government on its head.	Ratio
+The Queen never acts except on the advice of a government minister who is responsible to the legislature (save in the rare case where she may have to choose a Prime Minister).	Ratio
+The question, therefore, is upon whose advice is she acting? According to Halsburys Laws of England, 2009, 5th edition, para 717, in a passage approved in Bancoult (No 2) and in earlier authorities, the position is as follows: The United Kingdom and its dependent territories within Her Majestys dominions form one realm having one undivided Crown.	Ratio
+This general principle is not inconsistent with the further principle that on the grant of a representative legislature, and perhaps even as from the setting up of courts, a legislative council and other such structures of government, Her Majestys government in a colony is to be regarded as distinct from Her Majestys government in the United Kingdom.	Ratio
+To the extent that a dependency has responsible government, the Crowns representative in the dependency acts on the advice of local ministers responsible to the local legislature, but in respect of any British overseas territory or other dependency of the United Kingdom, acts of Her Majesty herself are performed only on the advice of the United Kingdom government.	Ratio
+It is easy to see that, in legislating for the very existence of and constitution of the BIOT, the Crown was acting on the advice of the United Kingdom government.	Ratio
+It could hardly be otherwise, as no institutions of responsible government existed in the BIOT at the time.	Ratio
+In Quark Fishing, the Crown gave instructions to the Commissioner and through him to the Director of Fisheries through a Secretary of State.	Ratio
+That could only be a Secretary of State in the United Kingdom government, responsible to the United Kingdom Parliament.	Ratio
+It is perhaps unsurprising that, having read Professor Finnis paper, Lord Hoffmann in Bancoult (No 2) was inclined to think that in Quark Fishing Lord Nicholls had been right (para 48).	Ratio
+Although in advising Her Majesty, the United Kingdom government would no doubt take the interests of the colony into account, it was also entitled to take into account the interests of the United Kingdom and indeed the whole of Her Majestys dominions (para 49).	Ratio
+In Barclay (No 1), Lord Collins observed, at para 107, that as matters now stand, the approach laid down by the then majority of the House of Lords [in Quark Fishing] leads to the conclusion that the decisions of the Committee for the Affairs of Jersey and Guernsey and the Privy Council were taken as part of the constitutional machinery of the Bailiwick of Guernsey and of Sark for the approval and enactment of laws in Sark, and that the fact that the decisions were taken by Ministers of the Crown who took into account the international obligations of the United Kingdom is irrelevant.	Ratio
+It would be quite wrong for the approach in the Quark case to be revisited on an appeal (particularly with a panel of five) in which it does not arise, and in which it is not argued that the Quark case was wrongly decided and ought to be reconsidered.	Ratio
+Relying on that observation, the Administrative Court in this case stated (para 43) that the Committee were advising Her Majesty in right of Guernsey, rather than in right of the United Kingdom.	Ratio
+The Supreme Court in Barclay (No 1) was not invited to conclude that, if Her Majesty was acting in right of Guernsey and not of the United Kingdom, then the United Kingdom courts had no jurisdiction judicially to review the advice which was given to her.	Ratio
+It might be thought logically to follow that, if the appellants were advising Her Majesty as part of the machinery of government of Guernsey and Sark, any judicial review of their advice should be brought in the courts of Guernsey and Sark, rather than in the courts of the United Kingdom. (It is, of course, a different question whether there would be any justiciable basis for such a review.)	Ratio
+We are therefore invited by the appellants to distinguish Bancoult (No 2) for this reason also.	Ratio
+However, it is not surprising that the Supreme Court in Barclay (No 1) was not invited to reach that conclusion, as it will be recalled (see para 33 above) that the instruction of the Secretary of State in Quark Fishing had been successfully judicially reviewed in the courts of England and Wales on conventional grounds and there was no appeal to the House of Lords on that aspect of the case.	Ratio
+The House of Lords was concerned only with whether there was a claim to damages under the 1998 Act.	Ratio
+Thus, it is not enough to ask whether a person is acting in right of the United Kingdom or of a colony or dependency: the consequence will depend upon why that question is being asked.	Ratio
+In those circumstances, it seems to me that the decision in Quark Fishing is of little assistance in this case.	Ratio
+If anything, it suggests that even if Her Majestys government is acting in right of the colony or dependency in question, the courts of the United Kingdom have jurisdiction judicially to review its decisions.	Ratio
+The reality, as the Advocates to the Court argue, is that the appellants were advising Her Majesty both in right of the Bailiwick of Guernsey and of Sark and in right of the United Kingdom.	Ratio
+They were advising her upon the final stage of the Islands legislative process.	Ratio
+But they were doing so because of the United Kingdoms continuing responsibility for	Ratio
+the international relations of the Bailiwick.	Ratio
+They were politically accountable	Ratio
+to the United Kingdom Parliament for that advice.	Ratio
+I see no reason to doubt that they were legally accountable to the courts of the United Kingdom, although only in an appropriate case, which this is not.	Ratio
+I would prefer to leave open the question whether they might also be legally accountable to the courts of the Bailiwick, as this has not been argued before us.	Ratio
+Conclusion	Ratio
+As a general proposition, to which there may well be exceptions, I would hold that the courts of the United Kingdom do have jurisdiction judicially to review an Order in Council which is made on the advice of the Government of the United Kingdom acting in whole or in part in the interests of the United Kingdom.	Ratio
+Hence the Administrative Court did have jurisdiction to entertain this claim.	Ratio
+Nevertheless, there are circumstances in which that jurisdiction should not be exercised.	Ratio
+This is clearly one such case.	Ratio
+The appeal should be allowed and the declaration made by the Administrative Court set aside.	RPC

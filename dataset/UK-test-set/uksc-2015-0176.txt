@@ -1,0 +1,210 @@
+The Hague Convention on Jurisdiction, Applicable Law, Recognition, Enforcement and Co operation in respect of Parental Responsibility and Measures for the Protection of Children, concluded on 19 October 1996 (the 1996 Convention), came into force in the United Kingdom on 1 November 2012.	STA
+This is the first case about that Convention to reach this Court.	FAC
+It concerns the scope of the jurisdiction conferred by article 11 in all cases of urgency upon the Contracting State where a child is present but not habitually resident.	Ratio
+The facts	FAC
+The child, whom I shall call Saleem, was born in England in January 2007.	FAC
+His parents are both Moroccan citizens, although they also hold British citizenship.	FAC
+The father lived in England from 1996 until 2009.	FAC
+He married the mother in Morocco in 2005 and the mother came to join him here.	FAC
+From 2009 to 2011, the family lived in Saudi Arabia, where the father held an academic post.	FAC
+Then in 2011 they moved to Morocco, so that the father could take up the academic post which he now holds.	FAC
+However, from August 2011 there were problems in their marriage, and in December 2011, the father instituted proceedings for divorce.	FAC
+In the spring of 2012, the mother moved with the child to her parents home in another city, some 50 miles from where the family home is.	FAC
+The local Family Court made an order divorcing the parents on 12 July 2012.	FAC
+The mother was granted residential custody of the child.	FAC
+The mother was also ordered to allow the father to visit his child on Sundays and holidays, from 9.00 am until 5.00 pm, under the condition that the child must spend the night at his mothers residence.	FAC
+The order also provided for the father to pay maintenance for the child.	FAC
+It did not say anything about whether the mother could, or could not, take the child out of the country.	FAC
+Mother and child lived with the mothers parents for the rest of 2012, but in January 2013, the mother came to England, leaving the child in the care of her parents.	FAC
+The mothers case is that she met her current partner, a Moroccan living in England, when he visited Morocco in 2012.	FAC
+They went through an Islamic ceremony of marriage in January 2013, after the mothers arrival in England, and they have lived here together since then.	FAC
+They have a child together, born in November 2014.	FAC
+The fathers case is that he and the child were in regular and frequent contact while the mother was away and in particular that the child spent the whole of the 2013 summer holiday, from 1 July until he went back to school in September, in his fathers care (this is borne out by what the child told the Cafcass officer).	FAC
+However, on 14 September 2013 the mother removed the child from her parents home and brought him to England.	FAC
+He has lived here with her and her new partner ever since.	FAC
+He has had some contact with his father by phone and skype but no face to face contact since he left Morocco.	FAC
+The father suffered from polio as a child and has problems with mobility.	FAC
+Regular and frequent international travel is difficult for him and he also lacks the means to afford it.	FAC
+On 23 September 2013, the father applied to the Family Court in the district where the child had been living to revoke the order of 12 July 2012, granting the mother residential custody and child maintenance, and to grant him the residential custody of the child.	FAC
+That application was refused on 16 January 2014.	RLC
+The mother had asked the court to reject the application due to lack of evidence on the nature of [her] stay abroad.	FAC
+The court concluded that Since the applicant could not provide any evidence whether the respondents departure with her child to England was intended to be a casual and temporary or a permanent stay, and since he has no females available to look after his child, his request does not meet the legal and religious conditions required to allow him to look after his own child pursuant to article 400 of the [Family] Code.	RLC
+These proceedings	FAC
+On 14 March 2014, the father brought proceedings in the High Court, seeking an order that the child be made a ward of court and directions for his summary return to Morocco.	FAC
+The final hearing of this application did not take place until 10 October 2014.	FAC
+Some of this delay was occasioned by the need to locate the mother and child, some by enabling her to seek legal aid and legal representation, some by attempts to obtain clarification of Moroccan law through the Moroccan Central Authority, and, that having been unsuccessful, by the parties jointly instructing an expert in Moroccan law.	FAC
+The mother had also to be ordered to disclose details of her relationship with her new husband and her pregnancy.	FAC
+In the meantime, Saleem had been interviewed by a Cafcass officer, who filed her report on 15 August 2014.	FAC
+Although Morocco has acceded to the 1980 Hague Convention on the Civil Aspects of International Child Abduction (the 1980 Convention), that accession has not yet been accepted by the European Union, and thus by the United Kingdom.	FAC
+The case therefore proceeded before Roderic Wood J as an application under the inherent jurisdiction of the High Court: [2014] EWHC 3588 (Fam).	FAC
+He referred (at para 1) to the proceedings also having been brought under the 1996 Convention, and mentions that his attention had been drawn to articles 5, 7, 19 and 22 (but not 11) of that Convention.	FAC
+However, in his section headed The law, he refers only to article 22, which deals with applicable law, and not with jurisdiction.	FAC
+He dealt with the case as a straightforward application of the principles applicable to such non Hague applications for summary return, as contained in the decision of the House of Lords in In re J (A Child)(Custody Rights: Jurisdiction) [2005] UKHL 40, [2006] 1 AC 80.	FAC
+The judge dealt with the matter on the basis of the written evidence and submissions only.	FAC
+The parties had agreed that it was not necessary to call the Cafcass officer to give oral evidence.	FAC
+The judge refused applications by the mother for her to give oral evidence and for supplementary questions to be asked of the expert in Moroccan law.	FAC
+The judge found as a fact that the father had not consented to the mothers removal of the child from Morocco.	FAC
+Her own version was that she had told the father of her plans but he just swore at me and that she had been saying to the father for quite some time that I wanted to return to the United Kingdom with S[aleem].	FAC
+I do not know whether he believed me or not when I used to say this.	FAC
+Her own evidence, therefore, fell a very long way short of consent.	FAC
+Saleem himself had told the Cafcass officer that he did not know where they were going on 14 September 2013 until they got to the airport.	FAC
+This suggested strongly that she knew that Saleem would tell his father if he knew beforehand and that was a thing she wished to avoid (para 16).	FAC
+The father not having given his consent to the removal, the judge also found that it was wrongful (para 37).	FAC
+He also found that mother and father and child were habitually resident in Morocco before the mother wrongfully removed the child (para 37).	FAC
+In a further reference to the 1996 Convention, articles 5 and 6, he commented that it is clear that the Moroccan court had, and continues to have, jurisdiction in this matter based on the continuing habitual residence of S[aleem] in that country, which was not terminated by his mothers wrongful removal of him (para 45).	FAC
+No argument was addressed to him that the effect of the 1996 Convention was that the English court had no jurisdiction at all in the matter.	FAC
+He considered, therefore, whether under the established principles this was an appropriate case for summary return and concluded that it was.	FAC
+Saleem had told the Cafcass officer that he liked his maternal grandparents and his father.	FAC
+Asked what was good about Morocco he spoke of swimming and his holidays with his father (he shivers at an English winter).	FAC
+He had nothing bad to say about his life in Morocco.	FAC
+But he was happy about coming to England because he wanted to live with his mother (para 22).	FAC
+He liked his school in England.	FAC
+He would be sad if the judge ordered his return to Morocco because he wants to stay with his mother.	FAC
+But he did not seem to have contemplated the possibility that his mother might return to Morocco with him.	FAC
+If the judge decided that he should stay here, he would like to go to Morocco and see his father in the school holidays, If the judge decided he should go to Morocco, he would like to come back to the United Kingdom to see his mother in the school holidays (para 23).	FAC
+The Cafcass officers conclusions were that Saleem is a well presented, intelligent and polite child with a good command of English.	FAC
+He was a resilient child who did not appear to be badly caught up in the conflict between his parents.	FAC
+He had nothing bad to say about his father or about life in Morocco.	FAC
+He was clear about his reasons for wanting to remain in the United Kingdom, which was to be with the mother, but showed no outward sign of distress at the mention of a possible return to Morocco (para 24).	FAC
+The questions asked of the expert in Moroccan law were directed to two subjects: first, the general principles of Moroccan law concerning the allocation of parental responsibility, custody, access and relocation; and second, whether there was jurisdiction to allow one parent to move to another country and if so how it was exercised.	Ratio
+The expert answered by reference to the Moroccan Family Code of 2004, of which we have an unofficial translation.	Ratio
+Custody of children during the marriage is the responsibility of both parents (article 164).	STA
+When the marriage is terminated by divorce, custody goes first to the mother, then to the father, then to the maternal grandmother (article 171).	STA
+It would appear that the general rule is that the mother loses custody on remarriage, as long as the father claims it within a year of finding out about it (article 176).	STA
+But her remarriage does not cause her to lose custody if the child is aged seven or less, or will suffer harm from being separated from her, or has a health condition or handicap which will render custody of the non mother extremely burdensome, or if the mothers new husband or the mother herself is the childs legal representative (not so here, as the father is the childs legal representative) (article 175).	STA
+The Code does not mention anywhere the relocation of the child to another country.	Ratio
+It does state that the mother does not lose custody if she moves permanently to another town in Morocco (article 178).	Ratio
+The lawyers opinion was that If such Lawsuit to relocate the child to another country is brought, the Family Court in giving its decision may consider the childs best interests and the ability of the non custodian parent to visit the child.	ARG
+The expert was not asked whether the effect of the order of 12 July 2012 was to prohibit the mother from removing the child permanently from Morocco without consent.	Ratio
+Roderic Wood J held that the terms of the order make it abundantly clear that the intention was that the mother and children [sic] should live in Morocco, for if it permitted the mother to move countries, the provision for the fathers contact would be otiose (para 10).	Ratio
+Nor was the expert asked whether the Moroccan court had power to make an order compelling the mother to return the child from England to Morocco.	Ratio
+At that stage in the proceedings, no one had focussed their mind on the precise nature and extent of the jurisdiction of the English court.	Ratio
+Roderic Wood J concluded that this was an appropriate case in which to deal with matters summarily (para 33).	Ratio
+Overall, he had no hesitation that it is in S[aleem]s best interests to return to Morocco where he was habitually resident for the courts of that country to adjudicate, if required to do so, on welfare issues relating to [him] (para 46).	Ratio
+He ordered the mother to return the child, or cause the return of the child, to Morocco no later than 4.00 pm on 11 January 2015.	Ratio
+The delay was permitted because the mother was about to give birth.	Ratio
+The mother sought permission to appeal on a number of grounds, but again these did not question the jurisdiction of the English court.	Ratio
+She was refused permission to appeal against the finding that Saleem was habitually resident in Morocco before his removal to this country and that his removal had been wrongful.	Ratio
+When the father applied for permission to appeal to this Court, she applied to cross appeal against the finding of wrongful removal.	Ratio
+She was refused permission so to do.	Ratio
+The mother cannot now challenge the findings that the child was habitually resident in Morocco before his removal to this country and that his removal was wrongful.	Ratio
+The mother was, however, given permission to appeal to the Court of Appeal on three grounds: (i) that the judge had erred in his consideration of the expert evidence, by failing to allow oral evidence and cross examination, and by drawing the wrong conclusions from it; (ii) that in considering the childs welfare and the Cafcass report, (a) he failed to carry out a sufficiently deep, thorough and realistic analysis of the childs welfare needs and wishes, (b) was unclear as to the approach adopted, and (c) erred in his evaluation of the welfare considerations; and (iii) that he erred in failing to consider article 9 of the 1996 Convention.	Ratio
+However, when giving judgment in the Court of Appeal ([2015] EWCA Civ 329; [2015] 3 WLR 747), Black LJ stated that When I gave permission, like the parties I was thinking in terms of whether the well known principles in In re J (A Child)(Custody Rights: Jurisdiction) [2006] 1 AC 80 would need modification in the light of the coming into force of the 1996 Hague Convention (para 76).	RLC
+It had, however, become clear to her that the impact of the 1996 Hague Convention is far more radical (para 77).	Ratio
+The focus of the Court of Appeals attention was entirely upon the 1996 Convention.	Ratio
+It will be necessary to return to the precise reasoning later.	Ratio
+In summary, Black LJ explained that article 11(1) imports three conditions before a court can exercise jurisdiction: (i) The case is one of urgency, (ii) The child (or, where relevant, property belonging to the child) is present in the contracting state of the court in question; (iii) The steps the court is going to take are necessary measures of protection (para 68).	Ratio
+Measures of protection has a wider meaning than might be thought and was capable of including a return order (para 70).	Ratio
+There may be cases in which a return order is urgent and necessary (para 71), but this was not one of them (para 72).	Ratio
+Six months had passed before the father took action here and over a year before the judges decision.	Ratio
+A speedy application to the Moroccan court was possible and there was no explanation for why the father had not applied for a return order rather than a change of residence.	Ratio
+Accordingly the judge did not have jurisdiction under article 11 (para 73) and there was no other basis upon which he could assume jurisdiction (para 74).	Ratio
+Hence the appeal was allowed and the fathers application dismissed.	Ratio
+Black LJ pointed out that the consequence may seem rather strange.	Ratio
+If the father were now to make a fresh application (presumably under the inherent jurisdiction or the Children Act 1989), it was possible that the childs habitual residence had changed, and the Moroccan jurisdiction was no longer preserved by article 7 of the 1996 Convention.	Ratio
+The English court would therefore have full jurisdiction under article 5 (para 83).	Ratio
+Others have pointed out that the consequence of the interpretation of article 11 adopted by the Court of Appeal is also rather strange.	Ratio
+A procedure which had been adopted for many years by the English court in order to effect the summary return of an abducted child from this country to his home country had apparently been precluded by a Convention, which was designed to improve the protection of children in international situations.	Ratio
+The 1996 Convention	STA
+The Preamble to the 1996 Convention states that the State parties, in agreeing its provisions, had six objectives: Considering the need to improve the protection of children in international situations; Wishing to avoid conflicts between their legal systems in respect of jurisdiction, applicable law, recognition and enforcement of measures for the protection of children; Recalling the importance of international co operation for the protection of children; Confirming that the best interests of the child are to be a primary consideration; Noting that the Convention of 5 October 1961 concerning the powers of authorities and the law applicable in respect of the protection of minors is in need of revision; Desiring to establish common provisions to this effect, taking into account the United Nations Convention on the Rights of the Child of 20 November 1989.	STA
+Article 1 sets out the objects of the Convention, which include (a) to determine the state whose authorities have jurisdiction to take measures directed to the protection of the person or property of the child.	STA
+Article 3 provides, so far as relevant: The measures [of protection] referred to in article 1 may deal in particular with (a) the attribution, exercise, termination or restriction of parental responsibility, as well as its delegation; (b) rights of custody, including rights relating to the care of the person of the child and, in particular, the right to determine the childs place of residence, as well as rights of access including the right to take the child for a limited period of time to a place other than the childs habitual residence; (c) guardianship, curatorship and analogous institutions; (d) the designation and functions of any person or body having charge of the childs person or property, representing or assisting the child; (e) the placement of a child in a foster family or in institutional care, (f) the supervision by a public authority of the care of a child by any person having charge of the child;	STA
+This is a non exhaustive list and it is apparent that measures of protection goes far wider than the public law measures of child care and protection to which an English lawyer might otherwise think that they referred (although those are also included).	Ratio
+The exclusions from the Convention in article 4 include (a) the establishment or contesting of a parent child relationship; (b) decisions on adoption, measures preparatory to adoption, or the annulment or revocation of adoption; (c) the names and forenames of the child; None is relevant in this case, but the exclusions do indicate that the focus of the Convention is on the care and upbringing of the child (or the protection of his property).	Ratio
+In my view the Court of Appeal was entirely right to consider that an order for the return of the child to the country of his or her habitual residence is a measure of protection for the purpose of the Convention, as indeed would be an order prohibiting the child from being taken out of that country.	Ratio
+The primary rule of jurisdiction is contained in article 5: (1) The judicial or administrative authorities of the Contracting State of the habitual residence of the child have jurisdiction to take measures directed to the protection of the childs person or property. (2) Subject to article 7, in case of a change of the childs habitual residence to another Contracting State, the authorities of the State of the new habitual residence have jurisdiction.	STA
+Article 7 deals with jurisdiction after wrongful removal or retention: (1) In case of wrongful removal or retention of the child, the authorities of the Contracting State in which the child was habitually resident immediately before the removal or retention keep their jurisdiction until the child has acquired a habitual residence in another State, and (a) each person, institution or other body having rights of custody has acquiesced in the removal or retention; or (b) the child has resided in that other state for a period of at least one year after the person, institution or other body having rights of custody has or should have had knowledge of the whereabouts of the child, no request for return lodged within that period is still pending, and the child is settled in his or her new environment. (2) The removal or retention of a child is to be considered wrongful where (a) it is in breach of rights of custody attributed to a person, an institution or any other body, either jointly or alone, under the law of the state in which the child was habitually resident immediately before the removal or retention; and (b) at the time of removal or retention those rights were actually exercised, ether jointly or alone, or would have been so exercised but for the removal or retention.	STA
+The rights of custody mentioned in sub paragraph (a) above, may arise in particular by operation of law or by reason of a judicial or administrative decision, or by reason of an agreement having legal effect under the law of that State. (3) So long as the authorities first mentioned in paragraph 1 keep their jurisdiction, the authorities of the Contracting State to which the child has been removed or in which he or she has been retained can only take such urgent measures under article 11 as are necessary for the protection of the person or property of the child.	Ratio
+Article 11 supplies an additional jurisdiction in limited circumstances: (1) In all cases of urgency, the authorities of any contracting state in whose territory the child or property belonging to the child is present have jurisdiction to take any necessary measures of protection. (2) The measures taken under the preceding paragraph with regard to a child habitually resident in a Contracting State shall lapse as soon as the authorities which have jurisdiction under articles 5 to 10 have taken the measures required by the situation. (3) The measures taken under paragraph 1 with regard to a child who is habitually resident in a non Contracting State shall lapse in each Contracting State as soon as measures required by the situation and taken by the authorities of another State are recognised in the Contracting State in question.	STA
+There are several things to note about this provision.	Ratio
+First, it bears a striking resemblance to article 20 of Council Regulation (EC) No 2201/2003 concerning jurisdiction and the recognition and enforcement of judgments in matrimonial matters and matters of parental responsibility, otherwise known as the Brussels II revised Regulation (the Regulation).	Ratio
+Article 20, however, merely allows one member state to take provisional, including protective measures in respect of persons or assets in that State as may be available under the law of that member state, even if, under the Regulation, the court of another member state has jurisdiction.	STA
+Article 11, in contrast, confers an additional jurisdiction upon the State where the child or the property is.	STA
+An order made under article 20 is not enforceable in another member state: Purrucker v Valles Perez (No 1) (Case C 256/09) [2011] Fam 254.	Ratio
+In contrast, an order made under article 11 is enforceable in the other Contracting States in accordance with Chapter IV of the 1996 Convention.	Ratio
+The order can thus have extra territorial effect, although it will lapse in accordance with article 11(2) once the authorities in the State of primary jurisdiction have taken the measures required by the situation.	Ratio
+Secondly, this means that the assistance to be gained from decisions of the Court of Justice of the European Union in relation to article 20 is limited.	Ratio
+In particular, in the Court of Appeal, at paras 67 and 72, Black LJ placed some emphasis upon the case of Detiek v Sgueglia (Case C 403/09 PPU), [2010] Fam 104, at para 42: Since article 20(1) of Regulation No 2201/2003 authorises a court which does not have jurisdiction as to the substance to take, exceptionally, a provisional measure concerning parental responsibility, it must be considered that the concept of urgency in that provision relates both to the situation of the child and to the impossibility in practice of bringing the application concerning parental responsibility before the court with jurisdiction as to the substance.	Ratio
+Since it was not obviously impossible for the father in this case to take his case to the Moroccan court, she held that this was not a case or urgency within the meaning of article 11.	Ratio
+However, the interpretation of a word in the context of a provision giving a purely ancillary power is not necessarily transferable into the context of a provision giving a substantive, albeit additional, jurisdiction.	Ratio
+In particular, if the child needs protection now, it is not obvious why the courts of the country where the child is should refrain from granting that protection while inquiries are made about the possibility of bringing proceedings in the home country.	Ratio
+If the courts of the home country do take action, the measures they take will trump those taken in the presence country.	Ratio
+But if no action is taken, the measures taken in the presence country will continue to operate throughout the Convention space.	Ratio
+That is a very different situation from that in Detiek, where the Italian court which had jurisdiction under the Regulation had made a custody order in favour of the father and the mother had taken the child to Slovenia, where she persuaded the Slovenian court to make a completely different order.	Ratio
+Thirdly, it must be borne in mind that article 11 confers jurisdiction on the presence country in all situations to which its terms apply.	Ratio
+It is not limited to cases of wrongful removal or retention covered by article 7.	Ratio
+Article 7 is concerned with the very specific situation where jurisdiction is retained in the country of former habitual residence because the child has been wrongfully taken or kept away from that country.	STA
+But a child may be habitually resident in one country but present in another in a whole host of situations which do not involve an unlawful removal or retention.	Ratio
+Take, for example, a family who come here on holiday or for short term study or employment and an incident of serious domestic violence takes place between the parents, as a result of which the parents separate.	Ratio
+It may very well be necessary to decide where the children shall live while they remain here.	Ratio
+The local authority may well consider that unless the children are safeguarded in the care of the non violent parent it will be necessary to take steps to remove them temporarily from the family for their own safety.	Ratio
+It cannot be the case that the courts of the presence country are prohibited from taking those steps because it has not been shown to be impossible for the courts of the home country to do so.	Ratio
+Fourthly, where there has been a wrongful removal or retention, article 11 has proved very helpful in securing a soft landing for children whose return to their home country is ordered.	Ratio
+As Dr Hans van Loon observes, in a study prepared for the European Parliament, The Brussels IIa Regulations: towards a review?, at paragraph 3.1.3, the Regulation does not contain the equivalent of articles 7(3) and 11 of the 1996 Convention: Under the 1996 Convention, where the court of refuge orders return subject to certain undertakings by the parties or to protective measures as are necessary for the protection of the person or property of the child, these orders will be urgent measures under its article 11.	Ratio
+They must be recognised and enforced under Chapter IV of the Convention, and remain effective until the court of origin has taken the measures required by the situation.	Ratio
+As practice under the 1980 Convention has shown, without this enforcement obligation, undertakings and protective measures will often not be respected and remain ineffective.	Ratio
+This has given rise to the need to obtain mirror or safe harbour orders in the state of origin, but these may not always be available, or, again, not be effective.	Ratio
+Articles 7(3) and 11 1996 Convention, therefore, strongly reinforce the return mechanism of the 1980 Convention.	STA
+Dr van Loon noted the English case of B v B [2014] EWHC 1804 (Fam), where Mostyn J used the 1996 Convention for just this purpose, when ordering the return of a child to Lithuania pursuant to the 1980 Convention, so as to ensure that there was no grave risk of harm within the meaning of article 13(1)(b) of that Convention.	STA
+Dr van Loons understanding of the 1996 Convention is of particular relevance, as he was Secretary General of the Hague Conference on Private International Law from 1996 to 2013.	Ratio
+It would obviously place in jeopardy this valuable aspect of the 1996 Convention, in assisting the objectives of the 1980 Convention, if the courts in the presence country could not invoke the article 11 jurisdiction without first assuring themselves that it was impossible for the courts of the home jurisdiction to take action.	Ratio
+Indeed, Dr van Loon recommends that the Regulation be amended so as to delete article 20 and insert the equivalent of article 11.	Ratio
+If there is no pre condition to jurisdiction under article 11 that it be impossible or impracticable for the courts of the country of habitual residence to exercise jurisdiction, then how is it to be interpreted? It requires, as Black LJ pointed out, (i) a case of urgency, (ii) the presence of the child or his or her property, and (iii) that measures of protection be necessary.	Ratio
+In my view that demands a holistic approach.	Ratio
+It may be helpful for the court to ask itself three questions.	Ratio
+Is the child here? Are measures of protection necessary? Are they urgent? But that is not to suggest that these questions must always be asked in that order.	Ratio
+The article should be applied according to its terms.	Ratio
+It is obviously consistent with the overall purposes of the Convention that measures of protection which the child needs now should not be delayed while the jurisdiction of the country of habitual residence is invoked.	Ratio
+On the other hand, the article 11 jurisdiction should not be used so as to interfere in issues that are more properly dealt with in the home country.	Ratio
+It is a secondary, and not the primary, jurisdiction.	Ratio
+Thus it is one thing to use the article 11 jurisdiction in support of the home country, for example, by facilitating a return there after a wrongful removal.	Ratio
+It is quite another thing to set up the article 11 jurisdiction in opposition to that of the home country (as happened in Detiek).	Ratio
+Clearly it was not intended for that purpose.	Ratio
+We have received very helpful written submissions from three interveners: Reunite International Child Abduction Centre, the AIRE Centre, and the International Centre for Family Law, Policy and Practice.	Ratio
+All are broadly supportive of the above approach.	Ratio
+Reunite argues that, in cases of wrongful removal or retention, no left behind parent should be shut out from invoking the jurisdiction under article 11.	ARG
+It is then a question for the court whether the circumstances are such that a return order is necessary.	Ratio
+At this stage, questions of long delay, or possible objections to return, analogous to those in article 13 of the 1980 Convention, may become relevant.	Ratio
+In this way, the position under the 1996 Convention would broadly mirror that under the 1980 Convention in child abduction cases.	Ratio
+On the other hand, this view of the matter does not emerge either from the Explanatory Report on the 1996 Convention by Paul Lagarde (HCCH Publications 1998) or from the Practical Handbook on the Operation of the 1996 Hague Child Protection Convention, the most recent edition of which is dated 2014.	Ratio
+The Lagarde Report points out, at para 68, that the Convention does not define the notion of urgency, but as it is a derogation from the normal rule it ought to be construed rather strictly.	Ratio
+It might be present where the situation, if remedial action were only sought through the normal channels of articles 5 to 10, might bring about irreparable harm for the child.	Ratio
+However, he later puts it more broadly, when explaining the justification for this concurrent jurisdiction.	Ratio
+If this jurisdiction had not been provided, the delays which would be caused by the obligation to bring a request before the authorities of the state of the childs habitual residence might compromise the protection or the interests of the child.	Ratio
+The examples he gives are an urgent surgical operation or the rapid sale of perishable goods.	Ratio
+The Practical Handbook suggests that A useful approach for Authorities may therefore be to consider whether the child is likely to suffer irreparable harm or to have his/her protection or interests compromised if a measure is not taken to protect him/her in the period that is likely to elapse before the authorities with general jurisdiction under articles 5 to 10 can take the necessary measures of protection (para 6.2).	Ratio
+The examples given cover (1) medical treatment to save the childs life or prevent irreparable harm occurring to the child or his interests being compromised; (3) a rapid sale of perishable goods; but also (2) the child is having contact with a non resident parent outside his home State and makes an allegation of abuse against that parent such that contact needs to be suspended immediately and alternative care arranged; (4) there has been a wrongful removal or retention of the child and, in the context of 1980 Hague Convention proceedings, measures need to be put in place to ensure the safe return of the child (para 6.4).	Ratio
+Among the fuller example scenarios given (in para 6.12) is the case where a mother wrongfully removes the child from Contracting State A to Contracting State B, the father makes an application under the 1980 Convention, but the mother is not permitting any contact to take place and the proceedings may take two months.	Ratio
+The authorities in Contracting State B may consider that the lack of contact between father and child will cause irreparable harm or otherwise compromise the protection or interests of the child and make an order for interim contact.	Ratio
+Two comments seem appropriate.	Ratio
+First, it would be unfortunate if words in the Explanatory Report were treated as if they were words in the Convention itself.	Ratio
+There is a world of difference between irreparable harm and compromising the protection or interests of the child.	Ratio
+Neither expression is in the Convention, which merely asks whether the measure is necessary and the case urgent.	Ratio
+Secondly, the Report and the Handbook clearly have abduction in mind, but only in the context of proceedings for return under the 1980 Convention.	Ratio
+In that context, both interim contact orders and safe harbour orders are contemplated.	Ratio
+Abduction in cases where the 1980 Convention does not apply is not considered, yet the 1996 Convention clearly provides for wrongful removal and retention in article 7.	Ratio
+Far from derogating from the jurisdiction of the home state in these circumstances, the use of article 11 would be supporting it.	Ratio
+It would be extraordinary if, in a case to which the 1980 Convention did not apply, the question of whether to order the summary return of an abducted child were not a case of urgency even if it was ultimately determined that it was not necessary to order the return of the child.	Ratio
+While I would not, therefore, go so far as to say that such a case is invariably one of urgency, I find it difficult to envisage a case in which the court should not consider it to be so, and then go on to consider whether it is appropriate to exercise the article 11 jurisdiction.	Ratio
+It would obviously not be appropriate where the home country was already seized of the case and in a position to make effective orders to protect the child.	Ratio
+However, as Lord Wilson pointed out in the course of argument, the courts of the country where the child is are often better placed to make orders about the childs return.	Ratio
+Those courts can take steps to locate the child, as proved necessary in this case, and are likely to be better placed to discover the childs current circumstances.	Ratio
+Those courts can exert their coercive powers directly upon the parent who is here and indeed if necessary upon the child.	Ratio
+The machinery of going back to the home country to get orders and then enforcing them in the presence country may be cumbersome and slow.	Ratio
+Getting information from the home country may also be difficult.	Ratio
+The childs interests may indeed be compromised if the country where the child is present is not able to take effective action in support of the childs return to the country of his or her habitual residence.	Ratio
+Appeal dismissing the fathers application.	RLC
+Next steps	Ratio
+Mr James Turner QC, who appears for the mother, first argued that, were we to allow this appeal, the case should return to the Court of Appeal, so that it could deal with the other grounds upon which the mother had been given permission to appeal (see para 17 above).	ARG
+That would simply add to the inordinate delays which have already taken place in this case and further delay the proper consideration of the substance of the matter.	Ratio
+Any complaints about how the judge decided the case when approaching it as a standard In re J exercise are now water under the bridge I would therefore allow this appeal and set aside the order of the Court of (although they do not appear to me to have much substance, given the task on which the judge thought that he was engaged).	Ratio
+Mr Henry Setright QC, who appears for the father, first argued that we should restore the judges order for return.	ARG
+That too would not be right.	Ratio
+It is necessary for this case now to be approached on its proper footing: should the English High Court exercise the jurisdiction conferred by article 11 of the 1996 Convention and if so in what way? That question will have to be answered on the basis of up to date information about the child and his circumstances and, to the extent deemed necessary, about Moroccan law.	Ratio
+Under article 15(1) of the 1996 Convention, in exercising their jurisdiction under Chapter II Contracting States are to apply their own law.	STA
+However, under article 15(2) in so far as the protection of the person or the property of the child requires, they may exceptionally apply or take into consideration the law of another State with which the situation has a substantial connection.	Ratio
+The International Centre for Family Law, Policy and Practice has helpfully pointed out that one option which does not appear to have been canvassed in the Court of Appeal, either by the parties or the court, was whether it was necessary to make an order for interim contact in any event.	Ratio
+Research by Professor Marilyn Freeman for the Centre has made it clear that contact with the left behind parent is of crucial importance in preserving the relationship between the child and that parent, as well as in ending the abduction itself in some cases.	Ratio
+Black LJ herself acknowledged the potential harm to Saleem in not keeping up his relationship with his father by direct contact (para 72).	Ratio
+For the reasons given earlier, there may well be a need for such protection, protection which may have become more urgent the longer this case has gone on.	Ratio
+The obvious solution is to return the case to Roderic Wood J in the High Court, for him to decide whether he can exercise the jurisdiction provided for in article 11 of the 1996 Convention and, if so, in what way.	RPC

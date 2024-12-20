@@ -7,7 +7,9 @@ We can achieve SOTA performance on both datasets when compared to previous metho
 
 In the following lines, we delineate the dataset (for now, we release a portion of it; please get in touch with the authors if you wish to gain access to the complete dataset). 
 
+dataset folder has two folders:
 
-
+##IN-dataset: Snippet of what the Indian Supreme Court data looks like. 
+##UK-dataset: Snippet of what the UK Supreme Court data looks like. 
 
 This work is a continuation of and builds on https://github.com/Law-AI/semantic-segmentation.

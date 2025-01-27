@@ -1,0 +1,327 @@
+The Respondent, Haley Anne Preston (formerly Moore), a Minister in the Redruth Circuit of the Methodist Church until 2009, wishes to prosecute a claim against the Church in an employment tribunal for unfair dismissal.	FAC
+Under section 94 of the Employment Rights Act 1996, only an employee has the right not to be unfairly dismissed.	STA
+Section 230 uncontroversially defines an employee as someone who has entered into or works under a contract of service or apprenticeship.	STA
+The question at issue on this appeal is whether Ms Preston was an employee.	Ratio
+The tribunal held that she was not.	RLC
+That decision was, however, reversed by the Employment Appeal Tribunal in a decision subsequently upheld by the Court of Appeal.	RLC
+The current state of the authorities	STA
+Disputes about the employment status of ministers of religion have been coming before the courts ever since the introduction of national insurance in 1911 made it necessary to classify them for the first time.	FAC
+There is now a substantial body of authority on the point, much of it influenced by relatively inflexible tests borne of social instincts which came more readily to judges of an earlier generation than they do in the more secular and regulated context of today.	FAC
+Until recently, ministers of religion were generally held not to be employees.	FAC
+Two recurrent themes can be found in the case-law.	Ratio
+The first is the distinction between an office and an employment.	Ratio
+Broadly speaking, the difference is that an office is a position of a public nature, filled by successive incumbents, whose duties were defined not by agreement but by law or by the rules of the institution.	Ratio
+A beneficed clergyman of the Church of England is, or was until recent measures modified the position, the paradigm case of a religious office-holder.	Ratio
+But at an early stage curates in the Church of England were recognised as having the same status for this purpose: see In re Employment of Church of England Curates [1912] 2 Ch 563.	Ratio
+The position of other ministers was taken to be analogous.	Ratio
+In Scottish Insurance Commissioners v Church of Scotland (1914) SC 16, which concerned an assistant minister in the United Free Church of Scotland, Lord Kinnear said at 23 that the status of an assistant minister is not that of a person who undertakes work defined by contract but of a person who holds an ecclesiastical office, and who performs the duties of that office subject to the laws of the Church to which he belongs and not subject to the control and direction of any particular master.	PRE
+In Diocese of Southwark v Coker [1998] ICR 140, the Court of Appeal held that a stipendiary assistant curate was not an employee.	PRE
+They held that his duties were derived from his priestly status and not from any contract.	PRE
+Both Mummery LJ (at 147) and Staughton LJ (at 150) considered that there was a presumption that ministers of religion were office-holders who did not serve under a contract of employment.	PRE
+The second theme is a tendency to regard the spiritual nature of a minister of religions calling as making it unnecessary and inappropriate to characterise the relationship with the church as giving rise to legal relations at all.	Ratio
+In Rogers v Booth [1937] 2 All ER 751, 754, Sir Wilfred Green MR, delivering the judgment of the Court of Appeal, held that membership of the Salvation Army gave rise to a relationship pre-eminently of a spiritual character which was not intended to give rise to legal relations.	PRE
+More recently, in Davies v Presbyterian Church of Wales [1986] 1 WLR 323, the House of Lords held that the mere fact that a relationship founded on the rules of a church was non-contractual did not mean that that there were no legally enforceable obligations at all.	PRE
+But they were inclined to find those obligations in the law of trusts, and adhered to the familiar distinction between an employment and a religious vocation.	PRE
+At p 329, Lord Templeman, with whom the rest of the committee agreed, said: My Lords, it is possible for a man to be employed as a servant or as an independent contractor to carry out duties which are exclusively spiritual.	PRE
+But in the present case the applicant cannot point to any contract between himself and the church.	Ratio
+The book of rules does not contain terms of employment capable of being offered and accepted in the course of a religious ceremony.	Ratio
+The duties owed by the pastor to the church are not contractual or enforceable.	Ratio
+A pastor is called and accepts the call.	Ratio
+He does not devote his working life but his whole life to the church and his religion.	Ratio
+His duties are defined and his activities are dictated not by contract but by conscience.	Ratio
+He is the servant of God.	Ratio
+If his manner of serving God is not acceptable to the church, then his pastorate can be brought to an end by the church in accordance with the rules.	Ratio
+The law will ensure that a pastor is not deprived of his salaried pastorate save in accordance with the provisions of the book of rules but an industrial tribunal cannot determine whether a reasonable church would sever the link between minister and congregation.	Ratio
+The duties owed by the church to the pastor are not contractual.	Ratio
+The law imposes on the church a duty not to deprive a pastor of his office which carries a stipend, save in accordance with the procedures set forth in the book of rules.	Ratio
+President of the Methodist Conference v Parfitt [1984] QB 368 was a decision of the Court of Appeal on a claim for unfair dismissal by a Methodist minister.	PRE
+It is therefore directly in point on the present appeal.	PRE
+The Court held that the minister was not an employee, but the reasons of its members differed.	PRE
+Dillon LJ considered the spiritual character of the Methodist ministry to be fundamental to constitution and standing orders of the Methodist Church, but he reached the conclusion by an analysis of their terms.	PRE
+He does not appear to have been influenced by the distinction between an office and an employment, and regarded the earlier authorities as of no assistance.	PRE
+May LJ, on the other hand, adopted the analysis of the dissenting judgment of Waterhouse J in the Employment Appeal Tribunal, who had considered that the spiritual character was in itself inconsistent with the existence of a contractual relationship.	PRE
+Sir John Donaldson MR agreed with both judgments.	PRE
+The leading modern case in this area is the decision of the House of Lords in Percy v Board of National Mission of the Church of Scotland [2006] 2 AC 28.	PRE
+The Appellant was an associate minister in a parish of the Church of Scotland, who wished to bring a sex discrimination claim against the Church.	PRE
+It was accepted that she did not have a contract of service.	PRE
+But the statutory test of employment for the purposes of sex discrimination claims is broader than the test for unfair dismissal claims.	Ratio
+Under the Sex Discrimination Act 1975, it extended to those who contract personally to execute any work or labour.	Ratio
+Ms Percy claimed to come within that category.	Ratio
+In spite of the difference between the tests for unfair dismissal and sex discrimination, the House took the opportunity to revisit both of the themes which had featured in the authorities to date on the question whether a minister was employed under a contract of service.	Ratio
+The leading speech for the majority was delivered by Lord Nicholls, with whom Lord Scott and Baroness Hale agreed.	Ratio
+Lord Nicholls regarded office- holding as an unsatisfactory criterion, at any rate on its own, for deciding whether a person was employed.	Ratio
+The concept is clear enough but the boundaries are not, except in the case of holders of a small number of offices which have long been recognised as such by the common law, such as constables and beneficed clergymen of the Church of England.	Ratio
+Moreover, offices and employments are not always mutually exclusive categories.	Ratio
+A contract of employment is capable of subsisting side by side with many of the characteristics of an office.	Ratio
+It followed that the classification of a ministers occupation as an office was no more than one factor in a judgment that depended on all the circumstances.	Ratio
+Turning to the spiritual character of a ministers calling, Lord Nicholls recognised its relevance but pointed out that it could not be conclusive.	Ratio
+At paras 23-25, he said: 23.	Ratio
+There are indeed many arrangements or happenings in church matters where, viewed objectively on ordinary principles, the parties cannot be taken to have intended to enter into a legally-binding contract.	Ratio
+The matters relied upon by Mr Parfitt in President of the Methodist Conference v Parfitt [1984] QB 368 are a good example of this.	Ratio
+The nature of the lifelong relationship between the Methodist Church and a minister, the fact that he could not unilaterally resign from the ministry, the nature of his stipend, and so forth, all these matters made it impossible to suppose that any legally-binding contract came into being between a newly-ordained minister and the Methodist Church when he was received into full connection.	Ratio
+Similarly with the Church's book of rules relied on by the Reverend Colin Davies in Davies v Presbyterian Church of Wales [1986] I WLR 323.	Ratio
+Then the rebuttable presumption enunciated by the Lord President in the present case, following Mummery LJ's statements of principle in Diocese of Southwark v Coker [1998] ICR 140, 147, may have a place.	Ratio
+Without more, the nature of the mutual obligations, their breadth and looseness, and the circumstances in which they were undertaken, point away from a legally-binding relationship.	Ratio
+24.	Ratio
+But this principle should not be carried too far.	Ratio
+It cannot be carried into arrangements which on their face are to be expected to give rise to legally-binding obligations.	Ratio
+The offer and acceptance of a church post for a specific period, with specific provision for the appointee's duties and remuneration and travelling expenses and holidays and accommodation, seems to me to fall firmly within this latter category.	Ratio
+25.	Ratio
+Further, in this regard there seems to be no cogent reason today to draw a distinction between a post whose duties are primarily religious and a post within the church where this is not so.	Ratio
+In President of the Methodist Conference v Parfitt [1984] QB 368, 376, Dillon LJ noted that a binding contract of service can be made between a minister and his church.	Ratio
+This was echoed by Lord Templeman in your Lordships' House in Davies v Presbyterian Church of Wales [1986] I WLR 323, 329.	Ratio
+Lord Templeman said it is possible for a man to be employed as a servant or as an independent contractor to carry out duties which are exclusively spiritual.	Ratio
+26 The context in which these issues normally arise today is statutory protection for employees.	Ratio
+Given this context, in my view it is time to recognise that employment arrangements between a church and its ministers should not lightly be taken as intended to have no legal effect and, in consequence, its ministers denied this protection.	Ratio
+Applying these principles to Ms Percys case, Lord Nicholls had no difficulty in finding that she had contracted personally to execute any work or labour.	Ratio
+This was because of the manner in which she had been engaged.	Ratio
+The relevant committee of the Church of Scotland had invited applications, referring to the duties, the terms of service and the remuneration associated with the job.	Ratio
+Ms Percy had responded, was offered the job and sent a full copy of the terms.	Ratio
+She replied formally accepting it.	Ratio
+These circumstances suggested a contractual relationship, and nothing in the terms was inconsistent with that.	Ratio
+Lord Hope, in a concurring judgment, reached the same conclusion, pointing out that the manner of appointment of an associate minister was significantly different from the induction of a minister to a charge.	Ratio
+He considered that if the relationship was contractual at all, the contract was one which engaged the anti-discrimination provisions of the statute.	Ratio
+He accepted that Ms Percy was appointed to an office.	Ratio
+But, like Lord Nicholls, he thought that there was no reason why the duties of that office should not be performed under a contract.	Ratio
+The circumstances in which Ms Percy was engaged showed that this was what the parties had intended in her case.	Ratio
+It is clear from the judgments of the majority in Percy that the question whether a minister of religion serves under a contract of employment can no longer be answered simply by classifying the ministers occupation by type: office or employment, spiritual or secular.	Ratio
+Nor, in the generality of cases, can it be answered by reference to any presumption against the contractual character of the service of ministers of religion generally: see, in particular, Baroness Hale at para 151.	Ratio
+The primary considerations are the manner in which the minister was engaged, and the character of the rules or terms governing his or her service.	Ratio
+But, as with all exercises in contractual construction, these documents and any other admissible evidence on the parties intentions fall to be construed against their factual background.	Ratio
+Part of that background is the fundamentally spiritual purpose of the functions of a minister of religion.	Ratio
+The constitution and standing orders of the Methodist Church	Ratio
+Methodist ministers have no written contract of employment.	Ratio
+Their relationship with the Church is governed by its constitution, which is contained in the Deed of Union, by the standing orders of the Methodist Conference, and by such specific arrangements (if any) as may have been made with a particular minister.	Ratio
+It is convenient to deal first with the position of the Methodist ministry generally, before examining any special arrangements with Ms Preston.	Ratio
+Ms Rose QC, who appeared for the President of the Methodist Conference, invited us to approach these instruments on the footing that in the absence of anything in them amounting to an express contract of employment, it was necessary to imply one.	ARG
+For this purpose, she submitted, the test was one of necessity.	ARG
+If the essential features of the arrangements described in the Deed of Union and the standing orders were capable of being explained without reference to an employment relationship, then no such relationship should be held to exist.	ARG
+I reject this submission for three reasons.	Ratio
+In the first place, in modern conditions, against the background of the broad schemes of statutory protection of employees, it should not readily be assumed that those who are engaged to perform work and receive remuneration intend to forgo the benefits of that protection, even where the work is of a spiritual character.	Ratio
+Secondly, as Lord Hope pointed out in Percy, at para 107 the practical effect of the suggested approach is to reintroduce the presumption of non-contractual status in the case of ministers of religion, which he, along with the majority in that case rejected in principle.	Ratio
+Third, whatever the legal classification of a Methodist ministers relationship with his Church, it is not sensible to regard it as implied.	Ratio
+It is documented in great detail in the Deed of Union and the standing orders.	Ratio
+The question is whether the incidents of the relationship described in those documents, properly analysed, are characteristic of a contract and, if so, whether it is a contract of employment.	Ratio
+Necessity does not come into it.	Ratio
+The Deed of Union, in its original form, was agreed in 1932 when the Wesleyan Methodist Church united with the Primitive Methodist Church and the United Methodist Church and other Methodist denominations to form the Methodist Church of Great Britain.	Ratio
+The governing body of the Church is the Conference, which meets annually and transacts business in two sessions, the Representative Session and the Ministerial Session.	Ratio
+The Representative Session comprises designated office-holders and representatives.	Ratio
+The Ministerial Session comprises those members of the Representative Session who are ministers, together with certain other categories of ministers.	Ratio
+The senior officer of the Church is the President of the Conference, who is designated as such by a vote of the previous Conference.	Ratio
+Detailed provision is made for every aspect of the government of the Church by standing orders made by the Conference.	Ratio
+For the purposes of its ministry, the Church is divided into geographical circuits, each of which is governed by its Circuit Meeting, Circuit Stewards, and committees appointed for special purposes.	Ratio
+The Church adheres to the doctrine of the priesthood of all believers.	STA
+Section 2, clause 4 of the Deed of Union records, Christs ministers in the church are stewards in the household of God and shepherds of his flock.	STA
+Some are called and ordained to this sole occupation and have a principal and directing part in these great duties but they hold no priesthood differing in kind from that which is common to all the Lords people and they have no exclusive title to the preaching of the gospel or the care of souls.	STA
+Section 7, clause 23(h) of the Deed of Union provides that to become a minister a candidate must first obtain the judgment of the Ministerial Session that he or she is fit to be admitted into full connexion and ordination.	STA
+The Representative Session must then resolve that he or she is to be admitted and ordained.	STA
+The candidate is then ordained by laying on of hands.	STA
+Standing order 700(2) provides that [b]y receiving persons into full connexion as Methodist ministers the Conference enters into a covenant relationship with them in which they are held accountable by the Church in respect of their ministry and Christian discipleship, and are accounted for by the Church in respect of their deployment and the support they require for their ministry.	STA
+Standing order 740(1)(a) provides that [i]n this relationship they accept a common discipline of stationing and collegially exercise pastoral responsibility for the Church.	STA
+Stationing is a critical part of the management of the Church.	STA
+It is the formal act by which a minister is assigned to particular duties.	STA
+Section 20 of the Deed of Union requires the Conference annually to station ministers and probationers, although by section 29 they may be stationed between Conferences by the current President of the Conference.	STA
+The standing orders make detailed provision for the process by which a minister is stationed.	STA
+The first stage is an invitation from a Circuit, which is issued by the Circuit Invitation Committee, on the proposal of the Stewards: see standing order 540.	STA
+The next stage is that current invitations issued by the Circuits are reported to the Stationing Committee of the Conference under standing order 782 once a year by an appointed date.	STA
+This body then makes recommendations to the Representative Session of the next Conference.	STA
+It is the Conference which makes the final decision: see standing order 322.	STA
+Standing order 700(1) provides that [m]inisters are ordained to a life-long presbyteral ministry of word, sacrament and pastoral responsibility in the Church of God which they fulfil in various capacities and to a varying extent throughout their lives.	STA
+It is clear that the life-long character of the ministry is more than just an aspiration.	STA
+A minister can cease to be in full connexion only in limited circumstances, none of which is wholly dependent on his or her wishes.	STA
+Under standing order 760, he or she may send a notice of resignation to the President of the Conference, but it is up to the President, advised by a special committee, to decide whether to accept it.	STA
+Otherwise, a minister may cease to be in full connexion if a disciplinary charge is brought and a Disciplinary Committee exercises its power under standing order 1134 to decide that he or she shall cease to be a minister... in full connexion.	STA
+It should be noted that the disciplinary scheme is the same for ministers and lay members, so far as the distinction is meaningful in a church in which the ministry is not a distinct order or class.	STA
+Standing order 1100(3)(ii) provides that there should be no difference in principle between ordained and lay people in the way in which complaints against them are dealt with.	STA
+For as long as a minister remains in full connexion he or she must be stationed, save in two cases.	Ratio
+The first is that one of the exceptions in standing order 774 applies, i.e. the minister receives a discretionary exemption from the Ministerial Session of the Conference, or is required to be without appointment by the Stationing Committee on the ground that no appointment can be found.	Ratio
+The second is that they are permitted by the Ministerial Session of the Conference to become supernumeraries (i.e. retire) under standing order 790 on account of their age, length of service or ill-health or on compassionate grounds.	Ratio
+Retirement is, however, a relative term.	Ratio
+Even supernumerary ministers are required under standing order 792 to continue to exercise their ministry as he or she is able.	Ratio
+All ministers in full connexion who are not permitted to be without appointment under one of these provisions, are defined by section 1 of the Deed of Union as being in the active work.	Ratio
+Section 80 of the standing orders provides for the support and maintenance of ministers.	STA
+Under standing order 801, all ministers in active work and all stationed probationers are entitled to a stipend throughout their ministry, including periods of unlimited duration when they may be unable to perform their duties on account of illness or injury.	STA
+In addition, they are entitled under standing order 803 to a manse to serve as a home and as a base for their ministry.	STA
+Neither the stipend nor the manse are regarded by the Methodist Church as the consideration for the services of its ministers.	STA
+They regard them as a method of providing the material support to the minister without which he or she could not serve God.	STA
+In the Churchs view, the sale of a ministers services in a labour market would be objectionable, as being incompatible with the spiritual character of their ministry.	STA
+If the arrangements governing the ministry described in the Deed of Union and the standing orders are a contract between the minister in that capacity and the Methodist Church, then it seems to me inevitable that they must be classified as a contract of employment.	Ratio
+But that only increases the difficulty of regarding them as a contract at all.	Ratio
+Three points seem to me to be cumulatively decisive.	Ratio
+First, the manner in which a minister is engaged is incapable of being analysed in terms of contractual formation.	Ratio
+Neither the admission of a minister to full connexion nor his or her ordination are themselves contracts.	Ratio
+Thereafter, the ministers duties are not consensual.	Ratio
+They depend on the unilateral decisions of the Conference.	Ratio
+Secondly, the stipend and the manse are due to the minister by virtue only of his or her admission into full connexion and ordination.	Ratio
+While he or she remains in full connexion and in the active life, these benefits continue even in the event of sickness or injury, unless he or she is given leave of absence or retires.	Ratio
+In addition to the stipend and the manse, the minister has certain procedural rights derived from the disciplinary scheme of the Deed of Union and the standing orders, which determine the manner in which he or she may be suspended or removed from ministerial duties.	Ratio
+But the disciplinary scheme is the same for all members of the Church whether they are ministers or ordinary lay members.	Ratio
+Third, the relationship between the minister and the Church is not terminable except by the decision of the Conference or its Stationing Committee or a disciplinary committee.	Ratio
+There is no unilateral right to resign, even on notice.	Ratio
+I conclude that the ministry described in these instruments is a vocation, by which candidates submit themselves to the discipline of the Church for life.	Ratio
+Unless some special arrangement is made with a particular minister, the rights and duties of ministers arise, as it seems to me, entirely from their status in the constitution of the Church and not from any contract.	Ratio
+Ms Prestons ministry	Ratio
+Conscious of the difficulties posed by the Deed of Union and the standing orders, Mr Bowers QC (who appeared for Ms Preston) founded his case mainly on the particular circumstances in which his client came to be stationed at the Redruth Circuit.	Ratio
+These, he suggested, did amount to a special arrangement with his client, analogous to the one which was held to be contractual by the majority in Percy.	Ratio
+The facts are that Ms Preston was initially stationed by the Conference as a probationer minister in Taunton Circuit in September 2001.	FAC
+She was admitted to full connexion by the 2003 Conference and thereupon ordained.	FAC
+She was then stationed as a full minister by the same Conference at the Taunton Circuit where she had been working as a probationer for the past two years.	FAC
+In November 2005, she was invited by the Invitation Committee of the Redruth Circuit to become a Superintendent Minister there.	FAC
+A Superintendent Minister is the senior minister of a circuit with a number of other ministers.	FAC
+The Redruth Circuit Steward wrote to her on 19 November 2005 confirming the invitation in the following terms: Following our telephone conversation last Monday, I can confirm the invitation made by the Redruth Methodist Circuit to offer you the position of Superintendent Minister commencing September 2006 for a period of five years.	FAC
+On 22 November, Ms Preston replied: Many thanks for your letter officially inviting me to serve as Superintendant Minister in the Redruth Circuit from September 2006.	FAC
+I write to confirm my acceptance of the invitation and express my thanks to the invitation committee.	FAC
+In other contexts, an exchange of letters like this one might well have given rise to a contract.	Ratio
+The difficulty here is that the exchange occurred within the framework of the standing orders, from which it is clear that it was only part of a much longer procedure.	Ratio
+Under the standing orders, the circuits have no power to make an appointment.	Ratio
+The circuits invitation is no more than a proposal to the Conference Stationing Committee that they should recommend the candidate to the Conference for stationing in their circuit.	Ratio
+While every effort is made to meet the preferences of both circuits and ministers, the decision is reserved to the Conference.	Ratio
+It may be delegated only to the President of the Conference, and then only if the appointment has to be made between Conferences.	Ratio
+The relevant relationship is between the minister and the Conference, which may move him or her from one circuit to another even before the end of the period for which the circuit invited the candidate to serve.	Ratio
+There is no fresh relationship with each invitation or even with each appointment.	Ratio
+It follows that Ms Preston was serving as a minister at Redruth not pursuant to the five-year relationship envisaged in the exchange of letters, but pursuant to the life-long relationship into which she had already entered two years before the exchange of letters, when she was ordained.	Ratio
+The nature of that relationship was wholly dependent on the Deed of Union and standing orders under which she took that step.	Ratio
+It makes no difference to this analysis that Ms Preston was appointed as a Superintendant Minister at Redruth.	Ratio
+That was simply the role for which she was stationed by the Conference.	Ratio
+The decisions of the Employment Appeal Tribunal and the Court of Appeal	RLC
+The Employment Appeal Tribunal and the Court of Appeal considered that Ms Preston was an employee, essentially because a Methodist minister served under arrangements of a kind which, in the words of Lord Nicholls in Percy, at para 24, on their face are to be expected to give rise to legally binding obligations.	RLC
+This was because they provided for the ministers duties, remuneration, accommodation, and the like.	RLC
+It is somewhat unclear at what stage and by virtue of what acts the parties entered into the contract of employment which they discerned.	RLC
+The Employment Appeal Tribunal appears to have thought that the contract was made by the offer and acceptance of a Church post for a specified period when Ms Preston was invited to serve in the Redruth Circuit: [2011] ICR 819.	RLC
+The Court of Appeal endorsed their conclusion generally, without giving specific attention to this aspect of the matter: [2012] QB 735.	RLC
+This conclusion gives rise to three principal difficulties.	Ratio
+First, if it is correct, it would mean that almost any arrangements for the service of a minister of religion would be contractual unless the minister was a non-stipendiary volunteer.	Ratio
+Secondly, the analysis which makes the circuits invitation and its acceptance into a contract is not consistent with the function of the invitation under the standing orders.	Ratio
+The difficulty of identifying any acts by which the contract can be said to have been made is symptomatic of a broader problem of fitting the supposed contract within the scheme of the Churchs constitution, which the courts below have not really addressed.	Ratio
+Third, and fundamentally, the conclusion of the courts below brought them up against the difficulty that Lord Nicholls, at para 23, apparently endorsed the decision in Parfitt, in which the facts were indistinguishable from those of the present case and the terms of the Deed of Union and standing orders were in all relevant respects the same.	Ratio
+They surmounted this difficulty by subjecting the speeches to a minute analysis, what Maurice Kay LJ in the Court of Appeal called the fine toothcomb treatment.	Ratio
+From this, they concluded that Lord Nicholls observations about Parfitt were inconsistent with his own test and with the speeches of those who agreed with him, and might therefore properly be disregarded.	Ratio
+Underhill J, delivering the judgment of the Employment Appeal Tribunal, thought that he might have been describing only the historic position, but acknowledged that that is not what he appeared to be saying.	Ratio
+In my view both courts below over-analysed the decision in Percy, and paid insufficient attention to the Deed of Union and the standing orders which were the foundation of Ms Prestons relationship with the Methodist Church.	Ratio
+The question whether an arrangement is a legally binding contract depends on the intentions of the parties.	Ratio
+The mere fact that the arrangement includes the payment of a stipend, the provision of accommodation and recognised duties to be performed by the minister, does not without more resolve the issue.	Ratio
+The question is whether the parties intended these benefits and burdens of the ministry to be the subject of a legally binding agreement between them.	Ratio
+The decision in Percy is authority for the proposition that the spiritual character of the ministry did not give rise to a presumption against the contractual intention.	Ratio
+But the majority did not suggest that the spiritual character of the ministry was irrelevant.	Ratio
+It was a significant part of the background against which the overt arrangements governing the service of ministers must be interpreted.	Ratio
+Nor did they suggest that the only material which might be relevant for deciding whether the arrangements were contractual were the statements marking the ministers engagement, although it so happened that there was no other significant material in Ms Percys case.	Ratio
+Part of the vice of the earlier authorities was that many of them proceeded by way of abstract categorisation of ministers of religion generally.	Ratio
+The correct approach is to examine the rules and practices of the particular church and any special arrangements made with the particular minister.	Ratio
+What Lord Nicholls was saying was that the arrangements, properly examined, might well prove to be inconsistent with contractual intention, even though there was no presumption to that effect.	Ratio
+He cited the arrangements governing the service of Methodist ministers considered in Parfitt as an example of this, mainly for the reasons given in that case by Dillon LJ.	Ratio
+These were, essentially, the lifelong commitment of the minister, the exclusion of any right of unilateral resignation and the characterisation of the stipend as maintenance and support.	Ratio
+There is nothing inconsistent between his view on these points and the more general statements of principle appearing in his speech and in the speeches of those who agreed with him.	Ratio
+Conclusion	Ratio
+I would allow the appeal and restore the order of the Employment Tribunal dismissing Ms Prestons claim.	RPC
+Careful written arguments were presented to us on the question whether, and if so on what basis, a minister could enforce a claim to a stipend and to the occupation of a manse in the absence of a contract.	Ratio
+I am inclined to think, with Lord Templeman in Davies v Presbyterian Church of Wales [1986] 1 WLR 328, that the answer to that question is that these benefits are enforceable as part of the trusts of the Churchs property, but I should prefer to leave that question to a case in which it arises and in which fuller material is available for resolving it.	Ratio
+For the reasons given by Lord Sumption, I too would allow the appeal and restore the order of the Employment Tribunal.	RPC
+We were urged by the respondent to recognise the true nature of her relationship with the Church in the modern sense indicated by Lord Nicholls in Percy v Board of National Mission of the Church of Scotland [2006] 2 AC 28, paras 25 and 26.	Ratio
+I have no difficulty with that proposition so far as it goes, or with the points that Lady Hale makes that we can approach the issue with an open mind and without the distractions of a presumption either one way or the other: see paras 35 and 45.	Ratio
+Although section 2, clause 4 of the Deed of Union declares that Christs ministers in the Church are stewards in the household of God and shepherd of his flock and the standing orders build on that principle, this does not mean that they cannot be in the employment of those who decide how their ministry should be put to the service of the church: Baroness Hale of Richmond in Percy, para 146.	Ratio
+But it does not solve the problem which the respondent faces in this case, due to the fact that she did not have the benefit of an express contract of employment with the Church, whether written or oral, and to the absence of clear grounds for holding that a contract of employment can be implied.	Ratio
+Much of the argument in Percy was directed to the question whether the matters which Ms Percy wished to raise were matters spiritual within the meaning of section 3 and Article IV of the Declaratory Articles annexed to the Church of Scotland Act 1921.	Ratio
+Section 3 provides that nothing in that Act shall affect or prejudice the jurisdiction of the civil courts in relation to a matter of a civil nature.	Ratio
+But the effect of Article IV is that the civil authority has no right of interference in the proceedings and judgments of the Church in the sphere of its spiritual government and jurisdiction.	Ratio
+So it was necessary for the appellate committee to satisfy itself that the exercise of the exclusive jurisdiction of the Church in spiritual matters did not extend to the question whether Ms Percys relationship with the Church was one of employment for the purposes of the Sex Discrimination Act 1975.	Ratio
+The Church accepted the principle of equal treatment, but claimed exclusive jurisdiction to deal with Ms Percys claim that she had been wronged by the Churchs failure to apply that principle to her.	Ratio
+Her claim failed in the Court of Session on the ground that her agreement with the Board was for her to perform duties which were, in their very essence, spiritual: 2001 SC 757, para 11, per Lord President Rodger.	Ratio
+In para 14 he said that the formality of the documents did not disclose an intention to create relationships under the civil law.	Ratio
+Rather, it reflected the serious way in which the Church regulated matters falling within the spiritual sphere.	Ratio
+But, as Lord Nicholls explained, by any ordinary understanding of the expression matters spiritual, if the Church authorities enter into a contract of employment with one of its ministers, the exercise of statutory rights attached to the contract would not be regarded as a spiritual matter: [2006] 2 AC 28, para 40; see also paras 132, 133.	Ratio
+So the exercise of the exclusive jurisdiction of the Church in spiritual matters did not extend to a claim by persons employed within the meaning of section 82(1) of the 1975 Act that they had been unlawfully discriminated against.	Ratio
+The spiritual character of Ms Percys ministry was, therefore, part of the background to her case.	Ratio
+But, once it had been decided that the question was a civil and not a spiritual matter, the question was simply whether the employment arrangements which plainly existed between Ms Percy and the Board were intended to have legal effect so that it could be held that a contract existed.	Ratio
+The spiritual background had no part to play in that assessment.	Ratio
+As Lord Nicholls said in para 25, there seemed to be no cogent reason for drawing a distinction between a post whose duties were primarily religious and a post within the church that was not so.	Ratio
+In this case, however, the question is whether there were any arrangements of an employment nature at all.	Ratio
+One cannot simply ignore the Churchs doctrinal reasons for regarding such arrangements as unnecessary.	Ratio
+On the contrary, they provide an essential part of the factual background.	Ratio
+They explain why the situation in which the respondent found herself was as it was.	Ratio
+In finding that there was no contract, the court is not ignoring the modern approach to these matters.	Ratio
+What it cannot ignore is the fact that, because of the way the Church organises its own affairs, the basis for the respondents rights and duties is to be found in the constitutional provisions of the Church and not in any arrangement of the kind that could be said to amount to a contract.	Ratio
+The issue in this case concerns the essential character of the relationship between a Minister in full connexion with the Methodist Church who holds a particular appointment within the Church and the governing body of the Church.	Ratio
+Is it a relationship which gives rise to legal rights and duties on both sides? If so, what are those rights and duties? And are they to be characterised as a contract of employment? If they are, it is not possible to contract out of the rights conferred by the Employment Rights Act 1996: section 203.	Ratio
+Just as there is nothing in the relevant documentation which says that the relationship in this case was a contract of employment, there is nothing which says that it is not.	Ratio
+We can approach the issue with an open mind.	Ratio
+Until the decision of the House of Lords Percy v Board of National Mission of the Church of Scotland [2005] UKHL 73, [2006] 2 AC 28, such questions were clouded by two matters.	Ratio
+The first was an assumption that because a minister is called upon to serve her God in a particular way, there cannot be a contract between the minister and her Church.	Ratio
+But the relationship between a minister of religion and her Church, which is a temporal one, is not to be confused with the relationship between a minister of religion and her God, which is a spiritual one.	Ratio
+As Ms Rose QC on behalf of the Methodist Church properly accepts, there is nothing intrinsic to religious ministry which is inconsistent with there being a contract between the minister and the Church.	Ratio
+It is normal for rabbis to be employed by a particular synagogue, for example.	Ratio
+Priests appointed in the Church of England are now engaged on terms which expressly provide that they have the right to complain of unfair dismissal to an employment tribunal (and existing holders of a benefice may opt in to the new arrangements should they so wish).	Ratio
+Now that this assumption has been cleared out of the way, we can get down to the real task of analysing the relationship, although of course the spiritual nature of some (but by no means all) of the duties involved is an important part of the context.	Ratio
+The other matter which has clouded the question is that many of the posts held by ministers of religion may be characterised as offices, in the sense that the post has a permanent existence irrespective of whether there is currently an incumbent.	Ratio
+It was for a long time the law that people who held offices in the service of the Crown did not have contracts of employment.	Ratio
+This still applies to police officers, but it no longer applies to the generality of civil servants.	Ratio
+But outside the service of the Crown, it has always been possible for a person to be both an office holder and an employee.	Ratio
+Managing directors are the most obvious example.	Ratio
+Another is University teachers, who may hold the office of (say) Professor at the same time as having a contract of employment: see Thomas v University of Bradford [1987] AC 795.	Ratio
+Universities have a good deal in common with organised religion, being charitable bodies with a written constitution, consisting of a foundational document, the Charter, together with the Ordinances, Statutes and Regulations made under it.	Ratio
+These have typically given rights to both staff and students, rights which were traditionally superior to those given them by the common law.	Ratio
+The constitutional documents of the Methodist Church bear a strong resemblance to such documents.	Ratio
+The Methodist Church as we know it today was formed from the union of the Wesleyan Methodist Church, the Primitive Methodist Church and the United Methodist Church, under a deed of union (DU) executed on 20 September 1932 pursuant to the Methodist Church Union Act 1929, which was repealed and replaced by the Methodist Church Act 1976.	Ratio
+The Constitutional Practice of the Church is governed by the 1976 Act and some other local Acts dealing with aspects of the administration of the Church, the Deed of Union as from time to time amended by the Methodist Conference, which is the governing body of the Church, and the Standing Orders (SO) made under clause 19 of the Deed of Union.	Ratio
+It is these documents, coupled with any correspondence between individuals in pursuance of them, which tell us whether there is a contract between a Minister and the Church and if so, what sort of a contract it is.	Ratio
+The Church holds the doctrine of the priesthood of all believers, so Ministers are not a class apart from any other member of the Church; rather, they are people who hold special qualifications for the discharge of special duties (DU, clause 4).	STA
+Candidates who are chosen and trained for the Ministry are admitted to full connexion with the Church in the representative session of the Methodist Conference, provided that the ministerial session judges that they are fit for admission and ordination (DU, clause 23(h)).	STA
+If not already ordained, they shall be ordained by the laying on of hands at a service held during the same meeting (SO, 728(6)).	STA
+They are ordained to a life-long presbyteral ministry of word, sacrament and pastoral responsibility . .	STA
+.	STA
+which they fulfil in various capacities throughout their lives (SO, 700(1)).	STA
+By receiving persons into full connexion as Methodist ministers the Conference enters into a covenant relationship with them in which they are held accountable by the Church in respect of their ministry and Christian discipleship, and are accounted for by the Church in respect of their deployment and the support they require for their ministry (SO, 700(2)).	STA
+They accept a common discipline of stationing (SO, 740(1)), and most have a responsibility to engage in reflective learning and development (SO, 743), and in further study, training and professional development (SO, 745).	STA
+Most ministers are in active work but some are not.	STA
+Those who are not may be temporarily released to go abroad (SO, 700(4), or be supernumerary (basically, those retired from active work) or without appointment (basically, those for whom no suitable station can be found), but they are expected to continue to exercise their ministry as far as they are able (SO, 700(5)).	STA
+By seeking permission to become a supernumerary, a minister thereby requests an alteration in the terms and conditions of his or her service (SO, 791).	STA
+Ministers in active work exercise their ministry primarily where they are stationed (SO, 700(3)).	STA
+Stationing is a crucial part of the relationship between the Church and those in active work.	STA
+The Conference shall annually station as ministers, deacons and probationers such persons as it thinks fit (DU, clause 20).	STA
+There are several different types of station, but the principal station is in a Circuit appointment in a home District (SO, 780(1)(i)).	Ratio
+If a Circuit needs a minister, the Circuit authorities will follow the Guidance on how to go about issuing an invitation to a particular person (SO, 541), who may indicate her willingness to accept it (Guidance on the Stationing of Ministers and Deacons, D(4)).	Ratio
+The initial invitation is for a period of five years (SO, 543).	Ratio
+The invitation is then forwarded to the Stationing Committee of Conference.	Ratio
+Nothing in the Standing Orders about Circuit invitations detracts from the ultimate authority of Conference over appointments annually (SO, 549).	Ratio
+The Stationing Committee gathers the information about the ministers seeking a station and the Circuit or other bodies seeking to make appointments, matches them and prepares a draft list of proposed stations which is then submitted to Conference (SO, 782).	Ratio
+There is scope for amendment, but eventually a list is adopted by Conference.	Ratio
+Ministers who are moving to a new appointment are expected to move in the first week in August and to take up their duties on 1st September (SO, 785).	Ratio
+Part 8 of the Standing Orders is headed Terms of Service.	STA
+These deal with the right to a stipend (SO, 801), the right of a Circuit minister to be provided with a manse as a base for the work of ministry as well as a home (SO, 803), membership of the pension scheme (SO, 805), parenthood (SO, 806), including antenatal care, maternity, paternity, adoption and parental leave (SO, 807 to 807D).	STA
+There is a Connexional Allowances Committee which annually recommends stipends to Conference.	STA
+There is a standard stipend and allowances for extra responsibilities, including those of a superintendent minister.	STA
+Part 11 of the Standing Orders deals with complaints and discipline.	STA
+It does apply to all members of the Church but it also deals with a wide range of complaints, only some of which will involve charges.	STA
+There is a special procedure for charges of serious breaches of Church discipline, which could result in the removal of a minister from full connexion (SO, section 113).	STA
+The complaints team is expected to assess whether a complaint should be dealt with under a different process (SO, 1123(5)).	STA
+This includes the process for Circuits to decide that the appointment of a minister should be curtailed, which is the more appropriate process where a Circuit and a minister are at odds with one another but there has been no serious breach of church discipline (SO, 544).	STA
+It also includes requesting the President to inquire into a relevant Circuit (SO, 1123(6)), which is what seems to have happened in this case.	STA
+Now that we are able to concentrate on the details of the relationship, without the distractions of a presumption against legal relations or the characteristics of an office, several things become clear.	Ratio
+The first is that it would be very odd indeed if a minister who was not paid her stipend or was threatened with summary eviction from her manse could not rely upon the terms of her appointment either to enforce the payment or to resist a possession action.	Ratio
+Some time was devoted at the hearing to discussing what legal redress would be available to her if she could not rely upon the terms of a contract.	Ratio
+The suggestion was that she would be a beneficiary under the trusts upon which the Church holds its property.	Ratio
+The trouble with this is that the Church holds property under any number of different trusts, whereas the stipend is paid centrally even if the funds with which to pay it are raised locally.	Ratio
+The body which controls her and is responsible for her remuneration and accommodation is Conference.	Ratio
+The second is that a distinction has to be drawn between being a minister being in full connexion with the Methodist Church - and having a particular station or appointment within it.	Ratio
+That distinction was not as fully explored in the courts below as it was with us.	Ratio
+But once it is, in my view the position becomes clear.	Ratio
+Admission to full connexion brings with it a life-long commitment to the Church and its ministry.	Ratio
+Quite apart from the individual covenant which every member makes with her Church and with her God, the Methodist Church is an evangelical Church (DU, clause 4).	Ratio
+That is why retired ministers are still expected to do what they can to further the work of the Church and no person in full connexion can give up her commitment to do this without its permission..	Ratio
+But that can be contrasted with the particular posts to which a minister is assigned.	Ratio
+There is a process of assignment which begins with the invitation and acceptance at Circuit level (and no doubt something similar for other stations), continues into the matching process at Stationing Committee level, and is confirmed by Conference (although nominally an annual process, this is clearly a rubber stamp during the expected five years of a particular Circuit appointment).	Ratio
+The assignment is to a particular post, with a particular set of duties and expectations, a particular manse and a stipend which depends (at the very least) on the level of responsibility entailed, and for a defined period of time.	Ratio
+In any other context, that would involve a contract of employment in that post.	Ratio
+The spiritual nature of some of the duties entailed does not necessarily entail a different conclusion.	Ratio
+There is a spiritual component on each side of this covenant relationship.	Ratio
+The main factor which tells against there being a contract between the minister and the Church in relation to the particular station to which the minister is assigned is that the minister has no choice.	Ratio
+She must go where Conference stations her.	Ratio
+The reality is almost certainly completely different (although we do not have much evidence about this): ministers do have to go where they are put, but it would be a very foolish Stationing Committee which assigned a minister to a station where she was not willing to serve.	Ratio
+The assignment would not be specifically enforceable.	Ratio
+But I do not think that a prior commitment to go where you are sent negates a mutual contractual relationship when you are sent and agree to go to a particular place.	Ratio
+Yet this is the main reason for denying a contractual relationship in this case.	Ratio
+Everything about this arrangement looks contractual, as did everything about the relationship in the Percy case.	Ratio
+It was a very specific arrangement for a particular post, at a particular time, with a particular manse and a particular stipend, and with a particular set of responsibilities.	Ratio
+It was an arrangement negotiated at local level but made at national level.	Ratio
+The Church may well have had good reasons to be troubled about the respondents performance.	Ratio
+But the allegation is that, instead of addressing those directly, they reorganised the Circuits so as, in effect, to make any investigation of whether or not those complaints were justified unnecessary, thus depriving the respondent of her post by organising it out of existence, without any of the safeguards to which she would otherwise have been entitled.	Ratio
+In my view, the EAT and the Court of Appeal reached the right result in this case and I would dismiss this appeal.	RPC

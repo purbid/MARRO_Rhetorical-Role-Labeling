@@ -1,0 +1,534 @@
+The Political Parties, Elections and Referendums Act 2000 (the Act) introduced, for the first time in this country, restrictions on the donations that can be made to registered political parties.	FAC
+All statutory references in this judgment are to the Act.	FAC
+Part IV of the Act specifies those from whom it is permissible for political parties to accept donations.	FAC
+Donations from an individual may only be accepted if the donor is on an electoral register.	FAC
+The Act confers on a magistrates court the power, at the instigation of the Electoral Commission (the Commission), to forfeit from party funds a sum equal to a donation that has been accepted from an impermissible source.	FAC
+This appeal raises the question of the criteria that should properly be applied by a magistrates court when exercising this power.	Ratio
+This question is of particular interest to the United Kingdom Independence Party (UKIP), a small registered political party which has yet to succeed in returning a member to Westminster.	FAC
+UKIP has relied for the majority of its funding on a single supporter, Mr Alan Bown.	FAC
+Since 2003 Mr Bown has made donations to the party, in one form or another, amounting to over 1 million.	FAC
+By inadvertence, between 1 December 2004 and 2 February 2006, he ceased to be on any electoral register.	FAC
+During this period his donations to UKIP amounted to 349,216.	FAC
+On 16 March 2007 the Commission made an application to the Senior District Judge in the City of Westminster Magistrates Court for an order forfeiting the whole of this sum.	FAC
+The Senior District Judge ordered the forfeiture of only a small proportion of this sum.	FAC
+The Act gives a political party a right to appeal to the Crown Court against a forfeiture order but no right of appeal is given to the Commission.	FAC
+UKIP did not appeal against the order of the Senior District Judge, but the Commission challenged his decision by an application for judicial review.	FAC
+In a judgment delivered on 22 January 2009 [2009] EWHC 78 (Admin) Walker J identified a wide range of matters to which the Senior District Judge should have had regard when considering the forfeiture application.	FAC
+He held that the Senior District Judge had failed to give adequate reasons for his decision and ordered that the case should be remitted to the magistrates court for further consideration.	FAC
+The Commission appealed to the Court of Appeal, and was successful [2009] EWCA Civ 1078.	FAC
+On 19 October 2009, giving the only reasoned judgment, Sir Paul Kennedy held that, on a true construction of the relevant provisions of the Act, the discretion of the Senior District Judge was very tightly circumscribed.	FAC
+There was a strong presumption in favour of forfeiture.	FAC
+Where a donation was received by a political party from an impermissible source a forfeiture order should follow as a matter of course in the absence of exceptional circumstances.	FAC
+The magistrates court should, on remission, reconsider the matter in accordance with this approach.	FAC
+Before this Court Mr Patrick Lawrence QC for UKIP has sought to uphold the approach of Walker J, whereas Mr Michael Beloff QC for the Commission has urged that the analysis of the Court of Appeal was correct.	FAC
+The difference between the two has been described as the presumption issue.	FAC
+The relevant provisions of the Act	STA
+Part I of the Act establishes the Commission which is given a wide range of regulatory powers and duties in relation to elections and political parties, including keeping under review the registration of political parties and the regulation of their income and expenditure (section 6(1)(e)).	STA
+Part IV deals with Control of Donations to Registered Parties and their Members etc.	STA
+Chapter II imposes restrictions on the receipt of donations.	STA
+Section 54(1) provides that a donation must not be accepted if the person seeking to make it is not, at the time of its receipt, a permissible donor, or if his identity cannot be ascertained.	STA
+Section 54(2) identifies those who are permissible donors.	STA
+These include an individual registered in an electoral register and a company registered under the Companies Act 2006, incorporated within the United Kingdom or another member state, and carrying on business in the United Kingdom.	STA
+Section 54(3) provides that a donation made in the form of a bequest will have been made by a permissible donor provided that he was registered in an electoral register at any time within the five year period that terminated with his death.	STA
+Section 56 imposes duties in relation to the acceptance or return of donations and imposes criminal sanctions for breach of those duties.	STA
+Where section 54 prohibits acceptance of a donation it must be returned within 30 days of receipt.	STA
+If it is not, both the party and the treasurer of the party are guilty of an offence, albeit that it is a defence to prove that all reasonable steps were taken to verify or ascertain whether the donor was a permissible donor and that, as a result, the treasurer believed that he was a permissible donor.	STA
+The effect of section 56(5) is that a donation will be deemed to have been accepted, even if it is returned within 30 days, unless a record can be produced of its receipt and its return.	STA
+Section 58 contains the provision that has given rise to this appeal.	STA
+It deals with forfeiture of donations that have been made by impermissible or unidentifiable donors.	STA
+Where these have been accepted, notwithstanding that their acceptance was prohibited, section 58(2) provides: The court may, on an application made by the Commission, order the forfeiture by the party of an amount equal to the value of the donation.	STA
+Section 58(4) makes it plain that such an order may be made whether or not proceedings are brought against any person for an offence connected with the donation.	STA
+Section 58(5) provides that in England and Wales the court is a magistrates court.	STA
+Section 60 provides that proceedings under section 58 shall be brought against the party in its own name and not in the name of any of its members and that any amount forfeited is to be paid out of the funds of the party.	STA
+It is notable that section 58 does not provide for the automatic forfeiture of any donation that is accepted from an impermissible source.	Ratio
+The provision that the court may order its forfeiture confers a discretion on the court.	Ratio
+Furthermore it has been common ground, rightly in my view, that the Commission also enjoys a discretion whether or not to make an application for forfeiture to the court.	Ratio
+The Act itself gives no indication of the criteria that should govern the exercise of either discretion.	Ratio
+It is the former discretion that is critical, but it would be strange if the courts discretion was narrower than that of the Commission.	Ratio
+The second issue of interpretation	Ratio
+The primary issue is the presumption issue.	Ratio
+Does section 58(2) confer a broad discretion on the court whether or not to make a forfeiture order, or is there a strong presumption in favour of forfeiture? But section 58(2) raises a secondary issue of interpretation.	Ratio
+It confers on the court a power to order forfeiture of an amount equal to the value of the donation.	Ratio
+Where the court exercises this power, does it have to order forfeiture of an amount equal to the total value of the donation, or is it implicit that the court has a discretion to order forfeiture of a lesser sum if it considers this appropriate? This has been described as the all or nothing issue.	Ratio
+There is a potential interrelationship between the presumption issue and the all or nothing issue.	Ratio
+The Commission argues that Parliament has deliberately chosen a stringent regime in order to ensure that political donations come from acceptable sources.	Ratio
+There is no half-way house.	Ratio
+Similar policy considerations support both a strong presumption in favour of forfeiture and a requirement that forfeiture should be total.	Ratio
+Conversely a wide discretion whether to forfeit or not sits better with a power to order partial forfeiture, so that the court has the flexibility to tailor its order to the particular facts.	Ratio
+The approach to interpretation	Ratio
+The answer to the all or nothing issue will not, however, determine the presumption issue.	Ratio
+This is demonstrated by the fact that both Walker J and the Court of Appeal held that the power conferred on the magistrates court by section 58(2) was an all or nothing power.	Ratio
+In these circumstances I have not found it helpful to try to answer the all or nothing issue first.	Ratio
+The more helpful approach is to consider the interpretation of section 58(2) having regard to the mischief at which it is aimed.	Ratio
+The parties are agreed that the discretion conferred by section 58(2) should be used to promote the policy and objects of the statute.	Ratio
+This proposition is supported by high authority see Padfield v Minister of Agriculture, Fisheries and Food [1968] AC 997 at 1030 per Lord Reid.	Ratio
+This principle led Lord Bridge to observe in R v Tower Hamlets London Borough Council, Ex p Chetnik Developments Ltd [1988] AC 858, at p 873: Thus, before deciding whether a discretion has been exercised for good or bad reasons, the court must first construe the enactment by which the discretion is conferred.	PRE
+Some statutory discretions may be so wide that they can, for practical purposes, only be challenged if shown to have been exercised irrationally or in bad faith.	Ratio
+But if the purpose for which the discretion is intended to serve is clear, the discretion can only be validly exercised for reasons relevant to the achievement of that purpose.	PRE
+In applying the Padfield principle in this case there are two questions to be asked.	Ratio
+The first is: what are the objects of the forfeiture permitted by section 58(2)? The second is: why has Parliament chosen to give the court a discretion whether or not to order forfeiture of a donation that has come from an impermissible source rather than to make such forfeiture automatic? To answer these questions it is necessary to look at the legislative history, which I believe provides the answer to each question.	Ratio
+The legislative history	Ratio
+The Labour Partys 1997 Election Manifesto announced the following intention: We will oblige parties to declare the source of all donations above a minimum figureForeign funding will be banned.	Ratio
+On 12 November 1997, shortly after taking up office, the Prime Minister extended the terms of reference of the Committee on Standards in Public Life to add: To review issues in relation to the funding of political parties, and to make recommendations as to any changes in present arrangements.	Ratio
+This led to the Fifth Report of the Committee, under the chair of Lord Neill of Bladen QC, on the Funding of Political Parties in the United Kingdom (the Neill Report), which was published in October 1998.	Ratio
+Chapter 4 of the Neill Report dealt with Donations: Transparency and Reporting.	Ratio
+It recommended the imposition on political parties of a duty to report the sources of donations, backed by criminal sanctions: 4.61 The reporting obligations of the political parties should be backed by criminal sanctions.	Ratio
+These should be so drafted as to distinguish between inadvertent and deliberate failure to report a disclosable donation.	Ratio
+In the latter case those responsible could be fined or imprisoned.	Ratio
+In both cases the court would have power to order the defaulting political party to forfeit a sum not exceeding the unreported donation.	Ratio
+Knowingly to make a false return should also be an offence.	Ratio
+Prosecutions would be put in the hands of the Director of Public Prosecutions and should not be the concern of the Election Commission.	Ratio
+Private prosecutions should be allowable.	Ratio
+Chapter 5 of the Neill Report dealt with Foreign Donations.	Ratio
+After setting out the arguments for and against a ban on foreign donations, the Committee reached the following conclusion: 5.16We have, therefore, concluded that, at a time when the whole question of the funding of political parties is being re-examined, it is right to take the opportunity to lay down the principle that those who live, work and carry on business in the United Kingdom should be the persons exclusively entitled to support financially the operation of the political process here.	Ratio
+The Report explained that the Committee had found it difficult to produce a definition of foreign donations for the purpose of banning these.	Ratio
+Accordingly they decided to approach the problem from the opposite direction by defining permissible sources from which alone donations could be received.	Ratio
+The Report explained: 5.20 We begin by considering those individuals from whom the political parties should be able to receive donations.	Ratio
+We believe that they come under two headings: those who are registered voters in the United (1) Kingdom; and (2) those who are eligible to be put on an electoral register in the United Kingdom.	Ratio
+5.21 As to the distinction between (1) and (2) above, we think that a donation could be properly received from a person who was eligible to be put on the electoral register because such a person already has, under existing legislation, the right to participate in the electoral process subject to taking the additional step of securing registration.	Ratio
+5.22 Categories (1) and (2) cover not only British subjects resident here, but extend to Commonwealth citizens resident here, citizens of the Republic of Ireland resident here, and citizens of the European Union resident here.	Ratio
+The categories also include persons known as overseas voters.	Ratio
+The test of entitlement to be entered on an electoral register was a rational basis for discriminating between donors with adequate connections with the United Kingdom and foreign donors.	Ratio
+British, Republic of Ireland, Commonwealth and European Union citizens are entitled to register on an electoral register in the electoral area in which they reside section 4 of the Representation of the People Act 1983.	Ratio
+If a donor is not qualified to be entered on an electoral register in the United Kingdom it is not unrealistic to treat that donor as lacking sufficient connection with the United Kingdom to be a desirable source of party funding.	Ratio
+The following paragraph of the Report dealt with enforcement and penalties in relation to the ban on foreign donations: 5.42 In essence, what we said in Chapter 4 at paras 4.60 and 4.61 should apply here too with necessary modifications.	Ratio
+Thus, the Election Commission will have statutory powers to call for information and to institute an investigation into any donation which it suspects has not come from a permissible source.	Ratio
+If a party were to be guilty of a deliberate acceptance of a donation from a source outside the definition of a permissible source, criminal sanctions should attach to all responsible, and a sum not less than the donation should be liable to forfeiture from the partys funds; in significant cases of attempted evasion of the rules a penalty of up to ten times the overspend might be levied.	Ratio
+A forfeiture power should also apply even if the receipt were innocent or inadvertent, although the courts would clearly take into account the degree of culpability in setting the level of forfeiture.	Ratio
+R30 The Election Commission should have wide powers to call for information and to institute investigations into any suspect foreign donations received by a political party or a sub-unit.	Ratio
+R31 Criminal sanctions should attach to a deliberate acceptance of a donation from a source falling outside the definition of a permissible source.	Ratio
+There should be a power for the court to order a defaulting political party to forfeit a sum of up to ten times the donation wrongfully accepted.	Ratio
+There is a contrast between the power of forfeiture recommended in para 4.61, a sum not exceeding the unreported donation, and that in para 5.42, a sum not less than the donation.	Ratio
+The reason for this contrast seems likely to be the following.	Ratio
+Para 4.61 was providing for a sanction for failure to report a donation from a permissible source.	Ratio
+Para 5.42 was dealing with the receipt of a donation from an impermissible and, under the Neill Committees scheme, a foreign source.	Ratio
+In the latter case the forfeiture of the entire donation was likely to be desirable, regardless of whether or not the breach of the regulations had been deliberate.	Ratio
+It is noteworthy that the Committee recommended that, where acceptance of an impermissible donation was innocent or inadvertent, there should still be a power of forfeiture but that the courts would take into account the degree of culpability when setting the level of forfeiture.	Ratio
+The Government published a White Paper (Cm 4413) to which was annexed a draft Bill dealing with the funding of political parties.	Ratio
+Clause 51 of the Bill does not differ significantly from section 58 of the Act.	Ratio
+At the beginning of Chapter 4, which dealt with the sources of funding, the Government welcomed the Neill Committees endorsement of the manifesto commitment to ban the foreign funding of political parties.	Ratio
+Dealing with permissible sources of funding the White Paper commented as follows: Individuals 4.5 The Neill Committee recommended (R26) that political parties should be able to receive donations both from those who are registered voters in the United Kingdom and from those who are entitled to register to vote in the United Kingdom.	Ratio
+Clause 50(2)(a) departs from this recommendation by providing that registered political parties may accept donations only from those individuals whose names appear on the electoral register.	Ratio
+Entitlement to register, whether as a resident or overseas elector, will not qualify an individual as a permissible source.	Ratio
+4.6 Checking that a particular donor appears on the electoral register offers a test that is both conclusive and simple to administer.	Ratio
+It would be far less straightforward for political parties to verify that a donor not appearing on the register was nevertheless entitled to do so.	Ratio
+It is in the interests of the parties to have available a test which offers certainty as to the eligibility of a donor.	Ratio
+With the introduction of rolling registration it would be open to anyone who was entitled to be registered as an elector, but was not on the register for whatever reason, to take the necessary steps at any time to secure his or her registration.	Ratio
+Once registered, it would then be open to a political party to accept a donation from such a person.	Ratio
+In practice, therefore, little is lost by the proposed departure from the Neill Committees recommendation.	Ratio
+The objects of the legislation	Ratio
+The legislative history provides a particularly clear picture of the objects of Chapter II of Part IV of the Act.	Ratio
+The primary object is to prevent donations to political parties from foreign sources.	Ratio
+From the Labour Party manifesto in 1997 the concern in relation to the source of funds has focussed exclusively on foreign donors.	Ratio
+The Neill Committee recommended that the exclusion of foreign funding should, in the case of individual donors, be achieved by prohibiting donations from anyone who was not a registered voter in the United Kingdom or eligible to be put on an electoral register in the United Kingdom.	Ratio
+As I have observed this test drew a realistic line between domestic and foreign donors.	Ratio
+Eligibility to be placed on an electoral register demonstrated a sufficient connection with the United Kingdom.	Ratio
+Ineligibility demonstrated a lack of such connection.	Ratio
+Parliament made a significant change in restricting permissible donors to those on an electoral register, excluding those eligible to be put on one.	Ratio
+This change was made not because there is anything intrinsically undesirable about parties being funded by those who are not on an electoral register, provided that they are eligible to be placed on one.	Ratio
+So far as connection with the United Kingdom is concerned there is no distinction between a person who is on an electoral register and one who is entitled to be placed on an electoral register.	Ratio
+The change was made for purely pragmatic reasons.	Ratio
+It is much easier to demonstrate that a person is not on an electoral register than it is to demonstrate that he is not entitled to be placed on an electoral register.	Ratio
+Two facts demonstrate that Parliament did not consider that entitlement to vote was, of itself, an essential quality in a donor, rather than a convenient test of the donors connection with the United Kingdom.	Ratio
+The first is that section 54 permits donations from corporations, trade unions, building societies, limited liability partnerships, friendly societies and unincorporated associations, provided that they have sufficient presence in the United Kingdom, notwithstanding that none of them can vote.	Ratio
+The second is that donations by bequest are permissible from anyone who was on an electoral register at any time during the period of five years before his death.	Ratio
+Such a person cannot, of course, cast a vote posthumously, but it is significant that it is permissible for his bequest to have been made at a time when he was not on the register, provided that he was registered to vote at some point during the five years before his death.	Ratio
+Had Mr Bown bequeathed, rather than bestowed, his donations during the period that he was off the electoral register, and then died, there would have been no objection to UKIP receiving the bequests.	Ratio
+The White Papers comments that I have quoted at para 24 above underline the fact that entry on an electoral register is not per se an essential attribute of a donor.	Ratio
+The comment that little is lost by the proposed departure from the Neill recommendations appears to recognise that depriving parties of donations from those entitled to be on an electoral register, but not actually registered, involves a degree of sacrifice, albeit one that is justified on grounds of practicality.	Ratio
+The secondary object of Chapter II of Part IV of the Act is to provide a scheme for achieving the primary object that is easy to apply, easy to police and that contains adequate sanctions for non-compliance.	Ratio
+The purposes of the power to forfeit	Ratio
+Mr Beloff submitted in his written case that there were three purposes of the power to forfeit.	Ratio
+The first was to deprive a political party of the wrongful gain acquired by accepting a donation from an impermissible source.	Ratio
+The second was to deter breaches of the Act.	Ratio
+The third was to provide simple and effective sanctions in the form of a rigorous civil enforcement scheme to enforce the prohibition on acceptance of impermissible donations.	Ratio
+The third object is, in fact, no more than a more detailed way of describing the second object.	Ratio
+I agree that there are two distinct objects of the power to forfeit.	Ratio
+As to the first, I do not find the description wrongful gain helpful.	Ratio
+The primary object of forfeiture is the direct prevention of the mischief that the legislation is designed to prevent the receipt by a political party of foreign funding.	Ratio
+This would normally dictate the forfeiture of the acceptance of any donation received by a party from a foreign source, regardless of whether or not that acceptance had come about as a result of a culpable fault on the part of the party.	Ratio
+As I have said, that is probably why the Neill Committee recommended that where a donation was received from a person who was not entitled to be placed on an electoral register, forfeiture from the party funds should be of not less than the amount of the donation.	Ratio
+The fact that the donor was not entitled to be placed on the register demonstrated that he had insufficient connection to the United Kingdom to be an acceptable source of funding.	Ratio
+The Act has radically changed the Neill Committees scheme.	Ratio
+A donor whose connection with the United Kingdom would entitle him to be placed on the electoral register and thus to vote is rendered an impermissible donor by reason of the simple fact that he is not on the register.	Ratio
+Under this scheme an unregistered donor may or may not be foreign.	Ratio
+If he is foreign, or if he is unable to prove that he is not foreign, then his donation is intrinsically undesirable.	Ratio
+It is the type of funding that the Act was designed to prevent.	Ratio
+His donation should, barring exceptional circumstances, be automatically subject to forfeiture in its entirety.	Ratio
+If it is not forfeited, the very mischief that the Act was designed to prevent will have occurred.	Ratio
+Whether or not the party accepting the donation exercised due care should not normally be relevant.	Ratio
+This may well be why the Act expressly provides that a forfeiture order may be made, whether or not proceedings have been brought against any person for an offence in connection with the donation.	Ratio
+I agree with Mr Beloff that the second object of the power to forfeit is to provide a deterrent or sanction against failure to comply with the requirements of the Act that are designed to make sure that donations are not received from an impermissible donor.	Ratio
+Thus the power to forfeit is intended to further both the primary and the secondary object of the legislation.	Ratio
+The nature and purpose of the discretion	Ratio
+I now come to the interrelated questions of whether the power to forfeit is all or nothing and how the discretion whether or not to exercise that power should be exercised.	Ratio
+If Parliament had enacted the Neill Committee scheme there would have been a strong presumption in favour of forfeiting the whole of a donation from an impermissible source.	Ratio
+It would, or would be likely to, be a foreign donation and objectionable as such.	Ratio
+Indeed there would have been a case for making forfeiture of such donations automatic.	Ratio
+But Parliament adopted a scheme under which impermissible donations may or may not be foreign.	Ratio
+Under this scheme the significance of an individual impermissible donation may vary widely.	Ratio
+At one extreme it may be a donation from a foreign source, accepted by a political party with full knowledge of its provenance.	Ratio
+At the other extreme it may be a donation from an individual who is entitled to be on an electoral register and has in the past been on an electoral register, been believed to be on an electoral register, but who, because of some administrative error for which he is not responsible, has been removed from the register at the time when he made his donation.	Ratio
+Parliament plainly made the power to forfeit discretionary with the intention that the magistrates court should discriminate between cases where forfeiture was warranted and cases where it was not.	Ratio
+It seems to me natural to assume that Parliament intended the court to consider whether forfeiture was a proportionate response to the facts of the particular case.	Ratio
+This involves considering whether forfeiture is necessary to achieve either the primary or the secondary object of the Act.	Ratio
+The most relevant consideration is whether forfeiture is necessary to prevent the retention of a foreign donation in the individual case.	Ratio
+Proof of acceptance of a donation from an impermissible source should raise a presumption that the donation is foreign.	Ratio
+If the party cannot rebut that presumption, forfeiture should follow.	Ratio
+If the party succeeds in demonstrating that the donor was entitled to be placed on an electoral register, forfeiture should then depend on whether it is an appropriate sanction for such shortcomings as led to the acceptance of the donation.	Ratio
+This will require consideration of culpability, the size of the donation and the effect that forfeiture will be likely to have on the political party.	Ratio
+Partial forfeiture, if permitted (as to which see below), will enable the court to impose an appropriate sanction where total forfeiture would be disproportionate.	Ratio
+The Court of Appeal held that the power to forfeit was all or nothing and that there was a presumption that it should be exercised in the absence of exceptional circumstances.	RLC
+The Courts reasons for holding that there was a strong presumption that the power to forfeit should be exercised were as follows: i) Unless forfeiture was the normal consequence of the acceptance of an impermissible donation, parties would be free to disregard with impunity the obligations not to accept or to return impermissible donations.	RLC
+ii) Forfeiture would never be disproportionate if it was limited to a donation which should never have been accepted.	RLC
+iii) It was irrelevant whether or not the impermissible donor was a foreign donor, because Parliament had not made that the test.	RLC
+Parliament had made being on an electoral register the test.	RLC
+The Court should not re-introduce the Neill Committee test by the back door.	RLC
+iv) The fact that a party might not know that the donation was impermissible was irrelevant.	RLC
+Parliament had not made that a bar to forfeiture.	RLC
+v) The fact that the state of the partys finances might make forfeiture particularly onerous was irrelevant.	RLC
+The receipt of the donation was illegal and the full extent of the donation was an advantage that the party should not have had.	RLC
+vi) Furthermore, if it was necessary to investigate a partys finances before making a forfeiture order, the sanction would be unwieldy.	RLC
+Mr Beloff expanded this to a more general point.	RLC
+If there was a wide discretion, this would give rise to complex factual inquiries that the simple scheme of the Act was designed to avoid.	RLC
+I will deal with each of these points in turn.	RLC
+I do not accept that almost automatic forfeiture of the totality of an impermissible donation is necessary to provide a realistic sanction against non- compliance with the requirements of the Act.	Ratio
+In the first place there are criminal sanctions for non-compliance.	Ratio
+In the second place, the mere risk of forfeiture of the entirety of a donation might be thought a sufficient incentive to carry out the relatively simple check that a donor is on an electoral register.	Ratio
+A party should not need much incentive to check that the position of anyone who wishes to make a donation is regularised.	Ratio
+The suggestion that forfeiture of a sum limited to the impermissible donation can never be disproportionate is founded on the premise that the party should never have received the donation in the first place.	Ratio
+But where a person within the United Kingdom wishes to make a donation to a party, there is nothing intrinsically wrong about the party receiving that donation.	Ratio
+Of course the party and the donor should make sure that the donor complies with the statutory requirement of being placed on an electoral register.	Ratio
+But if, by inadvertence, or even negligence, they fail to do so, it does not follow that it cannot be disproportionate for the donation to be forfeited.	Ratio
+Proportionality will depend on the degree of culpability, the size of the donation and its importance to the party.	Ratio
+I disagree that it is irrelevant whether or not the donor is a foreign donor.	Ratio
+If he is, then forfeiture is clearly appropriate.	Ratio
+Parliament has made electoral registration the test, but Parliament has also made forfeiture discretionary.	Ratio
+To allow the party to show that the donor could have been registered to vote is not to introduce the Neill test by the back door.	Ratio
+Parliaments scheme usefully transfers the burden of showing that the donation is not a foreign donation onto the donor and the party.	Ratio
+If this burden can be discharged, the primary object of the legislation has not been defeated, and this fact is highly relevant to the issue of whether the power to forfeit should be exercised.	Ratio
+The fact that Parliament has not made ignorance of the impermissibility of the donation a defence is no reason why it should not be a relevant extenuating circumstance when considering whether or not to forfeit the donation.	Ratio
+Once again the Court of Appeal has ignored the fact that Parliament has chosen to make forfeiture of the donation discretionary.	Ratio
+The argument that the effect of forfeiture on a party is irrelevant turns on the proposition that the party should never have had the donation in the first place.	Ratio
+This ignores the fact that where the impermissibility of the donation results simply from an inadvertent, or even negligent, failure to register there is nothing intrinsically undesirable about the source of the funding.	Ratio
+Finally I must deal with the point that, if there is a general discretion whether or not to forfeit, forfeiture proceedings will involve a lengthy investigation of all the material circumstances.	Ratio
+In the first place, this will not normally be true where the donor is, in fact a foreign donor.	Ratio
+The party will not be in a position to show that the donor was entitled to be placed on an electoral register.	Ratio
+If, where this is the case, forfeiture is virtually automatic, forfeiture proceedings are unlikely to be protracted in those cases where forfeiture is most readily justified.	Ratio
+Where, however, the donor is not a foreign donor, the fact that forfeiture is discretionary is likely to involve a significant investigation of the facts, whether the discretion is broad or narrow.	Ratio
+However narrow the discretion it will surely be necessary for the party or the donor to show that the donor was not a foreign donor and to demonstrate, insofar as steps were taken to comply with the statutory requirements, what was in fact done.	Ratio
+None of these arguments persuades me that where the donor is not foreign, but has for some reason failed to exercise his right to be placed on an electoral register, Parliament intended that forfeiture of the entire donation should be virtually automatic.	Ratio
+On the contrary, where the donor is shown not to be foreign, I consider that Parliament would have intended, by conferring a discretion whether or not to forfeit, that there would be a careful evaluation of all the circumstances in order to decide whether the draconian step of forfeiture was justified.	Ratio
+The Commissions approach to its discretion	Ratio
+My conclusions receive some, if modest, support from the Commissions own approach to the exercise of its discretion.	Ratio
+If Parliament had intended that a donation from an impermissible source should be forfeited unless there were exceptional circumstances, the Commission might have been expected automatically to make an application for forfeiture once satisfied that a donation was from an impermissible source.	Ratio
+There would seem to be no basis upon which the Commission could properly decide not to make an application in circumstances where Parliament intended that forfeiture should occur.	Ratio
+In the course of the hearing the Commission provided the Court with internal guidelines drawn up by the Commission in February 2007 in relation to the forfeiture of impermissible donations.	Ratio
+These included the following: 3.1 . . .	Ratio
+In all cases where the Commission is clear that section 58 applies the Commission will apply for a forfeiture order, unless there are reasons to conclude that on balance, the public interest is such that would lead us to exercise our discretion in favour of not seeking forfeiture.	Ratio
+3.2 The Commission will have regard to all relevant considerations, which may include: Steps taken by the regulated organisation or individual for the verification of permissibility Steps taken by the regulated organisation or individual in relation to acceptance or return of donations Any other extenuating circumstances that may be relevant.	Ratio
+These guidelines do not suggest that the Commission itself applies a strong presumption in favour of forfeiture where a party has accepted a donation from an impermissible source.	Ratio
+Conclusions	RPC
+Where it is shown that a political party has accepted a donation from an impermissible source, there should be an initial presumption in favour of forfeiting the donation.	Ratio
+In order to prevent parties receiving funding from individuals who have insufficient connection with the United Kingdom, Parliament has chosen to lay down a simple test.	Ratio
+Donations must only be accepted from those who are on an electoral register.	Ratio
+The onus should be on the party concerned to show why a donation that has been received from an impermissible source should not be forfeited.	Ratio
+A first step in discharging this onus will normally be to show that the mischief against which the relevant part of the Act is directed did not occur that the donation in question was not, in fact, a foreign donation.	Ratio
+Where an individual is concerned this should require demonstration that the individual was entitled to be entered on an electoral register.	Ratio
+If this cannot be demonstrated, forfeiture should normally follow.	Ratio
+In such circumstances it can properly be assumed that retention of the funding would defeat the policy underlying the legislation.	Ratio
+If it is shown that the donor was in a position to qualify as a permissible donor by registering on an electoral register, the initial presumption in favour of forfeiture will have been rebutted.	Ratio
+The question will then be whether there have been failures to comply with those requirements of the Act that are designed to ensure that such donations are not accepted, and the nature of those failures.	Ratio
+Once again the onus will be on the party to explain how it was that the donation came to be accepted.	Ratio
+If the donation is large, and if the power to forfeit is an all or nothing power, significant shortcomings are likely to be required to make forfeiture of the donation a proportionate response.	Ratio
+It is in the light of that conclusion that I turn to consider whether the power to forfeit is all or nothing.	Ratio
+Is the power to forfeit all or nothing?	Ratio
+Both Walker J and the Court of Appeal concluded that the power to forfeit was an all or nothing power.	Ratio
+Walker J concluded that this was the only meaning that could properly be given to a power to forfeit an amount equal to the value of the donation (para 117).	Ratio
+This finding was not challenged in the Court of Appeal and was accepted by Sir Paul Kennedy as correct (para 49).	Ratio
+My initial inclination was to agree.	Ratio
+The language of section 58(2) suggests that there is only one amount that can be forfeited.	Ratio
+Furthermore, forfeiture normally relates to a specific fund, or right, not part of one.	Ratio
+But in this case, forfeit is used in an unusual way.	Ratio
+It was the Neill Committee that first used the word, in recommending that a sum not less than the donation should be liable to forfeiture from the partys funds.	Ratio
+It has been common ground that a forfeiture order will create a debt to be met from UKIPs funds, as and when monies are paid into them.	Ratio
+So the forfeiture in this case is more akin to a fine.	Ratio
+Furthermore, the Neill Committee contemplated that the amount to be forfeited would be variable when commenting that where the receipt was innocent or inadvertent the courts would clearly take into account the degree of culpability in setting the level of forfeiture.	Ratio
+Having regard to these considerations I have reached the conclusion that the better interpretation is to treat the power to order forfeiture of an amount equal to the value of an impermissible donation as implicitly including the power to order forfeiture of a lesser sum.	Ratio
+Such an interpretation is desirable to cope with the situation where the magistrates court is persuaded that the donor is not foreign.	Ratio
+In those circumstances, total forfeiture of the donation may be disproportionate.	Ratio
+If so, it should not be ordered, both under the ordinary principles that apply to the imposition of sanctions and having regard to the requirements of article 1 of the First Protocol to the European Convention on Human Rights.	Ratio
+The magistrates court should have the power to make a partial forfeiture order that reflects the facts of the particular case.	Ratio
+I would interpret section 58(2) as conferring that power.	Ratio
+Disposal	Ratio
+Walker J rightly held that the reasons given by the Senior District Judge were too brief.	Ratio
+He reached, however, decisions on the issues of principle which this Court has endorsed.	Ratio
+He concluded that, in circumstances where the donor was entitled to be on the electoral register, no presumption of total forfeiture should be applied, but forfeiture should reflect fault on the part of the party accepting the donation or donations.	Ratio
+As to the application of that principle to the facts of this case, he applied a very broad brush that effaced most of the detail of communications between the Commission and UKIP.	Ratio
+He allowed UKIP to retain all donations up to the point at which they learned that Mr Bown was not on the electoral register, and ordered forfeiture of all donations from that moment until Mr Bown was again on the register.	Ratio
+He erred however in stating that it was on 19 June 2005 that UKIP learned that Mr Bown was not on the register.	Ratio
+In fact they did not learn this until 13 December 2005.	Ratio
+On this erroneous basis he ordered forfeiture of donations totalling 14,481.	Ratio
+The parties were anxious, if possible, to avoid a further hearing before the Senior District Judge.	Ratio
+I have reached the conclusion that the amount of the forfeiture that was ordered adequately reflected the facts of this case and, accordingly, I would restore the order of the Senior District Judge.	Ratio
+In the 1990s there was considerable public unease about the funding of political parties.	Ratio
+The Committee on Standards in Public Life under the chairmanship of Lord Neill of Bladen QC looked into the matter and in 1998 they produced a report (Cm 4057) which contained many recommendations.	Ratio
+In particular, they formulated a principle to the effect that those who live, work and carry on business in the United Kingdom should be the persons exclusively entitled to give financial support to the operation of the political process here (para 5.16).	Ratio
+In order to create a workable system, they recommended that political parties should be able to receive donations from (1) people who are registered voters in the United Kingdom and (2) those who are eligible to be put on an electoral register in the United Kingdom (para 5.20).	Ratio
+In due course the government issued a White Paper giving their considered response to the Neill Committees recommendations (Cm 4413).	Ratio
+The government accepted the thrust of the committees recommendation on foreign donors, but they introduced a significant modification: only individuals who were registered voters should be permitted to make donations to political parties.	Ratio
+As the White Paper explained in para 4.6, in a very real sense this was in the parties interest: checking whether a particular donor appeared on the electoral register would offer a test of acceptability that was both conclusive and simple for the parties to operate.	Ratio
+It would be much less straightforward for parties to verify that a donor who did not appear on the register was nevertheless entitled to be registered.	Ratio
+Of course, the downside was that the new test excluded more potential donors than the Neill Committee test: those who were eligible to be registered, but who were not registered.	Ratio
+The White Paper pointed out, however, that, with the introduction of rolling registration, people in that position could readily apply to be registered and it would then be open to a political party to accept a donation from them.	Ratio
+In practice, therefore, little is lost by the proposed departure from the Neill Committees recommendation.	Ratio
+This was the scheme which was encapsulated in clause 50 of the draft Bill and was given effect in section 54 of the Political Parties, Elections and Referendums Act 2000 (the Act).	Ratio
+So far as relevant, that section provides: (1) A donation received by a registered party must not be accepted by the party if (a) the person by whom the donation would be made is not, at the time of its receipt by the party, a permissible donor.	Ratio
+(2) For the purposes of this Part the following are permissible donors (a) an individual registered in an electoral register.	Ratio
+Nothing could be clearer than the language used by Parliament and nothing could be clearer than the intention behind the language: political parties were not to accept donations from any individual who was not registered in an electoral register.	Ratio
+In particular, parties were not to accept donations from individuals who were entitled to be registered, but who were not on the register.	Ratio
+That situation would be adequately catered for by the simple expedient of the individual concerned getting himself registered: the party could then accept a donation from him.	Ratio
+Obviously, the Act envisages that, when they receive a donation, a political party must check the electoral register to ensure that the individual is registered.	Ratio
+If, as a result of that check, it appears that he is not on the register, then he is not a permissible donor and the party must return the donation, or a payment of an equivalent amount, within thirty days: section 56(2)(a).	Ratio
+The party must keep a record of the receipt of the donation and of its return within the thirty-day period.	Ratio
+In addition, the party must include a report of the receipt and return of the impermissible donation in their donation report to the Electoral Commission for the relevant period: section 62(9).	Ratio
+If they fail to do so, section 65(6) comes into play: Where the court is satisfied, on an application made by the Commission, that any failure to comply with any such requirements in relation to any donation to a registered party was attributable to an intention on the part of any person to conceal the existence or true amount of the donation, the court may order the forfeiture by the party of an amount equal to the value of the donation.	Ratio
+The present case concerns exactly the situation of a donor who was entitled to be registered but was not actually on the register.	Ratio
+Although he had previously been registered, Mr Alan Bown was not registered in any electoral register between 1 December 2004 and 2 February 2006.	Ratio
+During that period he made a number of donations to UKIP which amounted in total to almost 350,000.	Ratio
+Since Mr Bown was not registered to vote, by virtue of section 54(1)(a), UKIP were bound not to accept the donations.	Ratio
+In terms of section 56(2)(a), the party should therefore have returned them to Mr Bown within thirty days and pointed out to him that they could not accept the donations until he was on the register again.	Ratio
+When the party duly reported the donations to the Electoral Commission, the Commission drew their attention to the fact that Mr Bown did not appear to be on the register.	Ratio
+The party none the less retained the donations.	Ratio
+So they have made a gain of roughly 350,000 by accepting donations which they were prohibited from accepting under section 54(1)(a).	Ratio
+Lord Phillips deprecates the use of the phrase wrongful gain to describe this type of gain.	Ratio
+He would apparently confine any such description to gains made from donations by foreign donors who are not entitled to be on the electoral register in this country because the true object of section 54(1)(a) is to prevent parties receiving donations from such persons.	Ratio
+But that is to substitute the ultimate aim of the legislation for the means by which the legislation seeks to achieve that aim.	Ratio
+The ultimate aim is indeed to catch foreign donors.	Ratio
+But the legislature has chosen to pursue that aim by prohibiting parties from accepting donations from all except a narrowly defined class of permissible donors.	Ratio
+That class excludes foreign donors who are not entitled to be registered, but quite deliberately it also excludes donors, like Mr Bown, who are entitled to be, but are not, registered.	Ratio
+As the White Paper explained, there were good practical reasons for adopting that legislative approach.	Ratio
+In these circumstances it is not open to the courts to second- guess Parliament and to proceed on the footing that some impermissible donors are less impermissible than others.	Ratio
+Since UKIP kept the donations from Mr Bown which they were prohibited from accepting, the Electoral Commission eventually applied to the City of Westminster Magistrates Court in terms of section 58(1) and (2): (1) This section applies to any donation received by a registered party (a) which, by virtue of section 54(1)(a) or (b), the party are prohibited from accepting, but (b) which has been accepted by the party.	Ratio
+(2) The court may, on an application made by the Commission, order the forfeiture by the party of an amount equal to the value of the donation.	Ratio
+In the case of England and Wales the court in question is a magistrates court.	Ratio
+Where a party have accepted a donation which they are prohibited from accepting and they show no sign of being willing to return it, the starting point must surely be that the court will take steps to ensure that the party are deprived of the gain which they are determined to keep in defiance of the law.	Ratio
+In other words, an order will be made for the forfeiture of the whole value of the unlawful donation.	Ratio
+And that is exactly what section 58(2) says: the court may order the forfeiture of an amount equal to the value of the donation.	STA
+Had parliamentary counsel intended to give the court power to order the forfeiture of a lesser sum, as Lord Brown points out, there is a variety of other phrases which could have been used to embody that intention.	STA
+The same words are to be found in section 65(6) (quoted at para 59 above) and in para 12(4) of Schedule 7 to the Act.	Ratio
+Both of these provisions deal with a situation where there has been a deliberate failure to comply with the relevant reporting requirements in order to conceal the existence, or true amount, of a donation.	Ratio
+In such a situation, also, it is hard to see why forfeiture of a sum which is less than the donation would be appropriate.	Ratio
+So these provisions tend to confirm the straightforward interpretation of the equivalent words in section 58(2).	Ratio
+Like Lord Brown, I have no hesitation in agreeing with Walker Js conclusion on this issue.	Ratio
+Lord Phillips takes a different view.	Ratio
+He goes back to the report of the Neill Committee who first suggested the idea of forfeiture, but described the sum to be forfeited in various ways (a sum not exceeding the unreported donation and a sum not less than the donation).	Ratio
+The committee may well have envisaged the court selecting what it regarded as the appropriate sum to be forfeited in the particular circumstances.	Ratio
+On this basis, Lord Phillips considers that the better interpretation is to treat the words in section 58(2) as implicitly including the power to order forfeiture of a lesser sum.	Ratio
+The Neill Committee report stands, however, at two removes from the text of section 58(2) which embodies the law enacted by Parliament.	Ratio
+Moreover, as Lord Phillips himself points out, the Act radically changed the scheme envisaged by the committee.	Ratio
+In these circumstances their report cannot displace the plain meaning of Parliaments words.	Ratio
+The system is all or nothing: either the court orders the forfeiture of the value of the donation or it makes no order.	Ratio
+Having armed the court with a discretion to award a lesser sum, Lord Phillips proceeds to construct an elaborate scheme for the exercise of this discretion.	Ratio
+If the donation is not from a permissible donor, the onus will be on the party to show why it should not be forfeited.	Ratio
+If the donation is from a foreign donor, then the party will not normally be able to show this, since it can properly be assumed that retention of the funding would defeat the policy underlying the legislation.	Ratio
+But if the party can show that the donor was in a position to qualify as a permissible donor by registering on an electoral register, the initial presumption in favour of forfeiture will have been rebutted.	Ratio
+In that situation the court will have to see whether there have been failures to comply with the requirements of the Act that are designed to ensure that impermissible donations are not accepted and, if so, the nature of those failures.	Ratio
+If the donation is large, significant shortcomings are likely to be required to make forfeiture of the donation a proportionate response.	Ratio
+In other words apparently the larger the impermissible donation, the less likely it is that the party will have to give it up.	Ratio
+It seems to me unlikely to say the least that Parliament would have intended that a provision, which is designed to ensure compliance with the statutory scheme, should operate so as to make large impermissible donations harder to forfeit than small impermissible donations.	Ratio
+That apart, many may admire the scheme outlined by Lord Phillips which might have commended itself to the Neill Committee.	Ratio
+Indeed, had it been proposed to Parliament, it might well have been enacted.	Ratio
+But there is not the slightest hint of such a scheme in the wording of the provision which Parliament did enact and, in fact, as I have already explained, the wording of section 58(2) is inconsistent with a scheme of that kind.	Ratio
+Moreover, it would have been surprising if such a nuanced decision had been left to the magistrates court.	Ratio
+For these reasons I would respectfully reject Lord Phillips construction of the subsection.	Ratio
+If a party return an impermissible donation after the end of the thirty-day period, under section 56(5) they are treated as having accepted it for the purposes of section 58(2).	Ratio
+It might well be, however, that the Electoral Commission would often not make an application to the court in such a case.	Ratio
+And if it did, the context for the exercise of the courts discretion would be significantly different from the situation where the party had kept a donation.	Ratio
+Similarly, the rationale of any forfeiture order would be to mark some blameworthy failure to comply with the regulations and pour encourager les autres.	Ratio
+I would therefore reserve my opinion on whether there is room for the court to exercise its discretion differently in such cases.	Ratio
+In a case, like the present, however, where the party have held on to the donations, the real difficulty, as Lord Brown points out, is to see how the court could properly do other than make an order for forfeiture, since forfeiture so clearly promotes the statutory object of preventing parties from accepting donations from individuals who are not permissible donors.	Ratio
+Moreover, since the party had no right to the donations in the first place, there is no room for an argument that taking them away infringes article 1 of the First Protocol to the European Convention on Human Rights.	Ratio
+Consideration of the exact scope of the courts discretion is not made any easier by the lack of any real indication in the Act of how the forfeiture order takes effect.	Ratio
+As Lord Phillips points out, the discussion at the hearing proceeded on the (unexamined) premise that it would create a debt to be met out of the partys funds, as and when monies are paid into them.	Ratio
+Although it is tempting to think of the Act as concerned with the major parties, it actually applies to a large number of political parties, many of them very small.	Ratio
+Some may well have shaky finances.	Ratio
+It is therefore quite conceivable that a forfeiture order would tip a party into insolvency and so cause at least as much prejudice to the partys unsecured creditors as to the party.	Ratio
+So the creditors might argue that, for this reason, the court should exercise its discretion not to make an order.	Ratio
+In that connexion it may be worth noting that section 60(1)(b) and (c) envisage that rules of court may allow persons affected by any possible forfeiture order to be joined as parties to the proceedings in the magistrates court.	Ratio
+Since, however, the point does not arise for decision and was not argued in this case, I merely raise the possibility that such circumstances might have a bearing on the way that the court exercised its discretion under section 58(2).	Ratio
+For these reasons, and for those given by Lord Brown, with which I agree, I would dismiss the appeal.	RPC
+I agree with the judgments of Lord Rodger and Lord Brown, and for the reasons which they give I would dismiss this appeal.	RPC
+The funding of political parties has long been the subject of public and parliamentary concern.	Ratio
+In October 1998 the Commission on Standards in Public Life under the chairmanship of Lord Neill of Bladen QC reported on the matter to the Prime Minister.	Ratio
+The Governments response by way of a White Paper was presented to Parliament in July 1999 with a Draft Bill annexed.	Ratio
+There followed the Political Parties, Elections and Referendums Act 2000 (the Act), Part I of which provided for the establishment of the Electoral Commission (the Commission), Part IV for the control of donations to political parties.	Ratio
+This appeal centres on Chapter II of Part IV under the heading, Restrictions on Donations to Registered Parties, and more particularly on donations from people not permitted to donate which a party nevertheless accepts (impermissible donations as I shall henceforth refer to them).	Ratio
+Section 58 of the Act applies to such donations and by subsection (2) provides: The court may, on an application made by the Commission, order the forfeiture by the party of an amount equal to the value of the donation.	STA
+At the heart of this appeal is the proper construction and application of that provision.	Ratio
+Everyone agrees that it invests the court with a discretion: no one contends that may here means must.	Ratio
+There are, however, two core questions arising.	Ratio
+First, whether the court has power to forfeit part only rather than the whole of the value of any impermissible donation, i.e. can equal to be construed as up to? Secondly, how wide is the discretion conferred? Is there a presumption that impermissible donations will be forfeited and, if so, how strong is that presumption?	Ratio
+I put the two questions in that order because to my mind they are closely related: if the court has no option but to forfeit all or nothing, that seems to me to strengthen the argument for a presumption in favour of forfeiture.	Ratio
+That said, it may be noted that Walker J at first instance, despite holding that the courts power is to forfeit all or nothing, nevertheless decided that the discretion whether to order forfeiture is a wide one.	Ratio
+Walker Js holding that this is an all or nothing power was not contested before the Court of Appeal.	Ratio
+That Court, however, reversed his decision on the width of the discretion to exercise the power, holding that, for the legislative purpose to be served, the power should be exercised to order forfeiture of impermissible donations in all save truly exceptional cases.	Ratio
+It is against that decision that UKIP now appeal.	Ratio
+With those few introductory paragraphs let me turn next to the other provisions of the Act dealing most directly with impermissible donations received from known individual donors (as opposed to impermissible donations from corporate donors, unidentified donors or, indeed, by way of bequest).	Ratio
+Section 54, under the heading Permissible donors, provides that for the purposes of Part IV of the Act an individual registered in an electoral register is a permissible donor (section 54(2)(a)) and that: A donation received by a registered party must not be accepted by the party if - (a) the person by whom the donation would be made is not, at the time of its receipt by the party, a permissible donor (section 54(1)(a)).	Ratio
+In short, so far as identified individual donors are concerned, the party is prohibited from accepting any donation unless that donor is registered in an electoral register.	Ratio
+Section 56(1), under the heading Acceptance or return of donations: general, provides that where a donation is received and not immediately refused the party must forthwith take all reasonable steps to verify the donors identity and whether he is a permissible donor (and certain other details as to his address for the purpose of providing quarterly reports on donations under section 62).	STA
+Section 56(2) provides that if the party receives a donation which it is prohibited from accepting, it (or a payment of an equivalent amount) must be sent back to the donor within 30 days of when it was received.	STA
+(The mention of an equivalent amount is explicable by reference to the wide definition of donation in section 50 to include a variety of benefits such as the provision of property, services or facilities.) Section 56(3) provides that if a party fails to return an impermissible donation within 30 days (as required by section 56(2)) the party and its treasurer are each guilty of an offence.	STA
+Indeed, until the Act was amended by the Political Parties and Elections Act 2009, this was an absolute offence.	STA
+Now, by a freshly inserted subsection (3A), it is a defence to prove that (a) all reasonable steps were taken by or on behalf of the party to verify (or ascertain) whether the donor was a permissible donor, and (b) as a result, the treasurer believed the donor to be a permissible donor.	STA
+Although I have already (at para 74 above) summarised the effect of section 58 of the Act, the provision at the core of this appeal, I should perhaps set out subsection (1): This section applies to any donation received by a registered party - (a) which, by virtue of section 54(1)(a) .	STA
+.	STA
+.	STA
+, the party are prohibited from accepting, but (b) which has been accepted by the party.	STA
+And I should note that by section 56(5) For the purposes of this Part a donation received by a registered party shall be taken to have been accepted by the party unless - (a) the steps mentioned in paragraph (a) . . .	STA
+of subsection (2) are taken in relation to the donation within the period of 30 days mentioned in that subsection.	STA
+Section 58(4) provides that a forfeiture order can be made whether or not criminal proceedings are brought (most obviously under section 56(3)).	STA
+The one other provision of the Act which I would notice at this stage is section 65(6) which states: Where the court is satisfied, on an application made by the Commission, that any failure to comply with any such requirements in relation to any donation to a registered party was attributable to an intention on the part of any person to conceal the existence or true amount of the donation, the court may order the forfeiture by the party of an amount equal to the value of the donation.	Ratio
+The requirements here in question are those placed upon the party by section 62 to prepare quarterly donation reports (or under section 63 to prepare weekly such reports during general election periods) in respect of all relevant donations and benefits, and by section 65 to deliver such reports to the Commission within 30 days of the end of such reporting periods (7 days in the case of section 63 reports).	Ratio
+What, then, in the context of these legislative provisions is the nature of the discretion conferred upon the Court by section 58(2)? It is recognised by both parties that it is a discretion which the Court is bound to exercise having proper regard to the policy and objects of the Act.	Ratio
+This principle is, of course, established by high authority, most notably the judgments of the House of Lords in Padfield v Minister of Agriculture, Fisheries and Food [1968] AC 997.	Ratio
+A later illustration of the principle to my mind of some assistance in the present context is the Houses decision in R v Tower Hamlets London Borough Council, Ex p Chetnik Developments Ltd [1988] AC 858 (Chetnik) where (at 873G) Lord Bridge said: . . .	Ratio
+before deciding whether a discretion has been exercised for good or bad reasons, the court must first construe the enactment by which the discretion is conferred.	Ratio
+Some statutory discretions may be so wide that they can, for practical purposes, only be challenged if shown to have been exercised irrationally or in bad faith.	Ratio
+But if the purpose which the discretion is intended to serve is clear, the discretion can only be validly exercised for reasons relevant to the achievement of that purpose.	Ratio
+It is necessary, therefore, to consider what is the statutory purpose of Part IV of the Act and more particularly whether there is a clear purpose to be served by conferring on the court a power under section 58(2) to order the forfeiture of impermissible donations.	Ratio
+In large measure this purpose is to be discerned from the statutory provisions themselves.	Ratio
+To a limited extent, however, I would accept that some light may be thrown upon these by their legislative history, namely the Neill Report and the White Paper which followed it.	Ratio
+But it is unnecessary to spend much time on these.	Ratio
+So far as individual donations are concerned, the Neill Report recommended and the White Paper agreed that the underlying principle should be that only those with a stake in the United Kingdom should be permitted to donate; foreign donations were to be outlawed.	Ratio
+How then should that be achieved? Again, both agreed that this should be done by defining the permissible source of donations.	Ratio
+At that point, however, the two documents diverged.	Ratio
+Whereas the Neill Report recommended that the permissible source of individual donations should be defined to include not merely registered UK voters but also those who are eligible to be put on an electoral register in the United Kingdom, the White Paper proposed instead what is now section 54(2)(a) of the Act.	Ratio
+This provision, the White Paper noted (para 4.5), departs from [the Neill Reports] recommendation by providing that registered political parties may accept donations only from those individuals whose names appear on the electoral register.	Ratio
+Entitlement to register, whether as a resident or overseas elector, will not qualify an individual as a permissible source.	Ratio
+The White Paper then continued (para 4.6): Checking that a particular donor appears on the electoral register offers a test that is both conclusive and simple to administer.	Ratio
+It would be far less straightforward for political parties to verify that a donor not appearing on the register was nevertheless entitled to do so.	Ratio
+It is in the interests of the parties to have available a test which offers certainty as to the eligibility of a donor.	Ratio
+As for the section 58 forfeiture order itself, the White Paper said this (para 4.15): Clause 51 [enacted as section 58] provides a power for a magistrates court . . .	Ratio
+to order the forfeiture of a sum equal to the value of a donation received from other than a permissible source.	Ratio
+This will apply whether such a donation was accepted knowingly or not.	Ratio
+Under clause 51(2) [section 58(2)] it will be for the Electoral Commission to make an application to the court for a civil forfeiture order.	Ratio
+It will readily be seen that the forfeiture power exists in respect of an impermissible donation once the 30 days allowed for its return by section 56(2) are up even, indeed, if the donation was subsequently returned to the donor.	Ratio
+This is so, moreover, whether or not the donation was accepted knowingly there is no precondition of forfeiture (as under section 65(6)) that the party intended to conceal something, nor any defence (as now under section 56(3A)) that all reasonable steps were taken to verify that it came from a permissible donor.	Ratio
+It will also readily be seen that, unless by the time the court is called upon to exercise its section 58(2) discretion the donation has in fact been returned to the donor, it necessarily follows that the party will have received a donation which by virtue of section 54 it was prohibited from accepting, that it failed to return it within 30 days as section 56 required it to do, and that it continues to retain a benefit to which it is manifestly not entitled.	Ratio
+In these circumstances, the sole effect of a forfeiture order in respect of the whole of the donation is no more and no less than to require the party to disgorge that which the law plainly forbids it to have retained.	Ratio
+By the same token, were the court to refuse such an order, it would be allowing the party to retain that to which it is plainly not entitled and which the law long since required it to have surrendered.	Ratio
+With these considerations in mind let me return to Chetnik for the assistance it seems to me to provide.	Ratio
+Chetnik concerned the proper construction and application of section 9 of the General Rate Act 1967 which so far as material provides: . . .	Ratio
+where it is shown to the satisfaction of a rating authority that any amount paid in respect of rates . . .	Ratio
+could properly be refunded on the ground that . . .	Ratio
+(e) the person who made a payment in respect of rates was not liable to make that payment, the rating authority may refund that amount or a part thereof.	Ratio
+The Court of Appeal had said of that power ([1987] 1 WLR 593, 602): We think it clear that, in broad terms, the purpose of section 9 and its predecessor was to enable rating authorities to give redress and to remedy the injustice that would (at least prima facie) otherwise ordinarily arise, if they were to retain sums to which they had no right, in cases where persons had paid rates which they were not liable to pay.	Ratio
+Holding in the light of that purpose that the discretion to withhold repayment in such a case could only be exercised for some valid reason, the Court of Appeal had quashed the rating authoritys refusal to repay the overpaid rates and had directed them to reconsider the matter.	Ratio
+Affirming the Court of Appeals approach, Lord Bridge (with whom the other members of the Committee agreed) said: Parliament must have intended rating authorities to act in the same high principled way expected by the court of its own officers and not to retain rates paid under a mistake of law . . .	Ratio
+unless there were, as Parliament must have contemplated there might be in some cases, special circumstances in which a particular overpayment was made such as to justify retention of the whole or part of the amount overpaid.	Ratio
+(877D).	Ratio
+Later in his speech (880G), having said that the most difficult aspect of the problem was to give guidance as to the positive factors relevant to the exercise of the section 9 discretion which might be considered in whole or in part to displace the prima facie justice of refunding overpayments, and that such factors could only arise from the circumstances in which the overpayment had come to be made in any particular case, Lord Bridge suggested three possible (obviously exceptional) situations in which it might be proper to refuse a refund.	Ratio
+He then said (881E-F) that he had not found it an easy case and in particular cannot envisage circumstances which, on the principle I have indicated, would point to a partial refund of overpaid rates as just and appropriate.	Ratio
+On the latter point, however, (the express power of partial refund under section 9) Lord Goff drew on general principles of restitution law and wondered whether the fact that the rating authority will have, for example, employed a substantial part of its rate income to meet precepts by other authorities, would provide a good reason for denying, at least in part, a ratepayers claim for refund under section 9.	Ratio
+(882G).	Ratio
+Let me come, then, to the first of the two questions I posed at the outset: Has the court power under section 58(2) to order forfeiture of part only of an impermissible donation? UKIP contends that it does, essentially on the basis that the greater impliedly includes the lesser unless the context compels a different conclusion.	Ratio
+With the best will in the world, this seems to me an impossible contention.	Ratio
+Where, as here, the draftsman has explicitly chosen the words an amount equal to the value of the donation (words he then repeats in section 65(6)), it can hardly be thought he intended them to mean an amount up to that value, or an amount not exceeding that value, or (the words used by the draftsman of section 9 of the General Rate Act 1967) that amount or a part thereof.	Ratio
+Why would he not have used one of these expressions had he intended to provide a power of partial forfeiture? The words of section 58(2) seem to me clear and unambiguous.	Ratio
+I agree with Walker Js conclusion on this issue at first instance and am unsurprised that in the Court of Appeal counsel then appearing for UKIP did not seek to challenge that conclusion.	Ratio
+With regard to Mr Lawrence QCs subsidiary submission that such a construction amounts to an impermissible interference with article 1 of the First Protocol to the European Convention on Human Rights (para 69 of his case) I am at a loss to see how the forfeiture of a donation which by definition the party should never have accepted or kept could be said to violate that partys human rights.	Ratio
+Even assuming, however, that in certain circumstances it could, the court always has the option and on that hypothesis would be bound to make no forfeiture order at all.	Ratio
+These considerations apart, I find myself sharing Lord Bridges difficulty in Chetnik (although there, of course, the power to make partial refund was expressly provided for) in envisaging circumstances which would point to such an order as being just and appropriate at any rate where the party still retains the benefit of the impermissible donation.	Ratio
+Recognising, therefore, that the forfeiture power is an all or nothing power, I pass to the second core issue arising: Is there a presumption that impermissible donations should be forfeited and, if so, how strong is that presumption?	Ratio
+The Court of Appeal concluded (at para 50) that there was only a narrow discretion not to order forfeiture.	Ratio
+As Sir Paul Kennedy put it in the Courts only reasoned judgment: . . .	Ratio
+it might assist a party which, for reasons beyond its control, such as illness of staff, was unable to complete its inquiries within 30 days, or a party which was misled by an inaccurate entry in an electoral register [that perhaps refers to a fraudulent entry or an erroneous statement from some apparently responsible authority that the donor was on the register].	Ratio
+Maybe there would also be room for the exercise of discretion if a donation or its value were to be returned to the donor out of time but before any forfeiture was sought, because Parliament clearly did not intend a party to surrender the value of a donation more than once.	Ratio
+That essentially is my view too.	Ratio
+In most cases, certainly in any case where neither the benefit nor its value has ever been returned, it is difficult to see how the discretion could properly be exercised other than by an order for forfeiture.	Ratio
+How, in those circumstances, could a court properly allow a party to retain the value of a donation which Parliament has plainly ordained that it should never have accepted? How could this be thought consistent with the policy of the legislation? To my mind, indeed, given the ease with which electoral registers can be accessed and inspected the whole point of registration as the sole source of permissible individual donations being, as the White Paper said, to create a scheme both conclusive and simple to administer I question whether even staff illness could provide a proper basis for not forfeiting a donation.	Ratio
+If on account of staff illness a donation was returned late (after the 30 day limit), that no doubt could justify not making a forfeiture order.	Ratio
+But I am here considering cases like that presently before the Court where the donation has never been returned.	Ratio
+For my part I would accept that the discretion not to award forfeiture would arise altogether more readily in the final situation envisaged by Sir Paul, where a donation or its value is returned to the donor out of time but before any forfeiture was sought.	Ratio
+By the time forfeiture is sought, of course, it is almost inevitable that the party will have had ample opportunity (on the facts of the present case more than a year since the final impermissible donation was accepted) to discover its mistake (here, indeed, it had been several times alerted to it) and return the benefit.	Ratio
+Return after that time, therefore, might suggest no more than a naked attempt to escape the forfeiture provision.	Ratio
+One should note in this regard an obvious further purpose underlying the forfeiture power (besides its principal purpose of confiscating unlawfully retained benefits), namely as part of the mechanism for policing the control of political donations.	Ratio
+To allow the return of the benefit after forfeiture has been sought to save a party from an order, would, except perhaps in very special circumstances, more likely thwart than promote that additional purpose.	Ratio
+That question is, however, academic in the present case: quite simply UKIP still retains donations which it should never have accepted.	Ratio
+On the Commissions forfeiture application the Senior District Judge allowed UKIP to keep almost all of the 350,000 odd total of impermissible donations it had accepted from Mr Bown.	Ratio
+In common with the Court of Appeal although not, as now appears, with the majority of this Court I find that a surprising and unsatisfactory outcome to this regrettable affair.	RPC
+In agreement with Lord Phillips and Lord Kerr, I consider that the appeal should be allowed.	Ratio
+Their reasoning and conclusions are broadly consistent, although, like Lord Kerr, I would be inclined to regard the question, whether forfeiture is possible of a sum less than the full amount of a donation, as central to the enquiry whether the discretion to order forfeiture is broad or narrow.	Ratio
+The discretion introduced by s.58(2) is on its face an open discretion, capable of responding to different circumstances, in particular the difference - important in the light of the mischief to which this Part of the Act was directed - between foreign donations and donations such as the present made irregularly by a person who was entitled to be on a United Kingdom register of electors but by mistake was not.	Ratio
+The words may .	Ratio
+order the forfeiture .	Ratio
+of an amount equal to the value of the donation are in my view capable of implying discretion to order forfeiture of part as well as all or nothing of the donation, rather than compelling a conclusion that the only discretion involved a blunt choice between all or nothing.	Ratio
+The use of the word may in s.58(2) is coupled with provisions in s.59(2) and (3) which permit an appeal by a registered party unhappy with a magistrates court decision under s.58(2) and which provide that any such appeal shall be by way of a rehearing, and the court hearing such an appeal may make such order as it considers appropriate.	Ratio
+These provisions to my mind also suggest a flexible power of appreciation in relation to the order made, according to the circumstances.	Ratio
+The provisions in s.60(1)(b) and (c) for rules to be made for the giving of notice to and joinder of persons affected also tend to suggest that it was understood that the exercise under s.58 and 59 might be a nuanced one, taking account of others interests.	Ratio
+The words any amount in s.60(3) and (5)(c) can of course be read consistently with either partys case.	Ratio
+A conclusion that partial forfeiture is possible and that discretion is broad, is in my view more consistent with the policy of the legislation than that adopted by the Court of Appeal or by Lord Rodger and Lord Brown.	Ratio
+Parliament preferred the simpler test of registration to a test including entitlement to register for pragmatic reasons: it would be simpler for parties to verify actual registration, simple for persons entitled to register to do so and little is lost by the proposed departure from the Neill Committees recommendation.	Ratio
+The underlying aim of the legislation remained to eliminate inappropriate foreign donations.	Ratio
+Lord Phillipss and Lord Kerrs analysis is in this light consistent with the principle that legislation should be construed to serve its statutory purpose: R v Tower Hamlets LBC ex parte Chetnik Developments Ltd. [1988] 1 AC 858.	Ratio
+The different analyses adopted in that case and the present flow from differences in context and in the nature of the issues.	Ratio
+The refunding by a rating authority of overpaid rates to the person paying them and the forfeiture to the state of an irregular donation made by a member of the public, who is eligible for registration but by mistake not registered, do not raise identical considerations.	Ratio
+The Commission submitted that, even if the law was as the majority of the Court now holds, any reasonable judge must inevitably order forfeiture of the whole of these donations.	ARG
+I do not agree.	ARG
+In my view and as Lord Phillips explains, it was appropriate for the level of forfeiture to reflect the circumstances.	ARG
+These include the fact that Mr Bown was entitled to be on the electoral register, and would have corrected the position and made the same donations had he been aware of the mistake which led to him not being on the register (or had the donations, after being made, been returned to him, as should have occurred).	ARG
+They also include the circumstances that it appears questionable, from what the Court was told, whether UKIP could find the monies to meet any order or survive, if the total sums donated were forfeited.	ARG
+Walker J observed (in last two sentences of para 121) that the District Judge did not expressly deal with some factual aspects, most significantly for present purposes emails from the Commission dated 19 April and 13 May 2005 asking about Mr Bowns status, following which UKIP did not take steps eliciting and confirming the actual picture.	Ratio
+On the other hand, the picture presented by the correspondence between the Commission and UKIP throughout 2005 and into 2006 is not one suggesting any real urgency, still less a risk of any forfeiture; and it is also common ground that the District Judge erred to UKIPs disadvantage in taking 19 June 2005, instead of 13 December 2005, as the date when UKIP became aware that Mr Bown was not on the electoral register and so in ordering forfeiture of a larger sum than he would have done, but for such error.	Ratio
+UKIP did not appeal in respect of this error.	Ratio
+Both parties agreed before the Supreme Court that there should be no re-hearing of any save the most formal sort before the District Judge, and that the Court should if necessary make up its own mind.	Ratio
+On that basis, I agree with Lord Phillipss proposal that the order made by the District Judge should simply be restored.	RPC
+There are three possible outcomes to the debate about the correct interpretation of section 58(2) of the Political Parties, Elections and Referendums Act 2000.	Ratio
+The first is that the discretion given to the court as to whether to order forfeiture is wide and that it is open to the court to make an order for forfeiture of less than the full amount of the donation.	Ratio
+The second is that the discretion is narrow and that an order of forfeiture, if made, should be for the entire amount of the donation.	Ratio
+The third is that the discretion is wide but if an order of forfeiture is made it must be for the total sum.	Ratio
+Of these three possible interpretations, the third seems to me to be the least likely.	Ratio
+A wide discretion to permit the making of an order that there should be no forfeiture of any sum whatever does not sit comfortably with what can be discerned to be the purpose of the legislation viz to eliminate the receipt by political parties of donations from sources considered to be unsuitable.	Ratio
+The debate must focus, therefore, I believe, on the first and second of the mooted interpretations outlined above.	Ratio
+Lord Phillips considered that the primary issue was what he described as the presumption issue i.e. whether section 58(2) conferred a broad discretion on the court as to whether it should make a forfeiture order, or whether there was a strong presumption in favour of forfeiture.	Ratio
+Although I agree with the outcome that Lord Phillips proposes, I have some reservations as to whether this is the primary issue in this case.	Ratio
+It appears to me that the matter of critical importance is whether forfeiture of a sum of less than the full amount of the donation is possible.	Ratio
+If it is, it seems to me to follow logically that the discretion should be wide; if it is not, for the reasons that I have given above, it is difficult to see how a broadly based discretion would be appropriate.	Ratio
+If one approaches the question whether it is possible under the legislation to order forfeiture of a lesser sum than the actual donation by concentrating exclusively on the language of section 58(2) (and section 65(6)), the answer given by the Court of Appeal and powerfully endorsed by Lord Rodger and Lord Brown is difficult to resist.	Ratio
+But, as a matter of general principle, the purpose of an item of legislation should inform ones approach to the interpretation of its constituent parts and I therefore believe that this is a case where it is clearly necessary to be guided in the construction of the relevant provisions not only by the language used but also by the underlying aim of the Act.	Ratio
+The central purpose of the legislation was to prohibit donations from those who did not have a stake in this country.	Ratio
+I do not accept Mr Beloff QCs argument that its purpose evolved from a desire to ban foreign donors to one of denying the right to give donations to those who could not vote.	Ratio
+The Act was the result of the governments commitment in its manifesto to ban foreign donors.	Ratio
+An examination of the materials that preceded its enactment reveal, I believe, that this was always the driver for the legislation.	Ratio
+Paras 4.5 and 4.6 of the White Paper (on which Mr Beloff relied to advance his evolution thesis) are concerned with devising a convenient and easy-to-apply means of enforcement.	Ratio
+They do not represent a change of direction in government thinking on the target for the restriction.	Ratio
+The means chosen to achieve the aim of banning foreign donors obviously has the potential to catch more than that category of persons.	Ratio
+Individual permissible donors are confined under section 54 to those who are registered in an electoral register and quite clearly this can include persons who have a stake in the country and people such as Mr Bown who are not registered in an electoral register possibly because of an administrative error.	Ratio
+A critical issue, therefore, is whether the fact that someone such as he is caught by the breadth of section 54 can affect the way in which section 58 is to be construed.	Ratio
+At first sight it does not appear that this should influence the interpretation of section 58(2).	Ratio
+The court is given the power to order the forfeiture of an amount equal to the value of the donation.	Ratio
+It is not empowered at least not on the face of the subsection to order that an amount up to the value of the donation be forfeit.	Ratio
+And Lord Brown has articulated a strong argument to the effect that if this was the intention of Parliament, it could easily have been achieved.	Ratio
+One might also recognise that the notion of forfeiture is traditionally the deprivation of a specific amount or object.	Ratio
+Forfeiture is defined in the Oxford English Dictionary as the fact of losing or becoming liable to deprivation of (an estate, goods, life, an office, right, etc) in consequence of a crime, offence, or breach of engagement or that which is forfeited; a pecuniary penalty, a fine.	Ratio
+One of the definitions of forfeit is something to which the right is lost by the commission of a crime or fault.	Ratio
+These definitions indicate, I think, that the use of the word forfeiture is commonly associated with the deprivation of a defined thing.	Ratio
+There are strong policy reasons for interpreting section 58(2) in the manner that the appellant contends for, however.	Ratio
+The culpability of the offender is more easily reflected in the penalty if one has a calibrated reaction to the gradations of impermissibility that will arise; the impact on the party of the proposed forfeiture order can be assessed; whether it is a foreign donation can be taken into account; and the inaction of the Electoral Commission after it has discovered the impermissible donation can also weigh in the balance.	Ratio
+But the strongest and, ultimately, for me, the most convincing - argument in favour of the interpretation advanced by the appellant is that it was never intended that there be forfeiture in the true sense of that term where the donor was someone who was entitled to be on the electoral register but who was not registered because of an administrative error.	Ratio
+The sense that one gets from the Neill Report is that what was intended was the devising of a range of penalties to deal with the various types of impermissible donation and that the word forfeiture was not used in the report in its conventional connotation.	Ratio
+This much is, I think, clear from para 5.42 of the report where it was proposed that a sum not less than the donation should be liable to forfeiture from the partys funds and that in significant cases a penalty of up to ten times the donation might be levied.	Ratio
+Notably, this paragraph also contained the suggestion that, while a forfeiture power should also apply even if the receipt were innocent or inadvertent, the courts would clearly take into account the degree of culpability in setting the level of forfeiture (emphasis added).	Ratio
+The use of the phrase level of forfeiture clearly contemplates, in my opinion, a sanction involving the payment of a sum less than the full amount of the donation.	Ratio
+There is nothing in the White Paper that signals a movement by the government away from the essential purpose identified by the Neill Report and the reasoning that underlay its recommendations.	Ratio
+The changes to the Neill proposals came about as a matter of administrative expediency rather than for reasons of principle.	Ratio
+It is therefore possible to hold that, since the primary function of the Act was to ban foreign donors, the legislature must have intended that where others were caught because of the simplicity and breadth of the provision that was actually adopted to achieve that aim, they would not be subject to the same draconian penalty as those to whom the legislation was principally directed.	Ratio
+Lord Diplock, in commenting on the decision of the House of Lords in Inland Revenue Comrs v Ayrshire Employers Mutual Insurance Association Ltd [1946] 1 All ER 637, said that if the courts can identify the target of legislation, their proper function is to see that it is hit; not merely to record that it has been missed (Courts and Legislators, Holdsworth Club Presidential Address 1965, referred to in the second footnote on p 955 of Bennion on Statutory Interpretation, 5th ed (2008)).	PRE
+One might adapt that statement slightly to meet the circumstances of the present case by saying that courts should ensure that the target is not subject to greater fire than was intended.	PRE
+Concluding, as I therefore do, that the court has power to make an order of forfeiture for less than the full amount of the donation, I am of the view that the discretion of the court as to the level at which to fix the sanction at less than full forfeiture must be wide.	Ratio
+But I agree with Lord Phillips that where it is shown that a donation has come from an impermissible source it should be presumed that this is a foreign donation and that if the presumption is not rebutted, forfeiture should follow.	Ratio
+If, however, it can be shown that the donation was not from a foreign donor but came from someone who was entitled to be in an electoral register, the level of forfeiture should reflect the particular circumstances of the case.	Ratio
+I would therefore allow the appeal.	RPC
+As to disposal, I agree with the order that Lord Phillips proposes should be made.	RPC

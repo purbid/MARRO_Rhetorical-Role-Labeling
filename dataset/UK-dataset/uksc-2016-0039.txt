@@ -1,0 +1,247 @@
+The appellant (Onur), a Turkish corporation, appeals against orders made by Patten LJ in the Court of Appeal on 21 January 2016.	FAC
+An understanding of the nature of his orders requires reference to the following summary of the background.	FAC
+(a) On 22 May 2014 Rose J, [2015] 1 BCLC 89, gave judgment against Onur in favour of the respondent (Goldtrail), a UK company in liquidation, in the sum of 3.64m plus interest.	FAC
+(b) On 15 December 2014 Floyd LJ granted permission to Onur to appeal to the Court of Appeal against the order of Rose J on the basis that the appeal had a real prospect of success.	FAC
+(c) On 11 June 2015 Floyd LJ, by way of variation of an earlier order for the imposition of conditions upon the continuation of Onurs appeal, made it conditional, among other things, upon Onurs payment into court (or provision of other security for it) of 3.64m by 9 July 2015.	FAC
+(d) On 29 October 2015, in the absence of any payment into court (or provision of other security), Goldtrail applied for an order dismissing Onurs appeal and on 7 December 2015 Onur cross-applied for an order that the condition for payment into court be discharged on the ground that it could not comply with it and that the effect of dismissing the appeal by reference to it would be to stifle the appeal.	FAC
+(e) At the hearing before Patten LJ on 14 January 2016 of the application and cross-application referred to at (d), Goldtrail, in disputing that the condition for payment was such as to stifle Onurs appeal, relied in particular on the financial relationship between Onur and its wealthy owner, Mr Bagana.	FAC
+As explained by Patten LJ in his reserved judgment dated 21 January 2016, his orders were first to dismiss Onurs cross-application and thereupon to grant Goldtrails application for an order that, by reason of Onurs failure to comply with the condition imposed on 11 June 2015, its appeal should be dismissed.	FAC
+In the above circumstances this court is asked to address the principles by reference to which the Court of Appeal should determine an application by a respondent/claimant that, as a condition of any appeal to it, the appellant/defendant should pay into court (or otherwise secure payment of) part or all of the judgment sum awarded against it in the court below; and in particular to identify the principles by reference to which it should appraise a respondents contention that an appellants financial relationship with a wealthy third party is such as to defeat its complaint that such a condition would stifle its appeal.	Ratio
+In the event there has been little dispute between the parties as to the principles which the Court of Appeal should apply.	Ratio
+The more lively issue has been whether Patten LJ can be seen to have applied those principles in reaching his conclusions first that Onurs relationship with Mr Bagana was such as to defeat its complaint that the condition for payment would stifle the appeal; second that the condition should therefore remain in being; and third that, in the absence of compliance (or proposed compliance) with it, Onurs appeal should therefore be dismissed.	Ratio
+THE SUBSTANTIVE DISPUTE	FAC
+Prior to its liquidation, Goldtrail was a holiday tour company which had been wholly owned by Mr Aydin.	FAC
+Onur is a Turkish airline, largely owned by Mr Bagana.	FAC
+In the proceedings before Rose J Goldtrail, by its liquidator, sued Onur in relation to two agreements and, irrelevantly for present purposes, sued other defendants in relation to other agreements.	FAC
+The claim against Onur arose out of the latters aspiration to cause Goldtrail to buy seats for its tourists on Onurs flights between the UK and Turkey.	FAC
+Such was the context of agreements that Mr Bagana would buy 50% of Mr Aydins shares in Goldtrail for 1m (which he paid) and that Onur would pay 3.64m (which it paid) to another company owned by Mr Aydin for its purported brokerage of an agreement by Goldtrail with Onur to buy a specified number of seats on its flights.	FAC
+Rose J found that, properly analysed, the payment of 3.64m represented consideration for Goldtrails agreement to buy the seats; that, in breach of his fiduciary duty to Goldtrail, Mr Aydin had diverted receipt of Onurs payment away from Goldtrail to his other company; that Onur had dishonestly assisted Mr Aydin in thus defrauding Goldtrail; and that it should pay damages to it in that sum.	FAC
+ONURS APPEAL	FAC
+In January 2015, following the grant on paper of permission to Onur to appeal against the order of Rose J, Goldtrail applied for the imposition of conditions.	FAC
+It was too late for it to apply under Rule 52.3(7)(b) (now Rule 52.6(2)(b)) of the Civil Procedure Rules for the actual permission to be made subject to conditions.	FAC
+It therefore applied under Rule 52.9(1)(c) (now Rule 52.18(1)(c)) for the court to exercise its discretion to impose conditions upon which an appeal may be brought.	FAC
+Paragraph (2) of Rule 52.9 (now Rule 52.18(2)) provided that the court should exercise its powers under para (1) only where there was a compelling reason for doing so.	FAC
+By its application, Goldtrail requested conditions that Onur should pay or secure 600k under interim orders for costs made by Rose J; should provide security for Goldtrails costs of the appeal in the sum of 150k; and in particular should pay into court the sum of 3.64m which Rose J had awarded to it by way of damages.	FAC
+In response Onur entered no substantive challenge to the request for the first two conditions.	FAC
+The dispute related to the requested payment into court of the judgment sum.	FAC
+Goldtrail relied on the agreed fact that in October 2014, after 22 years of flying its aircraft to the UK, Onur had ceased to do so; and Goldtrail submitted that, since Onur was likely to have no other assets even temporarily in England and Wales, there was a compelling reason for the judgment sum to be secured.	FAC
+Onurs response was that its decision to cease flights to the UK had been taken for operational reasons and that there was no evidence that it had taken steps or would take steps to obstruct enforcement of the judgment in the event of the dismissal of its appeal.	FAC
+What at that time Onur did not allege was that the disputed condition would stifle its appeal.	FAC
+By an order on paper dated 7 April 2015 Floyd LJ imposed the disputed condition.	FAC
+Onur exercised its right to cause him to reconsider his decision at the hearing which took place on 11 June 2015.	FAC
+Although in his judgment Floyd LJ expressed a willingness to assume that there was a respectable commercial explanation for the cessation of Onurs flights to the UK, he maintained his earlier conclusion that there was a compelling reason for imposing the condition.	FAC
+Upon Onurs continuation of the appeal, he therefore imposed the condition that it should pay into court (or otherwise secure payment of) 3.64m by 9 July 2015.	FAC
+On 14 July 2015, by then in breach of the condition, Onur applied for variation of it so as to permit it to make the payment into court by seven monthly instalments.	FAC
+On 27 July 2015 Floyd LJ on paper refused the application but shortly before 21 October 2015, when pursuant to Onurs request he was due to reconsider it at a hearing, Onur changed its stance.	FAC
+Its new contention was that the condition for payment of the judgment sum into court was a breach of its rights under the European Convention on Human Rights and was unlawful and that therefore the payment would not be made.	FAC
+So Floyd LJ dismissed the application for variation and directed that Goldtrails oral request for the consequential dismissal of Onurs appeal be made by formal application.	FAC
+Thus it was that on 14 January 2016 Patten LJ heard not only the anticipated application by Goldtrail for dismissal of the appeal but also a cross-application by Onur dated 7 December 2015 for discharge of the condition for payment into court of the judgment sum on the ground - asserted for the first time - that its continuation in force would stifle the appeal.	FAC
+The relevant findings, observations and conclusions of Patten LJ in his judgment dated 21 January 2016 were as follows: In 2013 he lent US $28m to Onur.	RLC
+(a) Mr Bagana was extremely wealthy and had, for example, given evidence to Rose J that 5m was not a significant outlay for himself personally.	RLC
+(b) He directly held 3.67% of the shares in Onur and held 81.19% of the shares in a company which held a further 92% of the shares in Onur.	RLC
+(c) Between 2008 and 2011 Onur had paid substantial dividends to him, which he had lent back to it, secured against its assets.	RLC
+(d) (e) By 2014 his loan account with Onur had increased to $68m.	RLC
+(f) For some reason Onur had guaranteed debts owed to him by another shareholder.	RLC
+(g) As Onurs largest secured creditor, Mr Bagana was in a position to decide which of Onurs unsecured debts should be paid and at what time.	RLC
+(h) He had a more than usually close relationship with Onur and effectively controlled its financial affairs.	RLC
+(i) According to Onurs Chief Financial Officer, Mr Bagana had said that he would contemplate making further loans to Onur only in exceptional circumstances to enable it to make commercial payments necessary to keep it in business.	RLC
+(j) With Mr Baganas support Onur was able to continue to trade.	RLC
+(k) Even had it been difficult for Onur to make the payment into court out of cash generated from its trading activities, it could have done so with his support.	RLC
+(l) Mr Bagana had decided not to fund the payment by Onur.	RLC
+(m) Were the court able to take his financial position into account in assessing Onurs ability to make the payment into court, its application to discharge the condition could not succeed.	RLC
+(n) In exceptional circumstances the ability of a company to have access to funds from a third party could be taken into account in assessing the likelihood that it could make a payment into court.	RLC
+(o) To take it into account would not be the same as to oblige that third party to comply with a condition imposed on a company.	RLC
+(p) exceptional.	RLC
+(q) Onur had failed to establish that the condition for payment into court would stifle its appeal.	RLC
+(r) So Onurs cross-application failed and, in that it had resolved not to satisfy the condition, its appeal should be dismissed.	RLC
+In the light of all the above features the circumstances were	RLC
+PRINCIPLES	Ratio
+To stifle an appeal is to prevent an appellant from bringing it or continuing it.	Ratio
+If an appellant has permission to bring an appeal, it is wrong to impose a condition which has the effect of preventing him from bringing it or continuing it.	Ratio
+It is as if, on an application of summary judgment, the court were to grant leave to the defendant to defend the claim and then to attach a condition for payment which he could not satisfy.	Ratio
+In the words of Lord Diplock in M V Yorke Motors v Edwards [1982] 1 WLR 444 at 449B: that would be a wrongful exercise of discretion, because it would be tantamount to giving judgment for the plaintiff notwithstanding the courts opinion that there was an issue or question in dispute which ought to be tried.	Ratio
+Application of article 6 of the European Convention on Human Rights (being an article which confers its rights on companies as well as on human beings) yields the same conclusion.	Ratio
+The article does not require a member state to institute a court of appeal but, if it does so, it must ensure that litigants in that court enjoy its fundamental guarantees: Delcourt v Belgium (1970) 1 EHRR 355.	Ratio
+There will seldom be a fair hearing within article 6 if a court which has permitted a litigant to bring an appeal then, by indirect means, does not permit him to bring it.	Ratio
+There is a variety of situations in which a party submits that the effect of granting or refusing an application would be to stifle his continued participation in the proceedings.	Ratio
+He may do so, for example, as a claimant of a specified character, in response to an application by (a) a defendant for him to provide security for costs; or (b) as a defendant, in response to an application by the claimant for summary judgment in which the latter contends, as a fall-back, that, were leave to be given to defend the claim, it should be subject to a condition that the sum claimed be paid into court; or (c) as a party who has without good reason failed to comply with an order, in response to an application by the other for an order for him to make a payment into court; or (d) as an appellant, in response to an application by the respondent (as in the present case) that, as a condition of the appeal, he should provide security for the costs of it; or (e) as a former defendant now an appellant, in support of his application (as in the present case) that orders against him for payment of the judgment debt or costs be stayed pending his appeal; or (f) as a former defendant now an appellant, in response to an application by the respondent (as in the present case) that he should, as a condition of the appeal, pay the judgment debt into court.	Ratio
+There is a qualitative difference between imposing a condition which requires a defendant/appellant to provide security for the future costs of the claimant/respondent and one which requires him to pay into court the sum awarded against him.	Ratio
+The effect of the former is that, were his appeal to be dismissed, the burden of expenditure to be incurred by the claimant/respondent in resisting the appeal would not be borne by him.	Ratio
+The effect of the latter is, by contrast, even more beneficial for the claimant/respondent.	Ratio
+It is that, in the event (again) of the dismissal of the defendants appeal, the judgment sum would be there, as it were upon a tray, for the claimant to sweep into his pocket without his needing to undertake any attempt to enforce the courts order for payment of it.	Ratio
+No doubt a court asked to impose a condition for the payment into court of the sum awarded will have well in mind that extra advantage for the claimant and corresponding disadvantage for the defendant.	Ratio
+But a partys participation in proceedings can be as much stifled by an order for security for costs as by an order for payment into court of the sum claimed or awarded.	Ratio
+So it is without further reference to that distinction that one may proceed to address the circumstances in which an order can be said to stifle the continuation by an appellant of an appeal.	Ratio
+There is no doubt - indeed it is agreed - that, if the proposed condition is otherwise appropriate, the objection that it would stifle the continuation of the appeal represents a contention which needs to be established by the appellant and indeed, although it is hypothetical, to be established on the balance of probabilities: for the respondent to the appeal can hardly be expected to establish matters relating to the reality of the appellants financial situation of which he probably knows little.	Ratio
+But, for all practical purposes, courts can proceed on the basis that, were it to be established that it would probably stifle the appeal, the condition should not be imposed.	Ratio
+It is clear that, even when the appellant appears to have no realisable assets of its own with which to satisfy it, a condition for payment will not stifle its appeal if it can raise the required sum.	Ratio
+As Brandon LJ said in the Court of Appeal in the Yorke Motors case, cited with approval by Lord Diplock at 449H: The fact that the man has no capital of his own does not mean that he cannot raise any capital; he may have friends, he may have business associates, he may have relatives, all of whom can help him in his hour of need.	Ratio
+It seems that, in particular and as exemplified by the present case, difficult issues have surrounded the ability of a corporate appellant, without apparent assets of its own, to raise money from its controlling shareholder (or some other person closely associated with it); and this is the context of what follows.	Ratio
+When, in response to the claim of a corporate appellant that a condition would stifle its appeal, the respondent suggests that the appellant can raise money from its controlling shareholder, the court needs to be cautious.	Ratio
+The shareholders distinct legal personality (which has always to be respected save where he has sought to abuse the distinction: Prest v Prest [2013] UKSC 34, [2013] 2 AC 415, 487, para 34) must remain in the forefront of its analysis.	Ratio
+The question should never be: can the shareholder raise the money? The question should always be: can the company raise the money?	Ratio
+So one turns to the leading authority of the Court of Appeal in this area, namely Hammond Suddard Solicitors v Agrichem International Holdings Ltd [2001] EWCA Civ 2065, [2002] CP Rep 21, which Onur contends to be, in part, erroneous in principle.	Ratio
+In the Hammond Suddard case the respondent solicitors sued the appellant company for unpaid fees and it counterclaimed for damages for negligence.	PRE
+The claim succeeded and in effect the counterclaim failed.	PRE
+The appellant obtained permission to appeal.	PRE
+It unsuccessfully sought a stay of execution of the orders made by the judge on the basis that, were they to be enforced, its appeal would be stifled.	PRE
+The respondents sought the imposition of conditions upon the permission to appeal.	PRE
+They sought a condition for provision of security for the costs of the appeal, which the appellant conceded to be appropriate.	PRE
+But they also sought a condition of payment into court of the judgment debt and of the sums awarded under interim orders for costs, to which, analogously, the appellant objected that its consequence would be to stifle its appeal.	PRE
+The appellant had been incorporated in the British Virgin Islands and was owned by trustees on discretionary trusts for an unidentified but apparently wealthy family.	PRE
+The appellant had, so it said, no assets.	PRE
+But could it raise from its beneficial owners a sum equal to the judgment debt and costs in order to enable it to make the payment into court? If so, there was a compelling reason within the meaning of Rule 52.9(2) for imposing the condition sought by the respondents.	PRE
+In the Hammond Suddard case the judgment of the court was delivered by my Lord, Lord Clarke (Clarke LJ, as he then was), on behalf of himself and Wall J (as he then was).	Ratio
+Having observed, at (1) of para 41, that it would be difficult for the respondents to exercise the normal mechanisms of enforcement against the appellant and, at (2), that the appellant had had access to resources which had enabled it to secure representation of the highest quality in the proceedings to date, the court concluded, at (3): There is no convincing evidence that the appellant does not either have the resources or have access to resources which would enable it to pay the judgment debt and costs as ordered.	Ratio
+No criticism has been directed at the above conclusion.	Ratio
+It was an impeccable summary of the courts reason for acceding to the respondents application.	Ratio
+The court proceeded, at para 41(4), to find that the appellants disclosure of its financial affairs had been inadequate.	Ratio
+But then, at the end of the subparagraph, it added an observation in relation to the appellant: It has wealthy owners and there is no evidence that, if they were minded to do so, they could not pay the judgment debt including the outstanding orders for costs.	Ratio
+Indeed, in para 43, the court added a second observation to the same effect: Thus we see nothing unjust in providing the trust which owns the appellant with a choice.	Ratio
+If it is in the interests of the appellant for the appeal to continue, the trust must procure payment of the current orders.	Ratio
+I am driven to the view that Onur is right to criticise the phraseology of the courts two additional observations.	Ratio
+Their intended meaning may well have been, as Goldtrail suggests, that the appellant had failed to establish that funds with which the company could make the payment into court would not be made available to it by its beneficial owners.	Ratio
+But, strictly speaking, it was wrong for the court to express its reasoning in terms of whether they could themselves make that payment.	Ratio
+In Socit Gnrale SA v Saad Trading, Contracting and Financial Services Co [2012] EWCA Civ 695 the Court of Appeal was required to determine applications by Socit Gnrale SA (the bank), which was the respondent to appeals which the two appellants had been permitted to bring against orders made against each of them for payment to the bank of US$49m.	PRE
+The first appellant (Saad) was a limited Saudi Arabian partnership and the second appellant (Mr Al- Sanea) was a general partner of Saad and owned 90% of its share capital.	PRE
+One of the banks applications was for a condition to be imposed upon the continuation of each of the appeals that the appellants should pay the award of US$49m into court; to which the appellants each responded that any order for payment into court would stifle their appeals.	PRE
+The courts conclusion, explained in the judgment of Aikens LJ with which Rimer LJ agreed, was that a condition, which it proceeded to impose, for their joint and several payment into court of (only) $5m would not stifle their appeals.	PRE
+In reaching this conclusion Aikens LJ punctiliously addressed the factors identified by the court as relevant in the Hammond Suddard case.	PRE
+Nothing turns on his analysis of why Mr Al-Sanea had failed to make good his contention that his appeal would be stifled.	PRE
+In relation, however, to the analogous contention of Saad, Aikens LJ addressed the additional observation which that court had made in para 41(4).	PRE
+At paras 54 and 55 of his judgment Aikens LJ said that it was difficult to judge the legitimacy of imposing upon a company a the question was whether Saad had a wealthy owner who could not, if i) minded to do so, make the payment into court on its behalf; ii) condition which would effectively require an owner to fund it; iii) but the courts additional observation in the Hammond Suddard case had been clear; iv) exceptional circumstances; and v) the answer had to be that such a condition should be imposed only in the circumstances of the present case were exceptional.	PRE
+Possibly ham-strung by the doctrine of precedent, the court in the Socit Gnrale case evidently considered it best to treat the first additional observation in the Hammond Suddard case by consigning it to that over-used store-room in the mansion of the law which is designated as exceptional circumstances.	PRE
+Such a criterion is on any view dangerous because it is not, on the face of it, linked to its context: see Norris v Government of United States of America (No 2) [2010] UKSC 9, [2010] 2 AC 487, para 56.	PRE
+It sets a snare for it may lead to the wrongful downgrading of the significance of circumstances just because they happen not to be exceptional or to their wrongful upgrading just because they happen to be exceptional: H (H) v Deputy Prosecutor of the Italian Republic, Genoa (Official Solicitor intervening) [2012] UKSC 25, [2013] 1 AC 338, para 161.	PRE
+Having, however, an unconstrained ability to reject the phraseology of the additional observations, we in this court have no need to approve the superimposition upon the relevant criterion of a test of exceptional circumstances which neither party before the court seeks to defend.	Ratio
+In this context the criterion is: Has the appellant company established on the balance of probabilities that no such funds would be made available to it, whether by its owner or by some other closely associated person, as would enable it to satisfy the requested condition?	Ratio
+The criterion is simple.	Ratio
+Its application is likely to be far from simple.	Ratio
+The considerable forensic disadvantage suffered by an appellant which is required, as a condition of the appeal, to pay the judgment sum (or even just part of it) into court is likely to lead the company to dispute its imposition tooth and nail.	Ratio
+The company may even have resolved that, were the condition to be imposed, it would, even if able to satisfy it, prefer to breach it and to suffer the dismissal of the appeal than to satisfy it and to continue the appeal.	Ratio
+In cases, therefore, in which the respondent to the appeal suggests that the necessary funds would be made available to the company by, say, its owner, the court can expect to receive an emphatic refutation of the suggestion both by the company and, perhaps in particular, by the owner.	Ratio
+The court should therefore not take the refutation at face value.	Ratio
+It should judge the probable availability of the funds by reference to the underlying realities of the companys financial position; and by reference to all aspects of its relationship with its owner, including, obviously, the extent to which he is directing (and has directed) its affairs and is supporting (and has supported) it in financial terms.	Ratio
+APPLICATION TO THE PRESENT CASE	Ratio
+There has been lively argument before the court as to whether, in making the orders under appeal, Patten LJ must be taken to have concluded, in accordance with the correct criterion, that Onur had failed to establish that Mr Bagana would not make 3.64m available to it in order to enable it to comply with any order for its payment into court.	Ratio
+There are grounds for thinking that such a conclusion might have been open to him.	Ratio
+Mr Bagana signed a statement admitted by Rose J into evidence, in which, so Onur tells this court, he admitted that he was responsible for its overall operation and made the ultimate decisions referable to it; and Patten LJ made findings accordingly.	Ratio
+Moreover Mr Baganas massive recent loans to Onur to enable it to continue to trade were on any view of substantial relevance to the probability of a further, modest advance.	Ratio
+Oddly no statement was filed on behalf of Onur by Mr Bagana himself but the Chief Financial Officers evidence was that he would contemplate making further advances only to enable Onur to make commercial payments necessary in order to keep itself in business.	Ratio
+This second- hand assertion called for careful scrutiny.	Ratio
+But, in circumstances in which Patten LJ concluded that it seems clear to me that Mr Bagana has decided not to fund the payment by the company, I am driven to the view that this court cannot proceed on the basis that Onurs application for discharge of the condition was refused by reference to the correct criterion.	Ratio
+Goldtrail submits with force that Patten LJ meant to conclude only that, up until that point, Mr Bagana had declined to fund the payment and that the evidence in support of any wider conclusion was far too thin.	Ratio
+It further submits that for Patten LJ to have found that Mr Bagana had made a final decision never to fund it would be inconsistent with his refusal of Onurs application.	Ratio
+Unfortunately, however, I cannot accept the further submission.	Ratio
+The key to the proper construction of his judgment is that, following a lengthy quotation from the judgment of Aikens LJ in the Socit Gnrale case, Patten LJ concluded that the circumstances of the present case were exceptional.	Ratio
+In other words he was proceeding by reference to the Court of Appeals misconception, born of the additional observations in the Hammond Suddard case and developed in the Socit Gnrale case, that in exceptional circumstances an order for a party, without apparent assets of its own, to make a payment into court could be justified by whether another person probably could advance the necessary funds to it irrespective of whether he probably would do so.	Ratio
+So I would allow Onurs appeal and remit both applications to Patten LJ for him to determine Onurs application for discharge of the condition by reference to the correct criterion.	Ratio
+I should record that Goldtrail put forward to him an alternative argument against discharge; of course he had no need to address it but he may now need to do so.	Ratio
+I have reached a different conclusion from that arrived at by Lord Wilson.	Ratio
+I am not persuaded that Patten LJ materially misstated the relevant principles or arrived at the wrong conclusion.	Ratio
+It is important to put his decision in context.	Ratio
+The issue throughout has been whether there was a compelling reason for imposing a condition upon which an appeal may be brought under what were then CPR 52.9(1)(c) and (2).	Ratio
+Before the case came before Patten LJ it had a long history, largely before Floyd LJ.	Ratio
+As Lord Wilson explains, at no stage when the issues were before Floyd LJ did Onur contend that payment of the judgment sum of 3.4m (or the provision of security in lieu) would or might stifle the appeal.	Ratio
+Instead it advanced a whole series of mutually inconsistent explanations, in response to which Floyd LJ made a series of orders and gave a number of judgments, notably on 11 June, 27 July and 21 October 2015.	Ratio
+Onurs applications included an application for permission to pay the judgment sum in monthly instalments of 500,000.	Ratio
+Floyd LJ rejected that application on the papers, giving clear reasons, on 27 July 2015.	Ratio
+His reasons included this passage, quoted in para 14 of his judgment given on 21 October 2015: There is no explanation of how these sums will be funded.	Ratio
+If [the appellants] are now contending that the imposition of the order would stifle the appeal, the evidence falls far short of showing that to be the case.	Ratio
+It is well settled that a party who wishes so to contend must show that he has explored all means of providing the necessary security.	Ratio
+Floyd LJ added that the appellants had a right to renew the application orally and that he would consider any further evidence that became available.	Ratio
+Floyd LJ added in para 15 of his judgment on 21 October that he had hoped to make it clear by that set of reasons that the appellants appeared to be what he called shuffling around to a position where they were saying that the payment of the sums of money placed unacceptable strains on their ability to conduct business, so much so that it was an interference with their right to appeal that the order should be enforced in its full amount.	Ratio
+They did not however take that step.	Ratio
+In para 17 Floyd LJ said that on 19 October, which was two days earlier, the appellants did not deal with the previous history but served a witness statement with only one paragraph as follows: Board of Onur Air is of the opinion that this decision, [which Floyd LJ assumed was a reference to his order that the judgment sum be paid into court] is unlawful and against the principles laid down by the European Court of Human Rights.	Ratio
+Therefore, the foresaid sum will not be paid.	Ratio
+The striking feature of that statement is that Onur was not even then saying that payment of 3.4m (or the provision of security in lieu) would or might stifle the appeal.	Ratio
+Reliance upon Onurs human rights was a wholly new point on the part of Onur.	Ratio
+For various reasons which are not material to this appeal Floyd LJ said in para 20 that the whole history of the appeal was very unsatisfactory but that he was very reluctant to strike out an appeal for which permission has been given without giving the appellants one final chance of explaining the position.	Ratio
+He added: If it is now their position that they are so inhibited by the order for payment of the judgment sum that it is stifling their ability to appeal, then they should say so.	Ratio
+I appreciate that is not something which they have so far said.	Ratio
+They have had ample opportunity, it might be said, to put forward every argument, but stifling of the appeal is one matter which they have thus far declined to put forward.	Ratio
+It may be that they are embarrassed by what was apparently said to Rose J about the fact, as Mr Gurbuz said in evidence, that the company was of such a size that 5m was not a large sum of money.	Ratio
+Whatever the reason for their silence, it seems to me that they ought to come forward with their evidence now.	Ratio
+In order to give Onur one last chance Floyd LJ directed that any application for a final order on the appeal should be made on notice to the appellants and that appropriate opportunity should be given to both sides to file evidence in relation to it.	Ratio
+He added that it may be that not much further evidence was required from the respondents but that he was very anxious that the appeal should not be disposed of without a proper application on notice for the precise order which Goldtrail now sought.	Ratio
+The matter then came before Patten LJ, who gave judgment on 21 January 2016.	Ratio
+There were before Patten LJ an application on the part of Goldtrail for an order dismissing the appeal and for orders for payment of the judgment sum and interest.	Ratio
+That would of course involve a removal of the stay.	Ratio
+Onur opposed those applications and issued a new application under CPR 3.1(7) for the variation of the 11 June order by removal of the condition requiring payment into court of the judgment sum.	Ratio
+It did so, as Patten LJ put it in para 15, for the first time on the ground that the payment of that sum was now beyond the means of the company and its payment would stifle the appeal.	Ratio
+Patten LJ considered first the application under CPR 3.1(7).	Ratio
+I will do the same.	Ratio
+Patten LJ considered the position in some detail between paras 16 et seq and concludes in para 21 that Onurs Chief Financial Officer said in a statement dated 8 January 2016 that there had been a net increase in current liabilities of US$10m and that the net forecast for 2015 was between US$15 and US$16.5 m, that Onurs shortfall remained serious and that this was being managed by postponing current debt.	Ratio
+Patten LJ summarised the position thus in para 22: Ms Erguven says that Onur has been unable to negotiate extended finance from banks and that existing lenders have either frozen or closed existing facilities.	Ratio
+In these circumstances, the company has no means to pay the judgment debt.	Ratio
+One would expect that, in these circumstances, Onur would have been forced to cease trading but this is obviously not the case and the evidence indicates that the airline continues to operate in Europe and has entered into new contracts, for example, with Bulgarian Air.	Ratio
+An analysis of the financial information carried out by the liquidators of Goldtrail and set out in the witness statement of Mr Oakley-Smith recognises the difficulties faced by Onurs business in the present climate but identifies a continuing source of funding from Mr Hamit Cankut Bagana who is the Chairman of Onur and its controlling shareholder.	Ratio
+According to Ms Erguvens most recent witness statement, Mr Bagana has a direct shareholding of 3.67% of Onur but owns 81.19% of a company called Ten Tour Turizm Endustri ve Ticaret Anonim Sirket which in turn owns 92% of the shares in Onur.	Ratio
+Patten LJ continued as follows: 23.	Ratio
+The analysis carried out by Mr Oakley-Smith of the 2013 and 2014 accounts suggests that Mr Bagana is the primary source of funding for the company.	Ratio
+His evidence at the trial before Rose J was that he paid 1m to Mr Aydin as part of the agreement with Onur.	Ratio
+He lent the company $28m in 2013.	Ratio
+In the 2014 accounts this is shown as having increased to $68m.	Ratio
+As part of these arrangements, it appears that Onur has given guarantees to Mr Bagana in respect of debts due to him from one of the other shareholders although the reasons for this are not explained.	Ratio
+Of more significance is that in the period from 2008 to 2011 substantial dividends were paid by Onur to Mr Bagana and then loaned back to the company and secured against its assets in subsequent years.	Ratio
+Mr Bagana therefore appears to have removed equity from the company and to have used the money to establish himself as a secured creditor.	Ratio
+His position as the companys largest single (and secured) creditor has put him into the position where he can effectively decide which of the unsecured debts should be paid and when.	Ratio
+This is confirmed by Ms Erguven in her second witness statement where she says that: I can confirm that Mr Bagana is fully aware of the position that Onur Air finds itself in in relation to the payment of the Judgment Sum into court as a condition of the continuation of the Appeal.	Ratio
+He has made it clear that he would only contemplate considering the possibility of advancing further amounts to Onur Air in the most exceptional circumstances if they were commercial payments strictly and immediately necessary in order to keep Onur Air in business due to the already significant indebtedness of the company to him and the deteriorating financial condition of the company.	Ratio
+Mr Bagana has made it clear to the management of Onur Air that he believes that if the court were to strike out the appeal on the grounds that he, as a shareholder, had failed to lend money to Onur Air to enable it to pay the Judgment Sum into court, that would be a breach of his and Onur Airs rights under the European Convention of Human Rights.	Ratio
+24.	Ratio
+The liquidators evidence is that Mr Bagana is an extremely wealthy man who said to Rose J in his evidence that he did not regard 5m as a significant outlay for himself personally.	Ratio
+Ms Erguvens response to this is that she is unable to comment on his alleged wealth and business activities.	Ratio
+25.	Ratio
+Some of the argument has centred on whether the financial information produced by Onur justifies its alleged belief that it is unable to pay the 3.64m and that, to be made to do so, would lead to the stifling of the appeal.	Ratio
+Mr Gibbon cautioned me against attempting to second guess the assessment of the financial state and prospects of the company made by its own directors and officers and I am obviously alive to those difficulties.	Ratio
+But even taking Ms Erguvens assessment at face value, it is apparent that a decision has been taken that Onur is able to continue to trade with the support of Mr Bagana and that it could, with that financial support, have made the 3.64m payment even if it would have been in difficulties in generating sufficient cash for that purpose from its trading activities.	Ratio
+It seems clear to me that Mr Bagana has decided not to fund the payment by the company and if I can take his financial position into account in assessing Onurs ability to satisfy the condition either prior to 9 July 2015 or thereafter then the CPR 3.1 (7) application to vary cannot succeed.	Ratio
+There is no evidential basis for concluding that the condition could not have been complied with or that, if complied with, it would stifle the appeal.	Ratio
+26.	Ratio
+Mr Gibbon submitted that it could only be in exceptional circumstances that the court would take into account on this kind of application the financial position of a third party such as Mr Bagana.	Ratio
+To do so risks blurring the distinction between a company and its shareholders or other funders which the law habitually respects.	Ratio
+But it is clear as a matter of authority that the ability of third parties to fund the company may be relevant in appropriate cases and that there is no jurisdictional bar to the court taking their position into account in determining whether an allegation of stifling has been made out.	Ratio
+There is, I think, an obvious distinction between whether such a third party can be said to be under any sort of obligation as a result of an order made against the company and whether, in considering the likelihood of the company being able to make a potential payment, its access to third party funding should be taken into account.	Ratio
+Patten LJ then referred to Socit Gnrale SA v Saad Trading, Contracting and Financial Services Co [2011] EWCA Civ 695 and to a decision of the Court of Appeal in Hammond Suddard Solicitors v Agrichem International Holdings Ltd [2001] EWCA Civ 2065; [2002] CP Rep 21, where I gave the judgment of the court, which comprised myself and Wall J.	Ratio
+In the light of the submissions in this case, I recognise that my formulation of the principles is not entirely accurate.	Ratio
+The basic principle is that stated by Brandon LJ with the approval of Lord Diplock in M V Yorke Motors v Edwards [1982] 1 WLR 444 at 449H (as quoted by Lord Wilson): The fact that the man has no capital of his own does not mean that he cannot raise any capital; he may have friends, he may have business associates, he may have relatives, all of whom can help him in his hour of need.	Ratio
+The cases show that in a case such as this the burden is on the person (or entity concerned) to show that he cannot find relevant capital to support him.	Ratio
+Wilson in his para 21: In Hammond Suddard I tried to make that clear in para 41(3) quoted by Lord There is no convincing evidence that the appellant does not either have the resources or have access to resources which would enable it to pay the judgment debt and costs as ordered.	Ratio
+I adhere to that principle.	Ratio
+So the question here is whether Onur either has the resources or access to resources to pay the sum of 3.64m.	Ratio
+The statements of principle which I recognise went too far are those referred to in my paras 41(4) and 43 as identified by Lord Wilson in his para 22 above.	Ratio
+In para 41(4) I added, of the appellant: It has wealthy owners and there is no evidence that, if they were minded to do so, they could not pay the judgment debt, including the outstanding orders for costs.	Ratio
+In similar vein I said this in para 43: Thus we see nothing unjust in providing the trust which owns the appellant with a choice.	Ratio
+If it is in the interests of the appellant for the appeal to continue, the trust must procure the payment of the current orders.	Ratio
+I am also of the view that, in so far as the Court of Appeal went further in Socit Gnrale SA v Saad Trading, Contracting and Financial Services Co [2012] EWCA Civ 695, it went too far.	Ratio
+In short, where the relevant company does not have appropriate resources of its own and the question is whether it has access to the resources of others, the question is whether the company would (not could) have had access to the resources.	Ratio
+The onus that it would not is on the company concerned.	Ratio
+On the facts of this case, the question is whether Onur has shown on the balance of probabilities that it did not have access to the relevant resources.	Ratio
+On the basis that the only resources available to Onur were through Mr Bagana, the question is whether, on the balance of probabilities he would have provided the funds.	Ratio
+As I see it, the strength of Goldtrails case is this.	RPC
+Onur at no stage focused on this precise point.	RPC
+As Lord Carnwath puts it in para 48, there was no direct evidence from Mr Bagana on the point.	RPC
+In short, he does not address the question whether he would have declined to provide funds to Onur.	RPC
+Again, as Lord Carnwath puts it, the only relevant evidence on the point was that of Onurs Chief Financial Officer that Mr Bagana would contemplate making further loans to Onur but only in exceptional circumstances [to enable it to make] commercial payments necessary to keep [it] in business.	RPC
+I agree with Lord Carnwath that the evidence falls far short of establishing that the condition would in fact stifle the appeal.	RPC
+I would only add that there has been no suggestion until very recently that the condition would stifle the appeal and that the new aspect of Onurs case is not so I would dismiss the appeal.	RPC
+much that the appeal would be stifled as reliance on its human rights, which is not explained and is far-fetched in the extreme.	RPC
+I gratefully adopt Lord Wilsons exposition of the facts and of the law, which was in effect common ground by the end of the hearing.	Ratio
+Although Patten LJ (faithfully applying the authorities binding on him) may have misstated the law in some respects, I agree with Lord Clarke that these were not ultimately material to his determination.	Ratio
+In any event, where an error such as this may have occurred, particularly one resulting from previous case law binding on the lower courts, the interests of justice require us in my view to avoid adding unnecessarily to the delay and expense borne by the parties.	Ratio
+Our rules do not require us to remit the case to the lower court if we are in as good a position to decide it ourselves.	Ratio
+This in my view is such a case.	Ratio
+All the evidence is before us.	Ratio
+I strongly agree with Lord Wilson that the court should not take even an emphatic refutation by the company or the owner at face value.	Ratio
+As he says: it should judge the probable availability of the funds by reference to the underlying realities of the companys financial position; and by reference to all aspects of its relationship with its owner.	Ratio
+Applying that approach to the present case, particularly against the background described by Lord Clarke, I have no doubt that Patten LJ would have arrived at the same conclusion, and I would do the same.	Ratio
+There was no direct evidence from Mr Bagana himself.	Ratio
+Although Patten LJ accepted that he had decided not to fund the payment by Onur, I take that to be no more than his inference from its opposition to the order.	Ratio
+There is no direct evidence of such a decision.	Ratio
+The only relevant evidence was that of Onurs Chief Financial Officer that Mr Bagana would contemplate making further loans to Onur, but only in exceptional circumstances [to enable it to make] commercial payments necessary to keep [it] in business, and that he regarded the courts requirement of such support as infringing his human rights.	Ratio
+The latter suggestion is of course nonsense, since there is no doubt as to his ability to fund the company if he wishes.	Ratio
+As to why he does not regard the present case as sufficiently exceptional, there is no explanation.	Ratio
+This in my view falls far short of proving, on the balance of probabilities, that the condition would in fact stifle the appeal.	Ratio
+Lord Wilson does not suggest otherwise.	Ratio
+In these circumstances, no other reason having been given for remitting the case, I would uphold Patten LJs order and dismiss the appeal.	RPC

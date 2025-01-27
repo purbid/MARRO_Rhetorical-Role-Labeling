@@ -1,0 +1,263 @@
+Under the Mental Health Act 1983 (the MHA), the Crown Court may impose a hospital order together with a restriction order upon a mentally disordered offender, if this is considered necessary to protect the public from serious harm.	STA
+This means that the patient is liable to indefinite detention in hospital for medical treatment and can only be discharged by the Secretary of State for Justice or the First-tier Tribunal (the FtT).	STA
+Such a discharge can be conditional, which means that the patient remains subject to recall to hospital, as well as to whatever conditions are imposed by the Secretary of State or the FtT.	STA
+The question in this case is whether the conditions imposed can, if the patient consents, be such as would amount to a deprivation of liberty within the meaning of article 5 of the European Convention on Human Rights (ECHR).	Ratio
+The patient in this case is anxious to get out of hospital and is willing to consent to a very restrictive regime in the community in order that this can happen.	ARG
+The Secretary of State argues that this is not legally permissible.	ARG
+The factual background	FAC
+The patient was born on 11 July 1983 and so is now aged 35.	FAC
+He has a diagnosis of mild learning disabilities, autistic spectrum disorder, and pathological fire setting.	FAC
+On 27 April 2001, when aged 17, he was convicted of arson, being reckless as to whether life would be endangered, and arson.	FAC
+He was made the subject of a hospital order under section 37 of the MHA, together with a restriction order under section 41.	FAC
+Apart from a brief period from December 2006 to April 2007, when he was conditionally discharged, he has been detained in hospital ever since.	FAC
+He is considered to represent a serious risk of fire setting and of behaving in a sexually inappropriate way towards women.	FAC
+His current application to the FtT for a conditional discharge was heard on 15 May 2015.	FAC
+His responsible clinician and the treating clinical team opposed his discharge but considered that he would benefit from a change of environment and a transfer to another low secure forensic unit.	FAC
+Two external experts considered that he could be safely managed in the community under a conditional discharge, provided that a suitable care plan was in place.	FAC
+There was no plan at that stage, but it was envisaged that a suitable plan would involve a level of restriction, supervision and monitoring which would amount to a deprivation of liberty within the meaning of article 5 of the ECHR, as explained by this court in Surrey County Council v P; Cheshire West and Chester Council v P [2014] UKSC 19; [2014] AC 896 (Cheshire West).	FAC
+In short, he would be required to live at a particular place, which he would not be free to leave, and would not be allowed out without an escort.	FAC
+He was prepared to consent to such a placement and it was agreed that he had the capacity to do so.	FAC
+No such placement had yet been identified, and so it was not possible for the FtT to discharge him then.	FAC
+But the FtT was invited to rule upon whether, as a matter of principle, it would be lawful to discharge him on condition that he complied with a care plan which would amount to a deprivation of liberty.	FAC
+The FtT ruled that it had no such power.	FAC
+In doing so, it followed the decision of the Court of Appeal in B v Secretary of State for Justice [2011] EWCA Civ 1608; [2012] 1 WLR 2043 that the FtT had no power to impose conditions which in themselves amounted to a deprivation of liberty.	FAC
+It rejected an argument that this could be circumvented by a condition of compliance with a care plan, because the conditions in the care plan would be imposed by the authority which devised and implemented the care plan, and not by the hospital or the FtT. It also found that any consent which the patient purported to give would not be a genuine, properly considered and reliable consent, given his propensity to change his mind and that the only alternative was to remain in hospital.	FAC
+It made no decision as to whether such a discharge would be appropriate in his case.	FAC
+On the patients appeal to the Upper Tribunal, Charles J decided that there was power to impose a condition of compliance with a care package, provided that the patient had the capacity to consent to it and did consent: [2015] UKUT 644 (AAC); [2016] MHLR 198.	RLC
+On the Secretary of States appeal to the Court of Appeal, the court held that it was bound by the ratio of B, which was clear: there was no power to impose conditions which amounted to a deprivation of liberty, even with the consent of a patient with the capacity to do so, and the appeal was allowed: [2017] EWCA Civ 194; [2017] 1 WLR 4681.	RLC
+The patient now appeals to this court.	FAC
+The legal background	STA
+Restriction orders have their origin in the Mental Health Act 1959, which is the foundation of the modern mental health law, now contained in the 1983 Act (as later amended, principally by the Mental Health Act 2007).	Ratio
+Under an ordinary hospital order, the patient was admitted to hospital for treatment for a defined period, which could be renewed from time to time by his responsible medical officer (now his responsible clinician).	Ratio
+He could be discharged by his responsible medical officer, the hospital managers or a Mental Health Review Tribunal (now the FtT).	Ratio
+In other words, the length of time he spent in hospital was in the hands of the medical authorities or the tribunal.	Ratio
+There was no power to recall him to hospital after discharge, although he could be admitted afresh if the grounds existed.	Ratio
+Under what is now called a restriction order, on the other hand, the patients detention lasted indefinitely, and the powers of the responsible medical officer to discharge him or even to grant him leave of absence, could only be exercised with the consent of the Home Secretary (now the Secretary of State for Justice).	Ratio
+The Home Secretary had an independent power to grant a discharge, which could be either absolute or conditional; if conditional, the patient could be recalled to hospital at any time.	Ratio
+Those powers survive unchanged into what is now section 42(2) and (3) of the MHA 1983.	Ratio
+It is not express, but must be implicit, that the Secretary of State has power to vary the conditions from time to time.	Ratio
+Other than that, neither the 1959 Act or its successor the 1983 Act said anything about the kinds of condition which might be imposed and they provided no sanctions for their breach, other than the possibility of recall to hospital.	Ratio
+Under the 1959 Act, the Mental Health Review Tribunal could review the case periodically, but could only make recommendations to the Home Secretary and had no power itself to grant a discharge.	Ratio
+Thus, from the states point of view, a restriction order combined the advantages of a hospital order with the advantages of indefinite preventive detention and a power of instant recall to hospital after a conditional discharge.	Ratio
+All of this was enacted before the United Kingdom recognised the right of individual petition to the European Court of Human Rights in 1966.	FAC
+In X v United Kingdom (1981) 4 EHRR 181, a conditionally discharged restricted patient complained that he had been recalled to hospital after three years in the community, without any grounds having to be shown and without immediate recourse to a tribunal which could direct his release.	PRE
+The court held that, under article 5(1)(e) of the ECHR, he could only be detained as a person of unsound mind if the criteria laid down in Winterwerp v The Netherlands (1979) 2 EHRR 387 were fulfilled: he must reliably be shown to be suffering from a true mental disorder, established on the basis of objective medical expertise; the disorder must be of a kind or degree warranting compulsory confinement; and the validity of continued confinement would depend upon the persistence of such a disorder.	PRE
+In Xs case, the court saw no reason to doubt the medical opinion that these criteria did exist when he was recalled to hospital.	PRE
+On the other hand, the court did find a breach of article 5(4), which requires that every person deprived of his liberty by detention shall be entitled to take proceedings by which the lawfulness of his detention shall be decided speedily by a court and his release ordered if the detention is not lawful.	PRE
+The result of this (and other developments) was that the 1959 Act was amended in 1982 and then consolidated in the MHA 1983.	FAC
+Restricted patients detained in hospital were given the right to apply to a Mental Health Review Tribunal within the same periods that ordinary hospital order patients could apply: that is, once within the second six months after detention and once within every 12 months thereafter (section 70).	STA
+A conditionally discharged patient could apply once within the second 12 months after his discharge and within every two-year period thereafter (section 75(2)).	STA
+If a conditionally discharged patient is recalled to hospital, his case must be referred to a tribunal within one month of the recall (section 75(1)(a)).	STA
+He himself can also apply within the same periods after his recall as he could after his initial detention (section 75(1)(b)).	STA
+Allied to that, the tribunal was itself given the power to discharge a restricted patient, either absolutely or conditionally.	FAC
+Originally, the tribunal had to be satisfied that the grounds for detention did not exist; but this was amended, following a declaration of incompatibility, by the Mental Health Act 1983 (Remedial) Order 2001 (SI 2001/3712).	FAC
+As the MHA now stands, the patient must be discharged if the tribunal is not satisfied that all the grounds for his detention continue to exist: ie that he is suffering from mental disorder or from mental disorder of a nature or degree which makes it appropriate for him to be liable to be detained in a hospital for medical treatment; or that it is necessary for the health or safety of the patient or for the protection of other persons that he should continue to receive such treatment; or that appropriate medical treatment is available for him (section 72(1)(b)(i), (ii) and (iia)).	STA
+If the tribunal is (a) not so satisfied and (b) is satisfied that it is not appropriate for the patient to remain liable to be recalled to hospital for medical treatment, it must direct his absolute discharge (section 73(1)).	STA
+Where (a) applies but (b) does not, the tribunal must direct his conditional discharge (section 73(2)).	STA
+Where a tribunal directs a conditional discharge, the Secretary of State may recall the patient to hospital at any time under section 42(3) (section 73(4)(a)).	STA
+The patient must also comply with the conditions imposed by the tribunal at the time or by the Secretary of State at any later time (section 73(4)(b)).	STA
+The Secretary of State may vary the conditions set either by the tribunal or by himself at any time (section 73(5)).	STA
+Thus the Secretary of State is in complete charge of what the conditions are and whether the patient should be recalled to hospital.	STA
+There are no sanctions for breach of the conditions other than recall to hospital, which may be at any time.	STA
+No criteria for recall are laid down in the MHA.	STA
+However, the logic of X v United Kingdom is that at least the Winterwerp criteria must be satisfied; and in any event, the tribunal will have to discharge the patient once more if not satisfied that the MHA criteria are met (and see R (MM) v Secretary of State for the Home Department [2007] EWCA Civ 687, (2007) 98 BMLR 130, where it was agreed that breach of a condition was not a free-standing ground for recall and the Secretary of State must form a view of whether the statutory criteria are met).	PRE
+However, the MHA says nothing, and has never said anything, about what the conditions may be.	FAC
+In practice, the Secretary of State will usually impose conditions of residence at a stated address and for both clinical and social supervision.	FAC
+The social supervisor provides practical support, for example in accessing the aftercare services to which the patient is entitled under section 117 of the MHA, and is expected to have regular meetings with the patient (Ministry of Justice, Guidance for social supervisors, 18 March 2009).	FAC
+The clinical supervisor is responsible for the regular assessment of the patients mental health and monitoring his medication (Ministry of Justice, Guidance for clinical supervisors, 18 March 2009).	FAC
+The Ministry expects reports from both supervisors after the first month and every three months thereafter.	FAC
+It is usually a condition that the patient shall comply with treatment as directed by the clinical supervisor (para 23 of the Guidance for clinical supervisors).	STA
+However, the power to impose treatment without consent upon hospital patients, by force if need be, contained in section 63 of the MHA, does not apply to conditionally discharged restricted patients (section 56(3)(c), as substituted by section 34(2) of the 2007 Act).	STA
+A patient is entitled to refuse treatment unless he lacks the capacity to make the decision, in which case the Mental Capacity Act 2005 (MCA) may permit treatment which is in his best interests, but will only permit coercion in order to impose treatment in very limited circumstances (MCA, sections 5 and 6).	STA
+Hence, in R (SH) v Mental Health Review Tribunal [2007] EWHC 884 (Admin); (2007) 10 CCLR 306, Holman J rejected a challenge to the legality of a condition to comply with treatment as being contrary both to the common law right to choose what medical treatment to have and to the right to respect for private life in article 8 of the ECHR.	PRE
+Although the condition said shall comply, the patient remained free to choose whether or not to have the treatment at each and every time when he was required to do so.	PRE
+That refusal would not, by itself, necessarily lead to his recall to hospital.	PRE
+Nevertheless, the Secretary of States policy on recall states that failure to comply with medication will usually trigger consideration of whether the patient should be recalled, as would non-compliance with other conditions.	PRE
+Whether the patient is in fact recalled depends on a range of factors (Ministry of Justice, The recall of conditionally discharged restricted patients, 4 February 2009, paras 5 and 7).	PRE
+The arguments	ARG
+The purpose of conditional discharge is to enable the patient to make a safe transition from the more institutional setting of a hospital to a less institutional setting in the community.	ARG
+Transition through progressively less secure hospital conditions before discharge into the community is common and conditional discharge is part of the same continuum.	ARG
+As Lord Bingham put it in R (H) v Secretary of State for the Home Department [2003] UKHL 59; [2004] 2 AC 253, at para 26: the conditional discharge regime, properly used, is of great benefit to patients and the public and conducive to the Convention object of restricting the curtailment of personal liberty.	ARG
+If there is any possibility of treating and supervising a patient in the community, the imposition of conditions permits that possibility to be explored and, it may be, tried.	ARG
+So why, in an appropriate case, asks Mr David Lock QC on behalf of the patient, should that purpose not be served by a transition into a community setting which is different from a hospital but nevertheless amounts to a deprivation of liberty, because the patient is under continuous supervision and control and not free to leave? If this condition cannot be imposed, the patient will stay in hospital longer than he otherwise would have done and the MHAs rehabilitative purpose will be frustrated.	ARG
+He argues that there is nothing in either the common law interpretation of section 73(2) (or for that matter section 42(2)) or in article 5 of the ECHR to prevent the imposition of such a condition where the patient consents to it and has the capacity so to do.	ARG
+As to the common law, the interpretation of section 73(2) (and section 42(2)) may depend, in part at least, on what is meant by discharge.	ARG
+Does it mean, as the patient argues, discharge from detention in the hospital where he is currently detained or, as the Secretary of State argues, discharge from the liability to be detained? If it means the latter, then a condition of continued detention, albeit not in a hospital, would not amount to a discharge.	ARG
+If it means the former, then that obstacle at least is removed.	ARG
+In Secretary of State for the Home Department v Mental Health Review Tribunal for Mersey Regional Health Authority [1986] 1 WLR 1170, Mann J held that it meant discharge from hospital, so that a condition could not be imposed that the patient reside in another hospital, even if not under conditions of detention.	ARG
+In R (Secretary of State for the Home Department) v Mental Health Review Tribunal, PH as interested party [2002] EWHC 1128 (Admin); [2002] MHLR 241, known as PH, Elias J held that it meant discharge from detention in hospital, so that there could be a discharge on condition of residence in another hospital: but he also held that the crucial question was whether the conditions amounted to detention, which was not permitted.	ARG
+The Court of Appeal proceeded on the assumption that this proposition was correct and decided that the conditions imposed were not such as to amount to a deprivation of liberty and therefore that they were not ultra vires: [2002] EWCA Civ 1868; [2003] MHLR 202.	ARG
+The MHA draws a clear distinction between being actually detained, being liable to be detained, and being neither.	ARG
+A patient who is detained in hospital under compulsory powers such as a hospital order, including a restriction order, is actually detained.	ARG
+A hospital order or other compulsorily detained patient who is granted leave of absence under section 17 of the MHA remains liable to be detained (see section 17(1)).	ARG
+A patient who is released from hospital under a community treatment order under section 17A is not liable to be detained (see section 17D(2), as inserted by section 32(2) of the 2007 Act).	ARG
+But a restricted patient who is granted a conditional discharge remains liable to be detained: this much appears from section 42(2), which states that a restricted patient who is absolutely discharged ceases to be liable to be detained, with the clear implication that a restricted patient who is conditionally discharged remains liable to be detained.	ARG
+This must mean that discharge has a different meaning when referring to restricted patients in sections 42(2) and 73(2) from the meaning that it has in sections 23 and 72 when dealing with the discharge of unrestricted patients.	ARG
+Section 23(1) states that a patient who is for the time being liable to be detained shall cease to be so liable if ordered to be discharged by his responsible clinician, the hospital managers or (in certain circumstances) his nearest relative.	ARG
+It contains no power to grant a conditional discharge.	ARG
+Section 72 deals with the tribunals powers to discharge non-restricted patients who are liable to be detained and also confers no power to impose a conditional discharge.	ARG
+Discharge in sections 23 or 72 must therefore mean an absolute discharge, not only from detention but also from the liability to be detained.	ARG
+On the other hand, discharge in sections 42(2) and 73(2) when referring to the conditional discharge of restricted patients, cannot mean discharge from the liability to be detained, because the patient remains liable to be detained.	Ratio
+It must therefore mean discharge from the hospital in which the patient is currently detained.	Ratio
+Does it therefore follow, as Elias J considered, and the Court of Appeal agreed, that it must mean discharge from any sort of detention?	Ratio
+In Secretary of State for Justice v RB [2010] UKUT 454 (AAC), the Upper Tribunal (Carnwath LJ, HHJ Sycamore and UTJ Rowland), held that it did not and that it was not bound by PH to hold that it did (para 54).	Ratio
+In its view: The premise for exercise of the tribunals powers is that the patient has previously been lawfully detained (so that article 5 has been complied with); but that he does not now need to be detained in a hospital and that some other form of accommodation is appropriate, subject to the possibility of recall.	Ratio
+The next step is to devise the conditions.	Ratio
+At that stage, it is hard to see why the question whether the conditions would amount to detention for the purposes of article 5 should come into it.	Ratio
+Even if they do amount to such detention, there will be no breach of article 5 because the 1983 Act makes provision for the procedural safeguards guaranteed by article 5.	Ratio
+The tribunals concern should be simply to decide what is necessary for the well-being and protection of the patient, and the protection of the public and to satisfy themselves that the patient is willing to comply with the conditions and to that extent consents to them.	Ratio
+We see no reason why Parliament should have wished them to concern with themselves with the fine distinctions which may arise under the Strasbourg case law on detention.	Ratio
+(para 53) The only qualification was that the conditions could not impose detention in a hospital because, by definition, the tribunal had to have held that it was not satisfied that the criteria for such detention existed (para 55) (see para 10 above).	Ratio
+The Court of Appeal did not agree: B v Secretary of State for Justice [2011] EWCA Civ 1608; [2012] 1 WLR 2043.	Ratio
+The only form of detention of restriction order patients which was authorised by the MHA was detention in a hospital for medical treatment.	Ratio
+Such an invasion of the fundamental common law right to liberty should not be read into the general words of section 73.	Ratio
+This would be contrary to the principle of legality: R v Secretary of State for the Home Department, Ex p Simms [2000] 2 AC 115.	Ratio
+It would conflict with the scheme of the Act, under which the Secretary of State could approve the patients transfer to another hospital or into guardianship.	Ratio
+And the lack of criteria would mean that the detention was not in accordance with the law for the purpose of article 5 of the ECHR.	Ratio
+The Court of Appeal adopted the reasoning in Bs case when reaching the same conclusion in this case.	Ratio
+As to the ECHR, Mr Lock argues that there is no deprivation of liberty if the patient consents: in Storck v Germany (2005) 43 EHRR 6, the European Court held: the notion of deprivation of liberty within the meaning of article 5(1) does not only comprise the objective element of a persons confinement to a certain limited place for a not negligible length of time.	ARG
+Individuals can only be considered as being deprived of their liberty if, as an additional subjective element, they have not validly consented to the confinement in question.	ARG
+(para 74) The same formulation was repeated by the Grand Chamber in Stanev v Bulgaria (2012) 55 EHRR 22, para 117.	ARG
+Hence, in Storck, although there was a deprivation of liberty in respect of one period of detention in a psychiatric clinic, there was no such deprivation in respect of another, as the patient had consented to being there.	ARG
+But it is also clear from Storck that an initial consent can be withdrawn, for example, where the patient attempts to leave the hospital.	ARG
+And it is clear from later decisions, such as Buzadji v Moldova (Application No 23755/07), Grand Chamber Judgment of 5 July 2016, that consent given in circumstances where the choice is between greater and lesser forms of deprivation of liberty - there between detention in prison and detention under house arrest - may be no real consent at all.	ARG
+It is, of course, an irony, not lost on the judges who have decided these cases, that the Secretary of State for Justice is relying on the protection of liberty in article 5 in support of an argument that the patient should remain detained in conditions of greater security than would be the case were he to be conditionally discharged into the community.	Ratio
+It is, however, difficult to extract the principle of the least restrictive alternative from the case law under article 5.	Ratio
+This has not concerned itself with the conditions of the patients detention (which may raise issues under article 3 or 8), as long as the place of detention is appropriate to the ground upon which the patient is detained: thus, in Ashingdane v United Kingdom (1985) 7 EHRR 528, the court rejected a complaint that the patient should have been transferred from Broadmoor to a more open hospital setting much earlier than he was.	Ratio
+Mr Lock also argues that there is unjustified discrimination between a patient who has and a patient who lacks the capacity to decide for himself.	ARG
+If the patient lacks capacity, the Court of Protection can authorise a deprivation of liberty in accordance with the sort of care plan which is envisaged in this case, provided that it is in his best interests, whereas if the patient has capacity, the FtT has no power to do so, even with his consent.	ARG
+This is a new point, perhaps prompted by the obiter dictum in the Court of Appeal (at para 35), to the effect that the FtTs power to defer a decision might be used to invoke the jurisdiction of the Court of Protection to authorise the deprivation of liberty of an incapacitated patient under section 16 of the MCA.	Ratio
+The Court of Protection cannot authorise the deprivation of liberty of an incapacitated person who is ineligible within the meaning of Schedule 1A to the MCA, section 16A (as inserted by section 50 of, and Schedule 8 to, the 2007 Act).	Ratio
+A restricted patient who is actually detained in hospital is ineligible (falling within Case A in para 2).	Ratio
+A restricted patient who is conditionally discharged from hospital falls either within Case B or Case C and is not wholly ineligible.	Ratio
+A deprivation of liberty whose purpose consists wholly or mainly in medical treatment in hospital cannot be authorised, but a deprivation for other purposes can be authorised, provided that it is not inconsistent with the requirements of their MHA regime.	Ratio
+Whether the Court of Protection could authorise a future deprivation, once the FtT has granted a conditional discharge, and whether the FtT could defer its decision for this purpose, are not issues which it would be appropriate for this court to decide at this stage in these proceedings.	Ratio
+Assuming that both are possible, and therefore that there might be an incompatibility with article 14, read either with article 5 or with article 8, it would make no difference to the outcome of this case.	Ratio
+The outcome of this case depends upon whether it is possible to read the words discharge subject to conditions in section 42(2) (dealing with the Secretary of States powers) and conditional discharge in section 73(2) (dealing with the FtTs powers) as including the power to impose conditions which amount to a deprivation of liberty within the meaning of article 5.	Ratio
+Conditional discharge: what does it mean?	Ratio
+The MHA is silent: it says nothing about the type or content of the conditions which may be imposed by the Secretary of State or the FtT. In this respect it has remained unchanged since the 1959 Act.	Ratio
+There are several possibilities: (1) that the FtT cannot impose a condition of detention in a hospital but the Secretary of State may do so; (2) that neither may do so; (3) that both may impose a condition of detention in a place which is not a hospital within the meaning of the MHA whether or not the patient consents; (4) that both may do so but only if the patient consents; and (5) that neither may do so.	Ratio
+There is of course the argument that a condition which amounts to a detention or deprivation of liberty could nonetheless serve the rehabilitative purpose of the power of conditional discharge.	ARG
+Just as there is nothing in the MHA which permits it, there is nothing in the MHA which prohibits it.	Ratio
+The thinking of the experienced Upper Tribunal in RB (para 21 above) is worthy of respect.	Ratio
+The main textual argument in favour of a power to impose such a condition is that a conditionally discharged patient remains liable to be detained within the meaning of the MHA (see para 18 above).	Ratio
+As such, he is more akin to a hospital patient who has been given leave of absence than to a patient who is subject to a community treatment order.	Ratio
+Discharge therefore cannot mean discharge from compulsion.	Ratio
+Although it must mean discharge from the hospital where he is currently detained, it need not mean any more than that, and so could encompass a range of possible arrangements.	Ratio
+Furthermore, although it is clear that the FtT cannot impose a condition of detention in a hospital for treatment, because by definition the FtT is not satisfied that the grounds for such detention exist (para 10 above), the same is not true of the Secretary of State.	Ratio
+He has power to discharge the patient conditionally irrespective of whether the grounds for detention in hospital still exist.	Ratio
+Moreover, if there is power to impose such a condition, it is difficult to see why the patients consent should be a pre-requisite.	Ratio
+The patients willingness to comply with the conditions is always, of course, a highly relevant factor in deciding whether he is suitable for discharge; but this is a practical rather than a legal requirement.	Ratio
+Yet no-one in these proceedings has suggested that there is power to impose such a condition without the patients consent.	Ratio
+On the other hand, there are compelling reasons not to construe sections 42(2) and 73(2) in such a way.	Ratio
+The first reason is one of high principle: the power to deprive a person of his liberty is by definition an interference with his fundamental right to liberty of the person.	Ratio
+This engages the rule of statutory construction known as the principle of legality, as explained in the well-known words of Lord Hoffmann in R v Secretary of State for the Home Department, Ex p Simms [2000] 2 AC 115, at 131: the principle of legality means that Parliament must squarely confront what it is doing and accept the political cost.	Ratio
+Fundamental rights cannot be overridden by general or ambiguous words.	Ratio
+This is because there is too great a risk that the full implications of their unqualified meaning may have passed unnoticed in the democratic process.	Ratio
+In the absence of express language or necessary implication to the contrary, the courts therefore presume that even the most general words were intended to be subject to the basic rights of the individual.	Ratio
+The words of sections 42(2) and 73(2) are about as general as it is possible to be.	Ratio
+Parliament was not asked to consider whether they included a power to impose a different form of detention from that provided for in the MHA, without any equivalent of the prescribed criteria for detention in a hospital, let alone any of the prescribed procedural safeguards.	Ratio
+While it could be suggested that the FtT process is its own safeguard, the same is not the case with the Secretary of State, who is in a position to impose whatever conditions he sees fit.	Ratio
+The second reason is one of practicality.	Ratio
+The patients continued co-operation is crucial to the success of any rehabilitation plan.	Ratio
+There is, as the FtT found in this case, always a concern that the patients willingness to comply is motivated more by his desire to get out of hospital than by a desire to stay in whatever community setting he is placed.	Ratio
+As Holman J pointed out in SH (para 13 above), the MHA confers no coercive powers over conditionally discharged patients.	Ratio
+Breach of the conditions is not a criminal offence.	Ratio
+It is not even an automatic ground for recall to hospital, although it may well lead to this.	Ratio
+But a recalled patient cannot be kept in hospital if the grounds for detaining him there are not satisfied.	Ratio
+The patient could withdraw his consent to the deprivation at any time and demand to be released.	Ratio
+It is possible to bind oneself contractually not to revoke consent to a temporary deprivation of liberty: the best-known examples are the passenger on a ferry to a defined destination in Robinson v Balmain New Ferry Co Ltd [1910] AC 295 and the miner going down the mine for a defined shift in Herd v Weardale Steel, Coal and Coke Co Ltd [1915] AC 67.	Ratio
+But that is not the situation here: there is no contract by which the patient is bound.	Ratio
+This leads to the third and perhaps most compelling set of reasons against such a power: it would be contrary to the whole scheme of the MHA.	Ratio
+That Act provides in detail for only two forms of detention: (1) detention for no more than 36 hours in a place of safety, which may be a hospital, under sections 135 and 136; and (2) detention in a hospital under the civil powers contained in sections 2 (for assessment), 3 (for treatment) and 4 (for assessment in an emergency); or under a court order made in criminal proceedings under sections 35 (remand to hospital for report), 36 (remand to hospital for treatment), 37 (hospital order), 38 (interim hospital order), 41 (restriction order), and 45A (hospital and limitation directions, as inserted by section 46 of the Crime (Sentences) Act 1997); or under the Secretary of States directions under sections 47 (transfer of persons imprisoned under criminal powers) or 48 (transfer of persons imprisoned under civil powers).	Ratio
+In each of those cases, the Act gives specific powers, both to convey the patient to the hospital or a place of safety and to detain him there: see sections 135(3) and 136(2) for detention in a place of safety; section 6(2) for detention in hospital under civil powers; sections 35(9) and 36(8) for remands to hospital for report or treatment; section 40(1) and (2) for a hospital order (with or without a restriction order) and an interim hospital order; section 45B(1) for a hospital and limitation direction; and section 47(3) for prisoner transfers.	Ratio
+There is no equivalent express power to convey a conditionally discharged restricted patient to the place where he is required to live or to detain him there.	Ratio
+If the MHA had contemplated that such a patient could be detained, it is inconceivable that equivalent provision would not have been made for that purpose.	Ratio
+The MHA also makes detailed provision for the retaking of people who absent themselves from the place of safety or hospital where they are detained.	Ratio
+A person authorised to be detained in a place of safety is deemed to be in legal custody and the person authorised to detain him has all the powers of a constable for that purpose (section 137(1) and (2)).	Ratio
+If he escapes from legal custody, he may be retaken by that person or by any constable or Approved Mental Health Professional (section 138(1)).	Ratio
+For hospital patients, as already explained (para 18 above), the MHA draws a distinction between being detained and being liable to be detained.	Ratio
+A patient who is granted leave of absence and a conditionally discharged restricted patient remain liable to be detained but are not in fact detained under the MHA (at least unless the responsible clinician has directed that a patient given leave of absence remain in custody, under section 17(3)).	Ratio
+The MHA contains elaborate provisions for recovering patients who are absent without leave.	Ratio
+These are: patients who have absented themselves from the hospital where they are detained without having been granted leave of absence under section 17; patients who fail to return to hospital from leave when they should have done; patients on leave who have been recalled to hospital; and patients who break a condition of residence in their leave of absence (MHA, section 18(1)).	Ratio
+A conditionally discharged patient who is recalled to hospital by the Secretary of State is also treated as if he were absent without leave for the purpose of the powers in section 18 (MHA, section 42(4)(b)).	Ratio
+Patients who are absent without leave may be taken into custody and returned to hospital (the hospital where they were previously detained or, in the case of a conditionally discharged restricted patient, the hospital specified in the Secretary of States warrant of recall) by any police officer, any Approved Mental Health Professional, or by anyone on the staff of or authorised by that hospital (section 18(2)).	Ratio
+Thus a conditionally discharged restricted patient is not liable to be taken into custody and returned anywhere unless and until he is recalled to hospital by the Secretary of State.	Ratio
+Merely absenting himself from the place where he is required to live is not enough.	Ratio
+Once again, if the MHA had contemplated that he might be detained as a condition of his discharge, it is inconceivable that it would not have applied the same regime to such a patient as it applies to a patient granted leave of absence under section 17.	Ratio
+Added to those considerations is another which was influential with the Court of Appeal.	Ratio
+A hospital order patient (including a patient on leave of absence) can apply to the FtT once within the second six months of his detention and once within every 12-month period thereafter.	Ratio
+A conditionally discharged restricted patient who has not been recalled to hospital can only apply once within the second 12 months of his discharge and once within every two-year period thereafter.	Ratio
+At the very least, this is an indication that it was not thought that such patients required the same degree of protection as did those deprived of their liberty; and this again is an indication that it was not contemplated that they could be deprived of their liberty by the imposition of conditions.	Ratio
+Conclusion	RPC
+For all those reasons, I conclude that the MHA does not permit either the FtT or the Secretary of State to impose conditions amounting to detention or a deprivation of liberty upon a conditionally discharged restricted patient.	RPC
+It follows that this appeal must be dismissed.	RPC
+The making of a hospital order under section 37 of the Mental Health Act 1983, coupled with a restriction order under section 41, is a power given to the senior criminal courts (the Crown Court) in relation to offenders convicted of offences which carry sentences of imprisonment.	PRE
+The power is designed to provide an alternative to (probably but not invariably lengthy) imprisonment in the case of an offender who is mentally disordered.	PRE
+A restriction order can be imposed only, as section 41 explicitly says, where it is necessary for the protection of the public from serious harm, that is to say where the offender poses a risk of serious harm to the public: R v Birch (1989) 90 Cr App R 78.	PRE
+No one doubts that the machinery now in place for the making of this combination of orders, and for subsequent review by the FTT, complies with the requirements of article 5 of the European Convention on Human Rights.	STA
+That article, as is well known, specifically contemplates legitimate detention both of persons convicted before a criminal court (article 5(1)(a)) and of those who are of unsound mind, whether convicted or not (article 5(1)(e)).	STA
+The prime purpose of this combination of orders is thus the protection of the public.	Ratio
+Another is, plainly, the treatment and if possible rehabilitation of the offender, since then the risk of serious harm to the public may be reduced or, sometimes, eventually removed.	Ratio
+Recovery and rehabilitation are, inevitably, very likely to be progressive and/or partial, rather than instantaneous or complete.	Ratio
+If the treatment progresses to the point where the nature of the detention can be relaxed, consistently with the continued protection of the public, it is very plainly in the public interest that it should be.	Ratio
+The mechanism contemplated by the Mental Health Act for this relaxation, where it is appropriate, is conditional discharge.	Ratio
+The irony so cogently pointed out by Lady Hale at para 24 is that in this case the contention which invokes article 5 ECHR has the result, if it is correct, that a restricted patient who has made sufficient progress for his conditions of detention to be relaxed but not entirely removed, cannot be conditionally discharged to a less severe form of detention.	Ratio
+He will, very likely, instead remain in detention in hospital, because in the absence of conditions ensuring public safety it will not be possible for the FTT to say that it is not satisfied that his condition warrants his detention there (section 72(1)(b)(i) and (ii) as applied to restricted patients by section 73(1)(a)).	Ratio
+This will be so, on the argument of the Secretary of State, even if everyone is agreed that the protection of the public would sufficiently be safeguarded by the relaxed conditions, and even if, as here, the offender actively seeks the relaxed form of detention.	Ratio
+The two arguments which Lady Hale finds lead inevitably to this unsatisfactory result are one of legality and the other of practical construction of the scheme of the Mental Health Act.	Ratio
+If they do indeed lead inevitably to this result, then of course they must prevail.	Ratio
+It does not seem to me that they do.	Ratio
+Lord Hoffmanns celebrated formulation of the rule of legality in R v Secretary of State for the Home Department, Ex p Simms [2000] 2 AC 115 at 131 must not be watered down.	Ratio
+Fundamental rights are not to be taken away by a side- wind, or by ambiguous or unspecific words.	Ratio
+The right to liberty is a paradigm example.	Ratio
+But what is in question here is not the removal of liberty from someone who is unrestrained.	Ratio
+The restricted patient under consideration is, by definition, deprived of his liberty by the combination of hospital order and restriction order.	Ratio
+That deprivation of liberty is lawful, and Convention-compliant.	Ratio
+If he is released from the hospital and relaxed conditions of detention are substituted by way of conditional discharge, he cannot properly be said to be being deprived of his liberty.	Ratio
+On the contrary, the existing deprivation of liberty is being modified, and a lesser deprivation substituted.	Ratio
+The authority for his detention remains the original combination of orders, from the consequences of which he is only conditionally discharged.	Ratio
+This was the reasoning of the Upper Tribunal in Secretary of State for Justice v RB [2010] UKUT 454 (AAC), in the passage set out by Lady Hale at para 21.	Ratio
+It seems to me that it was clearly right.	Ratio
+It might be otherwise if the proposed conditions to be attached to discharge were to amount to a greater level of detention than is authorised by the hospital and restriction orders.	Ratio
+If one were to hypothesise an improbable scenario in which a FTT were to be asked to impose a condition which amounted, for example, to solitary and isolated confinement, such a question might arise, and with it the application of the Simms principle.	Ratio
+But the present case is not suggested to involve any potential conditions which are other than a relaxation of the detention to which MM is otherwise subject in the hospital.	Ratio
+The position of a restricted patient subject to a court order for detention in a secure hospital is not comparable to that of the unconvicted defendant in Buzadji v Moldova, 5 July 2016 (Application No 23755/07).	Ratio
+There is no reason to doubt that a deprivation of liberty is involved if a defendant awaiting trial is given, in effect, the choice whether to be remanded in custody or to avoid such remand by consenting to house arrest.	Ratio
+Such a defendant is otherwise at liberty.	Ratio
+A restricted patient who seeks relaxation of his detention conditions is not.	Ratio
+It is necessary to confront the suggested practical and textual objections.	Ratio
+(a) The Act specifically provides for conditional discharge.	Ratio
+(b) For the reasons given by Lady Hale at paras 19 and 20 discharge in the context of a restricted patient must mean discharge from the hospital in which he is currently detained.	Ratio
+(c) Everyone agrees that the power to order conditional discharge enables the FTT (or the Secretary of State) to impose conditions beyond that of liability to recall.	Ratio
+Such conditions might include co-operation with treatment, attending appointments and keeping in touch with supervisors, the regular taking of medicine, perhaps keeping away from specified people or places or abstaining from specified practices.	Ratio
+The only issue is whether if the conditions (considered outwith the context of an existing restriction order) meet the Cheshire West test of deprivation of liberty, they become impermissible (Surrey County Council v P; Cheshire West and Chester Council v P [2014] AC 896).	Ratio
+(d) There clearly is a risk that a patient who initially professed his consent to conditions meeting the Cheshire West test might subsequently change his mind.	Ratio
+That may well be a particular risk with a patient who is mentally disordered.	Ratio
+There are indeed no specific provisions in the Mental Health Act, if this happens, for taking him into custody and restoring him to the place where his conditions require him to live.	Ratio
+But what the Act does do is to authorise the Secretary of State to recall him to hospital (section 73(4)(a)).	Ratio
+If he is recalled, that triggers the express provision in section 42(4)(b) which treats him henceforth as absent without leave, and then the various provisions of the Act for his being taken into custody and returned to the hospital come into operation.	Ratio
+Whether or not the Act might have provided additional powers, these are perfectly viable and rational remedies for the risk of failure to comply with conditions.	Ratio
+It may well be that it was not thought appropriate to vest in those managing some place of lesser security where the patients conditions required him to live, the same powers as those possessed by a secure hospital.	Ratio
+(e) Moreover, the same risk of later refusal to comply with conditions will exist where the conditions do not approach the Cheshire West threshold, and it is met with the same remedy or sanction.	Ratio
+If the patient, having initially professed himself keen to comply with medication rules, or anxious to avoid contact with particularly vulnerable persons, then decides not to comply with the conditions, then what the Act contemplates is that his case will be assessed by the Secretary of State who will either decide to recall him, or will decline to do so.	Ratio
+If he does recall him, there are then ample powers to enforce the recall.	Ratio
+Short of that, there are no powers to compel him to obey the conditions; no criminal offence is committed and he cannot physically be compelled to obey.	Ratio
+The position is thus the same for conditions which meet the Cheshire West test and for those which do not.	Ratio
+(f) Some reliance was placed upon the fact that the interval stipulated in the Act in which application to the FTT can be made is greater for a restricted patient who has been conditionally discharged than for a restricted patient who has not.	Ratio
+The latter is entitled to apply within the period 6-12 months from the making of the hospital and restriction orders, and thereafter at 12- month intervals: section 70.	Ratio
+The conditionally discharged patient is subject to a longer interval, namely within the period 12-24 months of discharge and bi-ennially thereafter: section 75(2).	Ratio
+If, however, a conditionally discharged restricted patient is recalled to hospital, his entitlement to apply to the tribunal reverts to the same intervals as before his discharge: section 75(1).	Ratio
+This can be said to be some indication that Parliament did not think that a conditionally discharged restricted patient needed the same protection by way of entitlement to make further application to the tribunal as a patient who either had not made any previous application or whose applications for discharge, conditional or otherwise, had been refused.	Ratio
+But that is not surprising, given the difference between the two cases.	Ratio
+The conditionally discharged prisoner will, by definition, have had a recent determination of the tribunal relaxing his manner of detention.	Ratio
+It is going further than is justified to read into this difference a Parliamentary assumption that the conditions applied on conditional discharge could never amount to ones which, if considered without the background of an extant order for detention in hospital, would meet the Cheshire West test for detention.	Ratio
+Whilst this consideration is of some limited weight, I do not think that it can prevail against the scheme of the Act as set out above, for relaxation of detention by means of conditions attached to discharge.	Ratio
+Nor do I think that any help can be derived from the intervals prescribed for the different case of a non-restricted hospital order patient, which apply equally to those still actually detained and those on leave of absence.	Ratio
+For these reasons it seems to me that the FTT does indeed have the power, if it considers it right in all the circumstances, to impose conditions upon the discharge of a restricted patient which, if considered out of the context of an existing court order for detention, would meet the Cheshire West test, at least so long as the loss of liberty involved is not greater than that already authorised by the hospital and restriction orders.	Ratio
+Whether it is right to do so in any particular case is a different matter.	Ratio
+The power to do so does not seem to me to depend on the consent of the (capacitous) patient.	Ratio
+His consent, if given, and the prospect of it being reliably maintained, will of course be very relevant practical considerations on the question whether such an order ought to be made, and will have sufficient prospect of being effective.	Ratio
+Tribunals will at that stage have to scrutinise the reality of the consent, but the fact that it is given in the face of the less palatable alternative of remaining detained in hospital does not, as it seems to me, necessarily rob it of reality.	Ratio
+Many decisions have to be made to consent to a less unpalatable option of two or several: a simple example is where consent is required to deferment of sentence, in a case where the offence would otherwise merit an immediate custodial sentence.	Ratio
+I would, myself, for those reasons, allow this appeal.	RPC

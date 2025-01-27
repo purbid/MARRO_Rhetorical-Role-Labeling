@@ -1,0 +1,547 @@
+In July 2012, a new Appendix FM was inserted into the Immigration Rules, dealing with the entry requirements for non-EEA family members to join their relatives here.	Ratio
+Section EC-P dealt with entry clearance and leave to remain as the partner of a British citizen in the United Kingdom, or a person settled in the United Kingdom, or a refugee or person with humanitarian protection in the United Kingdom.	Ratio
+By partner is meant a spouse or fianc(e), a civil partner or proposed civil partner or a person living in a relationship akin to marriage or civil partnership for at least two years.	Ratio
+Section E-ECP dealt with the financial requirements.	Ratio
+These were more precise and stringent than anything which had gone before (and are here referred to as the Minimum Income Requirement or MIR).	Ratio
+Put shortly, they required that the sponsoring partner have a gross annual income of at least 18,600, with an additional 3,800 for the first dependent non-EEA national child and 2,400 for each additional such child.	Ratio
+Only the sponsors earnings are to be taken into account: the prospective earnings of an entering partner, and any support from third parties, are ignored.	Ratio
+Alternatively, the couple are required to have substantial savings, 16,000 plus two and a half times the shortfall in the sponsors earnings.	Ratio
+Estimates differ as to the proportion of the adult population who can meet these requirements but it is clear that a substantial number cannot do so, especially if they have children.	Ratio
+Median full-time gross earnings in the UK in 2012 were 26,500 but for men they were 28,700 and for women 23,100.	Ratio
+There were also substantial regional differences, with people in London and the south-east earning above the national median and people in Northern Ireland, Wales, and the north east earning considerably below (Office for National Statistics, Statistical Bulletin: Annual Survey of Hours and Earnings: 2012 Provisional Results, November 2012); the 2015 Provisional Results were published in November 2016.	Ratio
+301 out of the 422 occupations listed had average annual earnings below 18,600.	Ratio
+Among those earning below that figure were many providing essential public services.	Ratio
+Four of the cases before us, MM, AF, AM and SJ (for convenience we shall refer to all the parties by initials), are claims for judicial review of the MIR launched around the time that Appendix FM was first introduced.	FAC
+The MIR is challenged on the ground that it is incompatible with the rights of the claimants and their partners (and a child living with one of them) under articles 8, 12 and/or 14 of the European Convention on Human Rights and also that it is unreasonable and ultra vires on common law principles.	FAC
+The claimants enjoyed a measure of success before Blake J in the Administrative Court: [2013] EWHC 1900 (Admin); [2014] 1 WLR 2306.	FAC
+The Court of Appeal allowed the Home Secretarys appeal: [2014] EWCA Civ 985; [2015] 1 WLR 1073.	FAC
+The fifth case, SS, is an appeal against the refusal of entry clearance because of failure to meet the MIR.	FAC
+The appeal succeeded on article 8 grounds in both the First-tier Tribunal and the Upper Tribunal.	FAC
+The Court of Appeal heard the Entry Clearance Officers appeal, along with five other selected test cases, and the appeal was allowed: [2015] EWCA Civ 387; [2016] 1 All ER 706.	FAC
+The Supreme Court directed that all five appeals be heard together.	FAC
+The MIR and the background to its introduction	FAC
+Before the introduction of the MIR, the Immigration Rules required broadly that the parties would be able to maintain and accommodate themselves and any dependants adequately in the UK without recourse to public funds, which included social housing and most welfare benefits but not the NHS, education and social care.	FAC
+This is still the criterion which applies if the applicants partner is in receipt of disability living allowance or similar disability-related benefits (see Appendix FM, para E-LTRP 3.3).	FAC
+In KA and others (Pakistan) [2006] UKAIT 00065; [2007] AR 155, the Upper Tribunal adopted income support as the test of adequate maintenance - at that level it could not be said that the family were not properly maintained but neither should it be contemplated that immigrants would live below that level.	FAC
+This reasoning was approved by the Court of Appeal in AM (Ethiopia) v Entry Clearance Officer [2008] EWCA Civ 1082, [2009] Imm AR 254, para 78.	FAC
+This amounted to around 5,500 a year after deduction of tax and housing costs.	FAC
+Problems were encountered with that approach.	FAC
+The assessment did not depend upon a set income threshold but on a consideration of current and prospective employment income of both parties, the extent of any other financial means, including the support of third parties, and their housing costs.	FAC
+Entry clearance officers and case workers found that it was difficult to apply the test consistently and for applicants and sponsors to assess whether they would meet it.	FAC
+It was complex to administer, particularly in respect of any benefits which the sponsor might claim, as it was difficult to know whether these were the result of admitting the partner.	FAC
+It did not prevent burdens on the system arising over the longer term once the partner had qualified for settlement and thus for full access to welfare benefits.	FAC
+Hence the Home Office set about devising an alternative policy.	FAC
+A consultation paper proposing a new minimum income threshold for sponsors wishing to bring a non-EEA national spouse or partner or dependants into the UK, set at a higher level than the safety net of income support, was published in July 2011.	FAC
+At the same time the Government asked the Migration Advisory Committee to consider what the minimum threshold should be in order to ensure that the sponsor could support a partner and any dependants independently without their becoming a burden on the state.	FAC
+The Committees Report, Review of the minimum income requirement for sponsorship under the family migration route, was published in November 2011.	FAC
+The Committee based its calculations on the gross income received by the sponsor in the United Kingdom, without deducting housing costs, which it believed were open to manipulation and difficult to verify (paras 4.24-4.26).	FAC
+It acknowledged, however, that there was a strong case in principle for including the future earnings of the sponsored migrant as it is the total household income which determines whether they will be a burden on the state (para 4.20).	FAC
+It then developed three options: benchmarking to levels of pay, such as the national minimum wage, the living wage, the 25th percentile of UK wage distribution and so on; or benchmarking to the benefits system, that is to the level of income beyond which the family would not be entitled to income-related benefits, including tax credits; or benchmarking to the net fiscal contribution, the point at which more is paid in tax than is consumed in public services, such as health and education, as well as welfare benefits.	FAC
+The pay approach was rejected because, although simple to calculate and understand, it did not relate directly to the question asked, nor was there any clear economic basis for selecting one threshold over another (para 5.2, 5.3).	FAC
+Under both the benefits and the net fiscal approaches, the lowest possible threshold was 13,400 a year and the highest was 40,000.	FAC
+Under the benefits approach, the committees preferred threshold was 18,600 a year, the point at which the family would not be entitled to any income-related benefits, including tax credits and housing benefit, assuming a two adult household (because the additional adult increases benefit entitlement) and housing costs of 119 per week (para 5.5).	FAC
+Under the net fiscal approach, the preferred threshold was 25,700 a year, assuming a one adult household (because only one adults income is taken into account) (para 5.6).	FAC
+The Committee therefore recommended that the income threshold be set between 18,600 and 25,700 gross annual income (para 5.7).	FAC
+The Committee also considered two methods of adjusting the income threshold to account for dependent children, the first of which reflected income-related benefits that the family would derive from their dependent children.	FAC
+Based on what was known about recent sponsors of spouse or partner applicants, it was estimated that 45% of them would not be able to meet the 18,600 threshold and 64% would not be able to meet the 25,700 threshold (para 5.18).	FAC
+The Committee emphasised that its recommendation was based solely on economic considerations and not on the wider legal, social or moral issues (para 5.7).	FAC
+The Governments conclusions were announced in the Home Offices Statement of Intent: Family Migration (June, 2012).	FAC
+The Government had decided to adopt the gross annual income threshold of 18,600 for a British citizen or settled person to sponsor a non-EEA fianc(e), proposed civil partner, spouse, civil partner, or unmarried partner, with an additional 3,800 for the first dependent child and 2,400 for each further child.	FAC
+These would apply at every application stage - for entry clearance or leave to remain, for further leave to remain (after 30 months) and for indefinite leave to remain (after five years) (para 74).	FAC
+The same rules would apply to refugees and people granted humanitarian protection who wished to sponsor a post-flight partner and dependent child or children, because they should not be in a better position than people settled here (para 131).	FAC
+But sponsors in receipt of specified disability-related benefits or carers allowance would continue to be covered by the old rules (para 75).	FAC
+Caseworkers were to have no discretion or flexibility in respect of the threshold (para 83c).	FAC
+Specified non-employment income, pensions and savings of both parties would be taken into account (para 82), but the previous, current or prospective employment and earnings of migrant partners would not be taken into account at the entry clearance stage (para 83e), although their earnings would be taken into account where or once they were here with permission to work (para 83f).	FAC
+Sponsors or partners must have been earning at the required level for six months in the same employment or for 12 months if they had changed employment (para 83h).	FAC
+Sponsors returning from abroad would have to show that they had earned at the required level while abroad and had a firm, verifiable job offer or signed contract of employment to start work here within three months of their return at the required level (para 83j).	FAC
+Cash savings of both partners of more than 16,000 could be taken into account to make up the shortfall in income multiplied by 2.5 for the probationary period and simply to make up the shortfall at the indefinite leave to remain stage; thus if there was no income, they would need savings of 62,000 in cash at the entry clearance and leave to remain stages, but 34,600 at the indefinite leave to remain stage (para 83l).	FAC
+These savings might have come as a gift from a third party but they must be real resources for the couple to use as they see fit, not a loan or an undertaking to subsidise or support if needed.	FAC
+Promises of support from third parties would not be accepted (para 83m).	FAC
+The detailed requirements and the evidence which would be required were set out in Appendix B.	FAC
+The Statement of Intent also announced that the new rules on family migration would reflect fully the factors which can weigh for and against an article 8 claim.	FAC
+They will set proportionate requirements that reflect, as a matter of public policy, the Governments and Parliaments view of how individual rights to respect for private or family life should be qualified in the public interest to safeguard the economic well-being of the UK (para 7)	FAC
+This was fleshed out by a Home Office statement which accompanied the new Immigration Rules on Family and Private Life (HC 194), Grounds of Compatibility with article 8 of the European Convention on Human Rights.	FAC
+This explained that, while the Rules were amended in 2000 to require all Home Office staff to carry out their duties in compliance with the provisions of the Human Rights Act, there had been no substantive change to the family life part of the Rules to reflect any consideration of proportionality under article 8 or to align them with developing case law (para 12).	FAC
+Staff and courts had had to make their own decisions on an individual basis, which had led to unpredictability and inconsistency which are anathema to good administration (para 11).	FAC
+Hence the purpose of the new rules was said to be - to fill the policy vacuum by setting out the Secretary of States position on proportionality and to meet the democratic deficit by seeking Parliaments agreement to her policy.	FAC
+(para 19)	Ratio
+The Rules themselves would state how the balance should be struck between the public interest and individual rights, taking into account the relevant case law.	FAC
+If the Rules were proportionate, decisions taken in accordance with them, would, other than in exceptional cases, be compatible with article 8 (para 20).	FAC
+The role of the courts should shift from reviewing the proportionality of individual administrative decisions to reviewing the proportionality of the Rules themselves: The starting-point of such a review will be that Parliament has decided how the balance should be struck.	FAC
+Although Parliaments view is subject to review, it should be accorded the deference due to a democratic legislature.	FAC
+If proportionality has already been demonstrated at a general level, it need not, and should not, be re-determined in every individual case.	FAC
+(para 22)	FAC
+impact assessment and an equality impact assessment.	FAC
+In addition to these documents, the Government also published a general	FAC
+The aims of the MIR, as consistently stated both in the Statement of Intent and in the Grounds of Compatibility were that those who choose to establish their family life in the UK should have the financial wherewithal to be able to support themselves and their partner without being a burden on the taxpayer.	FAC
+Moreover, the sponsor should bear the financial responsibility of ensuring that the migrant is well enough supported to be able to integrate and play a full part in British society (Grounds of Compatibility, para 52).	FAC
+This policy has a legitimate aim of safeguarding the economic well-being of the UK and it is considered that there is enough flexibility in the policy to prevent the policy from being a disproportionate interference with article 8 rights (para 55).	FAC
+The evidence of Mr Clive Peckover, for the Secretary of State, is that the MIR forms part of an overall programme of reform intended to reduce net migration and restore public confidence in the immigration system (Witness Statement 2, para 8).	ARG
+But this was not its primary objective: there is no cap on the number of spouses, partners and would-be partners who can be admitted, provided that the couple can meet the MIR.	ARG
+Nevertheless, it was anticipated that it would lead to a fall in the numbers admitted by this route, which would bring substantial savings in welfare benefits, and to the NHS, education and other public services.	ARG
+40,500 spouse or partner visas were issued in 2010 and it was estimated that a MIR of 18,600 would, taken with the other proposed reforms, reduce family route visas by approximately 16,100 per year and net migration by 9,000.	ARG
+The new Rules and Guidance	STA
+The MIR in the new Rules laid before Parliament reflected those policy choices.	STA
+In June 2012, the Home Secretary laid before Parliament HC 194, which introduced a new Appendix FM to the Immigration Rules dealing with applications from family members.	STA
+Unusually, the new Rules were unanimously approved by a positive resolution of the House of Commons.	STA
+When the Rules were tabled in the House of Lords, a motion of regret was withdrawn and there was no negative resolution.	STA
+The new Rules came into force on 9 July 2012.	STA
+They were further amended by CM 8423 which inserted a new Appendix FM-SE dealing with the procedural and evidential requirements and came into force on 20 July 2012.	STA
+Appendix FM as updated in 2016 begins by stating (para GEN.1.1): It sets out the requirements to be met and, in considering applications under this route, it reflects how, under article 8 of the Human Rights Convention, the balance will be struck between the right to respect for private and family life and the legitimate aims of protecting national security, public safety and the economic wellbeing of the UK; the prevention of disorder and crime; the protection of health or morals; and the protection of the rights and freedoms of others (and in doing so also reflects the public interest considerations as set out in Part 5A of the Nationality, Immigration and Asylum Act 2002).	STA
+It also takes into account the need to safeguard and promote the welfare of children in the UK, in line with the Secretary of States duty under section 55 of the Borders, Citizenship and Immigration Act 2009.	STA
+(italicised words added by Statement of Changes in Immigration Rules (2012) (Cm 8423))	STA
+Nevertheless, the Appendix contemplates that the Rules will not cover all the situations in which a person may have a valid claim to enter or remain in the UK as a result of his or her article 8 rights.	Ratio
+Paragraphs GEN.1.10 and GEN.1.11 both provide for what is to happen if an applicant does not meet the requirements of the Appendix but the decision-maker grants entry clearance or leave to enter or remain outside the rules on article 8 grounds.	Ratio
+The Rules governing the pre-entry language requirement, which was the subject of this Courts decision in R (Bibi) v Secretary of State for the Home Department [2015] UKSC 68; [2015] 1 WLR 5055, grant an express exemption where there are exceptional circumstances which prevent the applicant from being able to meet the requirement prior to entry to the UK (paras E-ECP 4.2(c) and E- LTRP 4.2(c)).	Ratio
+There is no equivalent exemption, or reference to exceptional circumstances, in the Rules governing the MIR at the entry clearance stage.	Ratio
+Given the obligation to respect Convention rights, therefore, there can be no question of the rules relating to the MIR being a complete code.	Ratio
+However, there is an exception EX.1 to the MIR and language requirements for applicants for limited or indefinite leave to remain (not leave to enter) as a partner if (a) the applicant has a genuine and subsisting parental relationship with a child under 18 in the UK who is a British citizen or has lived here continuously for seven years and it would not be reasonable to expect the child to leave the UK; or (b) the applicant has a genuine and subsisting relationship with a partner in the UK who is a British citizen, settled in the UK or in the UK with refugee leave or humanitarian protection, and there are insurmountable obstacles to family life with that partner continuing outside the UK.	Ratio
+Insurmountable obstacles is said to mean very significant difficulties faced by either which could not be overcome or would entail very serious hardship to either.	Ratio
+The source of the exceptional circumstances requirement where the MIR is not met is the Immigration Directorate Instruction: Family Migration: Appendix FM Section 1.0a: Family Life (as a Partner or Parent): 5-year Routes and Appendix FM Section 1.0b: Family Life (as a Partner or Parent) 10-Year Routes.	STA
+(We have been supplied with the versions published in August 2015.	STA
+) Section 14 of the former requires Entry Clearance Officers, where an application does not meet the requirements in the Rules, to consider whether there may be exceptional circumstances which make refusal a breach of article 8 rights, or whether there are compelling compassionate reasons which might justify a grant of entry clearance, because refusal would result in unjustifiably harsh consequences for the applicant or their family.	STA
+However, Entry Clearance Officers are not allowed to grant entry clearance outside the Rules, so an officer who thinks that the case might meet this very high threshold must refer the case to the Referred Casework Unit (RCU) in London.	STA
+The Instructions go on to state that the Rules themselves reflect the position of the Secretary of State on proportionality and reflect how the balance should be struck between individual rights and the public interest.	Ratio
+Only in exceptional circumstances will a decision taken in accordance with the Rules lead to a disproportionate outcome.	Ratio
+This is likely to occur only rarely.	Ratio
+Section 14.1 of the 2015 Instructions gives an almost identical explanation of exceptional circumstances to that given in the December 2012 Instructions current at the time of the decision of Blake J: Exceptional does not mean unusual or unique.	Ratio
+Whilst all cases are to some extent unique, those unique factors do not and generally render them exceptional.	Ratio
+For example, a case is not exceptional just because the criteria set out in the Immigration Rules have been missed by a small margin.	Ratio
+Instead exceptional means circumstances in which refusal would result in unjustifiably harsh consequences for the individual or their family such that refusal of the application would not be proportionate under article 8.	Ratio
+The fact that refusal may, for example, result in the continued separation of family members does not of itself constitute exceptional circumstances where the family have chosen to separate themselves.	Ratio
+Cases that raise exceptional circumstances to warrant a grant of entry outside the Rules are likely to be rare.	Ratio
+Decision-makers are also told that the consideration of exceptional circumstances must include consideration of any factors relevant to the best interests of a child in the UK; but that requiring the Rules to be met is likely to lead to a disproportionately detrimental effect on the best interests of the child in the UK only rarely.	Ratio
+The key issue is whether there are any factors involving the child in the UK that can only be alleviated by the presence of the applicant in the UK.	Ratio
+Consideration needs to be given to the effective and material contribution that the applicants presence in the UK would make to safeguarding and promoting the welfare of the child.	Ratio
+This contribution needs to be of a significant kind, eg: Support during a major medical procedure, particularly if this is unforeseen or likely to lead to a permanent change in the childs life.	Ratio
+Prevention of abandonment where there is no other family member in the UK to care for a child.	Ratio
+Simply reducing the time and resource spent on a childs case by agencies such as childrens services is unlikely to be sufficient.	Ratio
+The applicants presence in the UK must form part of achieving a durable solution for the child that is in his or her best interests.	Ratio
+The Guidance goes on to state that: Other means of meeting the childs best interests need to have been considered and ruled out.	Ratio
+The normal need for a child to be given genuine and effective care by both parents is reflected in the Immigration Rules and there must be substantive reasons why the childs best interests in this regard can only be met by granting entry clearance outside the Rules.	Ratio
+So the fact that parents have chosen to travel at different times, or maintained separate life-styles in two countries, will not amount to a degree of separation that amounts to exceptional circumstances.	Ratio
+On the other hand the impact of natural disaster on the overseas parents housing or employment making it impossible for the child to return to live with him or her may count.	Ratio
+From 2012 to 2014, only 52 cases were referred to the RCU for consideration of leave outside the Rules, of which 26 succeeded.	Ratio
+In the same period, some 30,000 applications were refused.	Ratio
+The guidance quoted above applies to applications from outside the country for entry clearance.	Ratio
+Instruction Appendix FM section 1.0b gives guidance on in- country applications for leave to remain outside the Rules.	Ratio
+There are differences between the two, but the initial assumption that the Rules cover the ground, so that refusals will only be disproportionate in exceptional circumstances likely to be rare, and the definition of exceptional circumstances, are the same.	Ratio
+The cases before the court	Ratio
+The cases before us are samples of some of the situations in which the MIR may cause problems for partners who wish to live together in this country.	Ratio
+In only one of them (SS) have there been findings of fact in legal proceedings.	Ratio
+The others (MM, AF, AM, and SJ) have been dealt with on the basis of assumed facts.	Ratio
+MM, AF, AM, SJ: the facts and decisions below	FAC
+MM is a 37-year old national of Lebanon.	FAC
+He entered the UK in 2001 and has been granted limited leave to remain in the UK as a refugee until June 2017.	FAC
+He lives with his sister, EM, who has discretionary leave to remain (for the background see EM (Lebanon) v Secretary of State for the Home Department [2008] UKHL 64; [2009] 1 AC 1198).	FAC
+She has a son, AF, who was aged 16 when these proceedings began and looks to MM as a father figure.	FAC
+In 2010 MM became engaged to a Lebanese woman whom he met in Syria.	FAC
+They spent five months together in Cyprus between September 2012 and January 2013.	FAC
+They were married by proxy in Lebanon in 2013.	FAC
+He is reading for a PhD at the University of Wolverhampton and working with three different agencies as a quality inspector.	FAC
+He earns approximately 15,600 gross per annum.	FAC
+His wife has a BSc in nutrition and is employed in Lebanon as a pharmacist.	FAC
+She speaks fluent English and inquiries indicate that she would be likely to find skilled employment here.	FAC
+MMs brother has covenanted to provide them with 80 per week for five years.	FAC
+Alternatively his father has promised to remit an equal amount from Lebanon.	FAC
+AF has been included as an interested party to MMs claim because of the adverse impact upon him of MMs difficulties in achieving family unity in this country.	FAC
+This, he contends, is not only in breach of his Convention rights but also of the Secretary of States duty, in section 55 of the Borders, Citizenship and Immigration Act 2009 (the 2009 Act), to have regard to the need to safeguard and promote the welfare of children when making decisions which affect them.	FAC
+AM is a British citizen of Pakistani heritage and has lived here since 1972.	FAC
+In 1991 he married a Pakistani woman who lives in Kashmir although the marriage was not formally registered until 2006.	FAC
+They have five children who are British citizens, four of whom have lived in this country since 2001 and the youngest of whom lives with his mother in Kashmir.	FAC
+AM has been out of work since 2006 and is dependent on benefits.	FAC
+His wife was refused leave to enter under the old Rules because of this.	FAC
+He believes that his employment prospects would be improved if his wife were admitted and could look after the children.	FAC
+He also argues that he has relatives who could support them until they become self-sufficient.	FAC
+He complains about the application of the MIR to the parents of children settled here, who are seeking to enter or remain as spouses or partners.	FAC
+(He also complained about the contrast between the Rules governing parents seeking to enter or remain as spouses or partners and those governing parents seeking to enter or remain as lone parents or separated parents having contact with their children, but the Court of Appeal refused him permission to appeal on this ground.)	FAC
+SJ is a British citizen who was born here and is also of Pakistani heritage.	FAC
+She lives with her family in Birmingham, has no qualifications and an intermittent employment history with no prospect of employment at the required level of earnings.	FAC
+In 2012 she married a Pakistani man who lives and works as a civil servant in Pakistan.	FAC
+In 2013 she sponsored his application to come to this country, but following the Court of Appeal decision in 2014 the application was refused on the ground that the MIR and accommodation requirement were not met and there were no exceptional circumstances leading to the grant of entry clearance outside the Rules.	FAC
+She contends that the MIR is not only a violation of her Convention rights under articles 8 and 12 but also that it is indirectly discriminatory against women, and in particular British Asian women, who suffer from significantly lower rates of pay and employment than others.	FAC
+Blake J declined to strike down the Rules introducing the MIR, because they were capable of leading to an article 8 compatible result.	FAC
+Claims of individual violations should be examined in the context of an application where the relevant facts could be established and factors weighed (para 120).	FAC
+These included the best interests of any children involved (para 119).	FAC
+He also rejected the discrimination challenge on the ground that it would be impracticable and inappropriate to introduce different rules for, for example, women sponsors or sponsors living in lower paid regions (para 114).	FAC
+Nevertheless he found that, when applied to the partners of British citizens or of recognised refugees, the combination of more than one of five features of the Rules was so onerous in effect as to be an unjustified and disproportionate interference with a genuine spousal relationship (para 123).	FAC
+Those five features were: setting the income level at above 13,400, the lowest threshold identified by the MAC and close to the national minimum wage, then 13,600; requiring savings of 16,000 before they could be used to make up a shortfall; using a 30-month period for forward income projection as opposed to a 12-month period; disregarding credible and reliable undertakings of third party support; and disregarding the spouses own earning capacity during the 30-months after entry (para 124).	FAC
+While the MIR was rationally connected to a legitimate aim, these features went further than necessary to promote it (para 144).	FAC
+But he declined to seek to encapsulate the nuances of this judgment in a formal declaration (para 154).	FAC
+The Court of Appeal rejected the applicants argument that the MIR was not rationally connected to its legitimate aims: it was enough that the Secretary of State had a rational belief that the policy would overall achieve the identified aim (para 142).	RLC
+The Court went on to hold that, while proportionality had to be judged objectively by the Court, as held by the House of Lords in R (SB) v Governors of Denbigh High School [2006] UKHL 15; [2007] 1 AC 100, appropriate weight had to be given to the judgment of the Secretary of State, particularly where she had acted on the basis of independent research and wide consultation (para 149).	RLC
+She had shown that the interference was both the minimum necessary and struck a fair balance between the interests of the groups concerned and the community in general.	RLC
+It was not the courts job to impose their own view of the minimum income required to accomplish the stated policy aim unless the level chosen was irrational or inherently unjust or inherently unfair, which it was not (para 151).	RLC
+Given this conclusion, it was unnecessary to consider the exceptional circumstances provisions in the Instructions.	RLC
+Both these and the duty to safeguard the welfare of children might be factors in individual cases but were not the basis for a challenge to the Rules themselves (paras 161 and 164).	RLC
+SS: the facts and the decisions below	FAC
+SS is a citizen of the Democratic Republic of Congo (DRC) and resident there.	FAC
+She is married to NT, who is also from the DRC, but was granted refugee status here and later became a naturalised British citizen.	FAC
+They met in 2010 on one of NTs visits to the DRC and married in September 2012.	FAC
+In November 2012 SS applied for entry clearance under Appendix FM.	FAC
+This was refused by the Entry Clearance Officer on the ground that the MIR was not met and the correct documents had not been supplied.	FAC
+She appealed to the First-tier Tribunal.	FAC
+The Tribunal found that the documentation showed that NTs gross annual income for the tax year 2011/2012 was 16,194.	FAC
+New information showed that his earnings were roughly 17,000 per annum.	FAC
+This did not meet the MIR, but the appeal was allowed on article 8 grounds.	FAC
+The couple would not be able to live together in the DRC.	FAC
+NT earned well above the minimum wage (amounting to 13,600 per annum).	FAC
+They would be able to live on his income without placing additional strain on the public purse.	FAC
+SS had suffered a miscarriage after her application had been refused which had left her traumatised and deeply distressed that NT was unable to visit her for fear of losing his employment.	FAC
+She needed to be admitted to the United Kingdom so that she can take solace with her husband and begin to form family life with him here.	FAC
+In reaching this conclusion the Tribunal applied the approach of Blake J in MM (Lebanon) to assessing the proportionality of the interference.	FAC
+The Upper Tribunal dismissed the Entry Clearance Officers appeal.	RLC
+It held that the First-tier Tribunal had been wrong to take into account events since the refusal, but that since there were insurmountable obstacles to family life continuing in the DRC on a permanent basis it followed that there were exceptional circumstances resulting in an unjustifiably harsh situation for the couple.	RLC
+The Court of Appeal allowed the Entry Clearance Officers appeal on the basis that the First- tier Tribunal had been wrong to apply the reasoning of Blake J in MM (Lebanon), had given inadequate weight to the MIR in the article 8 assessment and too much weight to the near-miss aspect, and had failed to identify valid compelling circumstances requiring the grant of leave to enter.	RLC
+However, the First-tier Tribunals findings of fact, including that the couple could not live together in DRC, were not challenged and the case was remitted to the Upper Tribunal.	RLC
+The case law	Ratio
+This Court has considered the inter-relationship between the Human Rights Act 1998 and the Immigration Rules affecting people who apply to join spouses, partners and other family members in the United Kingdom on several occasions, beginning with Huang, above, and most recently in Bibi, above, and Agyarko v Secretary of State for the Home Department, decided at the same time as this case.	Ratio
+The starting point is, of course, that any state has the right, in international law, to control the entry of foreigners and how long they may remain after entry.	Ratio
+Nevertheless, that right has to be exercised consistently with the obligations of the European Convention on Human Rights.	Ratio
+In Abdulaziz, Cabales and Balkandali v United Kingdom (1985) 7 EHRR 471, the European Court of Human Rights held that refusing to admit the foreign spouses of British citizens or persons settled here was not a breach of the article 8 right to respect for family life; there was no general obligation to respect a married couples choice of country to live in; and there were no obstacles to establishing family life in their own or their husbands home countries.	PRE
+However, the refusal did engage article 8 rights sufficiently to bring the case within the article 14 requirement that there be no unjustified discrimination in the enjoyment of those rights; in that case, there was unjustified discrimination on grounds of sex.	PRE
+The majority in that case went so far as to say that there was no lack of respect for the couples family life.	PRE
+Since then, however, the Strasbourg case law has moved on, and recognised that such refusals do amount to a lack of respect, as this Court held in R (Aguilar Quila) v Secretary of State for the Home Department (AIRE Centre intervening) [2011] UKSC 45; [2012] 1 AC 621.	PRE
+The Home Secretary clearly accepts this, as she acknowledged in Appendix FM itself that article 8 required a fair balance to be struck between individual rights and the public interest.	PRE
+Nevertheless, the Strasbourg case law has long drawn a distinction between the expulsion of settled migrants with rights of residence in the host country and the refusal to admit, or the removal of, migrants with no such rights.	PRE
+The former involves an interference with the right to respect for family or private life which has therefore to be justified under article 8(2), as being necessary in a democratic society in pursuance of a legitimate aim.	PRE
+The context has typically been the commission of criminal offences by a migrant who has been living lawfully in the host country for a long time, sometimes since birth or early childhood.	PRE
+The Strasbourg case law is discussed in the recent decision of this Court in Hesham Ali v Secretary of State for the Home Department [2016] UKSC 60; [2016] 1 WLR 4799.	PRE
+In summary, the factors to be taken into account were explained in Boultif v Switzerland (2001) 33 EHRR 1179: the nature and seriousness of the offence; the length of the applicants stay in the host country; the time elapsed since the offence and his conduct in the meantime; the nationalities of the people concerned; the applicants family situation, such as the length of the marriage and other factors expressing the effectiveness of a couples family life; whether the spouse knew of the offence when entering the relationship; whether there are any children and their age; and not least the seriousness of the difficulties which the spouse is likely to encounter in the [applicants] country of origin, although the mere fact that a spouse might face certain difficulties cannot in itself exclude an expulsion (para 48).	PRE
+These were approved and expanded by the Grand Chamber in ner v The Netherlands (2007) 45 EHRR 421, which emphasised the best interests and well-being of the children, in particular the seriousness of the difficulties which any children of the applicant are likely to encounter in the country to which the applicant is to be expelled; and the solidity of the social, cultural and family ties with the host country and with the country of destination (para 58).	PRE
+Refusing to admit, or removing, migrants with no settled rights of residence involves the potential breach of a positive obligation to afford respect to private or family life by allowing a person to enter or remain in the host country.	PRE
+Technically, therefore, the question is whether the host country has such an obligation rather than whether it can justify interference.	PRE
+Hence, as the Grand Chamber said in the recent case of Jeunesse v The Netherlands (2015) 60 EHRR 789, the criteria developed in the courts case law for assessing whether a withdrawal of a residence permit of a settled migrant is compatible with article 8 cannot be transposed automatically to the situation of an alien seeking admission, even where, as in that case, the applicant had in fact lived for many years in the host country (para 105).	PRE
+Nevertheless, the court went on to repeat, as had been said in many previous cases dating back at least as far as Gul v Switzerland (1996) 22 EHRR 93, that the principles applicable to the states negative and positive obligations under article 8 were similar: In both contexts regard must be had to the fair balance that has to be struck between the competing interests of the individual and of the community as a whole; and in both contexts the state enjoys a certain margin of appreciation (para 106; note that the margin has consistently been said to be certain rather than wide).	PRE
+There is no general obligation to respect a married couples choice of country in which to reside or to authorise family reunification.	PRE
+It will depend upon the particular circumstances of the persons concerned and the general interest.	PRE
+Factors to be taken into account are the extent to which family life would effectively be ruptured; the extent of the ties in the host country; whether there are insurmountable obstacles (or, as it has sometimes been put in other cases, major impediments: see, for example, Tuquabo-Tekle v The Netherlands [2006] 1 FLR 798, para 48; IAA v United Kingdom (2016) 62 EHRR 233, paras 40 and 48) in the way of the family living in the aliens home country; and whether there are factors of immigration control (such a history of breaches of immigration law) or public order weighing in favour of exclusion (para 107).	PRE
+If family life was created at a time when the people involved knew that the immigration status of one of them was such that persistence of family life in the host state would from the outset be precarious, it is likely only to be in exceptional circumstances that the removal of the non-national family member will constitute a violation of article 8 (para 108; note that this was expressed as a prediction rather than a requirement).	PRE
+All of this had already been said in the similar family reunification case of Rodrigues da Silva v The Netherlands (2007) 44 EHRR 729.	PRE
+However, since then, the Grand Chamber had decided, in Neulinger v Switzerland (2012) 54 EHRR 1087, that the best interests of any child whose family life was involved had to be taken into account in article 8 cases, and in Nunez v Norway (2014) 58 EHRR 511, this had tipped the balance in an immigration case.	PRE
+In Jeunesse, therefore, the Grand Chamber went on to say: Where children are involved, their best interests must be taken into account.	PRE
+On this particular point, the Court reiterates that there is a broad consensus, including in international law, in support of the idea that in all decisions concerning children, their best interests are of paramount importance.	PRE
+Whilst alone they cannot be decisive, such interests certainly must be afforded significant weight.	PRE
+Accordingly, national decision- making bodies should, in principle, advert to and assess evidence in respect of the practicality, feasibility and proportionality of any removal of a non-national parent in order to give effective protection and sufficient weight to the best interests of the children directly affected by it.	PRE
+(para 109)	PRE
+In Jeunesse, the Court found that the circumstances were exceptional and a fair balance had not been struck (para 122).	PRE
+The applicants spouse and children were all Netherlands nationals with the right to enjoy family life together in the Netherlands (para 115).	PRE
+The applicant had been living in the Netherlands for 16 years and had no criminal record.	PRE
+Her presence had been tolerated by the Netherlands authorities (para 116).	PRE
+There were no insurmountable obstacles to the family relocating to her home country, but the family would experience a degree of hardship if forced to do so (para 117).	PRE
+The authorities had not given sufficient weight to the interests of the children; the applicant was their mother and primary carer while the father worked full time to support the family and they were deeply rooted in the Netherlands (paras 118-120).	PRE
+The central issue, according to the Court, was whether a fair balance had been struck between the personal interests of all members of the family in maintaining their family life in the Netherlands and the public interest in controlling immigration (para 121).	PRE
+This was nothing new: the Court has referred to striking a fair balance between those interests in numerous family reunion cases, with varying results depending on the individual circumstances: Gul v Switzerland, above, para 38; Ahmut v The Netherlands (1997) 24 EHRR 62, paras 63, 73; Sen v The Netherlands (2003) 36 EHRR 81, para 31; Tuquabo-Tekle v The Netherlands (para 41 above); Konstantinov v The Netherlands [2007] ECHR 1635/03, paras 46, 53; Rodriguez da Silva v The Netherlands, above; Y v Russia (2010) 51 EHRR 531, paras 39, 44; Nunez v Norway, above, para 68; IAA v United Kingdom (2016) 62 EHRR 233, paras 38, 40, 42, 47.	PRE
+However, while the Strasbourg court has not found it necessary to carry out the article 8(2) proportionality analysis in family reunification cases, this Court has adopted that approach in Huang, above, EB (Kosovo) v Secretary of State for the Home Department [2008] UKHL 41; [2009] AC 1159, Quila, above, Zoumbas v Secretary of State for the Home Department [2013] UKSC 74; [2013] 1 WLR 3690, and in Bibi, above.	PRE
+As this Court has also held in Hesham Ali v Secretary of State for the Home Department, above, para 49, there is no objection to our employing this useful analytic tool.	PRE
+The issue is always whether the authorities have struck a fair balance between the individual and public interests and the factors identified by the Strasbourg court have to be taken into account, among them the significant weight which has to be given to the interests of children.	PRE
+Best interests of children	Ratio
+There is a further reason in this country for giving significant weight to the interests of children.	Ratio
+This country is party to the United Nations Convention on the Rights of the Child.	Ratio
+As is well known, article 3(1) provides that: In all actions concerning children, whether undertaken by public or private social welfare institutions, courts of law, administrative authorities or legislative bodies, the best interests of the child shall be a primary consideration.	STA
+Originally, the United Kingdom had entered a reservation in respect of immigration matters, but this was lifted in 2008 and section 55(1) and (2) of the 2009 Act requires the Secretary of State to make arrangements for ensuring that her own functions in relation to immigration, asylum and nationality, and those conferred upon immigration officers by the Immigration Acts, are discharged having regard to the need to safeguard and promote the welfare of children who are in the United Kingdom.	STA
+It is common ground that this duty applies, not only to the making of decisions in individual cases, but also to the function of making the Immigration Rules and giving guidance to officials.	STA
+Section 55(3) requires persons exercising those functions to have regard to any guidance given by the Secretary of State in relation to this duty.	STA
+Statutory guidance has been given in Every Child Matters: Change for Children (2009).	STA
+In paragraph 1.4: Safeguarding and promoting the welfare of children is defined as: preventing impairment of childrens health or development (where health means physical or mental health and development means physical, intellectual, emotional, social or behavioural development); ensuring that children are growing up in circumstances consistent with the provision of safe and effective care; and undertaking that role so as to enable those children to have optimum life chances and to enter adulthood successfully.	STA
+Additionally, although section 55 only applies to children in the United Kingdom, the guidance states that UK Border Agency staff working overseas must adhere to the spirit of the duty and make inquiries when they have reason to suspect that a child may be in need of protection or safeguarding, or presents welfare needs that require attention (para 2.34).	STA
+As already seen, Appendix FM itself purports, in para GEN.1.1, to reflect both the article 8 rights of the parties and the Secretary of States duty under section 55.	Ratio
+The Explanatory Memorandum laid before Parliament states that the purpose of the new rules was to set requirements which correctly balance the individuals right to respect for private and family life with the public interest in safeguarding the economic well-being of the UK by controlling immigration (para 2.1); further that the assessment of the best interests of the child is intrinsic to the proportionality assessment under article 8, and has therefore also been incorporated into the Immigration Rules (para 7.4).	Ratio
+Immigration Rules and policy	STA
+The legal and policy background of the immigration rules has been discussed in detail by Lord Reed in Hesham Ali and Agyarko.	STA
+As he explains, the statutory basis for the modern system of immigration control starts from the Immigration Act 1971.	STA
+Section 1(4) gives authority to the Secretary of State to make rules as to the practice to be followed in the administration of the Act for regulating the entry and stay of persons not having the right of abode.	STA
+Section 3(2) makes detailed provision for statements of the rules, or changes, to be laid before Parliament.	STA
+The 1971 Act has been described as a constitutional landmark.	Ratio
+It is the modern embodiment of the powers previously exercised under the Royal prerogative, and now entrusted to the Secretary of State, who has constitutional responsibility under Parliament for immigration control and policy.	Ratio
+The rules are to be seen as statements by the Secretary of State as to how she proposes to control immigration, the scope of that duty being defined by the statute (see R (Alvi) v Secretary of State for the Home Department [2012] UKSC 33; [2012] 1 WLR 2208 paras 31, 33 per Lord Hope).	Ratio
+By the HRA section 6 the Secretary of State is bound to exercise her powers under the Act in a way which is compatible with the European Convention on Human Rights.	STA
+Although some reliance has been placed upon article 12 - the right to marry and found a family - and on article 14 - enjoyment of the Convention rights without discrimination on status grounds - the principal focus in these cases has been on article 8 - the right to respect for private and family life.	STA
+Challenging the rules under article 8	Ratio
+In this case (unlike Hesham Ali or Agyarko) we are asked to consider the legality of the rules as such, rather than simply their application to individual cases.	Ratio
+In both situations, however, it is legitimate to follow the familiar four-stage test adopted in Quila, above, and in Bibi, above.	Ratio
+Immigration rules made for legitimate objectives were held disproportionate and therefore unlawful in R (Baiai) v Secretary of State for the Home Department [2008] UKHL 53; [2009] AC 287; and in effect (although the challenge was to two individual decisions) in Quila, above.	PRE
+The former required a person subject to immigration control to obtain a prior certificate of approval to enter a marriage otherwise than in accordance with the rites of the Church of England.	PRE
+The latter sought to deter forced marriages, by requiring both parties to a marriage to be aged 18 (later 21).	PRE
+The latter was seen as a very strong case.	PRE
+As Lord Wilson observed the number of unforced marriages which [the scheme] obstructs vastly exceeds the number of forced marriages which it deters, an issue which the Secretary of State had failed to address: On any view it is a sledge-hammer but she has not attempted to identify the size of the nut.	PRE
+At all events she fails to establish that the interference with the rights of the claimants under article 8 is justified.	PRE
+(Quila para 58)	PRE
+In the same case (paras 78-79) Lady Hale summarised the reasons for holding both schemes unlawful, noting in particular the blanket character of the prohibition in each case (a factor also emphasised by the Strasbourg court in respect of the first scheme: ODonoghue v United Kingdom (2011) 53 EHRR 1, para 89).	PRE
+In Bibi the court declined to hold unlawful amendments to the rules requiring a foreign spouse or partner of a British citizen or a person settled in this country to pass a test of competence in the English language before coming to live here.	PRE
+The court upheld the rules as a whole as satisfying the requirements of proportionality under article 8, while (with differing degrees of emphasis) expressing concern about the potential operation of the guidance in individual cases.	PRE
+In the leading judgment Lady Hale commented on the difficulties of challenges to the rules as such: It may well be possible to show that the application of the rule in an individual case is incompatible with the Convention rights of a British partner It is much harder to show that the rule itself is inevitably unlawful, whether under the Human Rights Act 1998 or at common law (para 2)	PRE
+As those cases show, rules prepared by the Secretary of State will rarely fail to satisfy the first two tests, which closely resemble conventional Wednesbury principles (see per Laws LJ, SS (Nigeria) v Secretary of State for the Home Department [2013] EWCA Civ 550; [2014] 1 WLR 998, para 39), while the third and fourth tests generally overlap.	Ratio
+In practice the main emphasis is likely to be on the fourth test: do the measures strike a fair balance between the rights of the individual and the interests of the community? Nor is it enough that the rule may lead to infringements of that principle in individual cases.	Ratio
+As Lord Hodge said (Bibi, para 69, approving the approach of Aikens LJ in the present case: [2015] 1 WLR 1078, paras 133-134): The court would not be entitled to strike down the rule unless satisfied that it was incapable of being operated in a proportionate way and so was inherently unjustified in all or nearly all cases.	Ratio
+That observation reflects the fact that, as a general rule, it is the decision in an individual case which may be incompatible with the Convention rights, rather than the relevant general rules or policies.	Ratio
+That applies also to the Secretary of States duty under section 6 of the Human Rights Act 1998 not to act in a way which is incompatible with a Convention right.	Ratio
+Compliance in an individual case does not necessarily depend on the rules.	Ratio
+As Laws LJ has said (Mahad (Ethiopia) v Secretary of State for the Home Department [2008] EWCA Civ 1082; [2009] Imm AR 254, para 39, agreed by Pill and Carnwath LJJ): The immigrants article 8 rights will (must be) protected by the Secretary of State and the court whether or not that is done through the medium of the immigration rules.	Ratio
+It follows that the rules are not of themselves required to guarantee compliance with the article.	Ratio
+There would no doubt be a breach of that duty if the rules were to be couched in a form which made non-compliance in individual cases practically inevitable.	Ratio
+But that is not the position in the present context.	Ratio
+Even features which make compliance more difficult, in particular the insistence that Entry Clearance Officers cannot themselves take decisions outside the rules but must refer them to the RCU in London, are not the product of the rules but of the administrative arrangements.	Ratio
+As already explained (para 19 above), the general provisions of the rules envisage a two-stage process, the second involving consideration of the human rights issues outside the rules (appendix FM GEN.1.1 and GEN.1.10-11).	Ratio
+Unsurprisingly, therefore, Miss Giovannetti for the Secretary of State accepts in her printed case (para 38) that failure to meet the MIR does not in itself lead to an application for entry clearance being refused, since (in her words): The Secretary of State retains a discretion to grant entry clearance outside the rules in appropriate cases, which must be exercised in accordance with section 6 of the Human Rights Act 1998.	Ratio
+Consistently with that approach, when dealing with the appeal in SS (Congo) (para 256), she accepts as uncontroversial the appellants submission that the requirements of rules do not absolve decision-makers from carrying out a full merits based fact-sensitive assessment outside the rules.	ARG
+This position is reinforced by the nature of the right of appeal against any adverse decision of the Secretary of State, whether made by reference to the rules or the Convention.	Ratio
+As was made clear in Huang (paras 6, 17), the structure of the appeal provisions draws a clear distinction between the two.	Ratio
+Thus the grounds on which an appeal may be brought (Nationality, Immigration and Asylum Act 2002 section 84(1)) include: (a) that the decision is not in accordance with immigration rules ... (c) that the decision is unlawful under section 6 of the Human Rights Act 1998 (c 42) as being incompatible with the appellants Convention rights ... Failure to qualify under the rules is not conclusive; rather it is (in Lord Binghams words) - the point at which to begin, not end, consideration of the claim under article 8.	Ratio
+The terms of the rules are relevant to that consideration, but they are not determinative.	Ratio
+(para 6) Thus, whatever the defects there may be in the initial decision, it is the duty of the tribunal to ensure that the ultimate disposal of the application is consistent with the Convention.	Ratio
+This analysis provides a simple answer to the central issue in the case.	Ratio
+It removes any substantial basis for challenging the new rules as such under the HRA.	Ratio
+(The treatment of children under section 55 of the 2009 Act raises different issues, to which we shall return.) It follows that such a challenge in the present context must stand or fall under common law principles.	Ratio
+The question in short is whether, taking account of the fact that those rules are only one part of the decision-making process, they are in themselves based on a misinterpretation of the 1971 Act, inconsistent with its purposes, or otherwise irrational.	Ratio
+Under the HRA the main focus of attention shifts to the instructions issued by the Secretary of State to entry clearance officers for dealing with cases outside the rules (described at paras 20ff above).	Ratio
+The question then is whether there is anything in those instructions which unlawfully prevents or inhibits them from conducting a full merits-based assessment as required by the HRA.	Ratio
+As to how that question should be approached, we now have authoritative, up-to-date guidance in the judgment of the Grand Chamber in Jeunesse (paras 42- 43 above) which conveniently draws together earlier Strasbourg jurisprudence.	Ratio
+As we have explained, in agreement with Lord Reed in Hesham Ali, para 42, and Agyarko, para 42, the ultimate issue is whether a fair balance has been struck between individual and public interests, taking account the various factors identified.	Ratio
+The changing case for the Secretary of State	Ratio
+In fairness to the appellants, and their arguments based on common law illegality, it must be acknowledged that they have been faced with something of a moving target.	Ratio
+The position now adopted by counsel for the Secretary of State represents a significant change from statements made at the time the rules were laid before Parliament.	Ratio
+The governments thinking at that time was explained most clearly in the Grounds of Compatibility statement, submitted to Parliament at the same time as the new rules.	Ratio
+The salient passages have already been described at para 11 above.	Ratio
+However, the more prescriptive approach in the new rules was triggered by the governments reaction to the decision of the House of Lords in Huang.	Ratio
+Further comment on what was said about that case in the statement is called for, in the light of the way the case is now put.	Ratio
+The statement noted that previous Secretaries of State had taken the position that, if the rules were thought to produce disproportionate results in a particular case, the court should itself decide the proportionate outcome on the facts before it, rather than hold that the rule itself was incompatible with article 8.	Ratio
+This approach had been adopted by the courts, and confirmed by the House of Lords in Huang, with the result, whatever the intention of the House of Lords, that when assessing compatibility in individual cases the courts cannot have recourse to the Rules themselves but must make their own decisions on an individual basis.	Ratio
+This had led to unpredictability and inconsistency which are anathema to good administration.	Ratio
+(para 11) Accordingly, under the new, more prescriptive, scheme, the role of the courts would shift from reviewing the proportionality of individual administrative decisions to reviewing the proportionality of the rules.	Ratio
+Those passages appear to reflect a distorted account of the legislative scheme and of the reasoning in Huang, which, had it been left uncorrected, would in our view have involved a misdirection in law.	Ratio
+In the first place the opinion in Huang was not, as the author of the statement seems to have thought, a decision about the relationship of the Secretary of State with the courts.	Ratio
+On the contrary it was a decision about the relationship of the Secretary of State with the specialist appellate system set up by Parliament to hear appeals by disappointed applicants.	Ratio
+It was Parliament which had laid down the rules governing that system.	Ratio
+In particular, it was Parliament, not the courts, which had required separate consideration by the tribunal of issues under article 8, and had placed no express restriction on the scope of that consideration.	Ratio
+The House in Huang was simply giving effect to Parliaments intention.	Ratio
+That position remained unchanged until the Immigration Act 2014, which post-dated the decisions in the present appeals.	Ratio
+Secondly, it was wrong to interpret the House as indicating that individual decisions should be made entirely on a case-by-case basis, without regard to the Secretary of States policy, or to the need for predictability and consistency.	Ratio
+Paragraph 16 of the opinion is quite clear as to the importance of such factors: There will, in almost any case, be certain general considerations to bear in mind: the general administrative desirability of applying known rules if a system of immigration control is to be workable, predictable, consistent and fair as between one applicant and another; the damage to good administration and effective control if a system is perceived by applicants internationally to be unduly porous, unpredictable or perfunctory As was said, the giving of weight to such factors is part of the ordinary judicial task of weighing up the competing considerations and according appropriate weight to the judgment of a person with responsibility for a given subject matter and access to special sources of knowledge and advice.	Ratio
+A third misconception is the implication that article 8 considerations could be fitted into a rigid template provided by the rules, so as in effect to exclude consideration by the tribunal of special cases outside the rules.	Ratio
+As is now common ground, this would be a negation of the evaluative exercise required in assessing the proportionality of a measure under article 8 of the Convention which excludes any hard-edged or bright-line rule to be applied to the generality of cases (EB (Kosovo) v Secretary of State for the Home Department [2009] AC 1159, para 12, per Lord Bingham).	Ratio
+Although Miss Giovannetti made some attempt to defend the statement, we remain unconvinced that its approach could be reconciled with the correct legal analysis, as now accepted by her: that is, that the rules are only the starting point for consideration under the Convention.	Ratio
+But for the Governments altered stance, the rules read with the grounds of compatibility statement would have faced a serious challenge on grounds of error of law.	Ratio
+However, the change in the Governments stance means that the error is of historical interest rather than current relevance, so long as the rules are capable of being operated in a manner consistent with the Convention.	Ratio
+Regardless of what was said in the statement, the rules themselves have always made clear that they left open the possibility of separate consideration under article 8.	Ratio
+That said, it remains the Secretary of States position, as we understand it, that a principal objective of the new rules was to achieve Convention-compliant decisions in the generality of cases.	Ratio
+Thus, as already explained, the current instructions reflect the view that a decision in accordance with the rules will not involve a breach of article 8 save in exceptional circumstances; which expression is equated with circumstances where a refusal would lead to unjustifiably harsh consequences for the individual or their family.	Ratio
+An important issue in the case is whether that is an acceptable approach.	Ratio
+But that is an issue as to the legality of the relevant instructions, not of the rules.	Ratio
+The need for consistency in decision-making	Ratio
+Notwithstanding the criticisms which can be made of some of its reasoning, there is force in the underlying concerns expressed in the Grounds of Compatibility statement.	Ratio
+Decision-making on the scale required by the immigration system depends on the judgements made on a daily basis by large numbers of individual entry clearance officers, and on appeal by individual tribunal judges.	Ratio
+As the House recognised in Huang, fairness and consistency are important considerations at both levels.	Ratio
+Before 2000, the position was reasonably clear.	Ratio
+The Immigration Act 1971 established the principles governing immigration control.	Ratio
+The principal machinery for achieving consistency was found in rules made by the Secretary of State under section 3(4).	Ratio
+They provided the framework both for decisions by entry clearance officers and also for the then appellate authorities.	Ratio
+The Secretary of State retained a residual discretion to allow entry outside the rules, but unconstrained by the Convention.	Ratio
+The entry into force of the Human Rights Act was not reflected in any change to section 3.	Ratio
+The Secretary of States duty under that Act to comply with the Convention was reflected in a direction to officials in the rules (see Agyarko, para 6).	Ratio
+At appellate level, the assumption seems to have been that it would be enough to add a new ground of appeal by reference to the Convention.	Ratio
+As the statement says, nothing was done to address the problem of achieving consistency in its application at either level.	Ratio
+The Secretary of State can give guidance to entry clearance officers and expect it to be followed, but has no such power to influence the decisions of tribunal judges in respect of the Convention.	Ratio
+Frustrating though it may be for the Secretary of State, under the present legislation the task of promoting consistency at that level falls to the tribunals themselves.	Ratio
+The role of the tribunals	Ratio
+It is perhaps understandable that, while recognising the general objective of fairness and consistency, the House in Huang did not in terms address the mechanisms by which it was to be achieved within the appellate system.	Ratio
+The immigration appeal system was then in a process of transition.	Ratio
+At the time of the relevant appeals the system had provided for an initial appeal to immigration adjudicators, with an onward appeal on points of law to the Immigration Appeal Tribunal.	Ratio
+By the time of the House of Lords hearing this arrangement had been supplanted by an appeal to a single-tier Asylum and Immigration Tribunal.	Ratio
+Since then there has been more radical change to the tribunal system under the Tribunals Courts and Enforcement Act 2007.	Ratio
+In 2010 immigration appeals were brought within the new two-tier system created by the Act, with a specialist Immigration and Asylum chamber at each level.	Ratio
+Part of the function envisaged for the Upper Tribunal within that system is the giving of guidance to the First-tier Tribunal on issues of principle (see Jones v First-tier Tribunal [2013] UKSC 19; [2013] 2 AC 48).	Ratio
+The Immigration and Asylum Chamber of the Upper Tribunal has well-established practices for selecting test cases to give authoritative guidance on particular issues.	Ratio
+We have not heard detailed submissions on this aspect, and it is in any event a matter of practice for the Presidents of the relevant Chambers of the First-tier and Upper Tribunals, rather than this court, as to what if any guidance should be given to tribunal judges.	Ratio
+However, the system so described does point the way to a means of promoting consistency in the approach to questions arising under article 8, at both levels of decision-making.	Ratio
+The experience built up by tribunals in dealing with individual cases can provide a basis on which the Upper Tribunal may develop a consistent approach to the handling of cases at the first tier.	Ratio
+Their guidance in turn should help to inform the evolution of departmental policy.	Ratio
+The result is not a confrontation between the executive and the courts or tribunals, but rather a partnership between two agencies each charged by the legislature with a specific role in administering a system which is to be fair both to the public and to individual applicants.	Ratio
+Policy and expertise	Ratio
+As Lord Reed has shown (Hesham Ali, paras 46f), although the tribunal must make its own judgment, it should attach considerable weight to judgments made by the Secretary of State in the exercise of her constitutional responsibility for immigration policy.	Ratio
+He cites Lord Binghams reference in Huang to the need to accord appropriate weight to the judgment of a person with responsibility for a given subject matter and access to special sources of knowledge and advice.	Ratio
+As that passage indicates, there are two aspects, logically distinct: first, the constitutional responsibility of the Secretary of State for setting national policy in this area; and secondly the expertise available to her and her department in setting and implementing that policy.	Ratio
+Both are relevant in the present case, but the degree of respect which should be accorded to them may be different.	Ratio
+The weight to be given to the rules or Departmental guidance will depend on the extent to which matters of policy or implementation have been informed by the special expertise available to the Department.	Ratio
+A good illustration in a different factual context is to be found in the Denbigh High School case, above, on which Lord Wilson in Quila (para 46ff) placed particular reliance as explaining the nature of the courts inquiry under the fair balance part of the four-stage test.	Ratio
+Lord Bingham (para 30) referred to the value judgment required, in which proportionality was to be judged objectively, by the court It is notable however that the objective inquiry actually undertaken by Lord Bingham in that case (concerning school uniform policy as applied to Muslim girls) involved giving substantial weight to the judgment of the school: It would in my opinion be irresponsible of any court, lacking the experience, background and detailed knowledge of the head teacher, staff and governors, to overrule their judgment on a matter as sensitive as this.	Ratio
+The power of decision has been given to them for the compelling reason that they are best placed to exercise it, and I see no reason to disturb their decision.	Ratio
+(para 34) By contrast in Quila itself, as Lord Wilson held (para 58), the Secretary of State had failed to show any adequate evidentiary support for the policy choices reflected in the rules under challenge.	Ratio
+As Lord Reed explains (Agyarko, para 47), this approach is consistent with the margin of appreciation permitted by the Strasbourg court on an intensely political issue, such as immigration control.	Ratio
+However, this important principle should not be taken too far.	Ratio
+Not everything in the rules need be treated as high policy or peculiarly within the province of the Secretary of State, nor as necessarily entitled to the same weight.	Ratio
+The tribunal is entitled to see a difference in principle between the underlying public interest considerations, as set by the Secretary of State with the approval of Parliament, and the working out of that policy through the detailed machinery of the rules and its application to individual cases.	Ratio
+The former naturally include issues such as the seriousness of levels of offending sufficient to require deportation in the public interest (Hesham Ali, para 46).	Ratio
+Similar considerations would apply to rules reflecting the Secretary of States assessment of levels of income required to avoid a burden on public resources, informed as it is by the specialist expertise of the Migration Advisory Committee.	Ratio
+By contrast rules as to the quality of evidence necessary to satisfy that test in a particular case are, as the committee acknowledged, matters of practicality rather than principle; and as such matters on which the tribunal may more readily draw on its own experience and expertise.	Ratio
+Analysis	Ratio
+The initial challenges brought by MM, AF, AM and SJ were to the Rules introducing the MIR.	Ratio
+Orders were sought quashing the Rules, declaring them incompatible with the Convention rights, and unreasonable and ultra vires at common law.	Ratio
+At that stage there were no Instructions giving guidance on how the new Rules were to be applied by entry clearance officers and in-country decision- makers.	Ratio
+Instructions were, however, issued in December 2012 and have to be taken into account as part of the overall scheme: on the one hand, they might so mitigate the effects of the Rules as to make them compatible with the Convention rights when they would not otherwise have been so; on the other hand, they might, taken in conjunction with the Rules, serve to create or exacerbate the incompatibility.	Ratio
+Against that background we make no apology for not attempting to cover all the points made in the copious submissions on both sides.	Ratio
+In this case, more than many, there is a serious danger of missing the wood among the trees.	Ratio
+We have already indicated why the central challenge - to the validity of the rules as such under the HRA - must fail.	Ratio
+We also agree with Aikens LJ in the Court of Appeal, for reasons also articulated by Blake J (paras 112-130), that no separate issue arises in respect of discrimination under article 14.	Ratio
+For completeness we mention here the cross-appeal of Mr Majid.	Ratio
+The Court of Appeal refused permission to appeal (for the reasons given at paras 165-172).	Ratio
+Although Mr de Mello attempted to persuade us otherwise, that is determinative in this court also.	Ratio
+The remaining issues can be considered under three heads: i) The principle of a minimum income requirement; ii) The treatment in the rules and instructions of children; iii) The treatment in the rules and the instructions of alternative sources of funding.	Ratio
+(i) Acceptability in principle of the MIR	Ratio
+There can be no doubt that the MIR has caused, and will continue to cause, significant hardship to many thousands of couples who have good reasons for wanting to make their lives together in this country, and to their children.	Ratio
+There are several types of family, not illustrated in the cases before us, upon whom the MIR will have a particularly harsh effect.	Ratio
+These include British citizens who have been living and working abroad, have married or formed stable relationships there, and now wish to return to their home country.	Ratio
+Many of these relationships will have been formed before the new Rules were introduced or even publicly proposed.	Ratio
+They also include couples who formed their relationships before the changes in the Rules were introduced and who had every expectation that the foreign partner would be allowed to come here.	Ratio
+Of particular concern is the impact upon the children of these couples, many or even most of whom will be British citizens themselves.	Ratio
+These are illustrated in a Report commissioned by the Office of the Childrens Commissioner for England, Family Friendly: The Impact on Children of the Family Migration Rules: A Review of the Financial Requirements (2015, Middlesex University and the Joint Council for the Welfare of Immigrants).	Ratio
+But the fact that a rule causes hardship to many, including some who are in no way to blame for the situation in which they now find themselves, does not mean that it is incompatible with the Convention rights or otherwise unlawful at common law.	Ratio
+As far as the Convention rights are concerned, the arguments have concentrated on article 8, the right to respect for private and family life, either alone or in conjunction with article 14, the right to enjoy the Convention rights without discrimination, rather than on article 12, the right to marry and found a family.	Ratio
+The MIR does not, as such, prevent a couple marrying.	Ratio
+It does, however, present a serious obstacle to their enjoying family life together.	Ratio
+Further, unlike the temporary impediment held to be unlawful in Quila, the MIR may constitute a permanent impediment to many couples, because the sponsor will never be able to earn above the threshold and the couple will not be able to amass sufficient savings to make good the shortfall.	Ratio
+Female sponsors, who have constituted as many as a third of the total, are disproportionately affected, because of the persisting gender pay gap, as are sponsors from certain ethnic groups whose earnings tend to be lower, and those from parts of the country where wages are depressed.	Ratio
+In Quila, however, there was no immigration dimension: although the measure in question was contained in the Immigration Rules, its purpose was not to control immigration, but to deter or prevent forced marriages.	Ratio
+In this case, there undoubtedly is an immigration dimension.	Ratio
+The MIR is part of an overall strategy aimed at reducing net migration.	Ratio
+Its particular aims are no doubt entirely legitimate: to ensure, so far as practicable, that the couple do not have recourse to welfare benefits and have sufficient resources to be able to play a full part in British life.	Ratio
+As accepted by the courts below, those aims are sufficient to justify the interference with, or lack of respect for, the article 8 right.	Ratio
+In agreement with both Blake J and the Court of Appeal, we would also reject the suggestion that there is no rational connection between those legitimate aims and the particular income threshold chosen.	Ratio
+The work of the Migration Advisory Committee is a model of economic rationality.	Ratio
+Even though it had to make certain assumptions, it was careful to identify and rationalise these.	Ratio
+Making those assumptions, it arrived at an income figure above which the couple would not have any recourse to welfare benefits, including tax credits and housing benefits.	Ratio
+That being a legitimate aim, it is also not possible to say that a lesser threshold, and thus a less intrusive measure, should have been adopted.	Ratio
+It may, of course, have a disproportionate effect in the particular circumstances of an individual case, but that is not the claim currently before us (save in relation to SS, discussed below).	Ratio
+That view of the acceptability in principle of the MIR is reinforced by the treatment of a similar issue by the Strasbourg court in Konstatinov v Netherlands [2007] 2 FCR 194, which also concerned minimum income requirements.	Ratio
+The applicant was of Roma origin with a rather mixed background, including several aliases, an expulsion from the Netherlands in 1987 for unspecified reasons, and a string of convictions for robbery and theft in the 1990s.	Ratio
+The immediate issue for the court concerned the ministers refusal in November 1998 of her request for a residence permit to enable her to live with her husband (entitled to permanent residence since 1988) and their son (born in 1989).	Ratio
+The grounds of refusal, unsurprisingly, included public order grounds, but also her husbands failure to satisfy the minimum income requirements under the rules (para 15).	Ratio
+The refusal was upheld by the domestic courts on both grounds (para 21), and by Strasbourg.	Ratio
+In its decision given in April 2007, the court noted that the relationship had been developed at a time when her status was precarious (para 49).	Ratio
+It also accepted the principle of a minimum income requirement: In principle, the Court does not consider unreasonable a requirement that an alien having achieved a settled status in a Contracting State and who seeks family reunion there must demonstrate that he/she has sufficient independent and lasting income, not being welfare benefits, to provide for the basic costs of subsistence of his or her family members with whom reunion is sought.	Ratio
+(para 50) Having regard to her criminal record, the fact that her son would come of age in April 2007, and the lack of any insurmountable obstacles to her own return to Serbia where she had lived until the age of seven (paras 51-52), it could not be said that the Netherlands authorities had failed to strike a fair balance between her interests and its own interest in controlling immigration and public expenditure and in the prevention of disorder and crime (para 53).	Ratio
+Miss Giovannetti is entitled to rely on para 50 as confirming that a minimum income requirement, such as in the present case, is in principle acceptable, and a matter properly taken into account in the balancing process.	Ratio
+The case is also significant as showing how national policy choices may inform the courts consideration of the case under article 8.	Ratio
+Mr Drabble QC for SS (case para 149ff) relies on the case as showing that precariousness was a variable rather than binary consideration, a matter to be taken into account rather than one leading automatically to a requirement of exceptionality.	Ratio
+However, that was before Jeunesse brought a greater measure of clarity to that issue.	Ratio
+We conclude that the challenge to the acceptability in principle of the MIR must fail.	RPC
+(ii) Treatment of children	Ratio
+The only case before us directly concerning a child is that of AF.	Ratio
+Blake J was clearly unimpressed by that case on its facts, saying: the proposition that denial of admission of MMs wife interferes unduly with AFs best interests because it leads MM to spend time in Cyprus away from his nephew and de facto child, is a challenging one to substantiate.	Ratio
+It is not possible to do so in the context of a generic challenge to legality of the rules as such.	Ratio
+(para 115) On the material before us, we would find it difficult to disagree with that assessment of the particular case.	Ratio
+It does however provide the opportunity for us to deal with the position of children under the rules as a matter of general principle.	Ratio
+We have already explained how the internationally accepted principle requiring primary attention to be given to the best interests of affected children is given clear effect in domestic law and policy.	Ratio
+The same principle is restated as part of the considerations relevant to the article 8 assessment in Jeunesse (see para 40 above), requiring national decision-makers to: advert to and assess evidence in respect of the practicality, feasibility and proportionality [of any such removal of a non- national parent] in order to give effective protection and sufficient weight to the best interests of the children directly affected by it.	Ratio
+(para 119) In Jeunesse itself the determining factor for the court seems to have been the authoritys failure to give adequate weight to the impact on the children of the removal of their mother, who was the homemaker and primary carer of the children who are deeply rooted in the Netherlands (para 41 above).	Ratio
+In the new Appendix FM to the rules, paragraph GEN.1.1 asserts that it takes into account the Secretary of States duties in respect of children.	Ratio
+Miss Giovannetti (case para 233) relies on that statement.	Ratio
+Apart from some references to specific categories, she prays in aid the proposition that it will be for the entry clearance officer to ensure that appropriate consideration is given to the interests of any relevant children, it being axiomatic that this can only be decided on the facts of a particular case.	Ratio
+That is clearly correct.	Ratio
+As Blake J said: alongside the rules there are also legal duties towards children, that can be applied on a case-by-case basis when the relevant facts are established.	Ratio
+There is a statutory duty on the entry clearance officer to have regard to the best interests and welfare of a child in the UK when considering the admission of someone whose presence or absence impacts on the child.	Ratio
+(paras 113-114) However, her reliance on that principle does nothing to support the assertion in GEN.1.1 that those aspects are sufficiently taken into account in the appendix itself.	Ratio
+In our view the instructions in their present form (quoted at para 24 above) do not adequately fill the gap left by the rules.	Ratio
+Rather than treating the best interests of children as a primary consideration, taking account of the factors summarised in Jeunesse, they lay down a highly prescriptive criterion requiring factors that can only be alleviated by the presence of the applicant in the UK, such as support during a major medical procedure, or prevention of abandonment where there is no other family member .	Ratio
+It seems doubtful that even the applicant in Jeunesse itself would have satisfied such a stringent test.	Ratio
+Furthermore, although section 55 is in terms directed to children in the UK, the Secretary of State has accepted that the same approach should be applied to the welfare of children elsewhere (see para 46 above).	Ratio
+We have no doubt therefore that the guidance is defective in this respect and needs to be amended in line with principles stated by the Strasbourg court.	Ratio
+Furthermore, the statement in GEN.1.1 that the duty has already been taken into account in the rules is wrong in law.	Ratio
+Nor is the gap filled by GEN.1.10-11 which refer to the separate consideration under article 8, but not section 55.	Ratio
+This is not simply a defect of form, nor a gap which can be adequately filled by the instructions.	Ratio
+The duty imposed by section 55 of the 2009 Act stands on its own feet as a statutory requirement apart from the HRA or the Convention.	Ratio
+It applies to the performance of any of Secretary of States functions including the making of the rules.	Ratio
+While the detailed guidance may be given by instructions, it should be clear from the rules themselves that the statutory duty has been properly taken into account.	Ratio
+We would grant a declaration that in this respect both the rules and the instructions are unlawful.	Ratio
+(iii) Treatment of alternative sources of funding	Ratio
+We have described the restrictions in the rules on taking into account prospective earnings of the foreign partner or guarantees of third party support.	Ratio
+The most striking example, in the cases before us, is found in that of MM and his wife (paras 28ff above).	Ratio
+On the face of it there is a strong case on the merits for admitting her consistently with the general objectives of the new rules.	Ratio
+The couple have no realistic prospect of living together in any other country, and, although his earnings on their own are below the MIR, she is a pharmacist with good prospects of finding skilled employment here, and they have apparently credible promises of support from other family members.	Ratio
+They are unlikely to be a burden on the state, or unable, due to lack of resources, to integrate.	Ratio
+Yet the strict application of the rules will exclude them.	Ratio
+As noted above (para 29) they had not applied, it seems, because they saw no point in incurring the substantial cost of an application bound to fail.	Ratio
+As already noted, the Migration Advisory Committees report considered the issue of accounting for different sources of income (paras 4.15-4.19), and income of the sponsored migrant (paras 4.20-4.23).	Ratio
+Under the former they observed that it might be appropriate to include in the calculation third party support received by the sponsors family, but thought that it could be difficult for UKBA to verify the extent of support and whether it would continue (para 4.18).	Ratio
+They had accordingly assumed that such sources should be excluded for reasons of practicality, emphasising that this assumption was made for practical rather than economic reasons, adding: in principle a case can be made for taking other income streams into account, if an operationally feasible way of doing so can be found.	Ratio
+(para 4.19)	Ratio
+Similarly it saw a strong case in principle for taking account of future income of the sponsored migrant recognising that it is total household income that will determine whether the household is a burden on state, but had excluded it in recognition of the substantial risks and uncertainties attached to such calculations (paras 4.20-4.22).	Ratio
+In his second witness statement, Mr Peckover confirms that the Secretary of State did not take up the committees offer to advise on how the threshold could be adjusted to take account of the migrant partners prospective earnings, commenting that no adjustment could remove the precariousness of such an assumption (para 33).	Ratio
+He also confirms that she fully explored the scope of including third party support, but decided to allow in two forms: accommodation, reflecting the need or preference to live with family or friends, and gifts of cash savings held for at least six months (para 37).	Ratio
+Similar issues were discussed by this court in Mahad v Entry Clearance Officer [2009] UKSC 16; [2010] 1 WLR 48.	Ratio
+There the issue was different: it turned, not on whether such sources could properly be excluded from the assessment, but whether, as a matter of construction of the pre-2012 rules (which were in different form), they had been so excluded.	Ratio
+However, questions of practicality arose also in that context.	Ratio
+The court rejected the argument that a narrow construction should be adopted to reflect the relative precariousness of such sources, and difficulties of verification.	Ratio
+In the leading judgment, Lord Brown said: Whilst I readily acknowledge the legitimacy of each of these concerns, their strength seems to me much diminished by a number of considerations.	Ratio
+First, whilst I accept that generally speaking unenforceable third party promises are likely to be more precarious and less easily verifiable than a sponsors own legal entitlements, that will not invariably be so.	Ratio
+And it would surely be somewhat anomalous if ECOs could accept promises of continuing accommodation and/or employment and yet not promises of continuing payments, however regularly they can be shown to have been made in the past and however wealthy the third party can be seen to be.	Ratio
+Are rich and devoted uncles (or, indeed, large supportive immigrant communities such as often assist those seeking entry) really to be ignored in this way? A second consideration, never to be lost sight of, is that it is always for the applicant to satisfy the ECO that any third party support relied upon is indeed assured.	Ratio
+If he fails to do so, his application will fail.	Ratio
+That this may be difficult was recognised by Collins J himself in the Arman Ali case [2009] INLR 89, 103: I do not doubt that it will be rare for applicants to be able to satisfy an entry clearance officer, the Secretary of State or an adjudicator that long-term maintenance by a third party will be provided so that there will be no recourse to public funds.	Ratio
+But whether or not such long- term support will be provided is a question of fact to be determined on the evidence.	Ratio
+Of course there may be difficulties of investigation.	Ratio
+But that is already so with regard to many different sorts of application and, indeed, is likely to be so with regard to some of the kinds of third party support already conceded to be acceptable.	Ratio
+(para 19)	Ratio
+Lord Kerr said: The vaunted precariousness of support from a third party source is, in my opinion, no greater than that which might arise in the course of the ordinary vagaries and vicissitudes of life.	Ratio
+Promised employment may not materialise or may last for only a short time.	Ratio
+Dependence on benefits received by the family member who is settled in the United Kingdom may cease it is entirely conceivable that support from a number of family members and friends of the person seeking to enter will be a more dependable resource and a more effective prevention of dependence on public funds than prospective employment (paras 54-55)	Ratio
+It is apparent from the MAC report, and the evidence of Mr Peckover, that the reasons for adopting a stricter approach in the new rules were matters of practicality rather than wider policy, reflecting what the MAC acknowledged to be the relative uncertainty and difficulty of verification of such sources.	Ratio
+That did not make it unreasonable or irrational for the Secretary of State to take them into account in formulating the rules.	Ratio
+The MAC recognised the strength of the case for taking account of other sources, but it did not in terms advise against the approach ultimately adopted by the Secretary of State.	Ratio
+In considering the legality of that approach, for the reasons already discussed (para 59 above) it is necessary to distinguish between two aspects: first, the rationality of this aspect of the rules or instructions under common law principles, and secondly the compatibility with the HRA of similar restrictions as part of consideration outside the rules.	Ratio
+As to the first, while the application of these restrictions may seem harsh and even capricious in some cases, the matter was given careful consideration by both the MAC and the Secretary of State.	Ratio
+As Aikens LJ said (para 154), the decision was not taken on a whim.	Ratio
+In our view, it was not irrational in the common law sense for the Secretary of State to give priority in the rules to simplicity of operation and ease of verification.	Ratio
+Operation of the same restrictive approach outside the rules is a different matter, and in our view is much more difficult to justify under the HRA.	Ratio
+This is not because less intrusive methods might be devised (as Blake J attempted to do: para 147), but because it is inconsistent with the character of evaluation which article 8 requires.	Ratio
+As has been seen, avoiding a financial burden on the state can be relevant to the fair balance required by the article.	Ratio
+But that judgment cannot properly be constrained by a rigid restriction in the rules.	Ratio
+Certainly, nothing that is said in the instructions to case officers can prevent the tribunal on appeal from looking at the matter more broadly.	Ratio
+These are not matters of policy on which special weight has to be accorded to the judgment of the Secretary of State.	Ratio
+There is nothing to prevent the tribunal, in the context of the HRA appeal, from judging for itself the reliability of any alternative sources of finance in the light of the evidence before it.	Ratio
+In doing so, it will no doubt take account of such considerations as those discussed by Lord Brown and Lord Kerr in Mahad, including the difficulties of proof highlighted in the quotation from Collins J. That being the position before the tribunal, it would make little sense for decision-makers at the earlier stages to be forced to take a narrower approach which they might be unable to defend on appeal.	Ratio
+As already explained, we do not see this as an issue going to the legality of the rules as such.	Ratio
+What is necessary is that the guidance to officers should make clear that, where the circumstances give rise to a positive article 8 duty in the sense explained in Jeunesse, a broader approach may be required in drawing the fair balance required by the Strasbourg court.	Ratio
+They are entitled to take account of the Secretary of States policy objectives, but in judging whether they are met, they are not precluded from taking account of other reliable sources of earnings or finance.	Ratio
+It is open to the Secretary of State to indicate criteria by which reliability of such sources may be judged, but not to exclude them altogether.	Ratio
+We conclude therefore that, while the rules as such are not open to challenge, there are aspects of the instructions to entry clearance officers which require revision to ensure that the decisions made by them are consistent with their duties under the HRA.	Ratio
+In the light of that conclusion, the Secretary of State might wish to consider whether it would be more efficient to revise the rules themselves, to indicate the circumstances in which alternative sources of funding should or might be taken into account, rather than simply to revise the guidance.	Ratio
+But that would be a matter for her.	Ratio
+SS (Congo)	Ratio
+We turn to the only individual appeal before us, the facts of which have been set out above (para 35ff).	Ratio
+The crucial finding was that there were insurmountable obstacles to the couple living together in DRC (para 61).	Ratio
+Although this may seem a little surprising on the evidence as we have it, the finding was not challenged in the Upper Tribunal, and (as Miss Giovannetti realistically accepts) it cannot be challenged in this court.	Ratio
+Certain aspects of the reasoning of First-tier Tribunal were flawed, as the Upper Tribunal found, but they were held not to be material.	Ratio
+The Upper Tribunal concluded: Clearly, if there are insurmountable obstacles to the couple carrying on family life in the DRC it follows that there are exceptional circumstances which would mean that refusal of the application results in unjustifiably harsh consequences for the sponsor and the claimant.	Ratio
+The only factor weighing against them in the stage two assessment is the claimants inability to meet the income threshold of 18,600 per annum.	Ratio
+The sponsor's income was however well above ... the lower appropriate threshold of 13,400 per annum.	Ratio
+This was the case at the date of the hearing and it was probably also well above this threshold at the date of decision.	Ratio
+Accordingly, although there are some flaws in the judges reasoning, she reached the sustainable conclusion that the interference with family life consequential upon the refusal decision was disproportionate; and that the insistence in this particular case on the claimant meeting the minimum income threshold of 18,600 per annum (albeit a requirement lawfully prescribed by the new rules) had unjustifiably harsh consequences which justified the claimant being accorded exceptional treatment outside the rules.	Ratio
+(paras 24-25)	Ratio
+The only criticism which might be made of this passage is the reliance on the figure of 13,400 adopted as a guide by Blake J (see para 33 above), but not ultimately upheld by the Court of Appeal.	Ratio
+The tribunals reliance on that part of Blake Js judgment was erroneous, though of course entirely proper at the time.	Ratio
+However, in considering after this long delay whether the error is such as to require remission to the tribunal, fairness requires that that we should also take account of the more recent guidance of the Strasbourg court in Jeunesse.	Ratio
+The issue is not whether there has been a near miss from the figure in the rules, but the weight to be given to any factors weighing against the policy reasons relied on by the Secretary of State to justify an extreme interference with family life.	Ratio
+One such factor may be the extent to which the family, while not complying with the MIR, would in practice be a burden on the state.	Ratio
+The other Jeunesse factors pointed strongly in favour of the applicants.	Ratio
+Taking the factors listed in Jeunesse: family life would effectively be seriously ruptured, because they could spend only short periods of time together; while both spouses originated from the DRC, the sponsor has been here for many years and was naturalised as a citizen here as long ago as 2006; he also has two children who are both British citizens, so his ties to this country are extensive; the First-tier Tribunal has found what are insurmountable obstacles in the way of their living in DRC; there are no factors of immigration control or public order weighing in favour of exclusion.	Ratio
+The only factor pointing the other way is the fact that this is a post-flight relationship, formed when there was no guarantee that the applicant would be admitted, although it began in 2010 before the Rules were changed, and the sponsor would easily have met the old adequate maintenance test.	Ratio
+The reason for including refugees and those granted humanitarian protection in the MIR on the same terms as others is that their relationships developed post- flight should not be treated more favourably than the relationships of British citizens and others settled here.	Ratio
+But neither should such individuals be treated less favourably.	Ratio
+If there were insurmountable obstacles to a non-refugee British citizen going to live in his partners home country, and there were nowhere else for them to go, it would be necessary to weigh the precariousness aspect against the extent to which the couple would, in fact, be able to support themselves.	Ratio
+Even if the tribunals adoption of the guide figure of 13,400 was misdirected, that should not be determinative.	Ratio
+In the unusual circumstances of this case, after long delay due to legal arguments which were of no direct concern to the applicants, it would be unfair to subject them to the uncertainties of a rehearing unless there were substantial grounds for thinking that a different result would be reached.	Ratio
+That is far from the case.	Ratio
+The considerations listed above provide ample support for the conclusion reached by the First-tier Tribunal, and for the view of the Upper Tribunal that any legal errors were not material.	Ratio
+It is no doubt desirable that there should be a consistent approach to issues of this kind at tribunal level, but as we have explained there are means to achieve this within the tribunal system.	Ratio
+As was said in Mukarkar v Secretary of State for the Home Department [2006] EWCA Civ 1045, para 40 (per Carnwath LJ): It is of the nature of such judgments that different tribunals, without illegality or irrationality, may reach different conclusions on the same case The mere fact that one tribunal has reached what may seem an unusually generous view of the facts of a particular case does not mean that it has made an error of law Nor does it create any precedent, so as to limit the Secretary of States right to argue for a more restrictive approach on a similar case in the future.	Ratio
+However, on the facts of the particular case, the decision of the specialist tribunal should be respected.	Ratio
+Conclusion	RPC
+We would allow all the appeals to the limited extent indicated above.	RPC
+In SS(Congo) this has the effect that the decision of the Upper Tribunal will be restored.	RPC
+We would also declare that the rules fail unlawfully to give effect to the duty of the Secretary of State in respect of the welfare of children under section 55 of the 2009 Act.	RPC
+Save to that extent we would dismiss the challenge to the validity of the rules.	RPC
+So far as concerns the instructions, we have indicated those aspects which require revision.	Ratio
+However, given the passage of time, including new legislation, it would be wrong for this court to attempt to indicate how those defects should now be corrected.	Ratio
+It is preferable to adjourn the question of remedies to allow time for the Secretary of State to consider her position, and to indicate to the appellants and to the court how she proposes to amend the instructions or other guidance to accord with the law as indicated in this judgment.	Ratio
+The court will receive written submissions on such proposals, and consider whether a further hearing is necessary.	Ratio

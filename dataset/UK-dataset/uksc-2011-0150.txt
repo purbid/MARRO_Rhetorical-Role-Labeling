@@ -1,0 +1,348 @@
+The respondents to the Lord Advocates appeal in these three cases are Raymond Jude, Michael Hodgson and Josh Birnie.	FAC
+They were each detained as suspects for questioning at a police station under sections 14 and 15 of the Criminal Procedure (Scotland) Act 1995.	FAC
+Their detentions took place prior to the decision of this court in Cadder v HM Advocate [2010] UKSC 43, 2011 SC(UKSC) 13; [2010] 1 WLR 2601.	FAC
+As was the practice at that time, they did not have access to legal advice either before or during their police interviews.	FAC
+In the course of their interviews they said things in reply to questions put to them by the police on which the Crown relied at their trials.	FAC
+They were convicted and sentenced to various periods of imprisonment.	FAC
+They then appealed against these convictions.	FAC
+Their appeals were still current when the judgment in Cadder was delivered on 26 October 2010.	FAC
+Among other grounds of appeal in the High Court of Justiciary the respondents advanced submissions which raised a devolution issue.	ARG
+This was that the leading of evidence of statements which they made during their police interviews was a breach of their rights under articles 6(3)(c) and 6(1) of the European Convention on Human Rights and that, in terms of section 57(2) of the Scotland Act 1998, the Lord Advocate had no power to lead that evidence.	ARG
+They referred to the decision in Cadder in support of this ground of appeal.	ARG
+For Birnie it was also submitted that the reliance by the Crown upon his admissions in these circumstances deprived him of a fair trial, to which he was entitled under article 6(1) of the Convention and at common law.	ARG
+The Crowns response to these submissions was that, for various reasons, the principle that was established in Cadder did not apply in these cases.	ARG
+The High Court of Justiciary decided to deal with this response as a preliminary issue, and it was referred to a court of five judges.	ARG
+On 11 May 2011 the Appeal Court (the Lord Justice-Clerk (Gill) and Lords Osborne, Eassie, Clarke and Mackay of Drumadoon) repelled the Crowns objections and continued the appeals for hearing on the remaining grounds of appeal: [2011] HCJAC 46, 2011 SLT 722.	ARG
+The Crown was given leave to appeal against that decision to this court under para 13 of Schedule 6 to the Scotland Act 1998.	ARG
+The issues raised by the Crowns response to the devolution issue were as follows: (1) that in the case of each respondent section 118(8) of the Criminal Procedure (Scotland) Act 1995 was an absolute bar to any challenge to the evidence of the police interviews, as objection was not taken at or before the trial to the leading of that evidence; (2) that each of the respondents had waived their right of access to a lawyer when they were interviewed; (3) that by failing to object to the evidence through their respective legal representatives they had waived the right to take the point as a ground of appeal; and (4) in Judes case only, that the point had been taken too late as section 100(3B) of the Scotland Act 1998, as amended by section 1 of the Convention Rights Proceedings (Amendment) (Scotland) Act 2009, provides that any proceedings brought on the ground that an act of a member of the Scottish Executive is incompatible with the Convention rights must be brought before the end of the period of one year beginning with the date on which the act complained of took place.	FAC
+The Crown did not seek leave to appeal from the Appeal Courts decision in relation to the application of section 118(8) of the 1995 Act.	FAC
+Leave was sought and granted in relation to the issues of waiver and the application to Judes case of section 100(3B) of the Scotland Act.	FAC
+In his written case to this court the Lord Advocate made it clear that he did not intend to pursue the point that the respondents had waived their right to object to the admissibility of the evidence of the police interviews because their legal representatives did not object to that evidence at the trial.	FAC
+This was because he accepts that, at the time when the respondents were tried, a person who was detained under section 14 of the 1995 Act did not have an express right in Scots law to legal advice before or during his police interview.	FAC
+As for the issue of individual waiver, his position was that the only point in these appeals which was likely to be of importance for future cases was that raised in the case of Birnie.	FAC
+Unlike the other two respondents Birnie made an unsolicited statement following his police interview, having declined the opportunity to have access to a lawyer prior to and while making it.	FAC
+The advocate depute, Miss Cherry QC, confined her submissions about waiver in these three cases to the question whether Birnie waived his right to a lawyer when he made his unsolicited statement.	RLC
+She made no submissions in support of the proposition that the respondents had waived their right to a lawyer at their police interviews.	RLC
+That issue was however the subject of detailed submissions in the Lord Advocates reference in McGowan (Procurator Fiscal, Edinburgh) v B, which was heard at the same time as these appeals.	RLC
+The court has issued a separate judgment in that case: [2011] UKSC 54.	RLC
+In the result the only matters which remain for consideration in relation to these three appeals are (1) whether the time bar referred to in section 100(3B) of the Scotland Act 1998, as amended, applies to Judes appeal, (2) whether Birnie waived his right of access to a lawyer when he made his unsolicited statement following his police interview and (3) whether the reliance by the Crown upon his admissions in these circumstances deprived him of his right to fair trial under article 6(1) of the Convention.	Ratio
+No issue now arises in regard to the preliminary points that were taken by the Crown in Hodgsons appeal.	Ratio
+Section 100(3B)	Ratio
+Jude went to trial in the High Court of Justiciary at Aberdeen on an indictment which libelled one charge of breach of the peace, one charge of lewd and libidinous conduct, three charges of indecent assault and two charges of assault with intent to rape.	FAC
+On 5 June 2008 he was convicted of one charge of indecent assault and of both charges of assault with intent to rape.	FAC
+On 28 August 2008 he lodged a notice of his intention to appeal against his conviction.	FAC
+On 17 February 2009 his appeal was deemed to have been abandoned because his note of appeal had not been lodged within the period referred to in section 110(1)(a) of the 1995 Act.	FAC
+On 5 October 2010 he lodged an application for extension of time under section 111(2) of that Act along with a note of appeal.	FAC
+His application for extension of time was granted on 6 October 2010 and his note of appeal was received on the same date.	FAC
+It is plain, and not disputed, that the time bar which would have otherwise have applied under section 110 of the 1995 Act was removed when the Appeal Court decided on 6 October 2010 to grant Judes application for an extension of time under section 111(2).	FAC
+At the end of his judgment in Cadder Lord Rodger drew attention to the provisions of section 100 of the Scotland Act, as amended by the Convention Rights Proceedings (Amendment) (Scotland) Act 2009: 2011 SC(UKSC) 13, paras 104-106.	STA
+In its amended form, the relevant provisions of that section are as follows: (1) This Act does not enable a person (a) to bring any proceedings in a court or tribunal on the ground that an act is incompatible with the Convention rights, or (b) to rely on any of the Convention rights in any such proceedings, unless he would be a victim for the purposes of article 34 of the Convention (within the meaning of the Human Rights Act 1998) if proceedings in respect of the act were brought in the European Court of Human Rights.	STA
+(3) This Act does not enable a court or tribunal to award any damages in respect of an act which is incompatible with any of the Convention rights which it could not award if section 8(3) and (4) of the Human Rights Act 1998 applied.	STA
+(3A) Subsection (3B) applies to any proceedings brought on or after 2 November 2009 by virtue of this Act against the Scottish Ministers or a member of the Scottish Executive in a court or tribunal on the ground that an act of the Scottish Ministers or a member of the Scottish Executive is incompatible with the Convention rights.	STA
+(3B) Proceedings to which this subsection applies must be brought before end of (a) the period of one year beginning with the date on which the act complained of took place, or (b) such longer period as the court or tribunal considers equitable having regard to all the circumstances, but that is subject to any rule imposing a stricter time limit in relation to the procedure in question.	STA
+(3E) The reference in subsection (3A) to proceedings brought on or after 2 November 2009 includes proceedings relating to an act done before that date.	STA
+As Lord Rodger observed in para 104 of his judgment in Cadder, the effect of these provisions was not mentioned by any of the counsel who appeared to argue that case in the Supreme Court.	Ratio
+Nevertheless he went on to express his opinion on it.	Ratio
+He referred in the following paragraph to the fact that the amendment to section 100 was made in response to the decision of the House of Lords in Somerville v Scottish Ministers [2007] UKHL 44, 2008 SC (HL) 45, [2007] 1 WLR 2734, in which it was held that the time limit in section 7(5) of the Human Rights Act 1998 did not apply to proceedings in relation to Convention rights brought by reference to the Scotland Act 1998.	Ratio
+Having set out the terms of the section in its amended form, he said that the proceedings in Cadders case were proceedings to which that section applied.	Ratio
+So, by reason of section 100(3B), to be competent any such proceedings would need to have been commenced before the end of a year beginning with the date on which the Crown led the evidence, or within such longer period as the court considered equitable having regard to all the circumstances: paras 105-106.	Ratio
+I endorsed what he said in those paragraphs in para 60 of my own judgment, when I included appeals that had been brought timeously among the list of cases that would have to be dealt with in the light of Cadder on the basis that a person who was detained must have had access to a lawyer before being questioned by the police.	Ratio
+The Crowns attempt to rely on Lord Rodgers analysis in support of its argument that Judes appeal was out of time because the act that was relied on took place more than one year before the lodging of his note of appeal was rejected by the Appeal Court.	Ratio
+The Lord Justice Clerk said that he could not follow why Lord Rodger should have taken the view that section 100(3B) applied to these proceedings.	Ratio
+In his opinion it applied only to claims made in civil proceedings and then only when they were brought by virtue of the Scotland Act.	Ratio
+That was not so in Judes case, as his appeal had been brought under the 1995 Act: 2011 SLT 722, paras 37-38.	Ratio
+Lord Rodgers observations in paras 105-106 of Cadder were of course obiter.	Ratio
+They must nevertheless be treated with respect.	Ratio
+He was, after all, a master of the art of statutory construction.	Ratio
+As he declared in one of his unpublished lectures, for him the subject of attention in these matters always was the text of the statute.	Ratio
+His hope was that, by immersing himself in the text and the scheme of the legislation, he would be able to see what the experts who had devoted months and months to preparing and adjusting the text saw and, more importantly, what they meant and how it should be applied.	Ratio
+His dissenting judgment in Martin v Most [2010] UKSC 10, 2010 SC (UKSC) 40 provides ample evidence of his concern for accuracy and for attention to the detail of the language used by the draftsmen and women when carrying out this exercise.	Ratio
+He brought to the question as to the meaning and effect of section 100(3B) his deep familiarity with the provisions of the Human Rights Act 1998 which he had developed since he first engaged with the subject in Aston Cantlow and Wilmcote with Billesley Parochial Church Council v Wallbank [2003] UKHL 37, [2004] 1 AC 546, paras 157-163, and his participation in the carefully argued decision of the House of Lords in Somerville.	Ratio
+As Lord Hamilton points out (see para 40, below), he referred to the Somerville case in para 105 of his judgment in Cadder when he was describing the context in which the amendments to section 100 were made.	Ratio
+The challenge to the accuracy of his conclusion that section 100(3B) applies to proceedings brought by way of an appeal under the 1995 Act raises two questions.	Ratio
+The first is whether, as the Lord Justice Clerk indicated in para 38 of his opinion, that section is rendered inapplicable simply because criminal appeals are brought under the 1995 Act and not under the Scotland Act.	Ratio
+The second is whether the wording of the amended section 100 of the Scotland Act itself shows that it has no application to any criminal proceedings, even at the stage of an appeal.	Ratio
+I do not think that it is difficult to see why it did not occur to Lord Rodger that the fact criminal appeals are brought under the 1995 Act of itself meant that these appeals lay outside the scope of section 100(3B) of the Scotland Act.	Ratio
+He would have concentrated on the wording of the Scotland Act, as I would too.	Ratio
+Section 100(3B) refers to proceedings brought by virtue of this Act against the Scottish Ministers or a member of the Scottish Executive.	Ratio
+As I said in Somerville, 2008 SC (HL) 45, para 10, anybody who wishes to bring proceedings against a member of the Scottish Executive on the ground that an act or a failure to act is incompatible with the Convention rights, or to rely on the Convention rights in any proceedings, needs to know whether he must do this under sections 6 to 8 of the Human Rights Act or whether he must do so, or can do so only, on the ground that the act or the failure to act is contrary to the provisions of the Scotland Act.	Ratio
+This is so whether the proceedings in question are civil or criminal, as issues about Convention rights may arise irrespective of the nature of the jurisdiction that the court or tribunal is being called upon to exercise.	Ratio
+A criminal appeal in which it is said that the leading and relying on evidence by the Lord Advocate was contrary to the appellants Convention rights, and that in terms of section 57(2) of the Scotland Act he had no power to lead that evidence, falls plainly into the category of a proceeding that is by virtue of the Scotland Act.	Ratio
+It is the Scotland Act which provides the basis for the appeal.	Ratio
+The fact that the procedure under which the complaint is made is provided by the 1995 Act is neither here nor there so far as this point is concerned.	Ratio
+So I think that the key to the soundness or otherwise of Lord Rodgers reasoning lies in the answer that is to be given to the second question.	Ratio
+Section 100(3A) of the Scotland Act refers to any proceedings brought on or after 2 November 2009 by virtue of that Act.	Ratio
+In para 106 of his judgment Lord Rodger said that the proceedings in Cadder were proceedings brought on the ground that it was incompatible with articles 6(1) and (3)(c) for the Lord Advocate to lead evidence of answers elicited by the police questioning.	Ratio
+In my opinion it would not be a misuse of language to use the word brought in relation to proceedings which take the form of an appeal under section 106 of the 1995 Act.	Ratio
+After all, section 106(3) of that Act states that by an appeal under subsection (1) of that section a person may bring under review of the High Court any alleged miscarriage of justice in the proceedings in which he was convicted.	Ratio
+The word bring is not used in section 175 which provides for appeals in summary proceedings, but the idea that the appellant is bringing appeals under that procedure is not unreasonable.	Ratio
+The wording of section 106(3) also suggests that it would not be a misuse of language to say that the appeal was a separate proceeding from the proceedings in which the appellant was convicted.	Ratio
+But that is not an end to the problems that have to be solved in order to understand what is meant by the word proceedings in section 100(3A).	Ratio
+One must go back to the opening subsection, which Lord Rodger did not mention in para 106 of his judgment in Cadder.	Ratio
+It makes the same distinction as that which is to be found in section 7(1) of the Human Rights Act 1998 between (a) bringing proceedings in a court or tribunal on the ground that an act is incompatible with the Convention rights and (b) relying on any of the Convention rights in any such proceedings.	Ratio
+Section 100(1)(a) of the Scotland Act does not reproduce exactly the wording of section 7(1)(a) of the Human Rights Act, as it does not refer to the appropriate court or tribunal which section 7(2) explains as meaning such court or tribunal as may be determined in accordance with rules.	Ratio
+The words in any such proceedings do not reproduce exactly the wording of section 7(1)(b) of the Human Rights Act either, as the equivalent phrase in that Act is in any legal proceedings.	Ratio
+But I think that they have the same effect.	Ratio
+I read the word such in subsection (1)(b) as referring back to the words in a court or tribunal in subsection (1)(a).	Ratio
+The distinction between subsections (1)(a) and (1)(b) of section 7 of the Human Rights Act is maintained by section 7(5) of that Act, which provides expressly that proceedings under subsection (1)(a) must be brought before the end of the period to which it refers.	Ratio
+It does not impose any time bar on proceedings of the kind referred to in section 7(1)(b).	Ratio
+The question then comes to be whether the reference in section 100(3A) of the Scotland Act to any proceedings brought must be taken to refer to proceedings of the former kind only, and not to proceedings of the kind referred to in section 100(1)(b).	Ratio
+It seems to me, although it does not of course say so expressly, that the wording of section 100(3A) shows that it has that effect and that the time bar in section 100(3B) does not apply to proceedings of the kind referred to in section 100(1)(b).	Ratio
+The point is that proceedings of the kind referred to in subsection (1)(b) are proceedings that have been brought by someone other than the person who maintains that the act in question is incompatible with the Convention rights.	Ratio
+In the case of the proceedings referred to in subsection (1)(a), the person to whom the time bar is applied is the person who has brought those proceedings before the court or tribunal in order to obtain a remedy.	Ratio
+It is the civil courts that have jurisdiction in cases of that kind, as the rules to which I referred in R v Kansal (No 2) [2002] 2 AC 69, para 63 make clear in the case of the Human Rights Act.	Ratio
+The absence of a time bar on the bringing of proceedings of the kind referred to in section 100(1)(a) of the Scotland Act was the problem that was addressed in Somerville, where it was held that the limitations which section 7(5) of the Human Rights Act imposed on remedies sought under that Act did not apply where the case that was brought was that the act or failure to act was outside competence under the Scotland Act: 2008 SC (HL) 45, para 38.	Ratio
+The question then is, into which category do appeals that are brought under the 1995 Act fall for the purposes of the Scotland Act? By whom are these proceedings brought?	Ratio
+The Lord Justice Clerk said an appeal is part of the prosecution process brought against the appellant by a member of the Scottish Executive: para 38.	Ratio
+There is no doubt that this is a correct description of the proceedings up to and including the trial in which the appellant was convicted.	Ratio
+The Advocate Depute, Mr Brodie QC, conceded that this was so, and I think that he was right to make this concession.	Ratio
+But that is not an end of the matter.	Ratio
+The Lord Advocate is the master of the instance.	Ratio
+The proceedings are brought in his name.	Ratio
+He remains in control of them even after they have been brought into court, and this is so even after the verdict has been returned: Hume, Commentaries on the Law of Scotland Respecting Crimes, (1844), vol II at p 134; Montgomery v HM Advocate 2001 SC (HL) 1, pp18-19.	Ratio
+The focus of attention changes when there is an appeal, but the proceedings remain throughout under the ultimate control of the Lord Advocate.	Ratio
+The purpose of those proceedings is to secure the conviction and punishment of those who are guilty of committing acts of the kind that the law regards as criminal.	Ratio
+That is their only purpose, and it remains their purpose from the start to the very end.	Ratio
+The conclusion that an appeal against conviction or sentence, like any other proceeding in any of the criminal courts in Scotland, is still part of the prosecution process that has been brought in the public interest by the Lord Advocate seems to me to be inescapable.	Ratio
+It is only fair to Lord Rodger to point out that he mentioned section 100(3B) because he was concerned, as I was too, to try to minimise the effect of the decision in Cadder: see para 60, where to assist this process I invoked the principle of legal certainty.	Ratio
+But I am persuaded that the advice which he was offering in paras 105-106 of his judgment was mistaken.	Ratio
+I agree with the Appeal Court that the time bar in section 100(3B) of the Scotland Act has no bearing on Judes appeal.	Ratio
+I am fortified in this view by the fact the 1995 Act contains in sections 109 and 110 its own system of time limits for the bringing of solemn appeals, as it does in section 176 for an application by stated case.	Ratio
+It would be very odd to find, in a case where the High Court had already granted an extension under section 111(2) of the period referred to in section 110(1)(a) of the 1995 Act or under section 181(1) of that Act in an appeal by stated case, that it was open to the Crown to invoke another time limit under another section in a different Act.	Ratio
+It is not easy to identify the precise scope or ambit of the mischief which the amendment that section 100(3B) introduced into the Scotland Act was intended to remedy: see Bennion on Statutory Interpretation, 5th ed (2008), p 929, where the importance of achieving precision on this point is emphasised.	Ratio
+The fact that the amendment was enacted in response to the decision in Somerville does not exclude the possibility that the time bar was intended to have a wider application than the facts of that case, by themselves, might suggest.	Ratio
+But the concluding words of section 100(3B) show that the draftsman was aware that stricter time limits might be found in legislation relating to the procedure in question and that it was not the intention that it should override those other time limits or decisions made under a dispensing power to extend them.	Ratio
+So I think that one can be reasonably confident that the view which I have arrived at by studying the language of these provisions is not contrary to what Parliament had in mind when it introduced this amendment.	Ratio
+Birnies unsolicited statement	Ratio
+According to the agreed statement of facts and issues, two issues arise in Birnies appeal.	Ratio
+The first is whether he was offered rights of access to a solicitor prior to and during the taking of his unsolicited statement after his police interview.	Ratio
+The second is whether, if he was offered them, he expressly waived those rights.	Ratio
+But an examination of the facts shows that this formulation of the issues does not accurately focus the real point which is at issue on this branch of the case.	Ratio
+This is because Birnie was offered access to a solicitor before he made his unsolicited statement and he did decline the offer expressly.	Ratio
+It is best focused by the additional ground of appeal that was advanced in his case in the High Court of Justiciary: see para 2, above.	Ratio
+The question that it poses is whether reliance by the Crown upon the admissions that he made in his unsolicited statement deprived him of the fair trial to which he was entitled under article 6(1) of the Convention.	Ratio
+Reference was also made in that ground of appeal to his right to a fair trial at common law.	Ratio
+That, of course, does not raise an issue which can be considered by this court, as it is not a devolution issue.	Ratio
+But there is, in practice, no difference between these two bases for invoking the right to a fair trial.	Ratio
+Birnie went to trial in the Sheriff Court at Aberdeen on 7 December 2009 charged with abduction and assault with intent to rape, a breach of the peace and a contravention of section 127(1)(a) of the Communications Act 2003 by sending sexually explicit messages to a female complainer.	FAC
+He pled guilty to the statutory offence during the trial, and his plea of not guilty to the charge of breach of the peace was accepted at that stage.	FAC
+The Crown led evidence at his trial of answers he gave to the police while he was being questioned as a detainee under section 14 of the 1995 Act without access to a solicitor.	FAC
+It also led evidence of an unsolicited statement which he made to the police following that interview.	FAC
+The jury found him guilty of the first charge under deletion of various averments including that of intent to rape.	FAC
+The facts which provide the background to the argument in Birnies case are as follows.	FAC
+He was interviewed under caution in a police station on Friday 14 August 2009 between 1034 and 1220 hrs with a break between 1118 and 1206 hrs.	FAC
+At the time of his interview he was 18 years of age.	FAC
+He had been on probation since 2008 in respect of a charge of breach of the peace with a sexual aggravation, and he was a registered sex offender.	FAC
+He had been convicted on two occasions of a breach of the notification requirements of sections 83 and 94 of the Sexual Offences (Scotland) Act 2003.	FAC
+He had also previously been interviewed by the police as a suspect.	FAC
+As already mentioned in para 1, above, he was not told that he had a right of access to legal advice prior to or during his police interview as it was not the practice at that time for this to be offered to persons detained under section 14 of the 1995 Act.	FAC
+Birnie made no admissions during the first stage of his interview apart from being at the locus with the female complainer [AR] referred to in the abduction charge and kissing her.	FAC
+He said that this was consensual.	FAC
+He was asked during his interview what expression he would use to describe touching his girl friends private parts, to which he replied with a question: fit like poking her? When asked to explain what he meant by this, he said that it meant putting his fingers in her vagina.	FAC
+After they had completed their questioning about the abduction the interviewing officers charged Birnie with abducting the complainer [AR], with indecent assault and with two charges of breach of the peace, and they arrested him.	FAC
+He was then cautioned and interviewed in relation to another female complainer, to whom he admitted sending a series of text and email messages.	FAC
+After further questioning he was charged with sending indecent messages to that complainer.	FAC
+Following the interview Birnie was, according to an entry in a police notebook, on the verge of tears.	FAC
+At 1223 hrs he asked what was happening to him.	FAC
+He was told that he was to be kept in custody over the weekend to appear in Aberdeen Sheriff Court on Monday 17 August 2009.	FAC
+On being advised of this he burst into tears and said spontaneously I poked her.	FAC
+He was asked by one of the interviewing officers whether he was referring to the complainer [AR], to which he replied Yes.	FAC
+He was told to say nothing further but that other officers would attend later to speak to him if he wished to make any further comments.	FAC
+At 1235 hrs he was asked if he wished a solicitor informed of his arrest and was told that a duty solicitor could be contacted on his behalf.	FAC
+He gave the name of a solicitor.	FAC
+It was not until about two hours later, at 1428 hrs, that a message was left with the solicitors secretary to advise him of the arrest.	FAC
+Birnie also asked that his mother be told of his arrest, but this was not possible as she was apparently not available to answer the telephone.	FAC
+Birnie then told the police that he wished to make a further statement, which he did at about 1345 hrs on 14 August 2009 to two police officers who had not had any prior involvement in the inquiry.	FAC
+Before he made his statement, which it is agreed was unsolicited, he was asked whether he wished to consult a solicitor before making it.	FAC
+He replied that he did not.	FAC
+He was asked whether he wished a solicitor to be present while he was making it.	FAC
+He again said that he did not.	FAC
+He was then cautioned and asked whether he understood the caution, to which he replied Yeah.	FAC
+He then said: I want to admit poking [AR].	FAC
+She asked me to do it and we did give each other love bites.	FAC
+He was asked to say what he meant by poking, to which he replied that meant putting your fingers in her vagina.	FAC
+He then said: I never locked her in.	FAC
+I never locked her in her house.	FAC
+I asked her several times if she wanted to leave but she says No. I didnt threaten her in any way.	FAC
+It is plain from this narrative that Birnie was offered rights of access to a solicitor before he made his statement and he was also asked whether he wished to have a solicitor present while he was making it.	Ratio
+He expressly declined both of these offers.	Ratio
+The question is whether, on these facts, his statement was admissible.	Ratio
+The Crown submits that it was.	Ratio
+This is because the statement was severable from the prior police interview on two grounds: first, it was preceded by a valid waiver of the right of access to a solicitor and, second, because it was voluntary and not elicited by police questioning.	Ratio
+The Appeal Court did not address its reasoning to these points, although it had been addressed on them in the course of the hearing of the appeal.	Ratio
+The Lord Justice Clerk said in para 32 of his opinion that he accepted that the rights of a detainee or of an accused person under article 6 were capable of being waived, but that the argument for the Crown failed in the case of each of the three respondents.	Ratio
+This was because the law at the time did not allow the accused to have access to a lawyer at the time of the pre-trial procedure and because the consent to be interviewed in each case was not informed by legal advice.	Ratio
+He dealt more fully with the latter ground for rejecting the Crowns argument in para 34, where he said: Furthermore, a valid waiver can proceed only on the basis of an informed decision.	Ratio
+Since the right allegedly waived was that of access to legal advice, I cannot see how any of the appellants could waive that right when, ex hypothesi, he had not reason to think that he had any such right and had not had access to legal advice on the point	Ratio
+The agreed facts show that Birnie was told that he had this right before he made his unsolicited statement following his police interview.	Ratio
+As for the objection that he did not have access to legal advice on the point before he declined the offer of access to a solicitor, I would hold that the answer to it is that there is no absolute rule that the accused must have been given legal advice on question whether or not he should exercise his right of access to a lawyer before he can be held to have waived it: see my judgment in McGowan (Procurator Fiscal, Edinburgh) v B [2011] UKSC 54.	Ratio
+Lord Kerr says that it is an indispensible prerequisite that there must be some means of ascertaining the reason why the accused did not avail himself of this right: para 53, below.	Ratio
+But it was not suggested at any time in the course of the argument that an absolute rule to that effect is to be found in the jurisprudence of the Strasbourg court nor do I find this in Lord Kerrs analysis of the authorities in McGowan.	Ratio
+This point is of crucial importance to the proper exercise of the jurisdiction that has been given to this court by the Scotland Act.	Ratio
+The only question for us is whether the absence of such an inquiry amounted in itself to a breach of a Convention right.	Ratio
+That is the limit of our jurisdiction.	Ratio
+A rule of the kind that Lord Kerr has suggested might perhaps be recognised at common law.	Ratio
+But it is not for us to say how the law and practice respecting crimes should be developed by the common law in Scotland.	Ratio
+That must be left to the High Court of Justiciary, whose decisions on all matters relating to the domestic criminal law of Scotland are final.	Ratio
+The fact that the accused did not receive legal advice on the point and was not asked why he did not want to speak to a lawyer need not be left out of account altogether for the purposes of article 6.	Ratio
+These are circumstances which can be taken into account in the assessment as to whether he understood the right that was being waived.	Ratio
+But they are no more than that.	Ratio
+I do not think that the Strasbourg jurisprudence requires us to hold that it would necessarily be incompatible with articles 6(1) and 6(3)(c) of the Convention for the Lord Advocate to lead and rely on evidence of answers given by a suspect during a police interview just because it was not ascertained why he did not want to speak to a lawyer.	Ratio
+A descent to that level of detail in the laying down of incontrovertible rules is contrary to the approach that the court itself has adopted.	Ratio
+The President of the court, Sir Nicolas Bratza, said in a paper which he gave in Edinburgh in March 2011 that the Strasbourg court has been careful, in general, to leave the national authorities to devise a more Convention-compliant system without itself imposing specific requirements on the State: [2011] EHRLR 505, 510.	Ratio
+The Supreme Court should, I believe, be no less careful in the way that it deals with Scottish criminal law and procedure.	Ratio
+There remains the question whether the statement is properly to be regarded as severable from the police interview so that it can be held to be voluntary and not elicited by the previous police questioning.	Ratio
+It is not in doubt that an unsolicited admission which is truly spontaneous and voluntary is admissible.	Ratio
+In Cadder Lord Rodger observed that it is quite common for those who have been arrested to decide to make admissions to the police and not to exercise their right to obtain legal advice before doing so: 2010 SLT 1125, para 96.	Ratio
+A person can confess if he is willing to do so, and his confession will be admissible if it is truly voluntary.	Ratio
+The common law test as to what may be regarded as voluntary was described in Manuel v HM Advocate 1958 JC 41, 48 by Lord Justice General Clyde.	Ratio
+He said that, to be voluntary, the statement must have been freely given and not given in response to pressure or inducement and not elicited by questioning other than what is directed simply to elucidating what has been said.	Ratio
+The crucial question then is whether this statement freely given? Or was it the result of some kind of pressure or inducement by the police?	Ratio
+We were not referred to any jurisprudence of the Strasbourg court on this precise point.	PRE
+But in Oregon v Elstad 470 US 298 (1985), pp 317-318 Justice OConnor, giving the opinion of the US Supreme Court, observed that some courts had applied that courts precedents, including Miranda v State of Arizona 384 US 436 (1966), relating to confessions obtained under coercive circumstances to situations involving wholly voluntary admissions, requiring a passage of time or break in events before a second, fully warned statement can be deemed voluntary.	PRE
+She went on to add these words: Far from establishing a rigid rule, we direct courts to avoid one; there is no warrant for presuming coercive effect where the suspects initial inculpatory statement, though technically in violation of Miranda, was voluntary.	PRE
+The relevant inquiry is whether, in fact, the second statement was also voluntarily made.	PRE
+In Missouri v Seibert (2004) 542 US 600, where the suspect made an initial confession without having been given a Miranda warning, a majority of the court held that his second statement after a Miranda warning was inadmissible.	PRE
+They rejected the minoritys criticism that this was inconsistent with Elstad, on the ground that the failure to give the warning in Elstad was a good-faith mistake which was open to correction by careful warnings before systemic questioning in that particular case took place: p 615.	PRE
+In R v Cherie McGovern (1990) 92 Cr App R 228 the Court of Appeal held that a second interview, where a solicitor was present, was tainted by the fact that at her first interview which took place the previous day the appellant had been denied access to a solicitor.	PRE
+There were special features in that case.	PRE
+The appellant, who was aged 19, pregnant and of limited intelligence, was said to have been particularly vulnerable.	PRE
+Farquharson LJ said at p 234 that if the solicitor who was present at the second interview had known that the appellant had been wrongfully denied access to a solicitor at the first interview he would in all probability not have allowed the second interview to take place.	PRE
+Such authorities as there are on this issue suggest that each case must be examined carefully on its own facts.	Ratio
+There are signs in this case, as in R v Cherie McGovern, that Birnie was particularly vulnerable when he made what I have referred to as his statement.	Ratio
+It was unsolicited.	Ratio
+He was no longer being interviewed.	Ratio
+But the interval between his making it and the end of the police interview was very short.	Ratio
+He had just been told that he was to be detained over the weekend, and he had been crying.	Ratio
+It is at least questionable whether he would have made this statement if he had said that he wished to consult a solicitor and he had then received the legal advice to which he was entitled before making it.	Ratio
+This is not a question that needs to be answered in every case.	Ratio
+But in the circumstances of this case it is not one that can be left out of account in considering whether there was a breach of the right to a fair trial.	Ratio
+I think that it is plain that there is room for argument as to whether the statement that Birnie made was truly voluntary and in any event whether, taking all the circumstances into account, it was fair to admit this evidence.	Ratio
+Lord Kerr says that on the available evidence the only possible conclusion is that that it has not been established that Birnies decision not to consult a solicitor was an effective waiver of his right to legal consultation: see para 57, below.	Ratio
+But here again the limits of our jurisdiction must be respected.	Ratio
+It is not our function to act as a second court of appeal on matters that depend on the application of the domestic law.	Ratio
+The question whether there has been a breach of the fundamental Convention right to a fair trial is within our jurisdiction.	Ratio
+But, as I would hold that it was not necessarily incompatible with articles 6(1) and 6(3)(c) of the Convention for the Lord Advocate to lead and rely on this evidence, I consider that the question of fairness for the purposes of article 6(1) must be examined in the light of all the facts and circumstances.	Ratio
+This is pre-eminently a matter for determination in the first instance by the High Court of Justicary.	Ratio
+As the Appeal Court has not yet addressed itself to this issue, I would remit it to that court for determination as part of the continued hearing of Birnies appeal.	Ratio
+Conclusion	Ratio
+I would dismiss the Crowns appeal on the question whether section 100(3B) of the Scotland Act 1998 applies in this case.	RPC
+I would dismiss its appeals on the issue as to waiver in regard to the police interviews in all three cases.	RPC
+I would allow its appeal on the question whether it was incompatible with Birnies right to a fair trial under article 6 of the Convention for the Crown to lead and rely on the evidence of the statement which he made following his police interview and remit that matter for determination by the High Court of Justiciary.	RPC
+I am in full agreement with the judgments of Lord Hope and Lord Hamilton on these appeals and would dispose of them as Lord Hope proposes.	RPC
+I am in full agreement with the judgments of Lord Hope and Lord Hamilton on these appeals and would dispose of them as Lord Hope proposes.	RPC
+I agree with Lord Hope as to the disposal of all three of these appeals and adopt his narrative of the pertinent circumstances.	Ratio
+I also adopt his reasoning in relation to Birnies unsolicited statement.	Ratio
+I add a few words of my own on the issue of interpretation of section 100(3B).	Ratio
+The question is whether an appeal against a conviction, obtained on indictment or on complaint, is proceedings brought by virtue of [the Scotland Act] against [the Lord Advocate] within the meaning of subsection (3A) of the Scotland Act (as amended by the Convention Rights Proceedings (Amendment) (Scotland) Act 2009).	Ratio
+The scope of subsection (3A) must ultimately be determined by the statutory language used.	Ratio
+But it is necessary to have regard to that language in the context of the legislation in which it appears and, in my view, in the context also of such other legitimately available material as may assist in the exercise of interpretation.	Ratio
+This may involve identifying the mischief at which the enactment was directed.	Ratio
+In Bennion on Statutory Interpretation, 5th ed (2008), p 938 it is stated: These presumptions [that Parliament intended to suppress the mischief and that it did not intend to apply coercive measures going wider than was necessary to remedy the mischief in question] as to Parliaments intention may help in construing an enactment whose wording is doubtful.	Ratio
+The importance of the mischief goes further than this, however.	Ratio
+We cannot be sure whether there is real doubt or not unless we have the mischief in mind.	Ratio
+This is one function of the informed interpretation rule.	Ratio
+In the consideration of opposing constructions of an enactment in relation to a particular factual situation, we may find that bringing the mischief into account helps to decide whether the enactment is intended to be given a wider or narrower construction.	Ratio
+The first thing to notice is that the amendment made by the 2009 Act is an amendment to section 100 itself by adding two subsections to it.	Ratio
+That suggests that the intendment of the legislature was to make an improvement, as it saw it, to the effect of section 100 as originally enacted.	Ratio
+The nature of that intended improvement is not difficult to find.	Ratio
+As Lord Rodger himself said in Cadder v HM Advocate 2011 SC (UKSC) 13, at para 105: In Somerville v Scottish Ministers [2008 SC (HL) 45] the House of Lords held that the time limit in section 7(5) of the Human Rights Act 1998 did not apply to proceedings in relation to Convention rights brought by reference to the Scotland Act 1998.	Ratio
+It followed that, subject to any common law limitations or any specific statutory time limit, such proceedings could be brought at any time.	Ratio
+The Scottish Parliament eventually responded to that decision by passing the Convention Rights Proceedings (Amendment) (Scotland) Act 2009, which amended section 100 of the Scotland Act so as to introduce a one-year time-limit like the one in section 7(5) of the Human Rights Act.	Ratio
+Somerville was a civil case in which the House of Lords relied significantly upon section 100 of the Scotland Act (as originally enacted) as well as on the other provisions of that statute.	Ratio
+Of course, the statutory response may, intentionally or inadvertently, have been wider than to deal with the prior statutory effect which was thought to be undesirable.	Ratio
+But all the indications are the other way.	Ratio
+The limitation on the bringing of proceedings provided for by section 100(3B) is for practical purposes identical to that provided by section 7(5) of the Human Rights Act 1998.	Ratio
+That subsection applies, and applies only, to proceedings brought under section 7(1)(a).	Ratio
+Such proceedings are civil proceedings (R v Kansal (No 2) [2002] 2 AC 69, per Lord Hope of Craighead at paras 58-63).	Ratio
+This is to be contrasted with section 7(1)(b) which allows for reliance on the Convention right or rights concerned in any legal proceedings a term defined comprehensively by section 7(6).	Ratio
+Such reliance can accordingly be had in criminal as well as in civil proceedings.	Ratio
+It is difficult to suppose that the Scottish Parliament would have, in effect, adopted the exact language used for civil proceedings in the Human Rights Act if it had intended to provide for criminal as well as for civil proceedings.	Ratio
+Further, it is difficult to conceive why the Scottish Parliament should think it appropriate to provide for criminal appeals a limitation period such as that made by section 100(3A) and (3B).	STA
+The Criminal Procedure (Scotland) Act 1995 makes its own provision for the timeous taking of appellate steps.	STA
+Section 106 allows a person convicted on indictment, with leave granted in accordance with section 107, to appeal in accordance with that Part of the Act to the High Court against various things, including conviction and sentence.	STA
+Section 109(1) prescribes that, where a person desires to appeal against any of the things referred to in section 106(1), he shall within two weeks of the final determination of the proceedings, lodge with the Clerk of Justiciary written intimation of intention to appeal .	STA
+Section 110(1)(a) provides that, in the case of an appeal against conviction, the convicted person may, subject to section 111(2), within eight weeks of lodging intimation of intention to appeal lodge a written note of appeal .	STA
+A shorter (four weeks) period is allowed for appeals other than appeals against conviction (section 110(1)(b)).	STA
+Section 111(2) provides: Any period mentioned in section 109(1) or 110(1)(a) of this Act may be extended at any time by the High Court in respect of any convicted person .	STA
+Thus, as regards proceedings on indictment, the 1995 Act provides its own (much shorter) temporal restrictions on bringing appeals with a similar power in the court to extend the period on equitable grounds.	Ratio
+As regards summary proceedings, section 175 allows a convicted person to appeal with leave to the High Court.	STA
+The more usual mode of appeal is by stated case (section 176), for which again a short timetable is prescribed.	STA
+Section 181(1) empowers the High Court to direct that such further time as it may think proper be afforded to the applicant to comply with the requirements as to time.	STA
+The statute recognises other common law modes of appeal (by, for example, bill of suspension).	STA
+At common law there was no time limit for the bringing of a suspension but acquiescence in the judgment complained of might be inferred from undue delay (Renton and Brown Criminal Procedure, para 33-09).	STA
+A statutory time limit (three weeks) for bringing a bill of suspension was introduced by section 6(1) of the Criminal Procedure (Legal Assistance, Detention and Appeals) (Scotland) Act 2010.	STA
+It is difficult to suppose that, in inserting section 100(3)(A) and (3B) into the Scotland Act in 2007, the Scottish Parliament had in mind common law remedies in summary matters.	STA
+Accordingly, there are persuasive reasons, in my view, for concluding that subsections (3A) and (3B) of section 100 (as amended) were designed to apply only to civil proceedings.	Ratio
+Although not spelt out in the legislation, that restriction is consistent with the statutory language used.	Ratio
+Against that background the expression any proceedings brought by virtue of this Act against [the Lord Advocate] is to be construed.	Ratio
+It is conceded, inevitably, that criminal proceedings at first instance are not within the ambit of section 100(3A).	Ratio
+While Part VII of the 1995 Act (headed Solemn Proceedings) is dealt with distinctly from Part VIII (headed Appeals from Solemn Proceedings), it involves, in my view, some artificiality of language to construe any proceedings brought as apt to include an appeal taken against conviction or sentence.	Ratio
+In effect, there are single proceedings initiated by service of the indictment or complaint, the appeal by a convicted person being a step taken within these single proceedings.	Ratio
+I am not persuaded that the terms of section 106(3) (By an appeal under subsection (1) above a person may bring under review of the High Court any alleged miscarriage of justice) assist in determining whether an appeal is proceedings (distinct from the prosecution) brought by the convicted person.	Ratio
+More importantly, in my view, the expression any proceedings brought in subsection (3A) appears to pick up the language to bring any proceedings in subsection (1)(a), which in turn reflects the language of section 7(1)(a) of the Human Rights Act a provision concerned with civil proceedings (supra).	Ratio
+In any event, if there is ambiguity about the interpretation of subsection (3A), the considerations referred to earlier would, in my view, conclusively point to a criminal appeal not being within the scope of this provision.	Ratio
+There remains for consideration by virtue of this Act.	Ratio
+Some elaboration of that phrase is provided by section 126(11) which tells us that by virtue of includes by and under.	Ratio
+In Somerville an issue was whether the obiter observations by Lord Hope and by Lord Rodger in R v HM Advocate 2003 SC (PC) 21 as to the effect of the Scotland Act (and in particular section 100(1) of it) were well founded.	Ratio
+In R Lord Rodger had said at para 123: Section 100 has a counterpart in section 7 of the Human Rights Act, subsection (1) of which is expressed slightly more fully: (1) A person who claims that a public authority has acted (or proposes to act) in a way which is made unlawful by section 6(1) may (a) bring proceedings against the authority under this Act in the appropriate court or tribunal, or (b) rely on the Convention right or rights concerned in any legal proceedings, but only if he is (or would be) a victim of the unlawful act.	Ratio
+Especially in the light of that provision, I would infer from section 100(1) of the Scotland Act that the Act itself enables a person, who claims that an act or proposed act of a member of the Scottish Executive is incompatible with his Convention rights, to bring proceedings in a court or tribunal or to rely on his Convention rights in any proceedings in a court or tribunal.	Ratio
+Convention rights and the remedies for vindicating them belong in the sphere of public rather than private law.	Ratio
+What particular form the remedy or reliance will take depends on the court or tribunal, and on the jurisdiction, in which the matter arises.	Ratio
+In an appropriate court the person affected can seek damages under the Scotland Act in respect of an incompatible act. .	Ratio
+The majority in Somerville in effect approved that approach namely, that section 100 was, by inference, an enabling provision which, among other things, allowed a victim of an infringement of section 57(2) to rely on the Convention right or rights concerned in any legal proceedings, including criminal proceedings.	Ratio
+Thus, while the procedural vehicle by which a person convicted in solemn proceedings brings his conviction or sentence under review is by an appeal under section 106 of the 1995 Act, it is the Scotland Act which enables him in that appeal to rely upon the alleged infringement of that right or those rights.	Ratio
+Both statutes have thus a part to play.	Ratio
+While I think it is a nice question, I have come with hesitation to the view that it can meaningfully be said that an appeal which relies upon an alleged infringement of a Convention right is one brought by virtue of the Scotland Act.	Ratio
+I would accordingly not support the High Courts reasoning in this respect.	Ratio
+As Lord Hope has pointed out (in para 5 of his judgment), the advocate depute has confined her challenge to the outcome of the appeals in Jude, Hodgson and Birnie to the claim that Birnie had waived his right to a lawyer when he made an unsolicited statement following his police interview, having declined the opportunity to have access to a lawyer prior to and while making it.	Ratio
+It is not now argued that Jude or Hodgson waived their right to a lawyer.	Ratio
+It is, of course, suggested that the Appeal Court was wrong in each of the cases in concluding that an effective waiver of their rights under article 6 of ECHR could only be made after they had received legal advice.	Ratio
+A further discrete ground was advanced on behalf of the Lord Advocate in the case of Jude to the effect that section 100(3B) of the Scotland Act 1998, as amended by section 1 of the Convention Rights Proceedings (Amendment) (Scotland) Act 2009, precluded a challenge to the Lord Advocates leading evidence of the statement which Jude made because that challenge was made too late.	Ratio
+I agree with all that Lord Hope and Lord Hamilton have had to say on that subject and do not propose to expatiate further on it.	Ratio
+As I stated in my judgment in the reference (McGowan, Procurator Fiscal v B) I agree with Lord Hope that there is no absolute rule to be derived from the case-law of the European Court of Human Rights (ECtHR) that an effective waiver of the right to legal assistance can only take place after the person purporting to waive the right has received legal advice on whether that course should be followed.	Ratio
+I believe that generally this will be the most effective way of ensuring that there has been an effective waiver but Strasbourg jurisprudence has not yet developed to the point where that is an essential prerequisite.	Ratio
+That fact alone would not have deterred me from concluding that this was necessary if I had felt that the article 6 rights of the respondents could not otherwise be secured see my judgment in Ambrose v Harris (Procurator Fiscal, Oban) [2011] UKSC 43, 2011 SLT 1005.	Ratio
+But I am not persuaded that the only possible means of ensuring that there has been an effective waiver is by having the suspect who waives the right receive legal advice on that course before he does so.	Ratio
+I have explained in my judgment in McGowan why I consider that such safeguards as are currently available in Scottish law to protect the interests of a suspect are not efficacious to ensure that a decision not to have legal assistance constitutes an effective waiver.	Ratio
+In particular, I have pointed out that it is an indispensable prerequisite that there must be some means of ascertaining the reason that a decision not to avail of this fundamental right has been taken.	Ratio
+Birnies case strikingly illustrates the elementary need for some inquiry to be made of a suspect as to why he has decided not to have the advice of a solicitor before interview unless the reasons for that are otherwise clearly obvious.	Ratio
+Although he was no stranger to the criminal law, Birnie was only eighteen years old when he was interviewed by police.	Ratio
+Following interview he was on the verge of tears.	Ratio
+When he was told that he was going to be kept in custody he broke down and made what has been said to be an unsolicited admission.	Ratio
+It is difficult to imagine that this admission and Birnies breaking down were unrelated to his being told that he was going to be detained over the weekend.	Ratio
+At 12.35 pm, some twelve minutes after he had made the admission, he was asked whether he wished to have a solicitor contacted on his behalf.	Ratio
+He nominated a firm of solicitors to contact but a message was not left with that firm until some two hours later.	Ratio
+He also wanted his mother to be informed of his arrest but that proved impossible.	Ratio
+The fact that he wanted both his solicitors and his mother to be informed that he was in detention is at least relevant to his state of mind at that time and his ability to cope without legal assistance during any further questioning.	Ratio
+Birnie told police that he wanted to make a statement some time before 1.45 pm notably, some 43 minutes before the solicitors whom he had been asked to be informed of his arrest were given that information.	Ratio
+Before he made his further statement at 1.45 pm he was asked whether he wished to consult his solicitor before making it and he replied that he did not, and when asked whether he wished to have a solicitor present while he was making it, again said that he did not.	Ratio
+In the circumstances the second inquiry might seem otiose but it was the product of a pro forma procedure.	Ratio
+Some such procedure is, of course, required to ensure that a consistent practice is followed but, because of the routine way in which it must be applied, it is hardly the most efficient way to examine whether a suspect has fully understood the importance of the right which is being relinquished.	Ratio
+Lord Hope has observed that Birnie expressly declined both offers of legal assistance.	Ratio
+This is true but it seems to me inescapable that his decision to do so could not in any circumstance be regarded as an effective waiver of his right to legal counsel and I believe that it is inconceivable that any court could be satisfied of that to the requisite standard.	Ratio
+Birnie was not asked why he did not want to speak to a lawyer, notwithstanding that he had nominated a firm of solicitors something over an hour before.	Ratio
+He was not told that he could speak to a solicitor by telephone.	Ratio
+No inquiry was made as to whether the decision to make a statement at that time was related to the intention of police to detain him over the weekend.	Ratio
+That this was, at the very least, a distinct possibility must have been obvious to the police officers who interviewed him.	Ratio
+Quite apart from the fact that the unsolicited statement was made shortly after he had been interviewed without having been informed of his right to legal assistance and leaving aside the possible impact that this might have on the admissibility of his later statement, the circumstances in which his unsolicited statement was made raise substantial and inevitable doubts that his waiver of the fundamental right to legal assistance was effective.	Ratio
+For these reasons I would hold that it is unnecessary to remit Birnies case to the Appeal Court.	Ratio
+I am of the view that, on the available evidence, the only possible conclusion is that it has not been established that Birnies decision not to consult a solicitor was an effective waiver of his right to legal consultation.	Ratio
+For these reasons I consider that it has not been - and on the available evidence cannot be - established that Birnies decision not to consult a solicitor constituted an effective waiver of his right to legal consultation.	Ratio
+On that account, I would dismiss the appeal in his case.	Ratio
+I would dismiss the appeals in Jude and Hodgson for the reasons given by Lord Hope.	Ratio
+In para 29 of his judgment Lord Hope has fastened on my statement (at para 53 above) that it is an indispensable prerequisite that there must be some means of ascertaining the reason that an accused did not wish to avail himself of the right to legal assistance and has characterised this as an absolute or incontrovertible rule.	Ratio
+I had not intended to propound any new principle, much less an inflexible rule.	Ratio
+In saying that a means must exist for understanding why someone has declined to exercise his right to legal assistance before finding that there has been an effective waiver, I was merely reflecting what I understand to be the unmistakable effect of current Strasbourg jurisprudence.	Ratio
+I was not constructing some unheralded, disquieting rule.	Ratio
+This can be demonstrated by a few simple propositions: (i) For a waiver to the right to legal assistance to be effective, there must be a knowing and intelligent decision to waive the right.	Ratio
+I do not understand the majority in this case to suggest otherwise; (ii) In a case where the effectiveness of the waiver is in dispute, it is for the prosecution to prove that it is effective.	Ratio
+Again I do not believe that this is controversial; (iii) It is well recognised that reasons other than those which would qualify as sufficient to support the conclusion that a knowing and intelligent decision has been made will frequently motivate a suspect to decline the right to legal assistance; (iv) In order for the prosecution to show that such reasons do not obtain and that a knowing and intelligent decision has been made, it is necessary to have some insight into why the right has been declined.	Ratio
+The requirement that a means exist of obtaining that insight does not involve the creation of some startling new rule.	Ratio
+It merely follows the flight of the arrow of logic to its obvious destination.	Ratio
+In these circumstances, I respectfully question whether the passage from the paper by the President of ECtHR, Sir Nicolas Bratza, quoted by Lord Hope has any relevance to the current debate.	Ratio
+Sir Nicolas had made the entirely unexceptionable statement that the Strasbourg court has been careful to refrain from imposing specific requirements on the State.	Ratio
+Quite so but that does not impinge on the conclusion that I have reached about the effect of the case-law of the European Court of Human Rights.	Ratio
+I have merely indicated where I believe the jurisprudence of that court in this area leads.	Ratio
+It was not my intention to descend to a level of detail in laying down an incontrovertible rule.	Ratio
+Indeed, I have made it clear that an inquiry into the reasons for a purported waiver is required only when those reasons are not obvious from the circumstances in which it was made.	Ratio

@@ -1,0 +1,277 @@
+A limited company not in liquidation cannot lawfully return capital to its shareholders except by way of a reduction of capital approved by the court.	Ratio
+Profits may be distributed to shareholders (normally by way of dividend) but only out of distributable profits computed in accordance with the complicated provisions of the Companies Act 2006 (replacing similar provisions in the Companies Act 1985).	Ratio
+Whether a transaction amounts to an unlawful distribution of capital is not simply a matter of form.	PRE
+As Hoffmann J said in Aveling Barford Ltd v Perion Ltd [1989] BCLC 626, 631, Whether or not the transaction is a distribution to shareholders does not depend exclusively on what the parties choose to call it.	PRE
+The court looks at the substance rather than the outward appearance.	PRE
+Similarly Pennycuick J observed in Ridge Securities Ltd v Inland Revenue Commissioners [1964] 1 WLR 479, 495, A company can only lawfully deal with its assets in furtherance of its objects.	PRE
+The corporators may take assets out of the company by way of dividend, or, with the leave of the court, by way of reduction of capital, or in a winding-up.	PRE
+They may of course acquire them for full consideration.	Ratio
+They cannot take assets out of the company by way of voluntary distribution, however described, and if they attempt to do so, the distribution is ultra vires the company.	Ratio
+The sole issue in this appeal is whether there may have been an unlawful distribution of capital when the appellant company, Progress Property Company Ltd (PPC), sold the whole issued share capital of a wholly-owned subsidiary, YMS Properties (No. 1) Ltd (YMS1) to another company, Moorgarth Group Ltd (Moorgarth).	Ratio
+All these companies were indirectly controlled by Dr Cristo Wiese, a South African investor.	Ratio
+The facts have not yet been fully established, which is why the issue must be stated in this inconclusive way.	Ratio
+PPC was originally called Tradegro (UK) Property Holdings Ltd and has since changed its name to BLN Property Company Ltd. Moorgarth was originally called Foldfree Ltd. But it is simplest to use the names used by Mummery LJ in his judgment in the Court of Appeal.	FAC
+The transaction between PPC and Moorgarth has been vigorously attacked by the appellant PPC on the ground that it was (as must be assumed for the purposes of this appeal) at an undervalue (PPC says, a gross undervalue).	Ratio
+YMS1, a company whose net assets might on PPCs most ambitious case have been worth as much as 4m, was sold for little more than 60,000.	Ratio
+But the attack has been stoutly resisted on the ground that (as is now no longer in dispute) Mr Cornus Moore (Dr Wieses right-hand man, and a director of both PPC and Moorgarth) genuinely believed that the sale of the shares in YMS1 was at market value.	Ratio
+It is also to be assumed for the purposes of this appeal that Mr Moore was in breach of duty in failing to realise that the transaction was in fact a sale at an undervalue.	Ratio
+Had this appeal been allowed, the correctness of these undetermined assumptions (and also issues of valuation and quantum) might have had to be decided in further proceedings.	Ratio
+The facts	FAC
+The scale of the undervaluation alleged by PPC, in a transaction negotiated between experienced businessmen advised by experienced surveyors, solicitors and accountants, is truly remarkable.	FAC
+It suggests that the circumstances were such as to call for close enquiry; and the deputy judge, Mr David Donaldson QC, did enquire into them closely in the course of a fourteen-day trial of this action (together with two other actions in which there has been no appeal).	FAC
+The deputy judges task in fact-finding was difficult, as he found Mr Charles Price, the individual indirectly interested (as a minority shareholder in PPC and as prospective purchaser of the majority holding) in the disposal of the YMS1 shares, to be an unreliable witness.	FAC
+PPCs failure to call as a witness its solicitor, Mr Gerber, added to the deputy judges difficulties in making full and clear findings of fact.	FAC
+He dismissed the action on the basis that it could not succeed even if there had been an unintentional sale at an undervalue, and even if Mr Moore was in breach of duty in failing to recognise it.	FAC
+The Court of Appeal (Mummery, Toulson and Elias LJJ) [2009] EWCA Civ 629, [2010] 1 BCLC 1 unanimously upheld the deputy judges dismissal of the action.	FAC
+In doing so Mummery LJ (with whom Toulson and Elias LJJ concurred) did not find it necessary to go far into the factual circumstances.	FAC
+He summarised the essential facts with admirable brevity in paras 6 and 12 of his judgment: The sale and purchase agreement was made on 20 October 2003 at an agreed price of 63,225.72.	FAC
+The sale price was calculated on the basis of the open market value of the YMS1 properties (11.83m), from which there was subtracted liabilities for creditors approaching 8m and the sum of 4m in respect of a repairing liability.	FAC
+The subtraction of 4m was made in the belief that PPC had given an indemnity or counter-indemnity under which that liability would ultimately fall on PPC.	FAC
+As part of the transaction that liability of PPC was to be released.	FAC
+In fact, it turned out that there was no such indemnity liability and there was nothing from which PPC could be released.	FAC
+In consequence there was no 4m to subtract from the value of the YMS1 properties.	FAC
+There was no justification for the reduction in the sale price.	FAC
+So it was said that the sale of the shares was at a gross undervalue. . . .	FAC
+There was no dispute before the deputy judge that Mr Moore genuinely believed that the price of the shares in YMS1 sold by PPC to Moorgarth was their market value.	FAC
+It was not alleged that there was any intention on his part to prefer Moorgarth or to commit a fraud on the creditors of PPC.	FAC
+He acted in the honest belief that the sale of the shares in YMS1 was a commercial transaction.	FAC
+I am reluctant to expand on Mummery LJs summary unless there is a good reason to do so.	Ratio
+But in an appeal which is centrally concerned with the substance and reality of the impugned transaction, I think it is appropriate to set out some of the deputy judges findings of fact in rather more detail.	Ratio
+They help to answer some (but not all) of the questions prompted by Mummery LJs summary.	Ratio
+At the material time (roughly April to October 2003) Dr Wieses investments included interests in the value (or down-market) sector of the United Kingdom retail market.	FAC
+He indirectly controlled (through Brown & Jackson Plc B & J) two retail chains, Poundstretcher and Your More Store.	FAC
+These businesses (especially Your More Store) were not flourishing, and in the early months of 2003 he took various steps intended to improve their prosperity.	FAC
+Your More Store Limited (YMS), which ran Your More Store and two other retail businesses, became a subsidiary of Tradegro (UK) Ltd (Tradegro), another company controlled by Dr Wiese.	FAC
+Mr Carel Stassen was appointed as managing director of YMS and became a minority shareholder in YMS.	FAC
+Mr Price was appointed as managing director of PPC, which was at that time a wholly-owned subsidiary of Tradegro.	FAC
+Mr Price became the holder of 24.9% of the shares in PPC, leaving Tradegro with 75.1%.	FAC
+The freehold interest in the Your More Store premises was vested in a company called YMS Properties (No. 2) Ltd (YMS2).	FAC
+YMS2 was a wholly-owned subsidiary of YMS1, which was a wholly-owned subsidiary of PPC.	FAC
+In the short term YMS continued to occupy its retail premises informally, without any leases from YMS2.	FAC
+There was a similar reorganization of the Poundstretcher business.	FAC
+YMSs informal occupation of the retail premises did not last long.	FAC
+An essential part of Mr Prices task was to manage and raise finance from YMS2s property portfolio.	FAC
+Mr Price embarked on negotiations with Nationwide Building Society (Nationwide) and on 2 May 2003 Nationwide entered into a facilities agreement to advance funds of more than 20m secured on the YMS and Poundstretcher freeholds.	FAC
+But Nationwide insisted that formal leases, with tenants covenants including full repairing and insurance obligations, should be entered into between YMS2 as landlord and YMS as tenant and between the corresponding Poundstretcher companies.	FAC
+The deputy judge summarised the resulting situation in paras 8 and 9 of his judgment: This posed a problem.	FAC
+The properties in the portfolio, and in particular those occupied by YMS, were in significant disrepair.	FAC
+A survey produced by independent surveyors GRD in early 2003 estimated the existing cost of repairs to the YMS properties at more than 4.6m.	FAC
+YMS, whose trading position was already parlous, was in no position to shoulder a liability of this magnitude, and Mr Stassen refused to agree.	FAC
+Moreover, the execution of FRI leases would at a stroke bring about a substantial increase in the value of the [freeholds the judge wrote leases but this must have been a slip] compared with the vacant possession value at which they currently stood in the books of YMS1.	FAC
+As all parties recognised, commercial logic and indeed fairness required that the costs of this benefit should not rest with YMS.	FAC
+It might be that no serious problem would arise so long as both the freeholds and YMS remained within the [Tradegro] group (though a question might still be posed as a result of the minority interests of Mr Stassen and Mr Price in, respectively, YMS and PPC), but that position was always open to change.	FAC
+In the event, YMS did sign FRI leases.	FAC
+Mr Stassen did not however agree to this course until he had obtained an assurance from Mr Moore, with the approval of Dr Wiese, that YMS would be given an indemnity against the costs it might be required to incur in satisfying the repairing liability.	FAC
+At that stage there was a falling out between Mr Price and Dr Wieses management team, and in July 2003 Dr Wiese gave six months notice to terminate the arrangements with Mr Price.	FAC
+But during the next two months there were negotiations which led to an agreement for Mr Price to acquire Tradegros 75.1% shareholding in PPC.	FAC
+The agreed terms were quite complex and were embodied in a share purchase agreement (the SPA), the parties to which were (1) Wigmore Street Investments Ltd (WSIL), then called Real Estate Property Corporation Ltd, a Bermuda company controlled by Mr Price, as purchaser and (2) Tradegro as vendor.	FAC
+The dispute in this appeal is not concerned with the sale of the PPC shares themselves, but with a preliminary step provided for in clause 4.1 of the SPA, that is, the sale by PPC, before completion of the SPA, of the whole share capital of YMS1 to Moorgarth (a direct subsidiary of Tradegro).	FAC
+The deputy judge commented (in para 12 of his judgment) on how matters stood as the negotiations progressed: Since ownership of the freeholds would now move out of the [Tradegro] group, it became imperative to honour Mr Moores assurance to Mr Stassen that YMS would be given an indemnity against the FRI liability.	FAC
+Logic also suggested that in the new circumstances the ultimate liability should pass to the new owner of YMS2.	FAC
+Consistent with this, the running document entitled Summary of principal commercial terms passing between the parties indicated that (1) a deed of indemnity was being discussed between Tradegro and YMS (2) there was broad agreement on the provision of a counter-indemnity by PPC.	FAC
+The same applied to the [Poundstretcher] properties.	FAC
+His comment about what logic suggested must have been directed at the position before the change of plan (embodied in clause 4.1 of the SPA) to extract the YMS freeholds from PPC before the sale of its shares was completed.	FAC
+There would have been no logic in PPC accepting ultimate responsibility for an unquantifiable liability for repairs to dilapidated YMS properties that it was not going to own.	FAC
+What happened instead, and gave rise to the issue in this appeal, was the extraction of the YMS freeholds by the sale of YMS1 by PPC to Moorgarth at the price of 63,225.72.	FAC
+This took place under a simple written agreement entered into on 20 October 2003.	FAC
+It was negotiated mainly by two solicitors, Mr Gerber instructed by Mr Price on behalf of PPC and Mr Emmett instructed by Mr Moore on behalf of Moorgarth.	FAC
+The agreement was signed by Mr Paul Clarke (who was a director of both PPC and Moorgarth) on behalf of both companies.	FAC
+He signed it after a board meeting of the directors of PPC attended by Mr Clarke in person and by Mr Price by telephone.	FAC
+On the same day Tradegro and its overseas holding company gave a formal release of PPC from any possible liability under the supposed indemnity or counter-indemnity.	FAC
+That liability had never actually come into existence, though it had been much discussed.	FAC
+The deputy judges judgment (paras 13 to 31) gives a detailed account of the fairly hectic negotiations leading up to 20 October 2003, and of the events of that day.	FAC
+That is for the present sufficient, and perhaps more than sufficient, as to the factual findings made at first instance in relation to the issue of sale at an undervalue.	FAC
+To recapitulate, that there was a sale at an undervalue is an undetermined assumption made for the purposes of this appeal, as is Mr Moores breach of duty, but his genuine belief in an arms length sale is common ground.	FAC
+I shall return to the facts briefly at the end of this judgment.	FAC
+The authorities	STA
+PPCs case, as finally formulated at first instance, relied not on section 263 of the Companies Act 1985 (now replaced by sections 829 and 830 of the Companies Act 2006) but on what Mummery LJ referred to (para 23) as the common law rule: The common law rule devised for the protection of the creditors of a company is well settled: a distribution of a companys assets to a shareholder, except in accordance with specific statutory procedures, such as a winding up of the company, is a return of capital, which is unlawful and ultra vires the company.	Ratio
+The rule is essentially a judge-made rule, almost as old as company law itself, derived from the fundamental principles embodied in the statutes by which Parliament has permitted companies to be incorporated with limited liability.	Ratio
+Mummery LJs reference to ultra vires must be understood in the wider and looser sense of the term identified in Rolled Steel Products (Holdings) Ltd v British Steel Corporation [1986] Ch 246 at 276-278 (Slade LJ) and 302 (Browne-Wilkinson LJ).	Ratio
+But in this appeal there is no difference between the parties as to the narrower and wider meanings of ultra vires in the company law context.	Ratio
+Whether a transaction infringes the common law rule is a matter of substance, not form.	Ratio
+The label attached to the transaction by the parties is not decisive.	Ratio
+That is a theme running through the authorities, including Ridge Securities Ltd v Inland Revenue Commissions [1964] 1 WLR 479 and Aveling Barford Ltd v Perion Ltd [1989] BCLC 626 to which I have already referred.	Ratio
+I shall take some of the best-known cases in chronological order.	Ratio
+Ridge Securities was concerned with a complicated and artificial tax- avoidance scheme carried out at a time when companies were still subject to income tax (rather than corporation tax).	PRE
+Pennycuick J (at p493), upheld the Special Commissioners disallowance of payments of interest grotesquely out of proportion to the principal amounts secured as not being interest within the meaning of section 169 of the Income Tax Act 1952.	PRE
+That was simply a point of construction on the taxing statute.	PRE
+More radically, Pennycuick J also dealt with a company law point not raised before the Special Commissioners, and held that the payments of so-called interest were in fact gratuitous (and so unlawful) dispositions of the companys money.	PRE
+In the crucial passage ([1964] 1 WLR 479, 495, set out at para 1 above) the words however described are important.	PRE
+Re Halt Garage (1964) Ltd [1982] 3 All ER 1016 was, on its facts, at the other extreme from Ridge Securities as regards the sophistication of the parties involved and the outlandishness of the impugned transaction.	PRE
+The company owned what was essentially a husband-and-wife business running a garage near Woburn Sands.	PRE
+From 1964 the couple worked very hard to build up the business, which included recovering broken-down vehicles from the newly-opened M1.	PRE
+They paid themselves modest remuneration as directors.	PRE
+But unfortunately in 1967 the wife became seriously ill and they decided to move to the Isle of Wight.	PRE
+They tried to sell the business but repeatedly failed to do so, and at one stage the husband was commuting between the Isle of Wight and Bedfordshire in an attempt to look after his invalid wife and the ailing business.	PRE
+Other misfortunes followed and the company went into insolvent liquidation in 1971.	PRE
+The liquidator challenged the propriety of directors remuneration paid to the husband and wife during the companys decline.	PRE
+Oliver J upheld the husbands remuneration but reluctantly disallowed most of the wifes last two years remuneration.	PRE
+He observed (at 1043) The real question is, were these payments genuinely directors remuneration? If your intention is to make a gift out of the capital of the company, you do not alter the nature of that by giving it another label and calling it remuneration.	PRE
+That was, with respect, hardly apt on the facts of the case.	PRE
+The evidence suggested that the couple knew little about company law and took the advice of their accountant.	PRE
+But the case does show that if the label of remuneration does not square with the facts, the facts will prevail and the result may be an unlawful distribution, even if the directors in question intended no impropriety.	PRE
+Later in his judgment Oliver J recognized that, observing (at 1044): In the absence of any evidence of actual motive, the court must, I think, look at the matter objectively and apply the standard of reasonableness.	PRE
+In Aveling Barford Ltd v Perion Ltd [1989] BCLC 626 a Singapore businessman, Dr Lee, who indirectly owned and controlled Aveling Barford, procured the sale by it to Perion (a Jersey company also controlled by Dr Lee) of a country house and 18 acres of land at Grantham, formerly used as an employees social and sports club.	PRE
+This property had development potential and had been valued by Strutt and Parker at 650,000 and by Humberts (for prospective mortgagees) at 1,150,000.	PRE
+The price on the sale to Perion was 350,000 (with a provision of doubtful authenticity for 400,000 overage if the property sold for over 800,000 within a year).	PRE
+In the event it was sold within a year for over 1.5m.	PRE
+That was the context in which Hoffmann J made the observations set out in para 1 above.	PRE
+The need to look at substance rather than form also extended to Dr Lees being treated as the real shareholder in Aveling Barford and the real purchaser of the land: Hoffmann J made a passing reference to this at p632 but it was not an issue in the case.	PRE
+Hoffmann J referred to Ridge Securities and Halt Garage and concluded (at 633) with an instructive passage referring to Rolled Steel: It is clear however that Slade LJ excepted from his general principle cases which he described as involving a fraud on creditors (see . . .	PRE
+[1986] Ch246 at 296).	PRE
+As an example of such a case, he cited Re Halt Garage.	PRE
+Counsel for the defendants said that frauds on creditors meant transactions entered into when the company was insolvent.	PRE
+In this case Aveling Barford was not at the relevant time insolvent.	PRE
+But I do not think that the phrase was intended to have such a narrow meaning.	PRE
+The rule that capital may not be returned to shareholders is a rule for the protection of creditors and the evasion of that rule falls within what I think Slade LJ had in mind when he spoke of a fraud on creditors.	PRE
+There is certainly nothing in his judgment to suggest that he disapproved of the actual decisions in Re Halt Garage or Ridge Securities.	PRE
+As for the transaction not being a sham, I accept that it was in law a sale.	PRE
+The false dressing it wore was that of a sale at arms length or at market value.	PRE
+It was the fact that it was known and intended to be a sale at an undervalue which made it an unlawful distribution.	PRE
+Hoffmann Js acceptance that the sale was not a sham, but was a transaction in a false dressing, has an obvious parallel in developments which were taking place at the same time in landlord and tenant law.	PRE
+In Street v Mountford [1985] AC 809 Lord Templeman famously struck down an artificial arrangement designed to avoid a tenancy protected by the Rent Acts.	PRE
+He declared (at 825) that the court should be astute to detect and frustrate sham devices and artificial transactions whose only object is to disguise the grant of a tenancy and to evade the Rent Acts.	PRE
+But three years later in Antoniades v Villiers [1990] 1 AC 417, 462 Lord Templeman said that it would have been more accurate to have used the word pretence, and the rest of the Appellate Committee took the same line (Lord Bridge at 454 an attempt to disguise the true character of the agreement; Lord Ackner at 466 the substance and reality of the transaction . . .	PRE
+he sought vigorously to disguise them; Lord Oliver at 467 an air of total unreality about these documents ; Lord Jauncey at 477 mere dressing up in an endeavour to clothe the agreement with a legal character which it would not otherwise have possessed).	PRE
+Antoniades v Villiers was decided before Aveling Barford and Hoffmann J may well have had it in mind when writing his judgment.	PRE
+There is however one obvious difference between the typical case of a disguised company distribution and the typical case of a tenancy disguised as a licence in order to avoid the Rent Acts.	PRE
+There is no identity of interest between the landlord and the putative licensee quite the reverse and the latter agrees to enter an artificial arrangement, against his or her interest, because of the weak bargaining position of anyone looking for affordable accommodation in an overcrowded city.	PRE
+In the disguised company distribution case, by contrast, the same human beings are usually interested directly or indirectly, on both sides of the corporate manoeuvring: Dr Lee in Aveling Barford, anonymous financiers in Ridge Securities.	PRE
+The fact that the same individuals are interested on both sides is not of course, by itself, a cause for alarm, since company reconstructions are carried out for all sorts of entirely proper purposes (and now have the benefit of sections 845 and 846 of the Companies Act 2006).	PRE
+The point to which I draw attention is simply that where there is a degree of identity of interest between both sides to a corporate transaction, both sides are likely to be in agreement as to its real purpose and its true nature and substance.	PRE
+A question of characterisation	Ratio
+The essential issue then, is how the sale by PPC of its shareholding in YMS is to be characterised.	Ratio
+That is how it was put by Sir Owen Dixon CJ in Davis Investments Pty Ltd v Commissioner of Stamp Duties (New South Wales) (1957) 100 CLR 392, 406 (a case about a company reorganisation effected at book value in which the High Court of Australia were divided on what was ultimately an issue of construction on a stamp duty statute).	Ratio
+The same expression was used by Buxton LJ in MacPherson v European Strategic Bureau Ltd [2000] 2 BCLC 683, para 59.	Ratio
+The deputy judge did not ask himself (or answer) that precise question.	Ratio
+But he did (at paras 39-41) roundly reject the submission made on behalf of PPC that there is an unlawful return of capital whenever the company has entered into a transaction with a shareholder which results in a transfer of value not covered by distributable profits, and regardless of the purpose of the transaction.	Ratio
+A relentlessly objective rule of that sort would be oppressive and unworkable.	Ratio
+It would tend to cast doubt on any transaction between a company and a shareholder, even if negotiated at arms length and in perfect good faith, whenever the company proved, with hindsight, to have got significantly the worse of the transaction.	Ratio
+In the Court of Appeal Mummery LJ developed the deputy judges line of thought into a more rounded conclusion (para 30): In this case the deputy judge noted that it had been accepted by PPC that the sale was entered into in the belief on the part of the director, Mr Moore, that the agreed price was at market value.	Ratio
+In those circumstances there was no knowledge or intention that the shares should be disposed of at an undervalue.	Ratio
+There was no reason to doubt the genuineness of the transaction as a commercial sale of the YMS1 shares.	Ratio
+This was so, even though it appeared that the sale price was calculated on the basis of the value of the properties that was misunderstood by all concerned.	Ratio
+In seeking to undermine that conclusion Mr Collings QC (for PPC) argued strenuously that an objective approach is called for.	Ratio
+The same general line is taken in a recent article by Dr Eva Micheler commenting on the Court of Appeals decision, Disguised Returns of Capital An Arms Length Approach, [2010] CLJ 151.	Ratio
+This interesting article refers to a number of cases not cited to this court or to the courts below, and argues for what the author calls an arms length approach.	Ratio
+If there were a stark choice between a subjective and an objective approach, the least unsatisfactory choice would be to opt for the latter.	Ratio
+But in cases of this sort the courts real task is to inquire into the true purpose and substance of the impugned transaction.	Ratio
+That calls for an investigation of all the relevant facts, which sometimes include the state of mind of the human beings who are orchestrating the corporate activity.	Ratio
+Sometimes their states of mind are totally irrelevant.	Ratio
+A distribution described as a dividend but actually paid out of capital is unlawful, however technical the error and however well-meaning the directors who paid it.	Ratio
+The same is true of a payment which is on analysis the equivalent of a dividend, such as the unusual cases (mentioned by Dr Micheler) of In re Walters Deed of Guarantee [1933] Ch 321 (claim by guarantor of preference dividends) and Barclays Bank plc v British & Commonwealth Holdings plc [1996] 1 BCLC 1 (claim for damages for contractual breach of scheme for redemption of shares).	Ratio
+Where there is a challenge to the propriety of a directors remuneration the test is objective (Halt Garage), but probably subject in practice to what has been called, in a recent Scottish case, a margin of appreciation: Clydebank Football Club Ltd v Steedman 2002 SLT 109, para 76 (discussed further below).	Ratio
+If a controlling shareholder simply treats a company as his own property, as the domineering master-builder did in In re George Newman & Co Ltd [1895] 1 Ch 674, his state of mind (and that of his fellow-directors) is irrelevant.	Ratio
+It does not matter whether they were consciously in breach of duty, or just woefully ignorant of their duties.	Ratio
+What they do is enough by itself to establish the unlawful character of the transaction.	Ratio
+The participants subjective intentions are however sometimes relevant, and a distribution disguised as an arms length commercial transaction is the paradigm example.	Ratio
+If a company sells to a shareholder at a low value assets which are difficult to value precisely, but which are potentially very valuable, the transaction may call for close scrutiny, and the companys financial position, and the actual motives and intentions of the directors, will be highly relevant.	Ratio
+There may be questions to be asked as to whether the company was under financial pressure compelling it to sell at an inopportune time, as to what advice was taken, how the market was tested, and how the terms of the deal were negotiated.	Ratio
+If the conclusion is that it was a genuine arms length transaction then it will stand, even if it may, with hindsight, appear to have been a bad bargain.	Ratio
+If it was an improper attempt to extract value by the pretence of an arms length sale, it will be held unlawful.	Ratio
+But either conclusion will depend on a realistic assessment of all the relevant facts, not simply a retrospective valuation exercise in isolation from all other inquiries.	Ratio
+Pretence is often a badge of a bad conscience.	Ratio
+Any attempt to dress up a transaction as something different from what it is is likely to provoke suspicion.	Ratio
+In Aveling Barford there were suspicious factors, such as Dr Lees surprising evidence that he was ignorant of the Humberts valuation, and the dubious authenticity of the overage document.	Ratio
+But in the end the disparity between the valuations and the sale price of the land was sufficient, by itself, to satisfy Hoffmann J that the transaction could not stand.	Ratio
+The right approach is in my opinion well illustrated by the careful judgment of Lord Hamilton in Clydebank Football Club Ltd v Steedman 2002 SLT 109.	Ratio
+It is an example of the problems which can arise with football clubs owned by limited companies, where some small shareholders see the club as essentially a community enterprise, and other more commercially-minded shareholders are concerned with what they see as underused premises ripe for profitable redevelopment.	Ratio
+The facts are complicated, and the main issue was on section 320 of the Companies Act 1985 (approval by company in general meeting of acquisition of non-cash asset by director or connected person).	Ratio
+But the judge also dealt with a claim under section 263 (unlawful distribution).	Ratio
+He held that the sale of the clubs derelict ground at Kilbowie Park, and another site originally purchased under an abortive plan for a new ground, was a genuine arms-length sale even though effected at a price 165,000 less than the value as eventually determined by the court after hearing expert evidence.	Ratio
+In para 76 Lord Hamilton said: It is also clear, in my view, that a mere arithmetical difference between the consideration given for the asset or assets and the figure or figures at which it or they are in subsequent proceedings valued retrospectively will not of itself mean that there has been a distribution.	PRE
+If the transaction is genuinely conceived of and effected as an exchange for value and the difference ultimately found does not reflect a payment manifestly beyond any possible justifiable reward for that in respect of which allegedly it is paid, does not give rise to an exchange at a gross undervalue and is not otherwise unreasonably large, there will not to any extent be a dressed up return of capital.	PRE
+In assessing the adequacy of the consideration, a margin of appreciation may properly be allowed.	PRE
+The words quoted by Lord Hamilton are from Halt Garage and Aveling Barford.	PRE
+In para 79 Lord Hamilton said: It is plain, in my view, that directors are liable only if it is established that in effecting the unlawful distribution they were in breach of their fiduciary duties (or possibly of contractual obligations, though that does not arise in the present case).	Ratio
+Whether or not they were so in breach will involve consideration not only of whether or not the directors knew at the time that what they were doing was unlawful but also of their state of knowledge at that time of the material facts.	Ratio
+In reviewing the then authorities Vaughan Williams J in Re Kingston Cotton Mill Co (No 2) said at [1896] 1 Ch, p347: In no one of [the cases cited] can I find that directors were held liable unless the payments were made with actual knowledge that the funds of the company were being misappropriated or with knowledge of the facts that established the misappropriation.	Ratio
+Although this case went to the Court of Appeal, this aspect of the decision was not quarrelled with (see [1896] 2 Ch 279).	Ratio
+I agree with both those passages.	Ratio
+In this case there are concurrent findings that the sale of YMS1 to Moorgarth was a genuine commercial sale.	Ratio
+The contrary was not pleaded or put to Mr Moore in cross-examination.	Ratio
+I would dismiss this appeal.	RPC
+The facts briefly revisited	FAC
+Although the deputy judge refrained from making any findings about the true value of the YMS freeholds, he set out a good deal of information about valuations in the latter part of his judgment (paras 78 and following, dealing with a tax indemnity claim).	FAC
+Crucially, he recorded, at para 80, that the figure of 11.83m in the DTZ valuation of September 2003 explicitly refrained from considering or taking account of the covenant strength of YMS and the state of repair of the property.	FAC
+The valuation disregarding those matters was no doubt prepared on that basis on instructions, and it seems almost certain that if those matters had been taken into account, it would have been much lower.	FAC
+One retrospective valuation produced a figure of just under 8m, and in 2006 Mr Farr, instructed by Tradegro, produced a figure of 5.85m (the deputy judge described this as sitting at an extreme end of pessimism).	FAC
+In October 2003 YMS1s liabilities to Nationwide and Tradegro totalled about 7.6m, according to the minutes of the PPC board meeting on 20 October 2003 (Mummery LJ, para 6, says approaching 8m).	FAC
+So a figure approaching 8m for the true value of the YMS freeholds was the break-even point for whether or not YMS1 had any positive value, in the absence of large-scale financial support from elsewhere in the Tradegro group so as to enable YMS to perform its extensive repairing obligations.	FAC
+In the absence of such financial support the disrepair was a black hole making the DTZ figure of 11.83m unsupportable, and the non-existence of a counter-indemnity from PPC was totally irrelevant.	FAC
+So long as PPC owned the YMS freeholds, it owned property which had been overvalued (on instructions) by about 4m.	FAC
+On this analysis the sale negotiated between Mr Price and Mr Moore, two experienced businessmen, was not at a gross undervalue, and perhaps not at an undervalue at all.	FAC
+But the dismissal of this appeal means that these matters will not be the subject of any further adjudication by the court.	FAC
+I gratefully adopt the statement of the facts contained in Lord Walkers judgment, and I agree with his reasoning and conclusions.	Ratio
+I write only to underline aspects of the facts which make this, in my view, both an odd case and one in which the suggestion that the relevant transaction should be re-categorised as an illegitimate distribution of capital at common law is particularly artificial and unappealing.	Ratio
+The question is whether the agreement dated 20 October 2003 involved a return of capital by PPC to its shareholder TUK through TUKs subsidiary Moorgarth (it being common ground that no relevant distinction exists in this context between TUK and Moorgarth).	Ratio
+PPC submits that the value of its freehold properties was some 11.83 million, from which fell to be deducted some 8 million for creditors, leaving a net value on the face of it in the region of 4 million.	Ratio
+PPC further submits that Moorgarth and so Tradegro were aware of these facts through Mr Cornus Moore, then a director of TUK, PPC and Moorgarth.	Ratio
+The appeal comes before us on the hypothesis that these submissions can be made good, although they are in issue.	Ratio
+As explained by the deputy judge, Mr David Donaldson QC, in his judgment dated 15 October 2008, the reason for a net purchase price of only 63,225.72 appears from a Summary of principal commercial terms and from minutes for a board meeting of PPC held on 20 October 2003 to approve the sale.	Ratio
+The summary was prepared before the idea of stripping YMS1 and YMS2 out of PPC had emerged.	Ratio
+It indicated that a deed of indemnity was being discussed between TUK and YMS and that there was broad agreement that PPC should provide TUK with a (back-to-back) counter-indemnity.	Ratio
+The minutes were prepared after it had been decided that YMS1 and YMS2 should be stripped out of PPC, to explain the basis of the agreement by which this was achieved.	Ratio
+Clause 2.2 of the minutes, drafted by solicitors, reads: It was further noted that the Company had previously agreed to counter indemnify [TUK] in respect of TUKs indemnity to Your More Store Ltd. (YMS) in relation to the repairing obligations referred to in paragraph 2.1 and it was a precondition of the Sale that TUK (which is Foldfrees parent company) release the Company from those indemnity obligations.	Ratio
+Copies of deeds under which TUK had agreed to indemnify YMS in respect of those repairing obligations were produced to the meeting and its contents noted.	Ratio
+Consistently with this, the agreement itself recites (clause 4.1.4) that on completion: the Purchaser shall hand over to the Seller: (a) a certified copy of a deed of indemnity executed by [TUK] and Tradegro Limited in favour of [YMS]; and (b) a deed in favour of the Seller executed by [TUK] and Tradegro Limited under which the Seller is released from any and all liabilities to [TUK] and Tradegro Limited and [they] waive any and all rights and/or claims which they may have against the Seller under or arising out of repairing obligations in respect of properties owned by [YMS2] ..	Ratio
+The stated indemnity by TUK to YMS would have ensured that YMS did not suffer loss through having entered into the full repairing and insuring (FRI) leases in order to assist YMS2 to raise money, while PPCs counter-indemnity to TUK ensured that PPC as owner of YMS1, and through it of YMS2, did not benefit from YMSs willingness to do this.	Ratio
+The indemnity and counter-indemnity were valued at around 4 million.	Ratio
+When YMS1 and YMS2 were stripped out of PPC, PPCs counter-indemnity could either have been maintained in place, in which case the amount payable for YMS1 would have had to be around 4 million, or the counter-indemnity could have been released, in which case TUK/Moorgarth would be entitled to credit for its value (around 4 million).	Ratio
+The latter course was chosen, which explains why the actual net payment to be made under the agreement dated 20 October 2003 was only 63,225.72.	Ratio
+The illogicality, noted perceptively by the deputy judge, is that the credit for release of the counter- indemnity, which in fact was a credit due between TUK/Moorgarth and PPC, was expressed as if it reduced the value of YMS1, with which it had nothing in reality to do.	Ratio
+At trial PPC accepted that Mr Moore genuinely believed in the existence of TUKs indemnity to YMS and of PPCs counter-indemnity to TUK.	Ratio
+But it was by the time of trial conceded by TUK/Moorgarth that they could not establish the existence of either TUKs indemnity or PPCs counter-indemnity.	Ratio
+I confess to some surprise at this concession, and also at the absence of any suggestion of an estoppel, based in particular on the minutes to which I have referred.	Ratio
+But the concession must be accepted, and PPC seeks to build on it by arguing that, although Mr Moore in fact believed in the existence of both the indemnity and the counter-indemnity, he should have appreciated that they did not exist.	Ratio
+This is not an attractive submission, in circumstances where the judge disbelieved Mr Price when he denied any knowledge of and agreement to the minutes of 20 October 2003.	Ratio
+The judge thus found, in effect, that Mr Price was willing for the transaction to go ahead on a basis which he knew to be incorrect.	Ratio
+There appear to be two possible explanations for this attitude.	Ratio
+One is that Mr Price took it because he thought that the whole transaction, including the sale of PPC to his own company, would not have gone ahead on any other basis.	Ratio
+(In parenthesis, I note that Mr Collings did not controvert Mr McGhees answer during oral submissions, to the effect that, had the transactions relating to PPC and YMS1 not proceeded on the basis that the indemnity and counter-indemnity already existed as TUK/Moorgarth believed, TUK/Moorgarth could have insisted on their being put into express form, as a pre-condition to any such transactions proceeding.) The other, appearing clearly from the exchange of notes by the parties after the oral hearing, is that any increase in the amount of the price payable by Moorgarth to PPC for YMS1 would, under the terms of clause 5.6 of the agreement dated 3 October 2003 for the sale of TUKs 75.1% shareholding in PPC to WSIL, simply have resulted in an equivalent increase in the consideration payable by WSIL to TUK for such shares with the two increases, in commercial terms, cancelling each other out precisely.	Ratio
+However, Mr Collings for PPC submits that this is irrelevant.	Ratio
+The Court must look only at PPC and its position as a separate legal entity.	Ratio
+On this basis, the question now before the Court is one of characterisation.	Ratio
+Did the agreement between PPC and Moorgarth involve a distribution of PPCs capital to TUK through Moorgarth? This is a question of substance (or of examining the essence of the agreement, as the New Zealand Court of Appeal put it in Jenkins v Harbour View Courts Ltd. [1966] 1 NZLR 1).	Ratio
+It is not necessarily answered by the way in which the parties have expressed themselves.	Ratio
+Like Lord Walker, I would not go so far as Mr McGhee QC for Moorgarth in his submission that the ultimate test is always one of the directors (subjective) motives in effecting the transaction.	Ratio
+The courts will not second-guess companies with regard to the appropriateness or wisdom of the terms of any transaction (see e.g. re Halt Garage (1964) Ltd. [1982] 3 AER 1016.	Ratio
+But there may come a point at which, looking at all the relevant factors, an agreement cannot be regarded as involving in substance anything other than a return or distribution of capital, whatever the label attached to it by its parties.	Ratio
+I do not regard Aveling Barford Ltd v Perion Ltd [1989] BCLC 626 as inconsistent with this.	Ratio
+The facts in that case made it possible to speak of knowledge and intention to sell at an undervalue, but that does not mean that such knowledge or intention are always necessary factors.	Ratio
+In the present case, it is however unnecessary in my view to go further into such areas.	Ratio
+Here, the expressed justification for the payment to PPC of only 63,225.72 consisted in PPCs stated liability to TUK under the counter-indemnity stated to have been given by PPC to TUK.	Ratio
+It was illogical to treat that liability as reducing the value of YMS1.	Ratio
+The court can and must look at the substance of what happened.	Ratio
+The amount payable by Moorgarth to PPC was reduced by reference to an independent liability supposed to exist against a somewhat complicated commercial background in which Mr Moore believed PPC to have such liability to TUK under a counter-indemnity.	Ratio
+The fact that Mr Price, PPCs managing director, did not believe this can be put aside as irrelevant.	Ratio
+He was not a director of TUK or Moorgarth and Mr Collings QC for PPC stated explicitly that PPCs case depends upon attributing to both Moorgarth and PPC the knowledge (about the absence of any indemnity or counter-indemnity) which it is said that Mr Moore had or should have had as a director of both companies.	Ratio
+That, he said, was what made the agreement between PPC and Moorgarth one under which PPC was distributing assets at an undervalue.	Ratio
+Thus, he accepted that a shareholder (like TUK/Moorgarth) might agree to buy, at what it believed to be a fair price, even though the company selling knew or ought to know that the asset being sold was under-valued on the sale.	Ratio
+I will proceed on this basis, namely that it is essential, at least in circumstances such as the present, to attribute to both seller and buyer at least notice of the circumstances involving the alleged undervalue.	Ratio
+I need not examine whether it is correct as a general proposition that a companys rights to challenge a transaction as involving a disposition at an under-value necessarily depend upon establishing knowledge or notice of such circumstances by both parties to the transaction, or that they depend upon establishing fault on the part of a director, still less a common director.	Ratio
+The argument before us did not examine any such general proposition.	Ratio
+On the facts found by the judge, I am unable to accept PPCs case that the agreement between PPC and Moorgarth can or should be treated as involving an element of distribution of capital.	Ratio
+First, even putting aside the telling points made in the last two paragraphs of Lord Walkers judgment regarding the probable weakness of YMSs covenant, I cannot see how as a matter of substance it can be said that YMS1 was sold at an under-value.	Ratio
+The reason why only 63,225.72 was paid by Moorgarth was unrelated to any view that YMS1 had a net value less than about 4 million.	Ratio
+The reason was that PPC (not YMS1) was seen as having independent counter-indemnity obligations to TUK, which fell to reduce (in effect by agreed set-off) any net sum otherwise payable by Moorgarth to PPC on account of the value of YMS1.	Ratio
+In so far as PPCs obligations to TUK were seen or presented as reducing the value of YMS1, that was, as the deputy judge said, illogical.	Ratio
+The court must look at the real position, not at the parties illogical presentation of the position in an agreement which, read in context, makes clear what was actually happening and motivating the parties.	Ratio
+Second, with regard to the value attached as between PPC and Moorgarth to the release of PPCs supposed counter-indemnity, directors can make mistakes about the nature or extent of liabilities attaching to their companies, and can accept or settle supposed liabilities, even though they ought to have known or could have done better.	Ratio
+Their acceptance or settlement of such supposed liabilities remains just that, even though it may have been ill-advised or unwise.	Ratio
+It does not axiomatically fall to be re-categorised as a distribution of capital, even if it is in relation to a shareholder.	Ratio
+Accordingly, if one assumes that Mr Moore as a director ought to have known that PPC had not in fact entered into the counter-indemnity which he believed had been entered into, it does not follow that the release of the supposed counter-indemnity should be regarded as a distribution of capital.	Ratio
+This point alone is in my view sufficient to answer PPCs present case.	Ratio
+Third, the way PPC has chosen to put its case depends, as I have said, upon the knowledge which it is said that Mr Moore ought to have acquired, being treated as knowledge that he ought to have had as a director of TUK/Moorgarth.	Ratio
+I would not, as presently advised, accept this.	Ratio
+As a director of TUK and Moorgarth, Mr Moore achieved all that was in their interests.	Ratio
+He achieved a recognition and recital of the existence of the indemnity and counter-indemnity in which he believed, and on that basis a credit in the region of 4 million, reducing the net payment to PPC for YMS1 and YMS2 to 63,225.72.	Ratio
+If the agreement of 20 October 2003 stands, Mr Moore therefore achieved for TUK and Moorgarth what it was, from the time when the FRI leases were executed, always understood that they would receive.	Ratio
+Only if the agreement fails, might it sensibly be said that he was in breach of duty to TUK and Moorgarth.	Ratio
+But it is circular to start with an assumption which depends upon the agreement failing.	Ratio
+Viewing the position overall, PPCs current case depends upon re- categorising an understandable commercial agreement, involving on its face the giving of value for the release of a counter-indemnity, which Moorgarth genuinely believed to exist and the acknowledgement of which was made a pre-condition to the agreement, and treating it as an entirely different nature of transaction.	Ratio
+The case is very far from any previous case in which any such exercise has ever been undertaken, and I see no basis for any such re-categorisation.	Ratio
+We have read the judgments of Lord Walker and Lord Mance and we agree that, for the reasons they give, this appeal should be dismissed.	RPC
+The essential question in this case is whether, on the assumed facts, the sale by the appellant to the respondent of the whole issued share capital of a wholly owned subsidiary of the appellant was in truth an unlawful distribution of capital dressed up as a sale.	Ratio
+I agree with Lord Walker and Lord Mance that, for the reasons they give, it was not.	Ratio
+It follows that I agree that the appeal should be dismissed.	RPC

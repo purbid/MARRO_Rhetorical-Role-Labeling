@@ -1,0 +1,319 @@
+This appeal is concerned with the extent and consequences of duties of equal treatment or fairness, said to have been owed by the Office of Fair Trading (OFT) to those subject to investigation under the Competition Act 1998 (the Act).	Ratio
+Since the events in question the OFT has been replaced by the Competition and Markets Authority (CMA), but it will be convenient in this judgment to refer throughout to the OFT.	FAC
+The facts	FAC
+The investigation	FAC
+In March 2003 the OFT began an investigation into alleged price-fixing arrangements in the tobacco market, contrary to section 2(1) of the Act.	FAC
+On 24 April 2008, it issued a Statement of Objections (SO) under section 31 of the Act, addressed to 13 parties, including two manufacturers and 11 retailers.	FAC
+The first respondents (Gallaher) were involved as manufacturers; the second respondents (Somerfield) as retailers.	FAC
+On 15 April 2010 the OFT issued its decision (the Tobacco decision) upholding the finding of infringement against both respondents, and all but one of the other parties.	FAC
+Six of those affected appealed to the Competition Appeal Tribunal.	FAC
+The respondents did not appeal, having each reached settlements with the OFT under the so-called Early resolution process (or ER process).	FAC
+The ER process	FAC
+The letters accompanying the SOs sent to the parties in April 2008 had offered the possibility of obtaining a reduction in the financial penalty through co- operation with the OFTs investigation.	FAC
+The parties were invited to indicate by 9 May 2008 whether they wished to enter into without prejudice discussion with the OFT for this purpose.	FAC
+Both the respondents responded positively within the time- limit.	FAC
+Following negotiations they, along with four other parties, entered into Early Resolution Agreements (ERAs).	FAC
+The ERAs required the signatories admission of involvement in the infringements, set out a series of terms for further co-operation, and indicated the penalties to be imposed subject to a possible reduction of up to 20% for procedural co-operation.	FAC
+Entry into an ERA did not prevent a party from terminating that agreement at any time up to publication of the OFTs final decision.	FAC
+If a party did terminate an ERA, it would forgo any discounted penalty negotiated as part of the ERA.	FAC
+In that event, the OFT would continue with its case against that party in accordance with the usual administrative procedure.	FAC
+A party to an ERA could also, upon receiving the final decision, decide to appeal against it if it wished to do so, notwithstanding the admissions in the ERA.	FAC
+In that event, the OFT reserved the right to make an application to the Tribunal to increase the penalty and to require the party to the ERA to pay the OFTs full costs of the appeal regardless of the outcome.	FAC
+The ER process was not subject to any statutory rules, nor at the material time described in any published document.	FAC
+The clearest contemporary description of the ER process (though not by that name) came in an internal document of the OFT dated 28 January 2008, and entitled A principled approach to Settlements in Competition Act cases.	FAC
+This paper was designed to draw out a number of principles from the OFTs experience to date, and emerging thinking, on settlements in Competition Act 1998 cases, and to provide a policy framework for teams who may be considering the possibility of settlement.	FAC
+Ten principles were identified and discussed.	FAC
+Particular attention in the present case has been directed to Principle Three: Fairness, transparency and consistency are integral to an effective settlements process.	Ratio
+This was explained as follows: 16.	Ratio
+The overriding principles of fairness, transparency and consistency must always be taken into account.	Ratio
+When engaged in settlement discussions, for example, it is important to ensure that the process is consensual and as transparent as possible throughout, in order to avoid any subsequent allegations of undue pressure having been applied to force parties to sign up to settlement.	Ratio
+17.	Ratio
+Consistency is a particularly key consideration, given parties sensitivity to equality of treatment issues.	Ratio
+Whether or not the details of an individual case have been made public, particular approaches in one case will inevitably leak out during the settlement process (and be set out in the infringement decision) and inform parties strategies in others.	Ratio
+Consistency of approach (or, alternatively, the formulation of strong arguments to justify taking a different approach in similar circumstances) is therefore vital.	Ratio
+Although this is useful as indicating the adopted policy approach of the OFT itself, it is not suggested that the contents were known to or in terms relied on by the respondents when entering into their agreements.	Ratio
+However, the OFT had a separate speaking note for use in discussions with parties.	Ratio
+This summarised the main features of the ER process, and ended with the following commitment to equal treatment: Once first party signed up, the OFT will inform other parties of the terms agreed in terms of the Step 1 to 5 penalty calculation - these terms will be the benchmark for dealing with other parties (as the OFT will observe equal treatment principles).	Ratio
+Both the respondents concluded ERAs with the OFT in early July 2008, involving substantial reductions in the anticipated penalties.	FAC
+In due course, when the OFT decision was issued in April 2010 the respondents did not appeal, but instead elected to pay the penalties imposed in the ERAs, taking the benefit of the reductions.	FAC
+TMR	FAC
+Martin McColl Retail Group Ltd and TM Retail Group Ltd (together, TMR) was another party subject to the investigation, which also entered into an ERA.	FAC
+In the course of the negotiations for the ERA, at a meeting on 8 July 2008, TMRs representatives asked about the OFTs likely attitude to those who entered ERAs in the event of a successful appeal by one of the other parties to the investigation.	FAC
+The effect of the exchange was recorded in an email from TMR to OFT after the meeting in the following terms (which were not contradicted): Should another manufacturer or retailer appeal any OFT decision against that manufacturer or retailer to the CAT (or subsequently appeal to a higher court) and overturn, on appeal, part or all of the OFTs decision against that manufacturer or retailer in relation to either liability or fines, then, to the extent the principles determined in the appeal decision are contrary to or otherwise undermine the OFT's decision against [TMR], the OFT will apply the same principles to [TMR] (and therefore presumably withdraw or vary its decision against [TMR] as required).	FAC
+(Emphasis added) In the course of 2009 and 2010, and before the expiry of the time for appealing the OFT decision, two other parties (Party A and Asda) made similar inquiries about the effect of a successful appeal by other parties, but received non-committal answers.	FAC
+The Tribunals decision and its aftermath	FAC
+On 12 December 2011 the Tribunal gave judgment allowing all six appeals: [2011] CAT 41.	RLC
+Following the Tribunals judgment, TMR wrote to the OFT inviting it to withdraw the OFTs decision as against it, and threatening legal action if it failed to do so.	RLC
+In the course of further discussions TMR relied on the OFTs earlier assurances about its position in the event of a successful appeal by another party, stating that this had been a key factor in its own decision-making.	RLC
+As to what followed I take the following from the agreed statement of facts (para 50): The OFT considered that the statements which it had made to TMR in 2008 might have given rise to an understanding on the part of TMR that the OFT would withdraw or vary its decision against TMR in the event of a successful third party appeal.	RLC
+In light of this, the OFT considered that there was a real risk that TMR would, as a result of this reliance on those statements, be permitted to appeal out of time to the Tribunal and would succeed in that appeal.	RLC
+The OFT reached a settlement agreement with TMR, by which the OFT agreed to pay to TMR an amount equal to the penalty TMR had paid together with a contribution to interest and legal costs.	RLC
+The Tobacco Decision was not withdrawn against TMR.	RLC
+The agreed terms were set out in a settlement agreement dated 9 August 2012.	RLC
+The OFT then published a statement about the TMR settlement on its website, in which it said that in the light of the particular assurances provided to TM Retail it had agreed to pay the amount of its penalty (2,668,991) and a contribution to costs.	RLC
+In the meantime, following the Tribunals decision, in February 2012 each of the respondents had written to the OFT calling upon it to withdraw the decision as against them, and to refund the penalties.	FAC
+This was refused.	FAC
+In August 2012, after the publication of the information about the settlement between the OFT and TMR, they sent the OFT letters before claim, arguing that they also should be given the benefit of the assurances made to TMR.	FAC
+In October 2012 they issued the present claims for judicial review.	FAC
+The out-of-time appeals	FAC
+The claims were initially stayed by consent to allow the respondents to pursue applications, made in July 2012, for permission to appeal the Tobacco Decision out of time.	PRE
+By rule 8(2) of the Competition Appeal Tribunal Rules 2003 (SI 1372/2003), the Tribunal may not extend the time limit for appeal unless satisfied that the circumstances are exceptional.	PRE
+The applications succeeded before the Tribunal, but its decision was reversed by the Court of Appeal on 7 April 2014: Office of Fair Trading v Somerfield Stores Ltd [2014] EWCA Civ 400.	PRE
+The court held that there were no exceptional circumstances.	PRE
+In the leading judgment Vos LJ referred (paras 35-36) to the principle of finality, exemplified by the CJEUs decision in Commission of the European Communities v AssiDoman Kraft Products AB (Case C-310/97P) [1999] All ER (EC) 737 (the Wood Pulp II case).	PRE
+That principle was said to be based on the consideration that the purpose of such time-limits is to ensure legal certainty by preventing Community measures which produce legal effects from being called in question indefinitely.	PRE
+Although the Wood Pulp II decision was no more than analogous, it pointed the way to the need for finality in competition cases.	PRE
+In the present case, in Vos LJs view, the respondents had entered the ERAs with their eyes open and made a deliberate decision not to appeal.	PRE
+He added: It is true that the OFT has the role of a prosecutor and has wide powers to impose penalties, and that those powers must be exercised on a proper basis, but that does not stop commercial parties from taking a commercial view as to whether or not to sign up to an ERA after a long investigatory process and the publication of a lengthy Statement of Objections.	PRE
+The addressee knows precisely the terms that are being offered.	PRE
+It knows what it has done in relation to the alleged infringements, and what it is being asked to admit, and the terms requiring its co-operation and the fetters on its rights of defence to which it is being asked to agree.	PRE
+It can take it or leave it (para 45)	PRE
+The courts below	FAC
+In a judgment dated 26 January 2015, Collins J rejected the claims: [2015] EWHC 84 (Admin).	RLC
+He started from the proposition that the OFTs powers in relation to infringement of the 1998 Act were subject to public law requirements of fairness and equal treatment, so that it was essential that in negotiations in relation to ERAs one party is not given an advantage denied to another (para 38).	FAC
+However, the assurance given to TMR had been given in error, without regard to the finality principle.	FAC
+Citing Customs and Excise Comrs v National Westminster Bank plc [2003] STC 1072 para 66, he agreed with Jacob J that as a general rule a mistake should not be replicated where public funds are concerned.	FAC
+That consideration provided an objective justification for the refusal by the OFT to make payment to the claimants (para 50).	FAC
+The Court of Appeal took a different view [2016] EWCA Civ 719; [2016] Bus LR 1200.	FAC
+In the leading judgment, Lord Dyson MR (para 34) noted it as common ground that (in the words of Cranston J, Crest Nicholson plc v Office of Fair Trading [2009] EWHC 1875 (Admin)) the OFT must comply with the principle of equal treatment in all steps leading up to the imposition of a penalty.	FAC
+He agreed that the assurance given to TMR was a mistake: a decision which no- one who had the finality and legal certainty principles in mind could reasonably have taken (para 58).	FAC
+The failure to offer a similar assurance to the claimants or others in the same position, or even to inform them, involved unequal treatment which was stark and manifest (para 59).	FAC
+Under the heading Objective justification (paras 53-54), he agreed with counsel for the OFT that a mistake was not a trump card which will always carry the day The question as he saw it was - whether there has been unfairness on the part of the authority having regard to all the circumstances.	FAC
+The fact that there has been a mistake may be an important circumstance.	FAC
+It may be decisive.	FAC
+It all depends.	FAC
+He found assistance in the law relating to legitimate expectation, citing R v Secretary of State for Education and Employment, Ex p Begbie [2000] 1 WLR 1115, 1127B-D, per Peter Gibson LJ, to the effect that whether an authority should be permitted to resile from a mistaken statement depends on whether that would give rise to unfairness amounting to an abuse of power.	FAC
+In the same way, as he saw it, the question in the present case was whether the OFT should be permitted to resile from a mistake where to do so results in unfair and unequal treatment of the claimants.	FAC
+He concluded that it should not.	FAC
+It is necessary to quote the concluding paragraph in full, to indicate the sequence of events and combination of circumstances, which appear to have led Lord Dyson MR ultimately to the view that the OFTs action was unlawful: 60.	Ratio
+But the real focus must be on the question whether the 2012 Decision was objectively justified.	Ratio
+That is when the OFT decided that it would act on the 2008 decision in relation to TMR and honour the assurances that it had mistakenly given at that time, and to treat the claimants differently.	Ratio
+The result was that it agreed with TMR to repay the whole of its penalty plus a contribution of 250,000 in relation to costs and interest.	Ratio
+But it refused to pay anything to the claimants.	Ratio
+The only difference between the positions of TMR on the one hand and that of the claimants on the other hand was that the OFT had given the assurances to TMR in 2008, but not to the claimants.	Ratio
+The effect of that manifestly unfair and unequal treatment in 2008 could have been reversed after the issue had been raised by Asda and party A and the OFTs eyes had been opened to the significance of its earlier mistake in giving the assurances to TMR.	Ratio
+That would have put all the companies which had been the subject of the Tobacco Decision and to which the [Statement of Objections] has been addressed on an equal footing.	Ratio
+The OFT could have withdrawn the assurances.	Ratio
+It would not have been too late for TMR to appeal at that time.	Ratio
+Even if TMR had been out of time, it would have had a very powerful case for arguing that the withdrawal of the assurances was an exceptional circumstance which justified an extension of time for appealing.	Ratio
+Instead, the OFT acted on the assurances it had given to TMR, made the 2012 decision and repaid the penalty previously levied and made further payments too.	Ratio
+In all the circumstances, this was a plain breach of the principle of equal treatment and unfair.	Ratio
+The Court of Appeals order declared that the OFT had acted unlawfully by - (a) not offering the appellants in 2008 the assurance given to [TMR] that in the event of a successful appeal by other parties, it would benefit from that appeal decision even if it did not appeal; and (b) refusing in 2012 to make payment to the appellants of the amount of the penalty imposed on them even though it had made such a payment to TMR.	RLC
+It ordered that the respondents should each be entitled to payment of a sum equal to the penalties they had paid to the OFT, together with an amount in interest and costs.	RLC
+Equal treatment and fairness	RLC
+The submissions	ARG
+It was central to the reasoning of both courts below that the OFT was subject (as Collins J put it) to public law requirements of fairness and equal treatment.	Ratio
+That analysis was not seriously challenged by counsel for the appellant in this court.	Ratio
+They accepted that the principle of equal treatment applied to the OFT, but submitted that it did not require it to replicate a mistake, at least in the absence of conspicuous unfairness.	Ratio
+They rely on the approach of Lord Bingham in R (OBrien) v Independent Assessor [2007] 2 AC 312, para 30: It is generally desirable that decision-makers, whether administrative or judicial, should act in a broadly consistent manner.	Ratio
+If they do, reasonable hopes will not be disappointed.	Ratio
+But the assessors task in this case was to assess fair compensation for each of the appellants.	Ratio
+He was not entitled to award more or less than, in his considered judgment, they deserved.	Ratio
+He was not bound, and in my opinion was not entitled, to follow a previous decision which he considered erroneous and which would yield what he judged to be an excessive award.	Ratio
+The respondents similarly adopt the language of equal treatment and fairness.	ARG
+Thus Miss Jessica Boyd, counsel for the second respondent, formulated the issue in these terms: The issue before the Court is whether it was conspicuously unfair and/or a breach of the principle of equal treatment, amounting to a breach of public law, for the OFT, on the successful appeal of its decision in the Tobacco Decision, to repay one non-appellant addressee of that decision (namely, TM Retail) the penalty it had paid pursuant to that decision, while refusing to do the same for the respondents.	ARG
+The equal treatment principle was said to be well-established in domestic law, by reference for example to R (Middlebrook Mushrooms Ltd) v Agricultural Wages Board of England and Wales [2004] EWHC 1447 (Admin) at para 74.	ARG
+The expression conspicuous unfairness was derived from the judgment of Simon Brown LJ in R v Inland Revenue Comrs, Ex p Unilever plc [1996] STC 681, as applied by Richards J in R v National Lottery Commission, Ex p Camelot Group plc [2001] EMLR 3, para 72.	ARG
+To those authorities Lord Pannick QC for the first respondent added Bank Mellat v HM Treasury (No 2) [2014] AC 700, 773 para 25 per Lord Sumption; and Paponette v Attorney General of Trinidad and Tobago [2012] 1 AC 1, 12 paras 28 and 30 per Lord Dyson.	ARG
+He relied also on the formulation of the principle of equal treatment in European Union law: The principle of equal treatment, as a general principle of EU law, requires that comparable situations must not be treated differently and that different situations must not be treated in the same way, unless such treatment is objectively justified.	ARG
+(Case C-510/11, Kone OYJ and others v European Commission (Elevators and Escalators Cartel Appeal) [2014] 4 CMLR 10, para 97).	ARG
+This was said to apply to the relevant functions of the OFT, by virtue of section 60(1) of the Competition Act 1998, the purpose of which is to ensure that as far as possible questions arising under this Part in relation to competition within the United Kingdom were dealt with in a manner consistent with the treatment of corresponding questions arising in Community law However, I say at once that I find no assistance in this respect in section 60, which seems to me directed to questions arising specifically under the statute, rather than as here under general principles of administrative law.	Ratio
+Notwithstanding the degree of common ground on these points, it is important in this court to be clear as to the precise content and attributes of the relevant legal principles, and their practical consequences in terms of remedies.	Ratio
+Equal treatment	Ratio
+Whatever the position in European law or under other constitutions or jurisdictions, the domestic law of this country does not recognise equal treatment as a distinct principle of administrative law.	Ratio
+Consistency, as Lord Bingham said in the passage relied on by the appellant (para 19 above), is a generally desirable objective, but not an absolute rule.	Ratio
+The need for clear dividing lines in this context has been highlighted in the Privy Councils consideration of various forms of equal treatment clauses in common law constitutions.	Ratio
+Thus for example in Webster v Attorney General of Trinidad and Tobago [2015] UKPC 10; [2015] ICR 1048 the Board was concerned with section 4(d) of the Constitution of that country, which recognises the right of the individual to equality of treatment from any public authority in the exercise of any functions.	PRE
+Lady Hale commented (para 14) that open-ended constitutional guarantees of equal treatment by public authorities, such as that in section 4(d), are few and far between.	PRE
+She contrasted such provisions with the Constitution of Mauritius, section 16 of which prohibits discrimination both by the laws and by public authorities, but only on defined grounds, and under which, as the Board had held in Matadeen v Pointu [1999] 1 AC 98 there was no general constitutional right to equal treatment by the law or by the executive.	PRE
+In the latter case, in an important passage under the heading Democracy and Equality ([1999] AC 98, para 9), Lord Hoffmann had emphasised the need to distinguish between equal treatment as a democratic principle and as a justiciable rule of law: 9.	Ratio
+Their Lordships do not doubt that such a principle is one of the building blocks of democracy and necessarily permeates any democratic constitution.	Ratio
+Indeed, their Lordships would go further and say that treating like cases alike and unlike cases differently is a general axiom of rational behaviour.	Ratio
+It is, for example, frequently invoked by the courts in proceedings for judicial review as a ground for holding some administrative act to have been irrational: see Professor Jeffrey Jowell QC, Is Equality a Constitutional Principle? (1994) 7 CLP 1, 12-14 and de Smith, Woolf and Jowell, Judicial Review of Administrative Action, 5th ed (1995), pp 576-582, paras 13- 036 to 13-045.	Ratio
+Of course persons should be uniformly treated, unless there is some valid reason to treat them differently.	Ratio
+But what counts as a valid reason for treating them differently? And, perhaps more important, who is to decide whether the reason is valid or not? Must it always be the courts? The reasons for not treating people uniformly often involve, as they do in this case, questions of social policy on which views may differ.	Ratio
+These are questions which the elected representatives of the people have some claim to decide for themselves.	Ratio
+The fact that equality of treatment is a general principle of rational behaviour does not entail that it should necessarily be a justiciable principle - that it should always be the judges who have the last word on whether the principle has been observed.	Ratio
+In this, as in other areas of constitutional law, sonorous judicial statements of uncontroversial principle often conceal the real problem, which is to mark out the boundary between the powers of the judiciary, the legislature and the executive in deciding how that principle is to be applied.	Ratio
+(see now the current edition of De Smiths Judicial Review 8th ed (2018) paras 11.061ff) As that passage makes clear, in domestic administrative law issues of consistency may arise, but generally as aspects of rationality, under Lord Diplocks familiar tripartite categorisation.	Ratio
+The authorities cited by the respondents provide illustrations.	Ratio
+The passage cited by Lord Pannick from Lord Sumptions judgment in Bank Mellat (No 2) (above) at para 25 was concerned directly with the question of proportionality under the European Convention on Human Rights, but it was expressed in terms which could be applied equally to common law rationality.	Ratio
+Lord Sumption spoke of a measure which, while responding to a real problem, may nevertheless be irrational or disproportionate by reason of its being discriminatory in some respect that is incapable of objective justification.	Ratio
+He gave as the classic illustration A v Secretary of State for the Home Department [2005] 2 AC 68, in which it was held by the House of Lords that a derogation from the Human Rights Convention permitting the detention of non-nationals considered a risk to national security, was neither a proportionate nor a rational response to the terrorist threat, because it applied only to foreign nationals; it was not explained why, if the threat from UK nationals could be adequately addressed without depriving them of their liberty, the same should not be true of foreign nationals.	Ratio
+He quoted Lord Hope (para 132): the distinction raises an issue of discrimination. ... But, as the distinction is irrational, it goes to the heart of the issue about proportionality also.	Ratio
+At a more mundane level, R (Middlebrook Mushrooms Ltd) v Agricultural Wages Board of England and Wales [2004] EWHC 1447 (Admin) (cited by Miss Boyd) concerned a statutory order under the Agricultural Wages Act 1948, which established a new category of worker, the Manual Harvest Worker (MHW), whose minimum wage was lower than that of a Standard Worker, but the order uniquely excluded mushrooms from the definition of produce the harvesters of which might be paid at the lower rate.	PRE
+This was challenged successfully by the mushroom growers.	PRE
+Having rejected as baseless the various reasons put forward for the distinction, the judge (Stanley Burnton J) concluded that there was no lawful justification for the exclusion of mushroom pickers from the lower rate.	PRE
+He cited inter alia Lord Donaldsons reference to the cardinal principle of public administration that all persons in a similar position should be treated similarly (para 74) (R (Cheung) v Hertfordshire County Council, The Times, 4 April 1986).	PRE
+He concluded that the exclusion of manual harvesters of mushrooms from the MHW category was Wednesbury unreasonable and unlawful, or in other words irrational.	PRE
+In the present context, however, it is not necessary in my view to look for some general public law principle of equal treatment.	Ratio
+It is not difficult to hold that the OFT owed a general duty during the negotiations in 2008 to offer equal treatment to those subject to the Tobacco investigation.	Ratio
+There was no logical reason to do otherwise, since it was applying a single set of legal and policy criteria to a limited group of parties within a single area of business activity.	Ratio
+In addition, its commitment to equal treatment had been expressed in terms to those parties (assuming, as I do, that the speaking note fairly reflects what they were told).	Ratio
+To that extent, it may be said, they had in public law terms a legitimate expectation that they would be treated equally.	Ratio
+However, that in itself does not provide an answer to the present problem.	Ratio
+It tells one nothing about the legal consequences of such an expectation, in terms of rights and remedies in public law, in the events as they developed up to 2012.	Ratio
+Before returning to that critical question, it is necessary to consider what if anything is added by the concept of fairness, as invoked by Lord Dyson in his concluding paragraph, albeit without direct reference to authority.	Ratio
+It is that gap which the respondents counsel have sought to fill by the authorities noted above, in particular the Unilever case.	Ratio
+Fairness	Ratio
+Fairness, like equal treatment, can readily be seen as a fundamental principle of democratic society; but not necessarily one directly translatable into a justiciable rule of law.	Ratio
+Addition of the word conspicuous does not obviously improve the precision of the concept.	Ratio
+Legal rights and remedies are not usually defined by reference to the visibility of the misconduct.	Ratio
+Simple unfairness as such is not a ground for judicial review.	PRE
+This was made clear by Lord Diplock in R v Inland Revenue Comrs, Ex p National Federation of Self-Employed and Small Businesses Ltd [1982] AC 617, 637: judicial review is available only as a remedy for conduct of a public officer or authority which is ultra vires or unlawful, but not for acts done lawfully in the exercise of an administrative discretion which are complained of only as being unfair or unwise, (Emphasis added)	PRE
+Procedural fairness or propriety is of course well-established within Lord Diplocks trilogy.	Ratio
+R v National Lottery Commission, Ex p Camelot Group plc [2001] EMLR 3, relied on by the respondents, is a good example.	Ratio
+It concerned unequal treatment between two rival bidders for the lottery, one of whom was given an unfair procedural advantage over the other.	Ratio
+That was rightly seen by Richards J as amounting to a breach of procedural fairness (see paras 69-70).	Ratio
+Although he used the judgment to discuss principles of fairness in a wider context, that was not essential to his decision, which ultimately turned on the proposition that the Commission had decided on a procedure that results in conspicuous unfairness to Camelot - such unfairness as to render the decision unlawful (para 84, emphasis added).	Ratio
+A broader concept of unfairness amounting to excess or abuse of power emerged in a series of cases in the 1980s, under the influence principally of Lord Scarman.	Ratio
+In the National Federation case (above at p 652) he had been alone in holding that a legal duty of fairness (was) owed by the revenue to the general body of taxpayers.	Ratio
+However, in R v Inland Revenue Commission, Ex p Preston [1985] AC 835, in which he presided, he was able with the support of Lord Templeman (who gave the leading speech) to develop the same idea in terms of a duty of fairness to an individual taxpayer, arising from a written assurance given by the Revenue as to his tax treatment.	Ratio
+Lord Scarman himself said no more than that unfairness in the purported exercise of a power can be such that it is an abuse or excess of power, but he referred to Lord Templemans speech for illustrations (p 851H-852C).	Ratio
+Lord Templeman dealt with this subject in an extended passage, starting from a citation of various statements in the National Federation case.	Ratio
+In particular he took the words of Lord Scarman about the Revenues general duty of fairness (without noting that it had been a minority view) as supporting a duty of fairness owed to each individual taxpayer; but subject to the caveat that the court could not in the absence of exceptional circumstances decide to be unfair that which the commissioners had determined to be fair.	Ratio
+Judicial review, he said, is only available if the court is satisfied that - the unfairness of which the applicant complains renders the insistence by the commissioners on performing their duties or exercise of powers an abuse of power by the commissioners.	Ratio
+(p 864G)	Ratio
+There followed a passage citing various authorities, in which judicial review was said to have been granted on the grounds of unfairness amounting to abuse of power, either due to some proven element of improper motive (p 864H, citing Padfield v Minister of Agriculture, Fisheries and Food [1968] AC 997), or due to an error of law whereby the Price Commission misconstrued the code they were intending to enforce (p 866F, citing HTV Ltd v Price Commission [1976] ICR 170).	Ratio
+These authorities, he thought, supported the suggestion that the commissioners would be guilty of unfairness amounting to an abuse of power if their conduct would in a private context entitle the appellant to an injunction or damages based on breach of contract or estoppel by representation (p 866H-867C).	Ratio
+This part of Lord Templemans speech was obiter, since the claim of abuse of power failed on the facts.	Ratio
+It is not without difficulty.	Ratio
+It seems that in all the examples given by Lord Templeman there was a conventional ground of review, such as improper motive or illegality.	Ratio
+It is not clear what he saw the word unfairness (always in inverted commas) as adding to the legal reasoning.	Ratio
+With hindsight the case is best understood by reference to principles of legitimate expectation derived from an express or implied promise (see de Smith op cit para 12-019; R v North and East Devon Health Authority, Ex p Coughlan [2001] QB 213, paras 61ff)).	Ratio
+It had not been argued on that basis, perhaps because of the uncertain application at that time of legitimate expectation to substantive rather than procedural benefits (see United Policyholders Group v Attorney General of Trinidad and Tobago [2016] 1 WLR 3383 at paras 83ff).	Ratio
+The authority is not relied on directly in the present appeal, but is of some relevance as providing the background to the references to unfairness or conspicuous unfairness in the judgments in the Unilever case, on which the respondents rely, and to which I now turn.	Ratio
+In Unilever the Court of Appeal held that the Revenue should not be permitted without warning to apply a strict time-limit for submission of claims to loss relief, when to do so departed from a practice accepted by them without objection for some 20 years.	PRE
+The judge (Macpherson of Cluny J) had held that the Revenues conduct amounted to a representation in Preston terms, or, if not, had led to unfairness and an abuse of power (p 689f).	PRE
+In the Court of Appeal the main issue seems to have been whether the taxpayer could succeed in the absence of a representation by the Revenue which was clear, unambiguous, and devoid of relevant qualification, as stated in previous Court of Appeal authority (p 690a).	PRE
+Sir Thomas Bingham MR held that, on the unique facts of the case, to reject the claims was so unfair as to amount to an abuse of power (p 691h), and so unreasonable as to be, in public law terms, irrational (p 692f).	PRE
+In a concurring judgment, Simon Brown LJ, under the heading Legitimate expectation or nothing? (pp 693-695), sought to relate the case more directly to Lord Diplocks famous definition of irrationality as a decision so outrageous in its defiance of logic or of accepted moral standards that no sensible person who had applied his mind to the question to be decided could have arrived at it (Council of Civil Service Unions v Minister for the Civil Service [1985] 1 AC 374, 410).	PRE
+It was in that context that he introduced the idea of conspicuous unfairness: He said: Unfairness amounting to an abuse of power as envisaged in Preston and the other Revenue cases is unlawful not because it involves conduct such as would offend some equivalent private law principle, not principally indeed because it breaches a legitimate expectation that some different substantive decision will be taken, but rather because either it is illogical or immoral or both for a public authority to act with conspicuous unfairness and in that sense abuse its power.	PRE
+In short, he regarded the MFK category of legitimate expectation as essentially but a head of Wednesbury unreasonableness (p 695a-b).	PRE
+On the facts of the case, he held that the test was satisfied, observing that he could think of no surer guide than Macpherson of Cluny J in determining - the border between on the one hand mere unfairness - conduct which may be characterised as a bit rich but nevertheless understandable - and on the other hand a decision so outrageously unfair that it should not be allowed to stand.	PRE
+(p 697C)	PRE
+I have quoted at some length from these judgments to show how misleading it can be to take out of context a single expression, such as conspicuous unfairness, and attempt to elevate it into a free-standing principle of law.	Ratio
+The decision in Unilever was unremarkable on its unusual facts, but the reasoning reflects the case law as it then stood.	Ratio
+Surprisingly, it does not seem to have been strongly argued (as it surely would be today) that a sufficient representation could be implied from the Revenues consistent practice over 20 years (see eg de Smith para 12-021).	Ratio
+It seems clear in any event from the context that Simon Brown LJ was not proposing conspicuous unfairness as a definitive test of illegality, any more than his contrast with conduct characterised as a bit rich.	Ratio
+They were simply expressions used to emphasise the extreme nature of the Revenues conduct, as related to Lord Diplocks test.	Ratio
+In modern terms, and with respect to Lord Diplock, irrationality as a ground of review can surely hold its own without the underpinning of such elusive and subjective concepts as judicial outrage (whether by reference to logical or moral standards).	Ratio
+In summary, procedural unfairness is well-established and well-understood.	Ratio
+Substantive unfairness on the other hand - or, in Lord Dysons words at para 53, whether there has been unfairness on the part of the authority having regard to all the circumstances - is not a distinct legal criterion.	Ratio
+Nor is it made so by the addition of terms such as conspicuous or abuse of power.	Ratio
+Such language adds nothing to the ordinary principles of judicial review, notably in the present context irrationality and legitimate expectation.	Ratio
+It is by reference to those principles that cases such as the present must be judged.	Ratio
+The present case	Ratio
+Against that background I can turn to the analysis of the present case.	Ratio
+The respondents no doubt have grounds to complain of the administrative failure to inform them of the assurance given to TMR in 2008.	Ratio
+Had they known of it, they might have sought similar assurances.	Ratio
+We do not know whether, if the request had been pressed, the assurance would have been replicated, or whether (more probably) the OFT would have reviewed the assurance to TMR in time to leave open the possibility of appeal.	Ratio
+In any event, grounds for administrative complaint do not necessarily add up to a cause of action in law.	Ratio
+Even accepting that there was a breach of a legitimate expectation of equal treatment in the failure to replicate the assurances given to TMR in 2008, that would not in itself provide a basis for financial remedy in relation to the events of 2012, nor the reversal of financial penalties which had by then been lawfully imposed on the respondents and accepted by them.	Ratio
+Lord Dyson identified the critical issue as whether the 2012 decision - that is, to honour the assurances given to TMR but not to do likewise for the respondents - was objectively justified.	Ratio
+In my view it makes no difference to the result whether one applies a test of objective justification or of rationality.	Ratio
+I see this question as depending, not so much on whether the giving of the assurance to TMR had been a mistake, but on the reality of the position as reasonably perceived by the OFT in 2012.	Ratio
+It is not entirely clear what it was about the combination of circumstances, summarised in Lord Dysons concluding paragraph, which led the court to the view that a critical boundary of unfairness had been crossed.	Ratio
+Lord Dyson noted that the only difference between the respective positions of TMR and of the respondents was that the OFT had given the assurances to TMR in 2008, but not to the (respondents).	Ratio
+But that was a potentially crucial difference.	Ratio
+All those who entered ER agreements were aware of the possibility that other parties would appeal and might be successful.	Ratio
+That was a risk the respondents took.	Ratio
+As Vos LJ said, they knew what they were doing and accepted it with their eyes open.	Ratio
+TMR did not.	Ratio
+They sought and obtained an assurance on which they claimed to have relied.	Ratio
+In 2012 the OFT could reasonably take the view that, if the assurance were not honoured, TMR would have had a strong case for permission to appeal out of time, whereas the respondents did not (as the Court of Appeal has since held).	Ratio
+If objective justification were needed for the OFT taking a different approach to TMR, that in my view was sufficient; nor was it irrational for them to do so.	Ratio
+For these reasons, I would allow the appeal and restore the order of Collins J.	RPC
+Cartel investigations are notoriously difficult without inside information or the active co-operation of at least one participant and are not necessarily straightforward even then.	Ratio
+Early Resolution Agreements are a standard tool at the disposal of competition authorities for settling them by consent at an early stage after the investigation has been notified to those under investigation.	Ratio
+A party under investigation is offered the prospect of settling the allegation on the basis of a negotiated admission and a discount on the penalty which would otherwise have been imposed.	Ratio
+Properly used, they enable an investigation to be conducted expeditiously, economically and fairly and are in principle in the public interest.	Ratio
+The practice, however, raises questions of some delicacy.	Ratio
+A competition authority is not an ordinary litigant, but a public authority charged with enforcing the law.	Ratio
+It therefore has wider responsibilities than the extraction of the maximum of penalties for the minimum of effort.	Ratio
+A party under investigation must not be subjected to undue pressure to make admissions.	Ratio
+Nor can it be deprived of any statutory right of appeal against the ultimate decision.	Ratio
+The terms of the Early Resolution Agreements made with TMR, Gallaher, Somerfield and Asda in this case followed the internal procedures laid down within the OFT.	Ratio
+They sought to balance these considerations by providing (i) that the party under investigation would be entitled to terminate the agreement at any time before receipt of the final decision, in which case it would forgo the discount; and (ii) that notwithstanding its admission it would be entitled to exercise its statutory right of appeal against the decision to the Competition Appeal Tribunal, in which case the OFT would be at liberty to apply to the Tribunal to increase the penalty and order the party under investigation to pay the costs of the appeal in any event.	Ratio
+It is fundamental to the efficacy of such an agreement that subject to its terms it cuts short the investigation of the counterparty by finally resolving the issues as between it and the OFT.	Ratio
+Where an Early Resolution Agreement is made with one party but the investigation proceeds against others, the former is entitled to the benefit of the discount or to the benefit of the continuing investigation and/or an appeal.	Ratio
+He is not entitled to both.	Ratio
+This carefully drawn balance was disturbed by the oral assurance unwisely given by the responsible OFT officer Ms Branch to TMR, but not Gallaher or Somerfield.	Ratio
+The assurance was that a successful appeal by other parties on liability would result in no finding against [TMR] and that in the event of a successful appeal on penalty, then OFT would apply any reduction to TMR.	Ratio
+There was a successful appeal to the CAT by the parties who had not entered into Early Resolution Agreements, and also by Asda, which had entered into one but exercised its right to appeal.	Ratio
+The appeal succeeded on the ground that the OFT decision did not show that there was any anti-competitive object or effect.	Ratio
+That is a ground on which TMR, Gallaher and Somerfield would also have been entitled to succeed if they had appealed.	Ratio
+Therefore the effect of the assurance was that TMR obtained the benefit of a successful appeal without itself having to appeal and therefore without being exposed to the risk of losing the discount if the appeal failed.	Ratio
+The result was to put them in a better position than Gallaher or Somerfield.	Ratio
+Moreover, although Gallaher and Somerfield were notified of the Early Resolution Agreement with TMR they were not told about the oral assurance.	Ratio
+Consequently, they were not prompted to ask for a similar assurance.	Ratio
+The Court of Appeal held that the OFTs failure to repay the penalties to Gallaher and Somerfield, as they had to TMR, was a breach of a public law duty to treat all those under investigation equally in the absence of some objective ground for treating them differently.	Ratio
+They considered that there was no such ground.	Ratio
+I agree with Lord Carnwaths analysis of the relevant legal principles.	Ratio
+In public law, as in most other areas of law, it is important not unnecessarily to multiply categories.	Ratio
+It tends to undermine the coherence of the law by generating a mass of disparate special rules distinct from those applying in public law generally or those which apply to neighbouring categories.	Ratio
+To say that a decision-maker must treat persons equally unless there is a reason for treating them differently begs the question what counts as a valid reason for treating them differently.	Ratio
+Consistency of treatment is, as Lord Hoffmann observed in Matedeen v Pointu [1999] 1 AC 98, at para 9 a general axiom of rational behaviour.	Ratio
+The common law principle of equality is usually no more than a particular application of the ordinary requirement of rationality imposed on public authorities.	Ratio
+Likewise, to say that the result of the decision must be substantively fair, or at least not conspicuously unfair, begs the question by what legal standard the fairness of the decision is to be assessed.	Ratio
+Absent a legitimate expectation of a different result arising from the decision-makers statements or conduct, a decision which is rationally based on relevant considerations is most unlikely to be unfair in any legally cognisable sense.	Ratio
+In the present case nothing that the OFT said or did could have given rise to any other expectation than that it would act rationally.	Ratio
+The questions which this appeal poses are (i) whether the OFT acted rationally in giving the assurance to TMR alone in 2008 and in repaying the penalty to TMR alone in 2012; and (ii) if not what are the consequences for Gallaher and Somerfield.	Ratio
+I start with the decision of 2008.	Ratio
+As a statement of the ordinary legal consequences of a successful appeal by other parties, the assurance given by Ms Branch was wrong.	PRE
+An appeal by one party from a decision of the OFT on a cartel investigation is a distinct legal proceeding whose outcome affects that party only: Deutsche Bahn AG v Morgan Advanced Materials plc (formerly Morgan Crucible Co plc) (European Commission intervening) [2014] 2 All ER 785, para 21, Commission of the European Communities v Assidomn Kraft Products AB (Case C-310/97P) at paras 2-14, 4 CMLR 10 (Wood Pulp II), para 63.	PRE
+The assurance could therefore be relevant only as a collateral undertaking to TMR that they would be treated otherwise than in accordance with the general law.	Ratio
+This was a mistake, as both courts below have recognised.	Ratio
+It was a mistake not because Ms Branch did not intend to give the assurance or did not know what she was doing.	Ratio
+It was a mistake because it was inconsistent with the OFTs policy of non-discrimination, as well as with the terms of the Early Resolution Agreement under discussion, and more generally with the purpose of the early resolution procedure.	Ratio
+That, however, cannot affect the position of Gallaher or Somerfield, for substantially the reason given by the Court of Appeal when they held that Gallaher and Somerfield were not entitled to appeal the OFTs decision out of time after the other appeals had succeeded.	PRE
+Save in exceptional circumstances, such an appeal must be brought within two months of the OFTs final decision.	PRE
+The Court of Appeal held that there were no exceptional circumstances.	PRE
+This was because each of them had entered into a distinct agreement which was intended finally to resolve the issues the subject of the appeals, subject only to the right conferred by the agreement to terminate the agreement before a final decision or to appeal afterwards.	PRE
+They had invoked neither condition, thus accepting the risk that they would not benefit if the appeal succeeded but ensuring that they would retain the benefit of the discount if it failed.	PRE
+Finality and certainty required that they should live with the consequences: see Office of Fair Trading v Somerfield Stores Ltd [2014] EWCA Civ 400, esp at paras 33, 38, 41 and 45.	PRE
+The fact that no corresponding assurance was given to Gallaher or Somerfield makes no difference to this analysis.	Ratio
+This was not a zero sum game, like the tender process considered in R v National Lottery Commission, Ex p Camelot Group Plc [2001] EMLR 3.	Ratio
+The benefit to TMR was in no sense given at their expense.	Ratio
+Nor does it make any difference that the oral assurance was not disclosed to them.	Ratio
+If it had been, they might well have asked for a similar assurance for themselves.	Ratio
+But they would have had no right to one.	Ratio
+As a matter of principle, the OFTs mistake was that they gave the assurance to TMR, not that they failed to give it to Gallaher and Somerfield.	Ratio
+As a matter of fact, if Gallaher and Somerfield had asked for a similar assurance, there is no reason to suppose that the OFT would have made the same mistake again.	Ratio
+It is at least as likely that such a request would have provoked a reassessment of the assurance given to TMR, followed by its withdrawal.	Ratio
+Against that background, I turn to the 2012 decision which the Court of Appeal, correctly as I think, regarded as the relevant one.	Ratio
+Was it irrational to repay the penalty to TMR after the appeal but not to Gallaher or Somerfield? In my opinion it was not, because although the decision to repay TMR also was discriminatory, the discrimination was objectively justified.	Ratio
+To see why this is so, it is necessary to look more carefully at the basis on which the OFT agreed to repay the penalty to TMR in 2012.	Ratio
+The OFTs assurance had been that in the event of a successful appeal by another party on liability they would withdraw as against TMR the finding of unlawfulness made in their decision.	Ratio
+However, they refused to do that.	Ratio
+It would have been contrary to the terms of the Early Resolution Agreement.	Ratio
+Instead, they recognised that they had slipped up in giving the assurance.	Ratio
+As a result, first, TMR would be certain to get permission to appeal out of time, because the assurance had made it unnecessary for them to appeal in time; and, secondly, their appeal would have been bound to succeed, because the ground on which the other appeals had succeeded applied equally to them.	Ratio
+Accordingly, the OFT settled with TMR on the only realistic basis.	Ratio
+Gallaher and Somerfield were not in the same position.	Ratio
+The OFT had not slipped up in their case.	Ratio
+They had no basis for a late appeal, as indeed the Court of Appeal subsequently held.	Ratio
+There was nothing as between them and the OFT to be settled.	Ratio
+Because TMR had received the oral assurance and on that basis foregone an appeal which would certainly have succeeded, the repayment of the penalty to them was in no sense a windfall.	Ratio
+But it would be a windfall if a corresponding repayment were now to be made to Gallaher and Somerfield, who forewent their appeal by their own decision on an entirely different basis.	Ratio
+For these reasons, I would allow the appeal.	RPC
+I agree that this appeal should be allowed, and with Lord Carnwaths analysis of the relevant legal principles.	RPC
+As he concludes, the OFTs decision to honour the assurance given to TMR, but not to replicate it in favour of the respondents, was both objectively justified and a rational response to the predicament which it faced.	Ratio
+In 2008 the OFT gave an assurance to TMR about extending to it the benefit of any successful appeal by another party which the evidence shows (and the courts below rightly held) was the result of a mistake.	Ratio
+It had been intended as a statement of what the OFT then thought, without proper consideration of the question, and in particular the finality principle, would be the legal consequence for TMR of a successful appeal by another party.	Ratio
+It had not been intended to confer some special benefit upon TMR, and might have been unthinkingly replicated in favour of other parties negotiating ERAs if any had asked the same question, but none did.	Ratio
+In 2012, when the consequences of the mistaken assurance came home to roost, the OFT was faced, at least in theory, with three unpalatable alternatives: It could go back on the assurance to TMR, and refuse any similar It could honour the assurance to TMR, and extend it to the respondents (a) benefit to any other party.	Ratio
+(b) and any other party in a similar position.	Ratio
+(c) to any other party.	Ratio
+It could honour all or part of the assurance to TMR but not extend it.	Ratio
+Option (a) was unsatisfactory because it would almost certainly have led to TMR (but not the respondents) obtaining permission to appeal out of time, and to a wholly successful appeal.	Ratio
+This would have been an even better outcome for TMR than that which the OFT provided by agreement, because the agreement did not abandon the finding of unlawfulness against TMR in the decision.	Ratio
+Furthermore the complaint by the respondents of having been treated differently in 2008 would have remained.	Ratio
+Option (b) would have involved the replication of a mistake at very large cost to the public purse, in favour of parties who neither received nor relied upon a similar assurance.	Ratio
+Option (c) would involve treating the respondents differently, but would at least not involve the replication of a mistake.	Ratio
+These claims seek judicial review of the OFTs choice of option (c).	Ratio
+Where a public authority has a choice of this kind, and one of the options avoids replicating an earlier mistake, but at some cost to equal treatment, the choice is one for the authority, not for the court, for the reasons which Lord Carnwath gives, subject to the usual constraints of lawfulness and rationality.	Ratio
+If, but only if, the authority acts outside those constraints will its choice be subject to judicial review.	Ratio
+In the present case I do not consider that the OFTs response to its predicament transgressed those boundaries.	Ratio
+The fact that the giving of the assurance to TMR in 2008 was a mistake, that its withdrawal in 2012 would be likely to leave TMR even better off than if the assurance was honoured, and that the respondents had neither received or relied upon any similar assurance seem to me, taken in combination, to amount to a powerful objective justification for unequal treatment, as between TMR and the respondents.	Ratio
+On any view the OFT made a rational choice between unpalatable alternatives, with which the court should not interfere.	Ratio

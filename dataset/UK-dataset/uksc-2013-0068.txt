@@ -1,0 +1,503 @@
+This appeal is concerned with the interpretation and application of a double taxation agreement between the United Kingdom and the United States of America.	FAC
+The appellant, Mr Anson was at all material times resident but non-domiciled in the UK for UK tax purposes.	FAC
+He was liable to UK income tax on his UK sourced income and on foreign income remitted to the UK.	FAC
+He was non-resident in the US for US tax purposes, but was liable to US federal and state taxes on his US sourced income.	FAC
+Mr Anson was at all material times a member of a Delaware limited liability company, which was classified as a partnership for US tax purposes.	Ratio
+As a member of an entity classified as a partnership, Mr Anson was liable to US federal and state taxes on his share of the profits.	Ratio
+Mr Anson remitted the balance to the UK, and was therefore liable to UK income tax on the amounts remitted, subject to any double taxation relief which might be available.	Ratio
+The respondent Commissioners decided that Mr Anson was not entitled to any double taxation relief, on the basis, put shortly, that the income which had been taxed in the US was not his income but that of the limited liability company.	Ratio
+The question is whether they were correct to do so.	Ratio
+The facts	FAC
+The relevant period comprises the seven UK tax years running from 6 April 1997 to 5 April 2004.	FAC
+Throughout that period, Mr Anson was a member of HarbourVest Partners LLC (the LLC), a limited liability company formed under the law of Delaware and carrying on business in Boston, Massachusetts.	FAC
+The LLC was originally formed in 1996, when its founder members, including Mr Anson, provided the necessary capital.	FAC
+The amount paid was returned to the members in 1999 by way of distribution.	FAC
+The business of the LLC consisted of the management of a number of venture capital funds.	FAC
+It had no economic interest in the funds, or in the gains or losses from fund investments, but earned fees from its investment management activities.	FAC
+Its accounts were made up in respect of calendar years, which were also US tax years.	FAC
+The LLC was established under the Delaware LLC Act (the LLC Act), and under the terms of a limited liability company agreement (the LLC agreement) governed by Delaware law.	FAC
+The most significant provisions of the LLC Act will be mentioned shortly.	FAC
+The LLC agreement was an agreement between the members: the LLC itself was not party to it.	FAC
+Article IV dealt with members capital accounts.	FAC
+In particular, section 4.1 provided for the crediting to each members capital account of his capital contributions, and for the debiting to his account of all distributions made to him.	FAC
+Section 4.2 required the members capital accounts to be adjusted, at least annually, in specified respects.	FAC
+In particular, it provided (read short) that all gross income and gains realized during the period in question shall be credited, and all losses, deductions and expenses during the period in question shall be debited, to the respective capital accounts of the members pro rata, in accordance with ratios prescribed in the agreement, and subject to specified adjustments.	FAC
+Mr Ansons profit share was 11.5%, which was similar to his ownership interest.	FAC
+Article V set out the provisions relating to distributions.	FAC
+Section 5.1 provided: Subject to the provisions of this article V, to the extent cash is available, distributions of all of the excess of income and gains over losses, deductions and expenses allocated in accordance with section 4.2 with respect to any calendar year will be made by the company at such time within seventy-five (75) days following the end of such calendar year and in such amounts as the managing members may determine in their sole discretion.	FAC
+The managing members may from time to time in their discretion make additional distributions in accordance with the provisions of this article V. Mr Anson was not a managing member during the relevant period.	FAC
+Among the other provisions of the LLC agreement, it is necessary to note article XI, which dealt with dissolution, and made provision in that eventuality for the sale of the assets, the allocation of losses or gains to members in accordance with section 4.2, and distributions to the members.	FAC
+Under article 12.2, members were entitled on request to access to the books and records and to information about the business.	FAC
+During each calendar year, all the LLCs income and gains were credited, and all losses, deductions and expenses were debited, to its members capital accounts on a quarterly basis, in accordance with section 4.2.	FAC
+The excesses of the income and gains over the losses, deductions and expenses that is to say, the profits - were distributed to the members on a quarterly basis in arrears, in accordance with section 5.1, on the basis of the ratios set out in the LLC agreement.	FAC
+The following matters of Delaware law were agreed by the expert witnesses who gave evidence before the First-tier Tribunal (Judges John F Avery-Jones CBE and Ian Menzies-Conacher FCA) (the FTT) and were found as facts: i) The LLC was a legal entity which was brought into existence by executing a certificate of formation, filing of that certificate with the Delaware Secretary of State, and entering into an LLC agreement.	FAC
+ii) The business of the LLC was carried on by the LLC itself, rather than by its members, in the sense that the LLC as an entity with separate legal existence was engaged in business.	FAC
+The members were however active in the business, each member being required by the LLC agreement to devote at least 90% of his full business time to the advancement of the LLCs business and interests.	FAC
+iii) The assets used for carrying on the business of the LLC belonged beneficially to the LLC and not to the members.	FAC
+iv) The LLC was liable for the debts incurred as a result of carrying on its business.	FAC
+The members had no liability for the liabilities of the LLC.	FAC
+The FTT made the following additional findings in relation to the nature of a members interest in a Delaware LLC, and in the LLC in particular: i) A Delaware limited liability company interest is defined by section 18-101(8) of the LLC Act as a member's share of the profits and losses of a limited liability company and a member's right to receive distributions of the limited liability company's assets.	FAC
+ii) That interest is in principle assignable, except as provided in the LLC agreement.	FAC
+The assignee has no right to participate in the management of the business except as provided in the agreement and with the approval of all the other members.	FAC
+An assignee does not become a member but becomes entitled to the same economic interest as the assignor.	FAC
+iii) In the present case, the LLC agreement provided that a member's interest could not be transferred except for sales by a former member (a) under provisions giving the LLC a right of first refusal before any such sale, (b) to a person engaged in the full time business of the LLC, with the written consent of the managing members and two-thirds of the other original members, or (c) on death.	FAC
+iv) Section 18-503 of the LLC Act provides that the profits and losses of a limited liability company shall be allocated among the members, and among classes or groups of members, in the manner provided in a limited liability company agreement.	FAC
+v) A limited liability company interest is personal property.	FAC
+A member has no interest in specific limited liability company property (section 18- 701 of the LLC Act).	FAC
+vi) Subject to the LLC agreement, the members manage the LLC and vote in proportion to their interest in profits.	FAC
+vii) The LLC agreement provided that the operation and policy of the LLC was vested in the managing members, who had power to contract on its behalf, but certain matters, such as mergers and incurring liabilities of more than $500,000 in a year, required the consent of the members.	FAC
+viii) The interest of a member in the LLC was not similar to share capital, but was more similar to partnership capital in an English partnership.	FAC
+The parties expert witnesses were asked to address a number of questions which had been listed in an Inland Revenue tax bulletin 39 issued in February 1999 (and subsequently repeated in later bulletins), following the decision of the Court of Appeal in Memec plc v Inland Revenue Comrs [1998] STC 754, as factors which would be considered for the purpose of deciding whether a UK resident with an interest in a foreign entity should be taxed on his share of the profits of the foreign entity as they arose or only when he received a distribution of profits from the entity.	FAC
+One of those questions was the following: Are the persons who have an interest in the entity entitled to share in its profits as they arise; or does the amount of profits to which they are entitled depend on a decision of the entity or its members, after the period in which the profits have arisen, to make a distribution of its profits?	FAC
+Mr Ansons expert, Mr Abrams, treated the question as asking whether there was an automatic entitlement to share in profits, or whether any such entitlement depended, as in the case of a dividend, upon a decision taken after the end of the relevant period.	FAC
+He focused particularly upon section 4.2 of the LLC agreement, since it addressed how profits were allocated among members, and upon section 5.1, since it governed distributions.	FAC
+Applying the approach to contractual interpretation which, according to his evidence, applied under Delaware law, he concluded that section 5.1 created a mandatory requirement (subject to the other provisions of article V, and to cash being available) to distribute the excess of income and gains over losses, deductions and expenses allocated in accordance with section 4.2, in respect of each calendar year, ie the profit.	FAC
+That was consistent with the earlier crediting of the income and gains to the members capital accounts, and the debiting of losses, deductions and expenses, under section 4.2.	FAC
+The members were therefore entitled to participate in a share of the LLCs annual profits as they arose.	FAC
+The witness was clearly not referring to a proprietary entitlement.	FAC
+The Commissioners expert, Mr Talley, treated the question as asking whether the members had a proprietary interest in the profits as they arose.	FAC
+He noted that, in terms of section 18-701 of the LLC Act, the members had no interest in specific property of the LLC.	FAC
+It followed that they had no beneficial interest in the LLCs assets.	FAC
+In that proprietary sense, they were therefore not entitled to a share in the profits prior to a distribution.	FAC
+In a joint statement to the tribunal, each expert responded to the view expressed by the other in relation to this question.	FAC
+Mr Abrams pointed out that assets and profits were distinct concepts in general and under the LLC Act.	FAC
+Section 18- 101(8) defined a members interest in an LLC as including a members share of the profits and losses.	FAC
+The members entitlement to share in the profits was not affected by section 18-701, which concerned a different issue, namely the ownership of specific property of the LLC.	FAC
+Mr Talley, on the other hand, disagreed with Mr Abramss construction of section 5.1 of the LLC agreement: in his opinion, distributions were made at the discretion of the managing members.	FAC
+In his oral evidence, Mr Abrams said that the law of Delaware drew the same distinctions between a loss and a liability, and between a profit and an asset, as had been explained in Reed v Young [1986] 1 WLR 649, 654; [1986] STC 285, 289.	FAC
+In cross-examination, he observed that the questions put to him, which linked entitlement to profits to ownership of the LLCs income receipts as they were received, commingled two different concepts.	FAC
+When the LLC earned fees, the dollars went into the companys bank account.	FAC
+Those assets were the property of the company, just as the companys debts were the liability of the company.	FAC
+Whether the dollars translated into profits was a different issue.	FAC
+Profits and losses were an accounting concept.	FAC
+The LLC Act recognised the distinction between profits and assets in section 18-101.	FAC
+The LLC agreement imposed an obligation to distribute the profits at the end of each year.	FAC
+Mr Talley, in his oral evidence, accepted that profits and assets were distinct concepts in the law of Delaware, and that profits were an accounting measure.	FAC
+He maintained that profits nevertheless had to be reflected in the assets on the balance sheet, and in that sense formed part of the assets.	FAC
+He stated, however, that his primary reason for considering that the members had no entitlement to share in profits prior to a decision to make a distribution was his interpretation of section 5.1 of the LLC agreement as rendering distributions discretionary.	FAC
+In its discussion of this issue, the FTT stated that it accepted the contention, advanced on behalf of Mr Anson and supported by Mr Abrams, that in summary article IV allocated the profit to the members as it arose and article V required payment to be made.	RLC
+It referred first to sections 18-101(8) and 18-503 of the LLC Act.	RLC
+As explained earlier, section 18-101(8) defines limited liability company interest as a members share of the profits and losses of a limited liability company and a members right to receive distributions of the limited liability companys assets, while section 18-503 provides that the profits and losses of a limited liability company shall be allocated among the members, and among classes or groups of members, in the manner provided in a limited liability company agreement.	RLC
+The FTT also noted that the whole of the profits were allocated to the members capital accounts.	RLC
+It continued: This means that the profits do not belong to the LLC in the first instance and then become the property of the members because there is no mechanism for any such change of ownership, analogous to the declaration of a dividend.	RLC
+It is true, as Mr Talley has said, that the assets representing those profits do belong to the LLC until the distribution is actually made but we do not consider that this means that the profits do not belong to the members; presumably the same is true for a Scots partnership.	RLC
+Conceptually, profits and assets are different, as is demonstrated by the reference to both in the definition of limited liability company interest [in section 18-101(8) of the LLC Act].	RLC
+There is a corresponding liability to the members evidenced by the allocation to their capital accounts.	RLC
+Accordingly, our finding of fact in the light of the terms of the LLC operating agreement and the views of the experts is that the members of [the LLC] have an interest in the profits of [the LLC] as they arise.	RLC
+(para 10)	RLC
+Having reached its conclusion on the basis of the legislation and article IV of the LLC agreement, the FTT did not regard the dispute as to whether distributions under section 5.1 were mandatory or discretionary as relevant.	FAC
+It nevertheless considered the matter, and concluded that distributions were mandatory.	FAC
+In relation to US tax treatment, as the profits generated by the LLC were connected with the conduct of a US trade or business, they were subject to US federal and Massachusetts state taxes, under the US Internal Revenue Code (the Code) and the General Laws of Massachusetts respectively, regardless of the residence or tax domicile of the recipient of the profits.	RLC
+Under the US entity classification rules set out in the US Treasury Regulations, the LLC was classified as a partnership for US tax purposes (it might have elected to be classified as a corporation, but made no such election).	FAC
+The Code states that in such circumstances the partners are liable to tax, rather than the partnership: in other words, the LLCs members, rather than the LLC itself.	FAC
+As a result, each member, including Mr Anson, was personally liable for US federal and Massachusetts state tax on his share of the profits, as his income, whether or not that sum was actually distributed to him.	FAC
+As required by the Code, the LLC filed an annual federal partnership income tax return, reporting the profits of the partnership.	FAC
+Mr Anson was also required to file an annual federal income tax return, in which his share of the LLCs profits was reported as his income.	FAC
+The federal income tax due by Mr Anson in respect of his share of the profits was withheld by the LLC at the rate of 39.6% applicable to withholding tax on foreign partners share of effectively connected income.	FAC
+That withholding tax was remitted to the federal tax authorities, as required by the Code and authorised by the LLC agreement.	FAC
+The LLC was required to file an annual return for partnership withholding tax for each member, and also to complete the foreign partners information statement of withholding tax, which foreign partners needed to furnish with their US federal income tax return in order to claim a withholding tax credit for the tax paid.	FAC
+The distributions made to Mr Anson were accordingly reduced by the amount of the tax withheld and remitted on his behalf.	FAC
+Mr Anson was then credited with the amount of tax withheld, when the amount of federal tax due by him on his share of income was assessed.	FAC
+In relation to state taxes, the LLC was required to submit an annual state income tax return recording the profits of the partnership, using the Massachusetts partnership return of income, together with a partners Massachusetts information schedule for each partner, setting out each partners share of the profits.	FAC
+Mr Anson was also required to file annual state income tax returns, in which he reported his share of the profits.	FAC
+He paid the state income tax directly to the state tax authorities.	FAC
+Double taxation relief	FAC
+Mr Anson was at all relevant times UK resident and ordinarily resident but non-domiciled.	Ratio
+He was consequently liable to UK income tax under the Income and Corporation Taxes Act 1988 (the 1988 Act), section 18, Schedule D Case V, on income arising from possessions out of the United Kingdom which he remitted to the UK.	Ratio
+He paid taxes in the US on his share of the profits at the rate of 45%, and remitted the balance to the UK.	Ratio
+The question is whether he is liable to pay UK income tax on that balance at the rate of 40%, producing what he would say is an effective rate of taxation of 67% (ie 45 in US taxes for every 100 of income, plus 22 in UK tax, calculated as 40% of the 55 remitted after payment of US taxes), or is entitled to double taxation relief.	Ratio
+Mr Anson claims double taxation relief in respect of US federal income tax under article 23(2)(a) of the UK/US Double Taxation Convention of 31 December 1975 (the 1975 Convention), for all of the relevant UK tax years up to the year ended 5 April 2003.	FAC
+For the year ended 5 April 2004, he claims double taxation relief under article 24(4)(a) of the UK/US Double Taxation Convention of 24 July 2001 (the 2001 Convention).	FAC
+Both Conventions are given effect in UK law, in the context of this appeal, by Orders in Council made under section 788 of the 1988 Act or the predecessor provision (SI 1980/568 and SI 2002/2848 respectively).	FAC
+Mr Anson also claims unilateral relief in respect of both US federal income tax and Massachusetts state income tax under section 790(4) of the 1988 Act for all of the relevant UK tax years.	FAC
+Article 24(4)(a) of the 2001 Convention is in terms which are not materially different from those of article 23(2)(a) of the 1975 Convention.	STA
+It is common ground that the relevant provisions of the two Conventions have the same effect, and that the same arguments apply to both, mutatis mutandis.	STA
+It is also common ground that there is no material difference, so far as the present case is concerned, between the tests imposed by article 23(2)(a) of the 1975 Convention and section 790(4) of the 1988 Act.	STA
+In those circumstances, the present discussion, like the parties submissions, will focus only on the 1975 Convention.	STA
+Article 23(2)(a) of the 1975 Convention provides: United States tax payable under the laws of the United States and in accordance with the present Convention, whether directly or by deduction, on profits or income from sources within the United States (excluding in the case of a dividend, tax payable in respect of the profits out of which the dividend is paid) shall be allowed as a credit against any United Kingdom tax computed by reference to the same profits or income by reference to which the United States tax is computed.	STA
+The dispute between the parties concerns, in particular, the question whether the UK tax to which Mr Anson is liable is computed by reference to the same profits or income by reference to which the US federal tax was computed, within the meaning of article 23(2)(a), and the analogous question, under section 790(4) of the 1988 Act, whether the UK tax is computed by reference to the same income as the Massachusetts state tax.	Ratio
+The proceedings before the FTT	FAC
+There were three issues before the FTT.	FAC
+The first was whether Mr Anson was entitled to relief under the double taxation agreements and section 790(4) of the 1988 Act.	FAC
+The second was whether, if he failed in respect of that claim, he was nevertheless entitled to rely on section 739 of the 1988 Act.	FAC
+The third was whether discovery assessments raised by the Commissioners were valid.	FAC
+In relation to the first issue, counsel for the Commissioners invited the FTT to find that the LLC was opaque rather than transparent, applying the terminology and the approach adopted by the Court of Appeal in the case of Memec, to which it will be necessary to return.	FAC
+Counsel argued that the LLC was opaque, since it, and not its members, carried on its business, was liable for the debts and obligations incurred, owned the business, and had a beneficial interest in the profits of the business.	FAC
+Although the US tax had been charged in respect of the profits of the LLC, UK tax was charged in respect of income derived by Mr Anson from his rights as a member of the LLC.	FAC
+It followed, counsel argued, that the UK tax was not computed by reference to the same profits or income as the US tax, within the meaning of the Conventions and section 790(4).	FAC
+The FTT said that it would address the issue applying the Memec approach, although it preferred to concentrate on the words of the treaty rather than ask whether the LLC was transparent or opaque.	FAC
+It had found as a fact that the LLC carried on business as a principal; that it, and not its members, was liable for its debts and obligations; and that it, and not its members, owned the business.	FAC
+But it had also found that the LLC had nothing equivalent to share capital, and that the members were entitled to the profits as they arose.	FAC
+There was, it said, a spectrum running from an English partnership, where the partnership had no separate personality and the partners owned the assets jointly and carried on the business, and were entitled to the profits, through the Scottish partnership, where the partnership was a legal person which owned the assets, but the partners were entitled to the profits, to the UK company, where the company was a legal person which owned the assets, and the members were normally entitled to profits only after a dividend had been declared.	FAC
+The LLC stood somewhere between a Scottish partnership and a UK company, having the partnership characteristic of the members being entitled to profits as they arise and owning an interest comparable to that of a partnership interest, but also some of the characteristics of a company.	FAC
+It was in their view on the partnership side of the dividing line, particularly in relation to its income.	FAC
+The factor which, the FTT said, it was mainly concerned with in relation to the Conventions was whether the profits belonged to the members as they arose.	FAC
+It had concluded that that was the effect of the LLC agreement and the LLC Act.	FAC
+Accordingly, it said, the appellant is taxed on the same income in both countries.	FAC
+He was therefore entitled to double taxation relief under the Conventions in respect of the federal income tax, and to unilateral relief under section 790(4) in respect of the state taxes.	FAC
+Mr Anson therefore succeeded on the first issue.	FAC
+The FTT went on to hold that, if it had been necessary to decide the other issues, it would have decided them against Mr Anson: [2010] UKFTT 88 (TC).	RLC
+The Upper Tribunal	FAC
+The Commissioners appealed to the Upper Tribunal, and Mr Anson cross- appealed in respect of the section 739 issue.	RLC
+The Upper Tribunal (Mann J) allowed the Commissioners appeal and reversed the decision of the FTT: [2011] UKUT 318 (TCC); [2011] STC 2126.	RLC
+Mann J construed the FTTs finding that the profits belonged to the members as they arose as meaning that the profits vested in the members as their property, rather than as meaning that the members had an entitlement to the profits under the LLC Act and the LLC agreement.	FAC
+In doing so, he laid stress on the FTTs comparison of the LLC with English and Scottish partnerships: a comparison which, he said, would not be nearly as relevant as the FTT plainly thought it to be if it were concerned with a contractual rather than a proprietary entitlement.	FAC
+It appears to be implicit in that comment that Mann J understood the partners in a Scottish partnership to have a proprietary interest in the assets of the partnership, and assumed that the FTT had shared that understanding.	FAC
+Having construed the FTTs finding in that sense, Mann J noted that there was nothing in the evidence to support such a finding.	FAC
+More fundamentally, as Mann J pointed out under reference to Reed v Young, profits are an accounting measure rather than specific assets.	FAC
+If the assets were owned by the LLC, as the FTT found, there could be no distinct entity, profits, owned by the members.	FAC
+Having construed the FTTs decision as being based to a material extent upon a finding of fact which was unsupported by any evidence and was in any event illogical, Mann J concluded that the matter had to be re-considered.	FAC
+This reasoning respectfully appears to me to be open to criticism.	FAC
+First, given a finding by an expert tribunal which was ambiguously expressed, I would hesitate to attribute to the tribunal a conclusion which involved an elementary error on a matter falling squarely within its expertise and which, furthermore, had no basis in the evidence.	FAC
+It is clear from the FTTs decision that it understood that, as it said, conceptually, profits and assets are different.	FAC
+It also understood that the assets of the business were the property of the LLC.	FAC
+It based its conclusion that the profits belong as they arise to the members not upon a confusion between profits and assets, but upon the expert evidence as to the combined effect under Delaware law of sections 18-101(8) and 18-503 of the LLC Act, which respectively defined a members interest in an LLC as his share of profits and losses, and required the profits and losses to be allocated among the members in the manner provided in the LLC agreement, and article IV of the LLC agreement itself, which required all income and expenditure to be respectively credited and debited to the members capital accounts in accordance with their profit shares.	FAC
+The natural reading of the FTTs decision, in those circumstances, is that when it described the profits as belonging to the members it was referring to a right in personam rather than a right in rem.	FAC
+That would be consistent with the evidence of Mr Abrams.	FAC
+It would also be consistent with the comparison which the FTT made between the LLC and a Scottish partnership.	FAC
+Although taxed in the same way as an English partnership (Commissioners for General Purposes of Income Tax for City of London v Gibbs [1942] AC 402), and having many points of similarity to an English partnership, a Scottish partnership differs in possessing separate legal personality.	FAC
+The partners do not, therefore, have any direct proprietary interest in any of the partnership assets (unless they happen to hold assets as trustees for the partnership).	FAC
+They have no title to sue for damage to partnership property, and they have no insurable interest in partnership property: see MacLennan v Scottish Gas Board, First Division, 16 December 1983 (unreported on this point); Arif v Excess Insurance Group Ltd 1987 SLT 473; Mitchell v Scottish Eagle Insurance Ltd 1997 SLT 793.	FAC
+What the partners do own is a share of the partnership.	FAC
+That share is an incorporeal moveable right or ius crediti (Clark, A Treatise of the Law of Partnership and Joint Stock Companies According to the Law of Scotland (1866), I 178; Bell, Commentaries on the Law of Scotland, 7th ed (1870), II 536): the right is a debt or demand against the partnership, as Bell described it.	FAC
+As long as the partnership continues, a partner is entitled under statute to require that the partnership's assets be applied for partnership purposes (Partnership Act 1890, section 20(1)), and to his share of the profits of the partnership business (section 24(1)).	FAC
+On a winding up, a partner is entitled to claim his portion of the net proceeds of sale of partnership assets.	FAC
+Those rights are broadly analogous to those of a member of the LLC under the LLC Act, as found by the FTT: an interest, which is personal property, entitling the member to share in the profits of the LLC in accordance with the LLC agreement, and to share in the net proceeds of sale of the LLCs assets in the event of a dissolution of the LLC.	FAC
+There are, of course, also some differences: in particular, the partners in a Scottish partnership, other than a limited partnership, have an unlimited liability for its debts, whereas the members of the LLC had no liability for its debts beyond their initial capital contributions, prior to their repayment.	FAC
+Nevertheless, given the points of similarity, the comparison made by the FTT between the LLC and a Scottish partnership was understandable, and did not carry the implication which Mann J supposed.	FAC
+On the basis, however, that the FTT had erred in law in this respect, and that it was therefore open to the Upper Tribunal to consider the matter afresh, Mann J accepted that, on the FTTs findings, there was no intermediate step in the form of a third party act, analogous to the declaration of a dividend, which stood between Mr Anson and whatever he was entitled to.	FAC
+The more difficult question was whether the income on which the US tax was paid was the same income, for the purposes of the double taxation treaty, as that which the Commissioners sought to tax.	FAC
+Mann J considered that it was not.	FAC
+The fact that the members of the LLC did not have a proprietary right in the underlying assets seemed to him to be crucial.	FAC
+In the absence of such a right, the profits were owned by the LLC, and a contractual obligation to credit them to the members accounts and to distribute them did not make them the property of the members, at least for English tax purposes.	FAC
+The US taxes and UK income tax were therefore not computed by reference to the same profits.	FAC
+In a separate judgment, Mann J upheld the decision of the FTT on the section 739 issue: [2012] UKUT 59 (TCC); [2012] STC 1014.	FAC
+The Court of Appeal	FAC
+Mr Anson then appealed to the Court of Appeal in respect of the issues concerning relief from double taxation.	FAC
+The court refused the appeal for reasons given by Arden LJ, with which Laws and Lloyd LJJ agreed: [2013] EWCA Civ 63; [2013] STC 557.	RLC
+The Court of Appeal stated that the relevant test for determining whether a person is taxed on the same profits or income in both jurisdictions is whether the source of the profits or income in each jurisdiction is the same (para 30), the source being the source for the purposes of UK tax law (para 37).	RLC
+It derived that test from the case of Memec, which was described as the leading authority on this point (para 30).	RLC
+As I shall explain, that case was concerned with the equivalent of article 23(2)(b) of the 1975 Convention, rather than article 23(2)(a).	RLC
+The issue was whether a dividend had been paid to a UK company by an overseas company in which it held a qualifying interest.	RLC
+It was in that context that, in Memec, the court laid emphasis upon identifying the source of the UK companys income, and on the question whether its partnership (governed by foreign law) with a foreign subsidiary, which received the dividends in question and then made payments to the UK company in accordance with the partnership agreement, was transparent, in the sense that the payment of the dividends to the foreign subsidiary, and its payment to the UK company of the sums due under the partnership agreement, were equivalent to the payment of the dividends directly to the UK company itself.	RLC
+On the basis that the case of Memec had established the approach to be adopted, the court derived from that case the following proposition: Where the taxpayer became entitled to the profit of an entity because of some contractual arrangement to which he is a party, he must show that the contract is actually the source of the profit, rather than a mechanism to secure a right to a profit derived from another source.	FAC
+This will in general mean that, as the judge held, he has to show a proprietary right to the profits.	FAC
+(para 38)	FAC
+This is not easy to follow.	FAC
+At first sight, the first sentence appears to be suggesting the opposite of what was decided in Memec, namely that the taxpayer did not qualify for relief because the source of its income was the contract constituting the partnership, rather than the contract being a mere mechanism for the payment of income derived from the overseas company: see, in particular, the dictum of Lord Asquith in Stainers Executors v Purchase [1952] AC 280, 291, cited by Robert Walker J at first instance in Memec [1996] STC 1336, 1350.	FAC
+The second sentence might also be contrasted with the approach of the Court of Appeal in Memec.	FAC
+As will be explained, the court adopted in that case an approach to transparency which involved analysing the characteristics of the partnership agreement under the governing foreign law, comparing those characteristics with the characteristics of paradigm examples of arrangements which were transparent (such as English and Scottish partnerships) or opaque (such as UK companies), and determining whether in the light of that comparison, having regard to all relevant factors, the foreign partnership was relevantly similar to the transparent or opaque UK entities.	FAC
+That was the approach followed by the FTT in the present case.	FAC
+The Court of Appeal, on the other hand, treated the ownership of business assets as decisive, Arden LJ stating: in order for a member of an entity to show that he was entitled to profits from the moment that the profit arose he will have to show that he has an interest in the assets to the value of the profit.	RLC
+This will necessarily be a proprietary interest.	RLC
+(para 59)	RLC
+The court accepted (at para 70) the Commissioners submission that the FTTs finding, that the effect of the LLC agreement and the LLC Act was that profits of the LLC belonged to the members as they arose, was a holding on UK domestic law, with which the Upper Tribunal was entitled to interfere, rather than a finding of fact as to the position under Delaware law.	FAC
+Arden LJ explained: Delaware law governs the rights of the members of [the LLC] as the law of the place of its incorporation, and the LLC agreement is expressly made subject to that law.	FAC
+However, the question whether those rights mean that the income of [the LLC] is the income of the members is a question of domestic law which falls to be determined for the purposes of domestic tax law applying the requirements of domestic tax law .	FAC
+(para 71)	FAC
+Applying this approach, Arden LJ considered that the Upper Tribunal had been correct to conclude that the profits of the LLC did not belong to the members.	FAC
+The source of the LLCs profits was its trading.	FAC
+Mr Anson was merely entitled to a distribution out of those profits.	FAC
+He had no proprietary interest in the assets of the LLC, and was therefore said to be in a different position from the partners in an English or Scottish partnership.	FAC
+Mr Anson was refused permission to advance a potentially material argument, not raised below, relating to an exchange of notes between the UK and the US dated 24 July 2001, concerned with the application of article 24 of the 2001 Convention in situations where a person was taxed as a resident of one contracting state on income derived through an entity which was fiscally transparent under the laws of either contracting state.	FAC
+A number of criticisms might be made of the Court of Appeals reasoning.	FAC
+First and foremost, the court did not directly address the only relevant question, namely whether the UK tax was computed by reference to the same profits or income by reference to which the US tax was computed.	FAC
+It began by identifying that question, but then appears to have been diverted by a consideration of the issue which it understood to have been decided in Memec, and the approach adopted in that case.	FAC
+As a consequence, the remainder of its judgment focused on the question whether Mr Anson had a proprietary right to the profits of the LLC as they arose.	FAC
+That question not only appears to demonstrate the persistence of the conceptual confusion between profits and assets, but does not address the critical point, namely whether the income taxed in one country is the same as the income taxed in another.	FAC
+The reasoning summarised in para 47 also appears to elide two distinct issues.	Ratio
+First, the questions whether the members had a right to the profits, and as to the nature of that right, were questions of non-tax law, governed by the law of Delaware.	Ratio
+The FTTs conclusion, whether correctly construed as a finding that Delaware law had the effect of conferring on the members of the LLC an automatic statutory (or contractual) entitlement to the profits of the LLC, or as a finding that Delaware law vested the members with a proprietary right to the profits as they arose, was on either view a finding of fact.	Ratio
+Secondly, domestic tax law - in this case, the relevant double taxation agreements as given effect in UK law - then fell to be applied to the facts as so found.	Ratio
+This approach was explained by Robert Walker J in Memec at [1996] STC 1336, 1348-1349.	Ratio
+It is well illustrated by the contrasting decisions in Baker v Archer-Shee [1927] AC 844 and Archer-Shee v Garland [1931] AC 212, where the taxpayer lost in the House of Lords in the first case, and then succeeded in the House of Lords in the second case, because of the introduction in the second case of evidence establishing that the trust law of the state of New York differed from English trust law.	Ratio
+The present appeal	Ratio
+Mr Anson now appeals to this court.	FAC
+In the course of the initial hearing of the appeal, counsel were asked about the possible significance of the words in parentheses in article 23(2)(a) of the 1975 Convention (excluding, in the case of a dividend, tax payable in respect of the profits out of which the dividend is paid), and of article 23(2)(b), which allows relief for tax on the profits out of which a dividend is paid in the case of a dividend paid by a US corporation to a UK company controlling at least 10% of voting power in the US corporation.	FAC
+Counsel were also asked whether the form of words employed in article 23(2)(a), in allowing relief in respect of tax computed by reference to the same profits or income, might permit a less technical approach than that ordinarily adopted in UK tax law.	FAC
+Equivalent provisions are contained in the 2001 Convention, and similar provision is also made, in relation to unilateral relief, by section 790(5) and (6) of the 1988 Act.	FAC
+Counsel were given the opportunity to make additional submissions in writing in relation to these points.	FAC
+As a result, substantial submissions were made in writing after the hearing of the appeal, following which a further hearing was held at the request of the Commissioners.	FAC
+Two distinct grounds of appeal are now advanced on behalf of Mr Anson.	Ratio
+The first is that, even assuming that US tax was charged on the profits of the LLC, and that Mr Anson was liable to UK tax only on distributions made out of those profits, the US and UK tax were nevertheless charged on the same profits or income, within the meaning of the 1975 and 2001 Conventions.	Ratio
+This ground was not advanced below.	Ratio
+The second ground is that, as a matter of UK tax law, and on the findings which the FTT made and was entitled to make, Mr Anson was liable to tax in the UK on his share of the profits of the trade carried on by the LLC, which was the same income as had been taxed in the US.	Ratio
+The Vienna Convention on the Law of Treaties	Ratio
+It is a matter of agreement that, as international treaties, the 1975 and 2001 Conventions have to be interpreted in accordance with articles 31 and 32 of the Vienna Convention on the Law of Treaties (Vienna, 23 May 1969; TS 58 (1980); Cmnd 7964).	Ratio
+That is so notwithstanding that, although the US is a signatory of the Vienna Convention, the US Senate has not given its consent to it: the provisions of articles 31 and 32 can in any event be applied, since they have been accepted by the International Court of Justice (and also, in this country, by the House of Lords) as being an accurate statement of customary international law.	Ratio
+Articles 31 and 32 of the Vienna Convention are in the following terms: Article 31 General rule of interpretation 1.	STA
+A treaty shall be interpreted in good faith in accordance with the ordinary meaning to be given to the terms of the treaty in their context and in the light of its object and purpose.	STA
+2.	STA
+The context for the purpose of the interpretation of a treaty shall comprise, in addition to the text, including its preamble and annexes: (a) Any agreement relating to the treaty which was made between all the parties in connexion with the conclusion of the treaty; (b) Any instrument which was made by one or more parties in connexion with the conclusion of the treaty and accepted by the other parties as an instrument related to the treaty.	STA
+3.	STA
+There shall be taken into account, together with the context: (a) Any subsequent agreement between the parties regarding the interpretation of the treaty or the application of its provisions; (b) Any subsequent practice in the application of the treaty which establishes the agreement of the parties regarding its interpretation; (c) Any relevant rules of international law applicable in the relations between the parties.	STA
+4.	STA
+A special meaning shall be given to a term if it is established that the parties so intended.	STA
+Article 32 Supplementary means of interpretation Recourse may be had to supplementary means of interpretation, including the preparatory work of the treaty and the circumstances of its conclusion, in order to confirm the meaning resulting from the application of article 31, or to determine the meaning when the interpretation according to article 31: (a) Leaves the meaning ambiguous or obscure; or (b) Leads to a result which is manifestly absurd or unreasonable.	STA
+Put shortly, the aim of interpretation of a treaty is therefore to establish, by objective and rational means, the common intention which can be ascribed to the parties.	Ratio
+That intention is ascertained by considering the ordinary meaning of the terms of the treaty in their context and in the light of the treatys object and purpose.	Ratio
+Subsequent agreement as to the interpretation of the treaty, and subsequent practice which establishes agreement between the parties, are also to be taken into account, together with any relevant rules of international law which apply in the relations between the parties.	Ratio
+Recourse may also be had to a broader range of references in order to confirm the meaning arrived at on that approach, or if that approach leaves the meaning ambiguous or obscure, or leads to a result which is manifestly absurd or unreasonable.	Ratio
+The object and purpose of the Convention	Ratio
+The purposes of the 1975 Convention, as stated in its preamble, are the avoidance of double taxation and the prevention of fiscal evasion with respect to taxes on income and capital gains.	Ratio
+The preamble does not indicate more precisely what is meant by double taxation: in particular, whether the Convention is restricted to juridical double taxation, or can also extend to economic double taxation.	Ratio
+The former is usually considered to arise where two jurisdictions impose income taxes on the same person in respect of the same income.	Ratio
+The latter is usually considered to arise where there is taxation of the same or derivative income in separate hands.	Ratio
+Context	Ratio
+The contemporary background of a treaty, including the legal position preceding its conclusion, can legitimately be taken into account as part of the context relevant to the interpretation of its terms: see, for example, Riverstone Meat Co Pty Ltd v Lancashire Shipping Co Ltd [1961] AC 807, 836; Effort Shipping Co Ltd v Linden Management SA [1998] AC 605, 624-625.	Ratio
+The 1975 Convention replaced an earlier double taxation convention between the UK and the US, signed at Washington on 16 April 1945: TS 26 (1946); Cmnd 6902 (the 1945 Convention).	Ratio
+The 1945 Convention, to which effect was given by the Double Taxation Relief (Taxes on Income) Order 1946, SR & O 1946/1327, had been amended by a number of protocols, including a Supplementary Protocol signed at Washington on 17 March 1966: TS 65 (1966); Cmnd 3128 (the 1966 Protocol).	Ratio
+As I shall explain, article 23(2) of the 1975 Convention repeats almost verbatim a provision of the 1966 Protocol.	Ratio
+In interpreting article 23(2), it is therefore necessary to understand the intended effect of the relevant provision of the 1966 Protocol.	Ratio
+That in turn requires consideration of the provision of the 1945 Convention which the 1966 Protocol was designed to amend.	Ratio
+The background to the 1945 Convention	Ratio
+The logical starting point is the background to the 1945 Convention.	Ratio
+The UKs income tax legislation taxed income arising from foreign possessions, as I have explained.	Ratio
+Relief in respect of foreign taxes was only partial, and was in any event confined to income from the Dominions.	Ratio
+Partners in the UK, whether Scottish or English, were assessed jointly, in the name of the partnership, on the total tax due by the individual partners on their shares of the profits of the firm: Commissioners for General Purposes of Income Tax for City of London v Gibbs [1942] AC 402; MacKinlay v Arthur Young McLelland Moores & Co [1990] 2 AC 239.	PRE
+A partners share of the profits of a foreign partnership, on the other hand, was treated as income from a foreign possession: Colquhoun v Brooks (1889) 14 App Cas 493.	PRE
+So far as companies were concerned, the income tax legislation applied an imputation system to ordinary dividends paid by UK companies to UK resident shareholders.	Ratio
+In other words, dividend income from a UK company was treated as franked by the companys payment of income tax on its profits.	Ratio
+The rationale was that since ordinary dividends were paid out of profits on which the company had paid income tax, it was unjust to subject them to income tax in the hands of the shareholders.	Ratio
+As Lord Atkin explained in Cull v Commissioners of Inland Revenue [1940] AC 51, 56: My Lords, it is now clearly established that in the case of a limited company the company itself is chargeable to tax on its profits, and that it pays tax in discharge of its own liability and not as agent for its shareholders.	PRE
+The latter are not chargeable with income tax on dividends, and they are not assessed in respect of them.	PRE
+The reason presumably is that the amount which is available to be distributed as dividend has already been diminished by tax on the company, and that it is thought inequitable to charge it again.	PRE
+Lord Wright gave a similar explanation at p 75: ... the shareholder is not taxed under Schedule D in respect of that part of his income which consists of dividends.	PRE
+The profits have been charged to tax in the hands of the company and that fact is deemed to redound to his benefit.	PRE
+UK tax law did not, therefore, carry the principle of separate corporate personality to its logical conclusion.	Ratio
+If it had done so, the profits of the companys trade would have been taxable in the hands of the company, and distributions of the net profits in the form of dividends would also have been chargeable under Schedule D in the hands of the shareholders.	Ratio
+As Lord Phillimore noted, however, in Bradbury v English Sewing Cotton Co Ltd [1923] AC 744, 769: Their taxation would seem to be logical, but it would be destructive of joint stock company enterprise. ... The reason for their [scil, the shareholders] discharge may be the avoidance of double taxation, or to speak accurately, the avoidance of increased taxation.	PRE
+Dividends paid by overseas companies to UK resident shareholders did not benefit from similar treatment under the express terms of the legislation, but they were held nevertheless to do so, by virtue of an implied term, to the extent that the profits out of which the dividends were paid had already borne UK income tax: Gilbertson v Fergusson (1881) 7 QBD 562.	PRE
+Some limits to the scope of the decision in Gilbertson v Fergusson were set by the House of Lords in Barnes v Hely Hutchinson [1940] AC 81.	Ratio
+The case differed in two respects from Gilbertson v Fergusson.	Ratio
+First, UK taxes had not been paid by the overseas company paying the dividend, but by UK companies in which it held shares.	Ratio
+Secondly, the dividends received by the taxpayer were preference dividends rather than ordinary dividends, and were therefore paid at a fixed rate, undiminished by the taxes paid by the UK companies.	Ratio
+In these circumstances, the taxpayer was held to have been correctly assessed on the full amount of the dividend.	Ratio
+It was also emphasised in Barnes that, notwithstanding the concept of franked dividend income, the income received by the shareholder was not the same income as that of the company.	Ratio
+Lord Wright explained at pp 94-95: The English company is taxed on the balance of its profits or gains, that is on its income; the shareholder is taxed on his own income.	PRE
+The shareholder is never taxed on the companys fund of profits, but only on the dividend which comes to him in payment of the debt which is created when the company declares the dividend.	PRE
+The tax is in every case on the individuals income, not on a fund possessed by another person, the company, even though it is the fund of profits of that company, from which the individual's income or part of it will be paid. ... This principle must not be obscured by reason of the circumstance that in the way already noted, the dividend is treated as franked by the tax paid by the company.	PRE
+The fund which is taxed in the hands of the company and the dividend which is declared by the company in favour of the shareholder are separate items for taxation law.	PRE
+It is only the latter which is the shareholders income.	PRE
+The decision in Gilbertson v Fergusson was overruled in Canadian Eagle Oil Co Ltd v The King [1946] AC 119, decided a few months after the 1945 Convention had been signed.	Ratio
+The facts of the case were similar to those in Barnes v Hely Hutchinson, except that the dividends in question were ordinary dividends.	Ratio
+There was held to be no basis for implying into the statute the limitation which had been implied by the Court of Appeal in Gilbertson: there was no necessary implication that economic, as distinct from juridical, double taxation was not intended.	Ratio
+No sooner had Gilbertson been overruled, however, than Parliament legislated to restore the relief, limited to ordinary dividends paid by an overseas company which had itself paid UK income tax on part of its profits (so preserving the limitations imposed by the decision in Barnes v Hely Hutchinson): Finance Act 1946, section 31.	Ratio
+The relief survives, in an amended form, in current legislation.	Ratio
+The 1945 Convention	Ratio
+The 1945 Convention (Cmd 6902) was negotiated during 1944 and 1945.	Ratio
+The background, and the travaux prparatoires, are discussed in Avery Jones, The History of the United Kingdoms First Comprehensive Double Taxation Agreement [2007] BTR 211.	Ratio
+The Convention sought to address a number of issues, including double taxation relief.	Ratio
+As I have explained, the UK allowed only partial relief, and confined its scope to the Dominions.	Ratio
+The US also allowed partial relief, but on a worldwide basis.	Ratio
+Apart from the general desire to extend the scope of the relief, there was a specific concern in relation to the taxation of dividend income, at a time of substantial UK investment in the US (and vice versa) and historically high rates of taxation in both countries.	Ratio
+The two countries had fundamentally different systems of taxing dividends.	Ratio
+The UK, as I have explained, had an imputation system, assessing UK companies to income tax (at a standard rate of 50%, plus 5% national defence contribution), and treating their dividends as income which had already been taxed.	Ratio
+The US, on the other hand, had a classical corporation tax system: the corporation paid tax on its profits (at a rate of 40%), and dividends were paid to shareholders under the deduction of a withholding tax (at a rate of 30%).	Ratio
+Given the prevailing rates, the taxation of dividends received by UK shareholders in US corporations, without relief in respect of US taxation of the profits out of which the dividends were paid (except to the limited extent permitted under the Gilbertson principle), presented a serious problem.	Ratio
+There was a similar problem for US shareholders in UK companies: they had been held by the US Supreme Court in Biddle v Commissioner 302 US 573 (1938) not to qualify for foreign tax credit relief in respect of the income tax paid by the UK company, since they had not paid the tax (an exception being made for US corporations holding 50% of a UK company).	Ratio
+The structure of the 1945 Convention, followed in the 1966 amendments and in the 1975 Convention, was to avoid double taxation primarily by means of distributive provisions allocating the right to tax specified categories of income to one or other of the contracting states.	Ratio
+Provisions of that kind covered, in particular, the industrial and commercial profits of enterprises engaged in business in one of the contracting states (article 3), and dividends derived from US corporations and UK companies (article 6).	Ratio
+Situations where income continued to be taxable in both countries were addressed by article 13.	Ratio
+Article 6 of the 1945 Convention sought to achieve parity of tax treatment for UK shareholders in US corporations, and for US shareholders in UK companies, by reducing the withholding tax on dividends paid to the former to 15% (so that the effective tax charge imposed by the US was 40% on the profits of the corporation, plus 15% withholding tax on the remaining 60%, producing an effective rate of 49%), and by exempting the latter from UK surtax (so that the effective tax charge imposed by the UK was the standard 50% on company profits).	Ratio
+As I have explained, article 13 of the 1945 Convention addressed double taxation relief in situations where income might be taxed in both contracting states.	Ratio
+Article 13(1) addressed the position in the US: Subject to section 131 of the United States Internal Revenue Code as in effect on the first day of January, 1945, United Kingdom tax shall be allowed as a credit against United States tax.	STA
+For this purpose, the recipient of a dividend paid by a corporation which is a resident of the United Kingdom shall be deemed to have paid the United Kingdom income tax appropriate to such dividend if such recipient elects to include in his gross income for the purposes of United States tax the amount of such United Kingdom income tax.	STA
+The first sentence set out the general principle.	Ratio
+Section 131 of the US Internal Revenue Code was the provision which had been in issue in the case of Biddle.	Ratio
+It allowed foreign tax credit relief in respect of income taxes paid or accrued during the taxable year to [a] foreign country.	Ratio
+The second sentence resolved the particular problem which had previously existed in relation to relief for US shareholders in UK companies, by deeming them to have paid the UK income tax paid by the company on its profits.	Ratio
+This effectively reversed the decision in Biddle, and so enabled US shareholders to benefit from the general principle stated in the first sentence.	Ratio
+Article 13(2) addressed the position in the UK: Subject to such provisions (which shall not affect the general principle hereof) as may be enacted in the United Kingdom, United States tax payable in respect of income from sources within the United States shall be allowed as a credit against any United Kingdom tax payable in respect of that income.	STA
+Where such income is an ordinary dividend paid by a United States corporation, such credit shall take into account (in addition to any United States income tax deducted from or imposed on such dividend) the United States income tax imposed on such corporation in respect of its profits, and where it is a dividend paid on participating preference shares and representing both a dividend at the fixed rate to which the shares are entitled and an additional participation in profits, such tax on profits shall likewise be taken into account in so far as the dividend exceeds such fixed rate.	STA
+The first sentence established a general principle that US tax on income from sources within the US was allowable as a credit against UK tax on that income, in other words the same income.	Ratio
+The second sentence dealt with the particular case of dividend income, and required such credit the credit against UK tax on the same income - to take into account, in addition to any withholding tax deducted from the dividend, the US tax paid by the corporation on the profits out of which the dividends were paid.	Ratio
+This approach, in deeming the tax on the profits of the corporation to have been charged on the shareholders income, followed the imputation approach adopted in the UK case law since Gilbertson v Fergusson.	Ratio
+The remainder of the second sentence dealt specifically with preference shares, and limited the relief to any additional participation in profits above the fixed rate payable, in accordance with the decision in Barnes v Hely Hutchinson.	Ratio
+Article 13(2) thus introduced a new general relief for US taxes paid on the same income, and applied it to dividend income in accordance with the approach then adopted in UK tax law to relief for UK taxes paid by overseas corporations.	Ratio
+UK shareholders in US corporations thus benefited under article 13(2) from similar relief to that accorded to US shareholders in UK companies under article 13(1).	Ratio
+Article 13(2) required income to have a source within the US in order to be eligible for relief.	Ratio
+The 1945 Convention contained provisions deeming particular types of income to have their source within the UK or the US, in articles 3(3) and 13(3).	Ratio
+The 1966 Protocol	Ratio
+In 1965, the UK tax regime in relation to dividends changed fundamentally, with the introduction of corporation tax.	Ratio
+Relief based upon an imputation system became inappropriate.	Ratio
+The 1945 Convention was accordingly amended by the 1966 Protocol, to which effect was given by the Double Taxation Relief (Taxes on Income) (USA) Order 1966 (SI 1966/1188).	Ratio
+The new article 6, as inserted by the 1966 Protocol, sought to achieve parity of tax treatment for UK shareholders in US corporations, and for US shareholders in UK companies, by subjecting the dividends in each case to a withholding tax of not more than 15%.	Ratio
+position in the US, provided: In relation to double taxation relief, the new article 13(1), dealing with the ... Subject to the provisions of the law of the United States regarding the allowance as a credit against United States tax of tax payable in a territory outside the United States (which shall not affect the general principle hereof), the United States shall, however, allow to a citizen, resident or corporation, as a credit against its taxes, the appropriate amount of United Kingdom income tax paid and, in the case of a United States corporation owning at least 10% of the voting power of a corporation resident in the United Kingdom, shall allow credit for the appropriate amount of United Kingdom tax paid by the corporation paying such dividend with respect to the profits out of which such dividend is paid .	Ratio
+The first part of that provision (down to paid, where it first appears) repeated the general principle established by the 1945 Convention.	Ratio
+The withholding tax imposed by the UK on dividend income would fall within its scope.	Ratio
+In the remainder of the provision, the general relief for dividends, in respect of UK tax on company profits, which had appeared in the 1945 Convention was not repeated.	Ratio
+The rationale of that relief - the imputation system - no longer applied in a situation where UK tax was charged on the dividend itself.	Ratio
+An exception was however made, in the concluding clause, for cases where the shareholder was a company with a substantial trade investment in the company paying the dividend.	Ratio
+The new article 13(2), dealing with double taxation relief in the UK, provided: (2) Subject to the provisions of the law of the United Kingdom regarding the allowance as a credit against United Kingdom tax of tax payable in a territory outside the United Kingdom (which shall not affect the general principle hereof), (a) United States tax payable under the laws of the United States and in accordance with the present Convention, whether directly or by deduction, on profits, income or chargeable gains from sources within the United States (excluding, in the case of a dividend, tax payable in respect of the profits out of which the dividend is paid) shall be allowed as a credit against any United Kingdom tax computed by reference to the same profits, income or chargeable gains by reference to which the United States tax is computed; (b) In the case of a dividend paid by a company which is a resident of the United States to a company which is resident in the United Kingdom and controls directly or indirectly at least 10% of the voting power in the United States company, the credit shall take into account (in addition to any United States tax creditable under (a)) the United States tax payable by the company in respect of the profits out of which such dividend is paid.	STA
+Comparing the 1966 version of article 13(2) with the 1945 version, there are a number of significant differences.	Ratio
+First, the introduction of the words in parentheses in para (2)(a) made it clear that the only credit to be allowed in the case of US dividends was in respect of the withholding tax, which fell within the scope of the general principle (United States tax payable whether directly or by deduction), and that credit was no longer to be given in respect of the tax paid by the US corporation on its profits.	Ratio
+That followed logically from the UKs abandonment of the imputation system.	Ratio
+Secondly, para (2)(b) created an exception for cases where the shareholder was a company with a substantial trade investment in the company paying the dividend.	Ratio
+Article 13(2) thus continued to provide similar relief, under UK law, to that provided under US law in terms of article 13(1).	Ratio
+A third change was the use of the phrase computed by reference to, in article 13(2), in place of the words payable in respect of, which had been used in the 1945 version.	Ratio
+The modified wording was introduced following the decision of the House of Lords in Duckering v Gollan [1965] 1 WLR 680.	Ratio
+The case concerned a double taxation agreement between the UK and New Zealand, which contained a provision in similar terms to article 13(2) of the 1945 Convention, allowing a credit against UK tax payable in respect of that income.	Ratio
+The taxpayer was liable to UK tax on his income, including income arising in New Zealand, for the year 1958- 1959.	Ratio
+The tax was computed, on a preceding year basis, by reference to his income in 1957-1958.	Ratio
+He had not paid tax in New Zealand which had been computed by reference to that income: as a result of a change in tax law there, his New Zealand tax for 1957-1958 had been computed on a preceding year basis, by reference to his income arising in 1956-1957, and his tax for 1958-1959 had been computed on a current year basis, by reference to his income arising in 1958-1959.	Ratio
+He successfully sought a credit against his UK tax for 1958-1959 for the tax paid in New Zealand in 1958-1959, on the basis that he had paid tax in both countries in respect of the same income, despite the fact that the income by reference to which his tax liability was computed in the two jurisdictions was not the same.	Ratio
+In the light of that decision, the 1966 Protocol used the phrase computed by reference to.	Ratio
+The 1975 Convention	Ratio
+The 1975 Convention was subsequently entered into in order to address matters unrelated to the issues which I have been discussing (including, in particular, the introduction in the UK of advance corporation tax in 1973).	Ratio
+Article 1(3) introduced a new provision: Notwithstanding any provision of this Convention except paragraph 4 of this article, a contracting state may tax its residents ... and its nationals as if this Convention had not come into effect.	STA
+Article 1(4) provides that nothing in article 1(3) affects the application of a number of specified provisions, including article 23.	STA
+The net result is that income may be taxed on the basis of residence or nationality (except where otherwise specified in article 1(4)), as well as on the basis of one of the distributive articles, but double taxation is then to be avoided by applying article 23.	STA
+The distributive articles include provisions covering business profits (article 7) and dividends (article 10).	Ratio
+The latter provision retains the 15% ceiling on withholding tax.	Ratio
+Article 23(1), dealing with double taxation relief in the US, provides: In accordance with the provisions and subject to the limitations of the law of the United States (as it may be amended from time to time without changing the general principle hereof), the United States shall allow to a resident or national of the United States as a credit against the United States tax the appropriate amount of tax paid to the United Kingdom; and, in the case of a United States corporation owning at least 10% of the voting stock of a corporation which is a resident of the United Kingdom from which it receives dividends in any taxable year, the United States shall allow credit for the appropriate amount of tax paid to the United Kingdom by that corporation with respect to the profits out of which such dividends are paid.	STA
+With some minor differences of expression, this provision is in substance the same as article 13(1) of the 1945 Convention as amended by the 1966 Protocol.	STA
+Article 23(2), dealing with double taxation relief in the UK, provides: (2) Subject to the provisions of the law of the United Kingdom regarding the allowance as a credit against United Kingdom tax of tax payable in a territory outside the United Kingdom (as it may be amended from time to time without changing the general principle hereof): (a) United States tax payable under the laws of the United States and in accordance with the present Convention, whether directly or by deduction, on profits or income from sources within the United States (excluding in the case of a dividend, tax payable in respect of the profits out of which the dividend is paid) shall be allowed as a credit against any United Kingdom tax computed by reference to the same profits or income by reference to which the United States tax is computed; (b) in the case of a dividend paid by a United States corporation to a corporation which is resident in the United Kingdom and which controls directly or indirectly at least 10% of the voting power in the United States corporation, the credit shall take into account (in addition to any United States tax creditable under (a)) the United States tax payable by the corporation in respect of the profits out of which such dividend is paid.	STA
+These provisions repeat almost verbatim the terms of article 13(2) of the 1945 Convention, as revised by the 1966 Protocol.	STA
+The only change is the deletion of the references to chargeable gains.	STA
+It is also relevant to note article 23(3): For the purposes of the preceding paragraphs of this article, income or profits derived by a resident of a contracting state which may be taxed in the other contracting state in accordance with this Convention shall be deemed to arise from sources within that other contracting state, except that where the United States taxes on the basis of citizenship, the United Kingdom shall not be bound to give credit to a United States national who is resident in the United Kingdom on income from sources outside the United States as determined under the laws of the United Kingdom and the United States shall not be bound to give credit for United Kingdom tax on income received by such national from sources outside the United Kingdom, as determined under the laws of the United States.	STA
+This provision is of wider scope than article 13(3) of the 1945 Convention, but has the same function of enabling it to be determined whether income has its source within the UK or the US for the purpose of applying article 23(1) and (2).	STA
+The first ground of appeal	Ratio
+In relation to the first ground of appeal, the argument advanced on behalf of Mr Anson focused on the provision made in article 23(2)(a) in respect of dividends.	Ratio
+The argument runs as follows.	Ratio
+When UK tax is payable on a dividend received from a US corporation, and US tax has been paid by the corporation on the profits out of which the dividend was paid, there can be no question of the UK tax being computed by reference to the same profits or income as the profits of the corporation, if the source of the income is identified on the basis of UK (or, indeed, US) tax law.	Ratio
+A dividend is a paradigm case of income which does not have the same source, under UK or US tax law, as the profits out of which it is paid.	Ratio
+If the question whether income is the same is to be determined by applying domestic law, there is therefore no need for article 23(2)(a) to contain a provision expressly excluding underlying tax that is to say, tax paid by a corporation on the profits out of which a dividend is paid - from the scope of the relief: it would in any event be excluded by the requirement that the UK and US taxes should be computed by reference to the same profits or income.	Ratio
+There appear accordingly to be two possibilities.	Ratio
+One is that the provision in relation to dividends adds nothing of substance.	Ratio
+The second is that the existence of that provision implies that the underlying tax on dividends would otherwise be within the scope of the relief, and that the identity of income is not therefore determined according to domestic law.	Ratio
+The first possibility is not initially attractive, since it is a general principle of treaty interpretation ut res magit valeat quam pereat.	Ratio
+Following the jurisprudence of the International Court of Justice (eg United Kingdom v Albania (Corfu Channel) [1949] ICJ 1, 24), the court would be reluctant to conclude that a provision in an agreement made between two governments was otiose, if that conclusion could reasonably be avoided.	Ratio
+The point is strengthened when regard is had to article 23(2)(b).	Ratio
+Where a dividend is paid by a US corporation to a corporation resident in the UK which controls at least 10% of its voting power, article 23(2)(b) provides that the credit shall take into account, in addition to any US tax creditable under para (2)(a), the US tax payable by the corporation in respect of the profits out of which such dividend is paid.	Ratio
+The words the credit refer back to the credit described in para (2)(a), which is a credit against any United Kingdom tax computed by reference to the same profits or income by reference to which the United States tax is computed.	Ratio
+Since it is that credit which is to take into account the underlying tax, the apparent implication is that the UK tax paid by the shareholder on his dividend is computed by reference to the same profits or income, within the meaning of the Convention, as the US tax paid by the corporation on the profits or income out of which the dividend was paid.	Ratio
+So runs the argument.	Ratio
+If article 23(2) is considered in isolation from the remainder of the Convention, and without regard to the context, this is indeed a powerful argument.	Ratio
+As I have explained, however, article 23(2) replicates article 13(2) of the 1945 Convention, as amended by the 1966 Protocol.	Ratio
+The history of the provision makes it clear that the express treatment of underlying tax on dividends reflected the changes necessitated by the UKs adoption of corporation tax in place of the previous imputation system.	Ratio
+Relief for underlying tax had previously been allowed, providing similar relief in the UK to that available in the US under article 13(1).	Ratio
+Once the imputation system was abandoned, relief for underlying tax logically went with it.	Ratio
+The words in parentheses in article 23(2)(a) of the 1975 Convention served to make clear the alteration in the relief available.	Ratio
+There is nothing in the context to suggest that they were intended to have any wider implication.	Ratio
+On the contrary, the context suggests that article 23(2) was intended to provide similar relief to that available in the US under article 23(1), as had been the case under the 1945 Convention; and it was always clear from the Biddle decision that the US did not afford relief for underlying tax unless the Convention provided otherwise (as article 13(2) of the 1945 Convention in its original form did, but the later provisions did not).	Ratio
+The argument, and this ground of appeal, must therefore be rejected.	Ratio
+The second ground of appeal: sources	Ratio
+In relation to the second ground of appeal, an argument was advanced on behalf of the Commissioners concerning the meaning of the word sources, as used in article 23(2)(a).	Ratio
+Given that the paragraph is concerned with relief against UK tax, they argued, the word sources must be intended to bear the same meaning as it bears in UK tax law.	Ratio
+It was therefore necessary to determine the source of the income taxed in each jurisdiction in accordance with UK tax law.	Ratio
+That was also consistent, they argued, with article 3(2) of the 1975 Convention, which provides: As regards the application of this Convention by a contracting state any term not otherwise defined shall, unless the context otherwise requires and subject to the provisions of article 25 (Mutual agreement procedure), have the meaning which it has under the laws of that contracting state relating to the taxes which are the subject of this Convention.	Ratio
+Since the expressions sources was not defined by the Convention, it was submitted that it must be given the meaning which it had under UK tax law.	Ratio
+This argument is inconsistent with the sense in which the word sources is used in article 23(3).	Ratio
+That provision explains how the expression, profits or income from sources within the United States, in article 23(2), is to be applied.	Ratio
+The general rule is that income or profits derived by a resident of a contracting state which may be taxed in the other contracting state in accordance with this Convention shall be deemed to arise from sources within that other contracting state.	Ratio
+As I have explained, one has to look elsewhere in the Convention in order to discover whether particular profits or income may be taxed in the US in accordance with the Convention, and are therefore profits or income from sources within the United States for the purposes of article 23(1) and (2).	Ratio
+Articles 6 to 22 of the Convention contain distributive provisions allocating taxing powers between the UK and the US in relation to a range of different types of profits and income, and different categories of taxpayer.	Ratio
+This has nothing to do with the schedular source doctrine of UK tax law.	Ratio
+It is only where the United States taxes on the basis of citizenship that article 23(3) refers, exceptionally, to sources ... as determined under the laws of the United Kingdom.	Ratio
+As Arden LJ observed in Bayfine UK v Revenue and Customs Comrs [2011] EWCA Civ 304; [2012] 1 WLR 1630, para 23, article 23(3) contains its own rule as to how source [is] to be determined, save where tax has been imposed on the basis of citizenship.	PRE
+The case of Bayfine concerned the question whether a UK company was entitled under article 23(2)(a) to a credit, to set against UK tax on its profits, in respect of the US tax which had been paid by its US parent on the same profits.	Ratio
+The Commissioners are recorded as having submitted in that case that domestic law did not apply to source for the purpose of article 23, because article 23 contained its own comprehensive clause for defining source: it was a free-standing treaty concept which applied for all the purposes of that article.	Ratio
+That submission was accepted by the Court of Appeal, subject to the exception in respect of taxation on the basis of US citizenship.	Ratio
+The same reasoning disposes of the Commissioners argument that article 3(2) of the 1975 Convention requires the term sources to be given the meaning which it bears under UK tax law.	Ratio
+Article 3(2) directs that, unless the context otherwise requires, any term not otherwise defined is to be given by each contracting state the meaning which it has under the laws of that contracting state.	Ratio
+As I have explained, however, article 23(3) explains how the source of profits or income is to be determined for the purposes of article 23, and that explanation is unrelated to the source doctrine of UK tax law.	Ratio
+Memec	PRE
+Further arguments were advanced by both parties on the basis of the case of Memec.	Ratio
+That case concerned a double taxation agreement between the UK and Germany, originally entered into in 1964 and amended by protocol in 1970, which contained a provision in almost identical terms, mutatis mutandis, to article 13(2) of the 1945 Convention between the UK and the US as amended by the 1966 Protocol.	PRE
+The only difference was that the voting control required to qualify for exceptional relief in respect of underlying tax on dividends, under the equivalent of article 23(2)(b) of the 1975 Convention, was 25% rather than 10%.	PRE
+The provision was therefore for all material purposes also similar to article 23(2) of the 1975 Convention.	PRE
+The taxpayer, Memec plc (Plc), was a partner in a German silent partnership (stille Gesellschaft).	PRE
+The partnership had no separate legal personality, but was a contractual arrangement under which Plc had the right to receive a share of the profits of the business carried on by the other partner, in return for a capital payment.	PRE
+The other partner, Memec GmbH (GmbH), was a German company, wholly owned by Plc.	PRE
+It alone carried on the business of the silent partnership.	PRE
+It alone owned the assets of the business, and the income from those assets as it accrued.	PRE
+It had wholly owned subsidiaries, which were also German companies.	PRE
+The subsidiaries paid dividends to GmbH, and that income formed the principal source of the profits of the partnership, which were shared between the partners in accordance with their agreement.	PRE
+The question was whether Plc could claim credit under the double taxation agreement for German taxes paid by the subsidiaries of GmbH on their trading profits.	PRE
+The first point on which issue was joined (and the only one relevant to the present case) was whether the dividends paid by the trading subsidiaries to GmbH should be treated as having been paid by them to Plc.	PRE
+It was conceded by the Commissioners that, if that premise were established, relief would then be due.	PRE
+The basis of the concession is not recorded in the judgments, but must have been the provision in the UK/German treaty corresponding to article 23(2)(b) of the 1975 Convention (as was submitted on behalf of Mr Anson, and not disputed, in the present appeal).	PRE
+What was being sought was relief in respect of underlying tax on the profits out of which dividends were paid.	PRE
+Such relief was only available under the equivalent of article 23(2)(b), and was only available under that provision in the case of a dividend paid by a company which is a resident of the Federal Republic to a company which is a resident of the United Kingdom.	PRE
+It could hardly have been argued that relief was available under the provision in the treaty corresponding to article 23(2)(a) of the 1975 Convention, since (apart from any other consideration) article 23(2)(a) does not provide relief in respect of the underlying tax on profits out of which dividends are paid.	PRE
+The question under the treaty, therefore, was the one arising under the provision corresponding to article 23(2)(b): were the dividends paid by GmbHs subsidiaries paid by a company which is a resident of the Federal Republic to a company which is a resident of the United Kingdom? The critical issue was whether the dividends were paid by the subsidiaries to Plc, for the purposes of the treaty, notwithstanding that the payments were made to GmbH.	PRE
+The arguments on that issue focused on the question whether the source of the relevant income of Plc was the dividends from the trading subsidiaries, or its contractual right under the agreement to payment of its share of the partnership profits.	PRE
+Another way the argument was expressed was in terms of whether the partnership was transparent, so that its existence could be disregarded in determining whether the dividends were paid by the subsidiaries to Plc.	PRE
+In deciding that relief was not available on this basis, Robert Walker J considered that the decisive point was the absence of any proprietary right enjoyed by Plc in the shares of the trading subsidiaries, or in the dividends accruing on those shares.	PRE
+The shares and the dividends belonged to GmbH. Plc did not therefore receive, or become entitled to, the dividends paid by the trading subsidiaries.	PRE
+Its contractual right to a share of the profits of the partnership must be regarded as a separate source of income.	PRE
+In the Court of Appeal, the approach adopted by Peter Gibson LJ was to consider the characteristics of an English or Scottish partnership which made it transparent, and then to see to what extent those characteristics were shared or not by the silent partnership, in order to determine whether it should be treated for corporation tax purposes in the same way.	PRE
+In that regard, it was observed that the absence of a proprietary right in the shares of the subsidiaries, or in the dividends accruing on those shares, was less obviously a point of distinction from a Scottish partnership than an English one.	PRE
+A clearer distinction was that, unlike an English or Scottish partnership, Plc and GmbH did not carry on business in common: the business was carried on solely by GmbH. Peter Gibson LJ acknowledged that the absence of what English or Scots law would regard as a partnership was not in itself determinative of transparency, but concluded that he saw insufficient justification present in the circumstances of the silent partnership for treating the share of the profits of the GmbH business received by Plc as the same as the profits of the subsidiaries or the dividends which were paid to GmbH alone as shareholder and not to Plc (p 766).	PRE
+Henry LJ agreed, and Sir Christopher Staughton gave a concurring judgment on this issue.	PRE
+The present case is not concerned with a claim to relief under article 23(2)(b).	Ratio
+If it were - if, for example, the taxpayer were Anson plc, a UK resident company holding at least 10% of the voting power in the LLC, and the question was whether it was entitled to relief from corporation tax in respect of underlying tax paid in the US by subsidiaries of the LLC then it would be necessary, as in Memec, to consider whether Anson plc could be treated as having been paid the dividends received by the LLC from its subsidiaries.	Ratio
+But that is not this case.	Ratio
+The issue in this case is not whether the receipts of the LLC from third parties are to be regarded as having been paid to the members of the LLC, but whether the income on which Mr Anson paid tax in the US is the same as the income on which he is liable to tax in the UK.	Ratio
+As I shall explain, answering that question involves considering whether income arises to Mr Anson, for the purposes of UK income tax, when his share of profits is allocated to his account, or when he receives distributions of profits.	Ratio
+That issue is different from the issue considered in Memec.	Ratio
+The answer to the question whether the receipts and expenditure of an entity are paid to and by its members does not necessarily determine whether, when a profit arises in a given accounting period, that profit constitutes the income of the members.	Ratio
+The answer to the latter question depends on the respective rights of the entity and its members in relation to the profit, and therefore on the legal regime governing those rights.	Ratio
+The correct approach to the present question	Ratio
+Article 31(1) of the Vienna Convention requires a treaty to be interpreted in accordance with the ordinary meaning to be given to the terms of the treaty in their context and in the light of its object and purpose.	Ratio
+It is accordingly the ordinary (contextual) meaning which is relevant.	Ratio
+As Robert Walker J observed at first instance in Memec, [1996] STC 1336, 1349, a treaty should be construed in a manner which is international, not exclusively English.	PRE
+That approach reflects the fact that a treaty is a text agreed upon by negotiation between the contracting governments.	Ratio
+The terms of the 1975 Convention reflect the intentions of the US as much as those of the UK.	Ratio
+They are intended to impose reciprocal obligations, as the background to the UK/US agreements from 1945 onwards makes clear.	Ratio
+The terms of article 23(2), in particular, broadly reciprocate those of article 23(1), and are important to businesses in the US as well as to the UK investors who may receive dividends or other income from them.	Ratio
+In that context, one would be predisposed to favour an interpretation which reflected the ordinary meaning of the words used and the object of the Convention.	Ratio
+This is indeed a point which has been repeatedly made, in other cases concerned with the construction of the UK/US double taxation conventions, in the face of narrow and technical constructions: see, for example, Strathalmond v Inland Revenue Comrs [1972] 1 WLR 1511, 1517-1518, and Inland Revenue Comrs v Commerzbank AG; Inland Revenue Comrs v Banco do Brasil SA [1990] STC 285, 303.	Ratio
+In that connection, it is also relevant to note that, by virtue of section 788(3) of the 1988 Act, the arrangements made in a double taxation treaty given effect by an Order made under that section are, subject to the provisions of Part XVIII of the Act (the double taxation provisions), to have effect notwithstanding anything in any enactment.	Ratio
+The provisions of the 1975 Convention therefore override inconsistent provisions in domestic UK tax legislation, other than those concerned with double taxation relief.	Ratio
+It has not been suggested in this appeal that there is any conflict between the 1975 Convention (on any of the interpretations canvassed in argument) and the provisions of Part XVIII of the 1988 Act.	Ratio
+Giving the words used in article 23(2)(a) their ordinary meaning, it is necessary to identify the profits or income by reference to which the taxpayers UK tax liability is computed.	Ratio
+That is primarily a question of UK tax law (I say primarily, because the meaning of terms used in the Convention may not be a question of UK tax law: United Kingdom tax, for example, is a defined term).	Ratio
+It is then necessary to identify the profits or income from sources within the US on which US tax was payable under the laws of the US and in accordance with the Convention.	Ratio
+That is primarily a question of US tax law.	Ratio
+It is then necessary to compare the profits or income in each case, and decide whether they are the same.	Ratio
+The words the same are ordinary English words.	Ratio
+It should however be borne in mind that a degree of pragmatism in their application may be necessary in some circumstances if the object of the Convention is to be achieved, for example where differences between UK and foreign accounting and tax rules prevent a precise matching of the income by reference to which tax is computed in the two jurisdictions.	Ratio
+It appears that some potential difficulties of this kind are in practice avoided by the Commissioners accepting that the profits on which foreign tax is computed and in respect of which relief can be claimed are not confined to those arising under UK tax principles in individual UK chargeable periods: see Munro, UK Tax Treaties (2013), para 4.26.	Ratio
+Relief under the Convention in the present case	Ratio
+Mr Anson is liable to UK income tax under Case V of Schedule D in respect of income arising from possessions out of the United Kingdom.	Ratio
+There is no dispute that he had a possession out of the UK for this purpose, although the parties differ as to how it should be described.	Ratio
+More importantly, the parties differ as to the stage at which Mr Ansons income, and therefore a liability to tax, arises.	Ratio
+Mr Anson maintains that income arises as profits are earned by the LLC, regardless of whether they are distributed.	Ratio
+The income which is liable to tax is therefore Mr Ansons share of the profits.	Ratio
+The Commissioners argue that income arises only as and when profits are distributed.	Ratio
+If no distributions are made, then on the Commissioners argument no tax liability arises.	Ratio
+The income liable to tax is therefore the distributions.	Ratio
+There is no doubt that taxpayers can be liable to tax in respect of income to which they are entitled without receiving payment of that income.	Ratio
+Examples include the income of an interest-in-possession trust (Baker v Archer-Shee) or of a partnership (Reed v Young [1986] 1 WLR 653-654; [1986] STC 285, 289-290; Padmore v Inland Revenue Comrs [1987] STC 36, 51).	Ratio
+The Commissioners distinguish partnerships from the present case on the basis that the business of a partnership is carried on by the partners themselves, who are therefore automatically entitled to the profits.	Ratio
+There is a dispute between the parties whether that is a correct analysis of a Scottish partnership, but it is unnecessary to resolve that question in the present appeal.	Ratio
+The Commissioners distinguish the case of an interest-in-possession trust on the basis that the business (or other profit-generating activity) is carried on by one person on behalf of another, who is automatically entitled to the profits.	Ratio
+The present case is different, it is said, because there is no similar entitlement.	Ratio
+Expressing the same idea in a different way, in the case of a partnership or an interest-in-possession trust, the source of the taxpayers income is the business carried on by the firm or the trustees respectively, whereas in the present case, it is said, the source of Mr Ansons income is his rights under the LLC agreement.	Ratio
+The premise of the Commissioners submissions is that, because the business of the LLC is carried on by the LLC, it necessarily follows that the profits generated by the business belong to the LLC.	Ratio
+On that premise, the effect of the LLC agreement must be to require the LLC to transfer its profits to the members.	Ratio
+As the Commissioners state in their printed case: If a trader carries on a trade beneficially, the profits belong to him and any instrument which obligates the trader to pay on those profits creates a source for the payee which is a distinct source from that of the trading entitys trade. ... A trader who agrees contractually to pay all, or a part of, his profits to a third party remains taxable on all of his profits.	Ratio
+The profits do not belong to the third party and he is not taxable on them.	Ratio
+The difficulty with this argument is that it is contradicted by the findings made by the FTT.	Ratio
+It is relevant to note, in the first place, that the rights of a member of the LLC were found to arise from the LLC Act, combined with the LLC agreement.	Ratio
+Secondly, that agreement was not a contract between the LLC and its members: the LLC was not a party to it, but was brought into being by it, on the terms set out in it and in the provisions of the LLC Act.	Ratio
+It was thus the constitutive document of the LLC.	Ratio
+It was against that background that the FTT made findings which contradict the premise that the profits belong to the LLC in the first instance and are then transferred by it to the members.	Ratio
+Their conclusion, on the contrary, was that, under the law of Delaware, the members automatically became entitled to their share of the profits generated by the business carried on by the LLC as they arose: prior to, and independently of, any subsequent distribution.	Ratio
+As the FTT stated: The profits do not belong to the LLC in the first instance and then become the property of the members. ... Accordingly, our finding of fact in the light of the terms of the LLC operating agreement and the views of the experts is that the members of [the LLC] have an interest in the profits of [the LLC] as they arise.	Ratio
+As I have explained, the evidence as to Delaware law entitled the FTT to make that finding.	Ratio
+The Commissioners challenged it in this court, as they did below, on two bases.	Ratio
+The first was that the FTT was describing a proprietary right, as the Upper Tribunal had held.	Ratio
+Since there was no basis in the evidence for such a finding, the FTT had erred in law.	Ratio
+I reject that criticism for the reasons explained at paras 38-40.	Ratio
+Secondly, it was argued that the FTTs finding constituted a holding on domestic law, not a finding of fact on foreign law.	Ratio
+I reject that criticism for the reasons explained in para 51.	Ratio
+If, then, Mr Anson was entitled to the share of the profits allocated to him, rather than receiving a transfer of profits previously vested (in some sense) in the LLC, it follows that his income arising in the US was his share of the profits.	Ratio
+That is therefore the income liable to tax under UK law, to the extent that it is remitted to the UK.	Ratio
+There is no dispute as to the income which was taxed in the US: that was Mr Ansons share of the profits of the LLC.	Ratio
+Mr Ansons liability to UK tax is therefore computed by reference to the same income as was taxed in the US.	Ratio
+He accordingly qualifies for relief under article 23(2)(a).	Ratio
+Conclusion	RPC
+For these reasons, I agree with the conclusion reached by the FTT, and would therefore allow the appeal.	RPC

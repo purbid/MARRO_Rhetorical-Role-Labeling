@@ -1,0 +1,340 @@
+This appeal arises from a tragic incident on 5 July 2000 at Gloucester Park swimming pool in Basildon, Essex.	FAC
+The Appellant, then aged ten, was a pupil at Whitmore Junior School, for which the Respondent education authority was responsible.	FAC
+The national curriculum, in its then form, included physical training of a number of alternative kinds, one of which was swimming, and pupils at the school had swimming lessons in normal school hours.	FAC
+What appears to have happened was that the Appellant and other members of her class went to the pool, accompanied by a class teacher, Mrs Holt.	FAC
+At the pool, the children were divided into groups.	FAC
+The group to which the Appellant was assigned was taught by a swimming teacher, Ms. Burlinson, with a lifeguard, Ms Maxwell, in attendance.	FAC
+At some point, the Appellant got into difficulties, and was found (in the judges words) hanging vertically in the water.	FAC
+She was resuscitated, but suffered a serious hypoxic brain injury.	FAC
+The Appellant alleges (among other things) that her injuries were due to the negligence of Ms Burlinson and Ms Maxwell.	FAC
+Neither of them was employed by the education authority.	FAC
+Their services had been provided to the authority by Mrs Beryl Stopford.	FAC
+She was an independent contractor who carried on an unincorporated business under the name of Direct Swimming Services, and had contracted with the education authority to provide swimming lessons to its pupils.	FAC
+The issue on the present appeal arises out of an allegation in the Appellants pleadings that the Council owed her a non-delegable duty of care, with the result that it is liable at law for any negligence on the part of Ms Burlinson or Ms Maxwell.	Ratio
+Langstaff J struck it out on the ground that on the pleaded facts the education authority could not be said to have owed a non-delegable duty of care.	FAC
+The Court of Appeal affirmed his decision by a majority (Tomlinson and Kitchin LJJ, Laws LJ dissenting).	FAC
+The appeal provides a useful occasion for reviewing the law on what have been called non-delegable duties of care.	FAC
+But it must be very doubtful whether deciding such a point on the pleadings was really in the interests of these parties or of the efficient conduct of their litigation.	FAC
+The pleadings are unsatisfactory.	FAC
+There are no findings of fact and almost everything is disputed.	FAC
+A decision of the point presently before us will not be decisive of the litigation either way, because there are other bases of claim independent of it.	FAC
+The point has taken more than two years to reach this stage, during which, if the allegation had been allowed to go to trial, it would almost certainly have been decided by now.	FAC
+As it is, regardless of the outcome of this appeal it will now have to go back to the High Court to find the relevant facts.	FAC
+Non-delegable duties	FAC
+In principle, liability in tort depends upon proof of a personal breach of duty.	Ratio
+To that principle, there is at common law only one true exception, namely vicarious liability.	Ratio
+Where a defendant is vicariously liable for the tort of another, he commits no tort himself and may not even owe the relevant duty, but is held liable as a matter of public policy for the tort of the other: Majrowski v Guys and St Thomass NHS Hospital Trust [2007] 1 AC 224.	Ratio
+The boundaries of vicarious liability have been expanded by recent decisions of the courts to embrace tortfeasors who are not employees of the defendant, but stand in a relationship which is sufficiently analogous to employment: Various Claimants v Catholic Child Welfare Society [2013] 2 AC 1.	Ratio
+But it has never extended to the negligence of those who are truly independent contractors, such as Mrs Stopford appears to have been in this case.	Ratio
+The issue on this appeal is, however, nothing to do with vicarious liability, except in the sense that it only arises because there is none.	Ratio
+On the footing that the local authority was not vicariously liable for the negligence of Mrs Stopford, Ms Burlinson or Ms Maxwell, the question is what was the scope of the authoritys duty to pupils in its care.	Ratio
+Was it a duty to take reasonable care in the performance of the functions entrusted to it, so far as it performed those functions itself, through its own employees? Or was it a duty to procure that reasonable care was taken in their performance by whomever it might get to perform them?	Ratio
+On either view, any liability of the education authority for breach of it is personal, not vicarious.	Ratio
+The law of negligence is generally fault-based.	Ratio
+Generally speaking, a defendant is personally liable only for doing negligently that which he does at all, or for omissions which are in reality a negligent way of doing that which he does at all.	Ratio
+The law does not in the ordinary course impose personal (as opposed to vicarious) liability for what others do or fail to do.	Ratio
+This is because, as Cory J observed, delivering the judgment of the majority in the Supreme Court of Canada in Lewis v British Columbia [1997] 3 SCR 1145 at para 17, a common law duty of care does not usually demand compliance with a specific obligation.	Ratio
+It is only when an act is undertaken by a party that a general duty arises to perform the act with reasonable care.	Ratio
+The expression non-delegable duty has become the conventional way of describing those cases in which the ordinary principle is displaced and the duty extends beyond being careful, to procuring the careful performance of work delegated to others.	Ratio
+English law has long recognised that non-delegable duties exist, but it does not have a single theory to explain when or why.	Ratio
+There are, however, two broad categories of case in which such a duty has been held to arise.	Ratio
+The first is a large, varied and anomalous class of cases in which the defendant employs an independent contractor to perform some function which is either inherently hazardous or liable to become so in the course of his work.	Ratio
+The early cases are concerned with the creation of hazards in a public place, generally in circumstances which apart from statutory authority would constitute a public nuisance: see Pickard v Smith (1861) 10 CB (NS) 470 (which appears to be the first reported case of a non-delegable duty), Penny v Wimbledon Urban District Council [1898] 2 QB 212 and Holliday v National Telephone Company [1899] 2 QB 392.	Ratio
+In Honeywill and Stein Ltd v Larkin Brothers (Londons Commercial Photographers) Ltd [1934] 1 KB 191, the principle was applied more broadly to extra-hazardous operations generally.	Ratio
+Many of these decisions are founded on arbitrary distinctions between ordinary and extraordinary hazards which may be ripe for re-examination.	Ratio
+Their justification, if there is one, should probably be found in a special public policy for operations involving exceptional danger to the public.	Ratio
+But their difficulties do not need to be considered further on these appeals, because teaching children to swim, while it unquestionably involves risks and calls for precautions, is not is not on any view an extra-hazardous activity.	Ratio
+It can be perfectly satisfactorily analysed by reference to ordinary standards of care.	Ratio
+The second category of non-delegable duty is, however, directly in point.	Ratio
+It comprises cases where the common law imposes a duty upon the defendant which has three critical characteristics.	Ratio
+First, it arises not from the negligent character of the act itself but because of an antecedent relationship between the defendant and the claimant.	Ratio
+Second, the duty is a positive or affirmative duty to protect a particular class of persons against a particular class of risks, and not simply a duty to refrain from acting in a way that foreseeably causes injury.	Ratio
+Third, the duty is by virtue of that relationship personal to the defendant.	Ratio
+The work required to perform such a duty may well be delegable, and usually is.	Ratio
+But the duty itself remains the defendants.	Ratio
+Its delegation makes no difference to his legal responsibility for the proper performance of a duty which is in law his own.	Ratio
+In these cases, the defendant is assuming a liability analogous to that assumed by a person who contracts to do work carefully.	Ratio
+The contracting party will normally be taken to contract that the work will be done carefully by whomever he may get to do it: see Photo Production Ltd v Securicor Transport Ltd [1980] AC 827, 848 (Lord Diplock).	Ratio
+The analogy with public services is often close, especially in the domain of hospital treatment in the National Health Service or education at a local education authority school, where only the absence of consideration distinguishes them from the private hospital or the fee-paying school performing the same functions under contract.	Ratio
+In the law of tort, the same consequence follows where a statute imposes on the defendant personally a positive duty to perform some function or to carry out some operation, but he performs that duty by entrusting the work to some one else for whose proper performance he is legally responsible.	Ratio
+In Morris v C.W. Martin & Sons Ltd [1966] 1 QB 716, 725-728, Lord Denning MR analysed the liability of a non-contractual bailee for reward in similar terms, as depending on his duty to procure that proper care was exercised in the custody of the goods bailed.	Ratio
+Origins	Ratio
+This characterisation of non-delegable duties originated in the law of nuisance, and in a number of seminal judgments of Lord Blackburn in the late nineteenth century.	PRE
+It was implicit in the famous judgment of the Exchequer Chamber in Rylands v Fletcher (1866) LR 1 Ex 265, delivered by Blackburn J and subsequently affirmed by the House of Lords (1868) LR 3 HL 330, that the duty of the defendant to prevent the escape of water from his reservoir was non-delegable, for on the facts it was due to the operations of an independent contractor.	PRE
+The point became explicit in Dalton v Henry Angus & Co (1881) 6 App Cas 740, in which the House of Lords had to consider the duty of adjoining landowners not to withdraw support from each others land.	PRE
+The withdrawal of support had been due to works carried out on the defendants land by an independent contractor.	PRE
+Lord Blackburn, who delivered the principal speech on this point, regarded the interposition of an independent contractor as irrelevant, because of the nature of the duty.	PRE
+At p 829 he put the point in this way: Ever since Quarman v Burnett (1840) 6 M & W 499 it has been considered settled law that one employing another is not liable for his collateral negligence unless the relation of master and servant existed between them.	PRE
+So that a person employing a contractor to do work is not liable for the negligence of that contractor or his servants.	PRE
+On the other hand, a person causing something to be done, the doing of which casts on him a duty, cannot escape from the responsibility attaching on him of seeing that duty performed by delegating it to a contractor.	PRE
+He may bargain with the contractor that he shall perform the duty and stipulate for an indemnity from him if it is not performed, but he cannot thereby relieve himself from liability to those injured by the failure to perform it: Hole v Sittingbourne Railway Co (1861) 6 H & N 488; Pickard v Smith 10 CB (NS) 470; Tarry v Ashton (1876) 1 QBD 314.	PRE
+Rylands v Fletcher and Dalton v Henry Angus & Co might have been explained by reference to the hazardous character of the operation carried out by the defendants contractor, and sometimes have been, notably by the Court of Appeal in Honeywill and Stein Ltd v Larkin Brothers (Londons Commercial Photographers) Ltd [1934] 1 KB 191.	PRE
+But it is clear from Lord Blackburns observations that the essential point about them was that there was an antecedent relationship between the parties as neighbouring landowners, from which a positive duty independent of the wrongful act itself could be derived.	PRE
+The duty was personal to the defendant, because it attached to him in his capacity as the occupier of the neighbouring land from which the hazard originated.	PRE
+All of these features were also present in Hughes v Percival (1883) 8 App Cas 443, which was one of the first cases in which the same principle was applied to a duty of care.	PRE
+The parties were neighbouring householders with a party wall.	PRE
+A builder working in the defendants house negligently cut into the party wall, causing the partial collapse of both the defendants house and the Plaintiffs house next-door.	PRE
+On its facts, therefore, the case had many of the classic features of the cases about non-delegable duties in the law of nuisance, and Lord Blackburn, delivering the leading speech in the Appellate Committee, proceeded by analogy with them.	PRE
+He put the matter in this way, at pp 445-446: The first point to be considered is what was the relation in which the defendant stood to the plaintiff.	PRE
+It was admitted that they were owners of adjoining houses between which was a party-wall the property of both.	PRE
+The defendant pulled down his house and had it rebuilt on a plan which involved in it the tying together of the new building and the party-wall which was between the plaintiff's house and the defendant's, so that if one fell the other would be damaged.	PRE
+The defendant had a right so to utilize the party-wall, for it was his property as well as the plaintiff's; a stranger would not have had such a right.	PRE
+But I think the law cast upon the defendant, when exercising this right, a duty towards the plaintiff.	PRE
+I do not think that duty went so far as to require him absolutely to provide that no damage should come to the plaintiff's wall from the use he thus made of it, but I think that the duty went as far as to require him to see that reasonable skill and care were exercised in those operations which involved a use of the party-wall, exposing it to this risk.	PRE
+If such a duty was cast upon the defendant he could not get rid of responsibility by delegating the performance of it to a third person.	PRE
+He was at liberty to employ such a third person to fulfil the duty which the law cast on himself, and, if they so agreed together, to take an indemnity to himself in case mischief came from that person not fulfilling the duty which the law cast upon the defendant; but the defendant still remained subject to that duty, and liable for the consequences if it was not fulfilled.	PRE
+This is the law I think clearly laid down in Pickard v Smith 10 CB (NS) 470, and finally in (1881) Dalton v Angus 6 App Cas 740.	PRE
+But in all the cases on the subject there was a duty cast by law on the party who was held liable.	PRE
+Assumption of responsibility	Ratio
+The duty to which Lord Blackburn was referring would today be regarded as arising from an assumption of responsibility imputed to the defendant by virtue of the special character of his relationship with the claimant.	Ratio
+The concept of an assumption of responsibility is usually relevant in the law of negligence as a tool for determining whether a duty of care is owed to protect against a purely economic loss.	Ratio
+There is no doubt in this case that the education authority owed a duty of care to its pupils to protect them from injury.	Ratio
+But the concept of assumption of responsibility is relevant to determine its scope, whether the potential loss is economic or physical.	Ratio
+The circumstances must be such that the defendant can be taken not just to have assumed a positive duty, but to have assumed responsibility for the exercise of due care by any one to whom he may delegate its performance.	Ratio
+This is a markedly more onerous obligation.	Ratio
+What are the circumstances in which a person may be taken to have assumed it? They have been considered in a number of cases involving injuries sustained by employees, hospital patients, school pupils and invitees, at the hands of persons working for the defendant for whom the defendant was not vicariously liable.	Ratio
+There are a number of situations where by virtue of some special relationship the defendant is held to assume positive duties.	PRE
+Henderson v Merrett Syndicates Ltd [1995] 2 AC 145 is a classic example of a duty of care to perform professional services, arising out of a special relationship equivalent to contract but not contractual: see, in particular Lord Goff of Chieveley at pp 180-181.	PRE
+A corresponding relationship may also arise out of a sufficient degree of dependence, even in the absence any reliance, as it did in very different circumstances in Dorset Yacht Company v Home Office [1970] AC 1004 and White v Jones [1995] 2 AC 207, 275 (Lord Browne-Wilkinson).	PRE
+It does not, however, follow from the mere existence of a positive duty that it is personal to the defendant so as to make it non- delegable.	PRE
+In the nuisance or quasi-nuisance cases, the personal character of the duty results, as I have pointed out, from the fact it arises from the defendants occupation of the land from which the hazard originates.	PRE
+In other cases, the personal character of the duty must be derived from something else.	PRE
+Both principle and authority suggest that the relevant factors are the vulnerability of the claimant, the existence of a relationship between the claimant and the defendant by virtue of which the latter has a degree of protective custody over him, and the delegation of that custody to another person.	PRE
+The employment cases	Ratio
+These matters first arose for consideration in the context of the common law duty of an employer to his workforce.	PRE
+This was an area in which the courts at an early stage of the development of the law of tort, adopted a protective approach to those who were vulnerable and not in a position to defend their own interests.	PRE
+In Wilsons & Clyde Coal Co Ltd v English [1938] AC 57, the House of Lords not only held that the employer had a duty to provide a safe system of work, but also that it was (in the modern terminology) non-delegable.	PRE
+Liability was not therefore excluded on the ground that the breach was due to the negligence of another employee, for which the employer would not (as the law then stood) have been liable because of the doctrine of common employment.	PRE
+The duty was non- delegable because of its personal character.	PRE
+Lord Macmillan said at p 75: [The defendant] cannot divest himself of this duty, though he mayand, if it involves technical management and he is not himself technically qualified, mustperform it through the agency of an employee.	PRE
+It remains the owner's obligation, and the agent whom the owner appoints to perform it performs it on the owner's behalf.	PRE
+The owner remains vicariously responsible for the negligence of the person whom he has appointed to perform his obligation for him, and cannot escape liability by merely proving that he has appointed a competent agent.	PRE
+If the owner's duty has not been performed, no matter how competent the agent selected by the owner to perform it for him, the owner is responsible.	PRE
+The fullest rationalisation of the principle appears in the speech of Lord Wright.	PRE
+Referring to the earlier decision of the House in Lochgelly Iron and Coal Co v Mc Mullan [1934] AC 1, he observed at p 78: This House held that, on the contrary, the statutory duty was personal to the employer, in this sense that he was bound to perform it by himself or by his servants.	PRE
+The same principle, in my opinion, applies to those fundamental obligations of a contract of employment which lie outside the doctrine of common employment, and for the performance of which employers are absolutely responsible.	PRE
+Dealing, later in his speech, with the scope of the duty, Lord Wright said at pp 83- 84: The true question is, What is the extent of the duty attaching to the employer? Such a duty is the employer's personal duty, whether he performs or can perform it himself, or whether he does not perform it or cannot perform it save by servants or agents.	PRE
+A failure to perform such a duty is the employer's personal negligence.	PRE
+This was held to be the case where the duty was statutory, and it is equally so when the duty is one attaching at common law... I think the whole course of authority consistently recognizes a duty which rests on the employer and which is personal to the employer, to take reasonable care for the safety of his workmen, whether the employer be an individual, a firm, or a company, and whether or not the employer takes any share in the conduct of the operations.	PRE
+The principle thus expressed was qualified only by its limitation to those acts of the delegate which were within the scope of the employers personal duty: It is not, however, broken by a mere misuse or failure to use proper plant and appliances due to the negligence of a fellow-servant or a merely temporary failure to keep in order or adjust plant and appliances or a casual departure from the system of working, if these matters can be regarded as the casual negligence of the managers, foreman, or other employees.	PRE
+(pp 84-5) So far as there was ever any doubt about the application of this principle to the negligence of an independent contractor, it was resolved by the House of Lords in McDermid v Nash Dredging and Reclamation Co Ltd [1987] AC 906.	PRE
+The hospital cases	PRE
+In Gold v Essex County Council [1942] 2 KB 293, a voluntary hospital operated by a local authority was held liable for the negligence of a radiographer employed by it.	PRE
+The decision was an orthodox application of the doctrine of vicarious liability.	PRE
+The main issue was whether the authority could be vicariously liable even for employees in cases where their employment called for the exercise of special skill of a kind which the authority could not reasonable be expected to supervise or control.	PRE
+Lord Greene MR, however, considered more broadly the basis of the hospitals liability for the negligence of those through whom it discharged its duty of care to patients, at p 301: the extent of the obligation which one person assumes towards another is to be inferred from the circumstances of the case.	PRE
+This is true whether the relationship be contractual (as in the case of a nursing home conducted for profit) or non-contractual (as in the case of a hospital which gives free treatment).	PRE
+In the former case there is, of course, a remedy in contract, while in the latter the only remedy is in tort, but in each case the first task is to discover the extent of the obligation assumed by the person whom it is sought to make liable.	PRE
+Once this is discovered, it follows of necessity that the person accused of a breach of the obligation cannot escape liability because he has employed another person, whether a servant or agent, to discharge it on his behalf, and this is equally true whether or not the obligation involves the use of skill.	PRE
+It is also true that, if the obligation is undertaken by a corporation, or a body of trustees or governors, they cannot escape liability for its breach, any more than can an individual, and it is no answer to say that the obligation is one which on the face of it they could never perform themselves.	PRE
+In Cassidy v Ministry of Health [1951] 2 KB 343, Gold v Essex County Council was followed in another case involving employed medical staff.	PRE
+The majority of the Court of Appeal (Somervell and Singleton LJJ) were content to treat the matter as an ordinary case of vicarious liability and to leave it at that.	PRE
+But Denning LJ considered that the critical factor was not the hospitals relationship with the doctor or surgeon, but its relationship with the patient, arising from its acceptance of the patient for treatment.	PRE
+He put the point as follows, at pp.	PRE
+362-363: when hospital authorities undertake to treat a patient, and themselves select and appoint and employ the professional men and women who are to give the treatment, then they are responsible for the negligence of those persons in failing to give proper treatment, no matter whether they are doctors, surgeons, nurses, or anyone else... where the doctor or surgeon, be he a consultant or not, is employed and paid, not by the patient but by the hospital authorities, I am of opinion that the hospital authorities are liable for his negligence in treating the patient.	PRE
+It does not depend on whether the contract under which he was employed was a contract of service or a contract for services.	PRE
+That is a fine distinction which is sometimes of importance; but not in cases such as the present, where the hospital authorities are themselves under a duty to use care in treating the patient.	PRE
+This is a robust assertion, albeit reflecting a minority view, that a hospitals duty of care to patients is personal as well as vicarious, and therefore non-delegable.	PRE
+Denning LJ cited in support of his view the classic statements of the principle of non-delegable duty by Lord Blackburn in Dalton v Angus and Hughes v Percival.	PRE
+At pp 364-365, he went on to consider the scope of the matters for which the authority was responsible: The truth is that, in cases of negligence, the distinction between a contract of service and a contract for services only becomes of importance when it is sought to make the employer liable, not for a breach of his own duty of care, but for some collateral act of negligence of those whom he employs.	PRE
+He cannot escape the consequences of a breach of his own duty, but he can escape responsibility for collateral or casual acts of negligence if he can show that the negligent person was employed, not under a contract of service but only under a contract for services... These distinctions are, however, of no importance in the present case, because we are not concerned with any collateral or casual acts of negligence by the staff, but negligence in the treatment itself which it was the employer's duty to provide.	PRE
+In Roe v Minister of Health [1954] 2 QB 66, Denning LJ repeated his analysis in Cassidy, but the case was once again decided on other grounds by the other members of the Court of Appeal.	PRE
+These dicta have never been adopted as part of the ratio of any English case.	PRE
+But the principle which they embody is supported by powerful dicta.	PRE
+In particular, Lord Browne-Wilkinson, delivering the leading speech in the House of Lords in X (Minors) v Bedfordshire County Council [1995] 2 AC 633, considered that a hospital authority assumed a personal and not just a vicarious liability for the negligence of medical staff, which might therefore be broken even in a case where no duty of care was owed by the staff themselves.	PRE
+At p 740, he observed: It is established that those conducting a hospital are under a direct duty of care to those admitted as patients to the hospital (I express no view as to the extent of that duty).	PRE
+They are liable for the negligent acts of a member of the hospital staff which constitute a breach of that duty, whether or not the member of the staff is himself in breach of a separate duty of care owed by him to the plaintiff: Gold v Essex County Council [1942] 2 KB 293, 301, per Lord Green[e]; Cassidy v Ministry of Health [1951] 2 KB 343, per Denning LJ; Roe v Minister of Health [1954] 2 QB 66; see also Wilsons & Clyde Coal Co Ltd v English [1938] AC 57; McDermid v Nash Dredging & Reclamation Co Ltd [1987] AC 906.	PRE
+Therefore in the cases under appeal, even where there is no allegation of a separate duty of care owed by a servant of the authority to the plaintiff, the negligent acts of that servant are capable of constituting a breach of the duty of care (if any) owed directly by the authority to the plaintiff.	PRE
+The Australian case-law	PRE
+Professor Glanville Williams, who was hostile to the whole notion of a non- delegable duty of care, criticised these statements in a famous article, "Liability for Independent Contractors" [1956] CLJ, 180, on the ground that they asserted that a non-delegable duty arose without explaining why.	PRE
+I think that this criticism is unfair, for the circumstances which made the duty non-delegable are reasonably clear from the facts that were being discussed.	PRE
+But they have been considered and applied in four important decisions of the High Court of Australia, which consider in some detail the underlying rationale of non-delegable duties.	PRE
+In Commonwealth v Introvigne (1982) 150 CLR 258, the Commonwealth of Australia, as the authority responsible for a school in the Australian Capital Territory, was held liable for injury to a child on school premises, notwithstanding that the running of the school and the employment of the staff were delegated to the State of New South Wales.	PRE
+This was because the duty of the Commonwealth was held to be a non-delegable duty.	PRE
+Mason J, with whom Gibbs CJ agreed, took the dicta in Gold and Cassidy as his starting point, and justified this step at paras 29-35 by reference to the vulnerability and consequent dependence of school children: 29.	PRE
+The concept of personal duty, performance of which is incapable of delegation, has been strongly criticised, especially outside the master and servant relationship where its introduction was designed to overcome the consequences of the doctrine of common employment (see Glanville Williams "Liability for Independent Contractors" (1956) Cambridge Law Journal, p 180).	PRE
+It has been said that the concept of personal duty departs from the basic principles of liability and negligence by substituting for the duty to take reasonable care a more stringent duty, a duty to ensure that reasonable care is taken.	PRE
+This criticism fails to acknowledge that the law has, for various reasons, imposed a special duty on persons in certain situations to take particular precautions for the safety of others, e.g. the occupier of premises.	PRE
+30.	PRE
+There are strong reasons for saying that it is appropriate that a school authority comes under a duty to ensure that reasonable care is taken of pupils attending the school... The immaturity and inexperience of the pupils and their propensity for mischief suggest that there should be a special responsibility on a school authority to care for their safety, one that goes beyond a mere vicarious liability for the acts and omissions of its servants.	PRE
+... 32.	PRE
+By establishing a school which was "maintained" on its behalf at which parents could enrol their children for instruction pursuant to the obligation imposed on them by the Ordinance, the Commonwealth, in my opinion, came under a duty of care to children attending the school.	PRE
+The nature and scope of that duty of care was co-extensive with the duty of care owed by any authority or body conducting a school to pupils attending the school.	PRE
+It was a duty to ensure that reasonable care was taken for the safety of the pupil which was breached in the circumstances of this case, in the two respects already mentioned.	PRE
+It was, as I see it, a duty directly owed by the Commonwealth for breach of which it is liable.	PRE
+It was not a case of vicarious liability for the omissions of the acting principal and the members of his staff, though had it been necessary to do so, the Commonwealth might have been found liable on this score.	PRE
+33.	PRE
+The fact that the Commonwealth delegated the teaching function to the State, including the selection and control of teachers, does not affect its liability for breach of duty.	PRE
+Neither the duty, nor its performance, is capable of delegation.	PRE
+It is not enough for the Commonwealth, in providing a school, to leave it to the State to take care for the safety of the children attending the school.	PRE
+Nor does it matter that the Commonwealth does not control and cannot direct the teaching staff in the performance of its duties.	PRE
+That would be a relevant factor if the question was: are the teachers servants of the Commonwealth? However, that is not the issue here.	PRE
+The issue is whether the Commonwealth is liable as a school authority when it establishes the school and arranges with the State to run the school on its behalf.	PRE
+In my opinion, the Commonwealth does not cease to be liable because it arranges for the State to run the school on its behalf.	PRE
+34. ...the Government of the State of New South Wales is not a subcontractor.	PRE
+What it did was to supply the services of its employees to perform for the Commonwealth a task which the Commonwealth had undertaken, i.e. the establishment and operation of schools in the Australian Capital Territory.	PRE
+The High Court of Australia returned to this question in Kondis v State Transport Authority (1984) 154 CLR 672.	PRE
+Kondis was not about schools.	PRE
+It concerned the duty of care owed by an employer.	PRE
+The case was argued on the basis of vicarious liability, but Mason J, with whom Deane and Dawson JJ agreed, decided it on the ground that the relevant duty was non-delegable.	PRE
+For present purposes, the most valuable part of his analysis is a section at paras 29-33 in which he took the opportunity to consider more generally the basis on which the law holds some duties to be non-delegable: 32. ...when we look to the classes of case in which the existence of a non-delegable duty has been recognized, it appears that there is some element in the relationship between the parties that makes it appropriate to impose on the defendant a duty to ensure that reasonable care and skill is taken for the safety of the persons to whom the duty is owed... 33.	PRE
+The element in the relationship between the parties which generates a special responsibility or duty to see that care is taken may be found in one or more of several circumstances.	PRE
+The hospital undertakes the care, supervision and control of patients who are in special need of care.	PRE
+The school authority undertakes like special responsibilities in relation to the children whom it accepts into its care... In these situations the special duty arises because the person on whom it is imposed has undertaken the care, supervision or control of the person or property of another or is so placed in relation to that person or his property as to assume a particular responsibility for his or its safety, in circumstances where the person affected might reasonably expect that due care will be exercised.	PRE
+In Burnie Port Authority v General Jones Pty (1994) 179 CLR 520, the High Court of Australia was concerned with a case in which fire escaped from the defendants property and damaged the Plaintiffs goods which were stored on an adjoining property.	PRE
+The case is best known for subsuming the rule in Rylands v Fletcher within the law of negligence, a step which has not been taken in England: Transco Plc v Stockport Metropolitan Borough Council [2004] 2 AC 1.	PRE
+Viewing it as part of the law of negligence, the court considered the case-law on non- delegable duties and adopted the general statement of the test based on control which had been proposed by Mason J in Kondis.	PRE
+The difference was that this being a dispute about the duties arising from the occupation of land, they were talking about control over the source of the hazard rather than (as in Kondis) control over the Plaintiff.	PRE
+At para 37, the Court observed: The relationship of proximity which exists, for the purposes of ordinary negligence, between a plaintiff and a defendant in circumstances which would prima facie attract the rule in Rylands v Fletcher is characterized by such a central element of control and by such special dependence and vulnerability.	PRE
+One party to that relationship is a person who is in control of premises and who has taken advantage of that control to introduce thereon or to retain therein a dangerous substance or to undertake thereon a dangerous activity or to allow another person to do one of those things.	PRE
+The other party to that relationship is a person outside the premises and without control over what occurs therein, whose person or property is thereby exposed to a foreseeable risk of danger... In such a case, the person outside the premises is obviously in a position of special vulnerability and dependence.	PRE
+Finally, in New South Wales v Lepore (2003) 212 CLR 511, the High Court of Australia revisited the question of the non-delegable duty owed by schools to pupils.	PRE
+It was a difficult case arising out of sexual assaults on children by a teacher in circumstances where there was no allegation and no finding of vicarious liability by the courts below, perhaps because criminal assaults were thought to be outside the course of a teachers employment (the case was pleaded and tried before the decision of the House of Lords in Lister v Hesley Hall Ltd [2002] 1 AC 215).	PRE
+The Court was divided.	PRE
+Several of its members thought that vicarious liability was a simpler route to liability than a non-delegable duty of care.	PRE
+Nonetheless, by a majority of 4-3 (Gaudron, McHugh, Gummow and Hayne JJ) the Court held that the schools owed a non-delegable duty.	PRE
+There are differences of emphasis among the majority.	PRE
+Gaudron J, citing the judgment of Blackburn J in Hughes v Percival, based her view on (i) the fact that the school owed a positive duty to take reasonable care for the safety of children in their charge, and not merely a negative duty to avoid the consequences of a foreseeable risk of injury (paras 104-105), and (ii) the material increase in risk associated with the operation of institutions for the young or vulnerable, such as schools, prisons, nursing homes, old peoples homes and geriatric wards.	PRE
+McHugh J considered that the non-delegable duty arose upon the enrolment of the child para 142.	PRE
+In each case, he observed at para 139, the duty arises because the school authority has control of the pupil whose immaturity is likely to lead to harm to the pupil unless the authority exercises reasonable care in supervising him or her and because the authority has assumed responsibility for the child's protection.	PRE
+Gummow and Hayne JJ were more cautious.	PRE
+At para 255, they suggested that in each case in which a non-delegable liability had been held to exist, there was: ...a relationship in which the person owing the duty either has the care, supervision or control of the other person or has assumed a particular responsibility for the safety of that person or that person's property.	PRE
+It is not suggested, however, that all relationships which display these characteristics necessarily import a non-delegable duty.	PRE
+In what circumstances will a non-delegable duty arise?	PRE
+The main problem about this area of the law is to prevent the exception from eating up the rule.	Ratio
+Non-delegable duties of care are inconsistent with the fault-based principles on which the law of negligence is based, and are therefore exceptional.	Ratio
+The difference between an ordinary duty of care and a non-delegable duty must therefore be more than a question of degree.	Ratio
+In particular, the question cannot depend simply on the degree of risk involved in the relevant activity.	Ratio
+The ordinary principles of tortious liability are perfectly capable of answering the question what duty is an appropriate response to a given level of risk.	Ratio
+In my view, the time has come to recognise that Lord Greene in Gold and Denning LJ in Cassidy were correct in identifying the underlying principle, and while I would not necessarily subscribe to every dictum in the Australian cases, in my opinion they are broadly correct in their analysis of the factors that have given rise to non-delegable duties of care.	Ratio
+If the highway and hazard cases are put to one side, the remaining cases are characterised by the following defining features: (1) The claimant is a patient or a child, or for some other reason is especially vulnerable or dependent on the protection of the defendant against the risk of injury.	Ratio
+Other examples are likely to be prisoners and residents in care homes.	Ratio
+(2) There is an antecedent relationship between the claimant and the defendant, independent of the negligent act or omission itself, (i) which places the claimant in the actual custody, charge or care of the defendant, and (ii) from which it is possible to impute to the defendant the assumption of a positive duty to protect the claimant from harm, and not just a duty to refrain from conduct which will foreseeably damage the claimant.	Ratio
+It is characteristic of such relationships that they involve an element of control over the claimant, which varies in intensity from one situation to another, but is clearly very substantial in the case of schoolchildren.	Ratio
+(3) The claimant has no control over how the defendant chooses to perform those obligations, i.e. whether personally or through employees or through third parties.	Ratio
+(4) The defendant has delegated to a third party some function which is an integral part of the positive duty which he has assumed towards the claimant; and the third party is exercising, for the purpose of the function thus delegated to him, the defendants custody or care of the claimant and the element of control that goes with it.	Ratio
+(5) The third party has been negligent not in some collateral respect but in the performance of the very function assumed by the defendant and delegated by the defendant to him.	Ratio
+In A (Child) v Ministry of Defence [2005] QB 183, at para 47 Lord Phillips of Worth Matravers MR, delivering the leading judgment in the Court of Appeal, suggested that hitherto a non-delegable duty has only been found in a situation where the claimant suffers an injury while in an environment over which the defendant has control.	PRE
+This is undoubtedly a fundamental feature of those cases where, in the absence of a relevant antecedent relationship, the defendant has been held liable for inherently hazardous operations or dangers on the public highway.	PRE
+But I respectfully disagree with the view that control of the environment in which injury is caused is an essential element in the kind of case with which we are presently concerned.	PRE
+The defendant is not usually in control of the environment in which injury is caused by an independent contractor.	PRE
+That is why as a general rule he is not liable for the contractors negligence.	PRE
+Where a non-delegable duty arises, the defendant is liable not because he has control but in spite of the fact that he may have none.	PRE
+The essential element in my view is not control of the environment in which the claimant is injured, but control over the claimant for the purpose of performing a function for which the defendant has assumed responsibility.	PRE
+The actual result in A (A Child) was therefore correct.	PRE
+The Ministry of Defence was not responsible for the negligence of a hospital with whom it contracted to treat soldiers and their families.	PRE
+But the true reason was the finding of the trial judge (quoted at para 28 of Lord Phillips judgment) that there was no sound basis for any feeling... that secondary treatment in hospital was actually provided by the Army (MoD) as opposed to arranged by the army.	PRE
+There was therefore no delegation of any function which the Ministry had assumed personal responsibility to carry out, and no delegation of any custody exercised by the Ministry over soldiers and their families.	PRE
+For exactly the same reason, I think that the Court of Appeal was right in Myton v Woods (1980) 79 LGR 28 to dismiss a claim against a local education authority for the negligence of a taxi firm employed by the authority to drive children to and from school.	PRE
+The school had no statutory duty to transport children, but only to arrange and pay for it.	PRE
+As Lord Denning MR put it, the authority was not liable for an independent contractor except he delegates to the contractor the very duty which he himself has to fulfil.	PRE
+Likewise, the Court of Appeal was right in Farraj v Kings Healthcare NHS Trust [2010] 1 WLR 2139, to dismiss a claim against a hospital which had employed an independent laboratory to analyse a tissue sample for a patient who was not being treated by the hospital and was therefore not in its custody or care.	PRE
+As Dyson LJ put it at para 88, the rationale of any non-delegable duty owed by hospitals is that the hospital undertakes the care, supervision and control of its patients who are in special need of care.	PRE
+Patients are a vulnerable class of persons who place themselves in the care and under the control of a hospital and, as a result, the hospital assumes a particular responsibility for their well-being and safety.	PRE
+The courts should be sensitive about imposing unreasonable financial burdens on those providing critical public services.	Ratio
+A non-delegable duty of care should be imputed to schools only so far as it would be fair, just and reasonable to do so.	Ratio
+But I do not accept that any unreasonable burden would be cast on them by recognising the existence of a non-delegable duty on the criteria which I have summarised above.	Ratio
+My reasons are as follows: (1) The criteria themselves are consistent with the long-standing policy of the law, apparent notably in the employment cases, to protect those who are both inherently vulnerable and highly dependent on the observance of proper standards of care by those with a significant degree of control over their lives.	Ratio
+Schools are employed to educate children, which they can do only if they are allowed authority over them.	Ratio
+That authority confers on them a significant degree of control.	Ratio
+When the schools own control is delegated to someone else for the purpose of performing part of the schools own educational function, it is wholly reasonable that the school should be answerable for the careful exercise of its control by the delegate.	Ratio
+(2) Parents are required by law to entrust their child to a school.	Ratio
+They do so in reliance on the schools ability to look after them, and generally have no knowledge of or influence over the arrangements that the school may make to delegate specialised functions, or the basis on which they do so, or the competence of the delegates, all of which are matters about which only the school is in a position to satisfy itself.	Ratio
+(3) This is not an open-ended liability, for there are important limitations on the range of matters for which a school or education authority assumes non-delegable duties.	Ratio
+They are liable for the negligence of independent contractors only if and so far as the latter are performing functions which the school has assumed for itself a duty to perform, generally in school hours and on school premises (or at other times or places where the school may carry out its educational functions).	Ratio
+In the absence of negligence of their own, for example in the selection of contractors, they will not be liable for the negligence of independent contractors where on analysis their own duty is not to perform the relevant function but only to arrange for its performance.	Ratio
+They will not be liable for the defaults of independent contractors providing extra-curricular activities outside school hours, such as school trips in the holidays.	Ratio
+Nor will they be liable for the negligence of those to whom no control over the child has been delegated, such as bus drivers or the theatres, zoos or museums to which children may be taken by school staff in school hours, to take some of the examples canvassed in argument and by Laws LJ in his dissenting judgment.	Ratio
+(4) It is important to bear in mind that until relatively recently, most of the functions now routinely delegated by schools to independent contractors would have been performed by staff for whom the authority would have been vicariously liable.	Ratio
+The recognition of limited non-delegable duties has become more significant as a result of the growing scale on which the educational and supervisory functions of schools are outsourced, but in a longer historical perspective, it does not significantly increase the potential liability of education authorities.	Ratio
+(5) The responsibilities of fee-paying schools are already non-delegable because they are contractual, and the possibility of contracting out of them is limited by legislation.	Ratio
+In this particular context, there seems to be no rational reason why the mere absence of consideration should lead to an entirely different result when comparable services are provided by a public authority.	Ratio
+A similar point can be made about the technical distinctions that would otherwise arise between privately funded and NHS hospital treatment.	Ratio
+(6) It can fairly be said that the recognition of a non-delegable duty of care owed by schools involves imputing to them a greater responsibility than any which the law presently recognises as being owed by parents.	Ratio
+Parents would not normally incur personal liability for the negligence of (say) a swimming instructor to whom they had handed custody of a child.	Ratio
+The Appellants pleaded allegation that the school stood in loco parentis may not therefore assist their case.	Ratio
+The position of parents is very different to that of schools.	Ratio
+Schools provide a service either by contract or pursuant to a statutory obligation, and while LEA schools do not receive fees, their staff and contractors are paid professionals.	Ratio
+By comparison, the custody and control which parents exercise over their children is not only gratuitous, but based on an intimate relationship not readily analysable in legal terms.	Ratio
+For this reason, the common law has always been extremely cautious about recognising legally enforceable duties owed by parents on the same basis as those owed by institutional carers: see Surtees v Kingston-on-Thames Borough Council [1992] PIQR 101, 121 (Beldam LJ); Barrett v Enfield London Borough Council [2001] 2 AC 550, 588 (Lord Hutton).	Ratio
+Application to the present case	Ratio
+In my opinion, on the limited facts pleaded or admitted, the respondent education authority assumed a duty to ensure that the Appellants swimming lessons were carefully conducted and supervised, by whomever they might get to perform these functions.	Ratio
+The Appellant was entrusted to the school for certain essential purposes, which included teaching and supervision.	Ratio
+The swimming lessons were an integral part of the schools teaching function.	Ratio
+They did not occur on school premises, but they occurred in school hours in a place where the school chose to carry out this part of its functions.	Ratio
+The teaching and the supervisory functions of the school, and the control of the child that went with them, were delegated by the school to Mrs Stopford and through her to Ms Burlinson, and probably to Ms Maxwell as well, to the extent necessary to enable them to give swimming lessons.	Ratio
+The alleged negligence occurred in the course of the very functions which the school assumed an obligation to perform and delegated to its contractors.	Ratio
+It must follow that if the latter were negligent in performing those functions and the child was injured as a result, the educational authority is in breach of duty.	Ratio
+I would accordingly allow the appeal and set aside the judges order striking out the allegation of a non-delegable duty.	Ratio
+LADY HALE (with whom Lord Clarke, Lord Wilson and Lord Toulson agree)	Ratio
+The common law is a dynamic instrument.	Ratio
+It develops and adapts to meet new situations as they arise.	Ratio
+Therein lies its strength.	Ratio
+But therein also lies a danger, the danger of unbridled and unprincipled growth to match what the court perceives to be the merits of the particular case.	Ratio
+So it must proceed with caution, incrementally by analogy with existing categories, and consistently with some underlying principle (see Caparo Industries plc v Dickman [1990] 2 AC 605).	Ratio
+But the words used by judges in explaining why they are deciding as they do are not be treated as if they were the words of statute, setting the rules in stone and precluding further principled development should new situations arise.	Ratio
+These things have been said many times before by wiser judges than me, but are worth repeating in this case, where we are accepting an invitation to develop the law beyond the point which it has currently reached in this jurisdiction.	Ratio
+It is because we are doing that, and thus disagreeing with the conclusions reached in the courts below, that I am adding a few thoughts to the judgment of Lord Sumption, with which of course I agree.	Ratio
+It is also important, so far as possible, that the distinctions produced by this process make sense to ordinary people.	Ratio
+They should not, as Lord Steyn observed in White v Chief Constable of South Yorkshire Police [1999] 2 AC 455, 495, produce an imbalance in the law of tort which might perplex the man on the underground.	Ratio
+In that case, their Lordships obviously thought that the public would be perplexed if the police officers who were present at the Hillsborough disaster could claim compensation for the psychiatric harm they had suffered as a result of the negligence of their fellow officers when the spectators who had suffered the same harm for the same reason could not.	Ratio
+In this case we have the reverse situation, where the public might well be perplexed if one pupil could sue her school for injuries sustained during a negligently conducted swimming lesson but another could not.	Ratio
+Consider the cases of three 10-year-old children, Amelia, Belinda and Clara.	Ratio
+Their parents are under a statutory duty to ensure that they receive efficient full-time education suitable to their age, ability and aptitude, and to any special needs they may have (Education Act 1996, section 7).	Ratio
+Amelias parents send her to a well-known and very expensive independent school.	Ratio
+Swimming lessons are among the services offered and the school contracts with another school which has its own swimming pool to provide these.	Ratio
+Belindas parents send her to a large school run by a local education authority which employs a large sports staff to service its schools, including swimming teachers and life-guards.	Ratio
+Claras parents send her to a small state-funded faith school which contracts with an independent service provider to provide swimming lessons and life-guards for its pupils.	Ratio
+All three children are injured during a swimming lesson as a result (it must be assumed) of the carelessness either of the swimming teachers or of the life-guards or of both.	Ratio
+Would the man on the underground be perplexed to learn that Amelia and Belinda can each sue their own school for compensation but Clara cannot?	Ratio
+As lawyers, we know that the three girls fall into three different legal categories.	Ratio
+Amelia (we will assume) has the benefit of a contractual obligation of the school to secure that care be taken for her safety.	Ratio
+Belinda has the benefit of the rule which makes an employer vicariously liable for the negligence of its employees.	Ratio
+Clara has the benefit of neither and can only succeed if the school has an obligation to secure that care be taken for her safety.	Ratio
+In many ways, as Christine Beuermann points out in her valuable article Vicarious liability and conferred authority strict liability (2013) 20 Torts Law Journal 265, it is unfortunate that the courts have not considered both bases of liability in previous cases concerning harm suffered by school pupils.	Ratio
+They are conceptually quite different, as Laws LJ made clear in the Court of Appeal at [2012] EWCA Civ 239; [2013] 3 WLR 853, paras 5 to 7, and Lord Sumption explains at paras 3 and 4 above.	Ratio
+In the one case, the defendant is not liable because he has breached a duty which he owes personally to the claimant; he is liable because he has employed someone to go about his business for him and in the course of doing so that person has breached a duty owed to the claimant.	Ratio
+In the other case, the defendant is liable because he has breached a duty which he owes personally to the claimant, not because he has himself been at fault, but because his duty was to see that whoever performed the duty he owed to the claimant did so without fault.	Ratio
+No-one in this case has seriously questioned that if a hospital patient is injured as a result of a nurses carelessness it matters whether the nurse is employed by the hospital or by an agency; or if a pupil at school is injured by a teacher it matters whether the teacher is employed by the school or is self- employed.	Ratio
+Yet these are not employees of the hospital or school, nor can it be said that their relationship with the school is akin to employment in the sense in which the relationship of the individual Christian Brothers to their Order was akin to employment in the case of Various Claimants v Catholic Child Welfare Society and others [2012] UKSC 56, [2013] 2 AC 1.	Ratio
+The reason why the hospital or school is liable is that the hospital has undertaken to care for the patient, and the school has undertaken to teach the pupil, and that responsibility is not discharged simply by choosing apparently competent people to do it.	Ratio
+The hospital or school remains personally responsible to see that care is taken in doing it.	Ratio
+As Lord Sumption has shown, the principle of personal responsibility of this sort is well-established in our law.	Ratio
+The prime example is the responsibility of an employer to see that his employees are provided with a safe place of work, safe equipment and a safe system of working.	Ratio
+As Lord Brandon of Oakwood put it in McDermid v Nash Dredging & Reclamation Co Ltd [1987] AC 906, 919: The essential characteristic of the duty is that, if it is not performed, it is no defence for the employer to show that he delegated its performance to a person, whether his servant or not his servant, whom he reasonably believed to be competent to perform it.	Ratio
+Despite such delegation the employer is liable for the non-performance of the duty.	Ratio
+The duty may originally have been formulated in that way to get round the problem that, at common law, an employer could not be vicariously liable for injuries negligently caused by one of his employees to another.	Ratio
+But McDermid shows that it not only survived the abolition of that doctrine by the Law Reform (Personal Injuries) Act 1948 but also applied where performance of the duty was delegated to an independent contractor.	Ratio
+Also, given that there exists a contract of employment between employer and employee, the duty might perhaps have been formulated as an implied term in that contract, rather than in the law of tort.	Ratio
+But it was not.	Ratio
+As Lord Sumption has explained, both Lord Greene MR in Gold v Essex County Council [1942] 2 KB 293, 301, and Denning LJ in Cassidy v Ministry of Health [1951] 2 KB 343, 362-363, would have applied the same principle to get round what was then perceived to be another problem with the law of vicarious liability, that its theoretical foundation was supposed to be the control which the employer could exercise over the manner in which the employee did his work.	Ratio
+This provides a ready answer to the examples of the agency nurse and the supply teacher and I agree with Lord Sumption that the time has come to recognise that Lord Greene and Denning LJ were correct in identifying the underlying principle.	Ratio
+I also agree that the principle will apply in the circumstances set out by Lord Sumption at paragraph 23, subject of course to the usual provisos that such judicial statements are not to be treated as if they were statutes and can never be set in stone.	Ratio
+In my view, those features clearly apply to the delegation of the conduct of swimming lessons to the swimming teacher, Mrs Burlinson, and (subject to any factual matters of which we are unaware) to the lifeguard, Ms Maxwell.	Ratio
+Taking care to keep the children safe is an essential part of any swimming lesson and of the responsibility which the school undertakes towards its pupils.	Ratio
+That is what the life-guard is for.	Ratio
+These features clearly would not apply to the negligent ice-cream vendor or zoo-keeper.	Ratio
+They would not normally apply to the bus driver but they might do so if the school had undertaken to provide transport and placed the pupils in his charge rather than that of a teacher.	Ratio
+The boundaries of what the hospital or school has undertaken to provide may not always be as clear cut as in this case and in Gold and Cassidy, but will have to be worked out on a case by case basis as they arise.	Ratio
+I also agree with Lord Sumption that recognising the existence of a non- delegable duty in the circumstances described above would not cast an unreasonable burden upon the service-providers for all the reasons he gives.	Ratio
+It is particularly worth remembering that for the most part public authorities would have been vicariously liable to claimants who were harmed in this way until the advent of outsourcing of essential aspects of their functions.	Ratio
+As Lord Sumption also explains, it is not particularly helpful to plead that the school is in loco parentis.	Ratio
+The school clearly does owe its pupils at least the duty of care which a reasonable parent owes to her children.	Ratio
+But it may owe them more than that.	Ratio
+Children rarely sue their parents for the harm that they suffer at their parents hands save where that harm is covered by an insurance policy.	Ratio
+But that is not because the parents do not owe them a duty of care.	Ratio
+Rather it is because any damages recovered will normally reduce the resources available to cater for the needs of the child and her family.	Ratio
+The courts are also anxious not to impose an impossibly high standard of care in an ordinary domestic setting, as was common ground between the judges in Surtees v Kingston-upon-Thames Borough Council [1992] PIQR 101 (although speaking for myself, I share the dissenting view of Beldam LJ that the judges factual findings were incomprehensible and the foster parents had not discharged the burden of showing that the severe scalding suffered by their two year old foster child had occurred without negligence on their part).	Ratio
+But neither of those factors applies to institutional carers including schools.	Ratio
+As Lord Hutton explained in Barrett v Enfield London Borough Council [2001] 2 AC 550, 588, when considering the liability of a local authority for the exercise of its parental responsibility towards a child in its care: I consider that the comparison between a parent and a local authority is not an apt one in the present case because the local authority has to make decisions of a nature which a parent with whom a child is living in a normal family relationship does not have to make, . . .	Ratio
+Moreover a local authority employs trained staff to make decisions and to advise it in respect of the future of a child in its care, and if it can be shown that decisions taken in respect of the child constitute, in the circumstances, a failure to take reasonable care, I do not think that the local authority should be held to be free from liability on the ground that it is in the position of a parent to the child.	Ratio
+Both of those features apply as much to a school as to a local authority having parental responsibility for a child and constitute reasons for imposing upon it a responsibility which the law would not impose upon a parent.	Ratio
+Finally, it is of interest to consider the objections raised by Professor Glanville Williams in his famous article Liability for Independent Contractors [1956] CLJ 180.	Ratio
+I agree with Lord Sumption that it was unfair to criticise the concept of the non-delegable duty on the ground that it was not adequately explained.	Ratio
+It has been.	Ratio
+But his main criticism was one of policy that liability should rest solely with the person at fault.	Ratio
+In his view The argument from poverty hardly applies to contractors, who are often far wealthier than their employers (195) and it may be questioned whether the social evil of the occasional insolvent tortfeasant contractor is of sufficient gravity to justify the somewhat complicated rules and the imposition of vicarious liability (198).	Ratio
+Such arguments scarcely apply in todays world where large organisations may well outsource their responsibilities to much poorer and un- or under-insured contractors.	Ratio
+Nor can it be an objection that there may be more than one tortfeasor to hold liable.	Ratio
+That, after all, is the situation in vicarious liability, as Lister v Romford Ice and Cold Storage Co Ltd [1957] AC 555 made clear.	Ratio
+Thus, for all those reasons, in agreement with Lord Sumption, I would allow this appeal and set aside the judges order striking out the allegation of a non-delegable duty.	RPC

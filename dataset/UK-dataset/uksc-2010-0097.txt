@@ -1,0 +1,223 @@
+The issue is simply stated.	Ratio
+Child tax credit (CTC) is payable to one person only in respect of each child, even where the care of the child is shared between separated parents.	Ratio
+It is (now) accepted that entitlement to CTC falls within the ambit of article 1 of the First Protocol to the European Convention on Human Rights (Protection of property): see R (RJM) v Secretary of State for Work and Pensions [2008] UKHL 63, [2009] 1 AC 311.	Ratio
+It is (now) accepted that the rule discriminates indirectly against fathers, because experience shows that they are far more likely than mothers to be looking after the child for the smaller number of days in the week.	Ratio
+The question, therefore, is whether this discrimination is justified or whether the refusal of CTC to a father who looks after his children for three days a week is incompatible with his convention rights.	Ratio
+If it is incompatible there is a further question as to how this incompatibility can be remedied.	Ratio
+The facts	FAC
+The appellant father has two children, a son born on 7 June 1998, and a daughter born on 6 May 1999.	FAC
+We are concerned with the period from 12 January 2004 until December 2005.	FAC
+During that time, they lived with their mother but had very extensive contact with their father, who looked after them for at least three days a week.	FAC
+A court order dated 8 November 2004 sets out the precise arrangements determined after a contested hearing between the parents.	FAC
+In effect, this provided for the father to have the children for three full weekends in every four and on Thursdays in the fourth week and for half of all school holidays.	FAC
+In other cases, such a level of shared care might well be reflected in a shared residence order rather than in an order for residence and contact.	FAC
+But the labels attached to the arrangements are immaterial for the purpose of the present issue.	FAC
+Throughout the relevant period, the father was in receipt of income support, contributory incapacity benefit and non-contributory disability living allowance.	FAC
+Income support was, of course, a means-tested benefit equivalent to income-based jobseekers allowance and set at the officially prescribed subsistence level.	FAC
+Following the introduction of CTC, the childrens needs were not taken into account in assessing the fathers entitlement to income support.	FAC
+He claimed CTC in respect of both children but his claim was refused on the ground that the mother had the main responsibility for them.	RLC
+He challenged this decision on the ground that the rule restricting entitlement to one household discriminated in favour of women.	RLC
+He succeeded in the Appeal Tribunal (Ref: 201/07/453 and 08/337, 16 June 2008) but failed before Upper Tribunal Judge Jacobs in the Upper Tribunal (CTC/2608/2008, 4 February 2009) and before the Court of Appeal where the judgment of the court was delivered by Richards LJ: [2010] EWCA Civ 56; [2010] 1 FCR 630.	RLC
+Child Tax Credit	STA
+CTC and Working Tax Credit were introduced by the Tax Credits Act 2002 (TCA).	Ratio
+CTC replaced the separate systems for taking account of childrens needs in the tax and benefits systems.	Ratio
+Previously, people in work (or otherwise liable to pay income tax) might claim the childrens tax credit to set off against their income.	Ratio
+This was administered by the tax authorities.	Ratio
+People out of work (or otherwise claiming means-tested benefits) might claim additions to their income support or income-based jobseekers allowance to meet their childrens needs.	Ratio
+This was administered by the benefits authorities.	Ratio
+Under the new system, a single tax credit is payable in respect of each child, irrespective of whether the claimant is in or out of work, and is administered by Her Majestys Revenue and Customs (HMRC).	Ratio
+CTC is like income support and jobseekers allowance, in that it is a benefit rather than a disregard and it is means-tested, so that the higher ones income the less the benefit, until eventually it tapers out altogether.	Ratio
+But in several other respects, including the light touch and non-stigmatising way of measuring income, calculated for the year ahead based on the previous years income, with a balancing exercise at the end of the year, it is like a tax allowance.	Ratio
+As the Government explained, in The Child and Working Tax Credits: The Modernisation of Britains Tax and Benefits System, April 2002, para 2.3: The Child Tax Credit will create a single, seamless system of support for families with children, payable irrespective of the work status of the adults in the household.	Ratio
+This means that the Child Tax Credit will form a stable and secure income bridge as families move off welfare and into work.	Ratio
+It will also provide a common framework of assessment, so that all families are part of the same inclusive system and poorer families do not feel stigmatised.	Ratio
+CTC is, of course, separate from and additional to child benefit, which (at that time) was a universal flat rate benefit available to everyone with children, and also administered by HMRC.	Ratio
+Like CTC, child benefit cannot be split between two claimants (Social Security Contributions and Benefits Act 1992, section 144).	Ratio
+This single payment rule has been challenged but so far unsuccessfully: see R (Barber) v Secretary of State for Work and Pensions [2002] EWHC 1915 (Admin); [2002] 2 FLR 1181.	Ratio
+Where separated parents share the care of their children, they may elect who is to receive the benefit.	Ratio
+Failing that, HMRC has a discretion to decide who should have it, without any statutory test (Sched 10, para 5 of the 1992 Act).	Ratio
+They may, therefore, allocate the benefit for one child to one household and for another child to the other: see R (Ford) v Board of Inland Revenue [2005] EWHC 1109 (Admin).	Ratio
+Entitlement to CTC depends upon making a claim: TCA, section 3(1).	STA
+A claim may be made either jointly by a couple or by a single person who is not entitled to make a joint claim: section 3(3).	STA
+Opposite or same sex partners who are married or in a civil partnership or living together as if they were married or civil partners are a couple unless they are separated by court order or in circumstances in which the separation is likely to be permanent (section 3(5A) as substituted by paragraph 144(3) of Part 14 of Schedule 24 to the Civil Partnership Act 2004).	STA
+Joint claims are assessed on the couples aggregate income (section 7(4)(a)).	STA
+Entitlement to CTC depends upon the claimant or either or both claimants in a couple being responsible for one or more children (section 8(1)).	STA
+The circumstances in which a person is or is not responsible for a child may be prescribed by regulations (section 8(2)).	STA
+If more than one person may be entitled to CTC in respect of the same child, the regulations may provide for the amount of the CTC for any of them to be less than it would be if only one claimant were entitled (section 9(7)).	STA
+In other words, the regulations could provide for the CTC to be shared, for example between separated parents, but in fact they do not.	STA
+Regulation 3(1) of the Child Tax Credit Regulations 2002 (SI 2002/2007), (as amended by article 4(3) of the Civil Partnership Act 2004 (Tax Credits, etc) (Consequential Amendments) Order 2005 (SI 2005/2919)), provides, so far as relevant: For the purposes of child tax credit the circumstances in which a person is or is not responsible for a child . . .	STA
+shall be determined in accordance with the following Rules.	STA
+Rule 1 1.1 A person shall be treated as responsible for a child who is normally living with him (the normally living with test).	STA
+1.2 This Rule is subject to Rules 2 to 4.	STA
+Rule 2 2.1 This Rule applies where (a) a child . . .	STA
+normally lives with two or more persons in (i) different households, or (ii) the same household, where those persons are not limited to members of a couple, or (iii) a combination of (i) and (ii), and (b) two or more of those persons make separate claims (that is, not a single joint claim made by a couple) for Child Tax Credit in respect of the child . . .	STA
+2.2 The child . . .	STA
+shall be treated as the responsibility of (a) only one of those persons making such claims, and (b) whichever of them has (comparing between them) the main responsibility for him (the main responsibility test), subject to Rules 3 and 4.	STA
+Rule 3 3.1 The persons mentioned in Rule 2.2 (other than the child . . .) may jointly elect as to which of them satisfies the main responsibility test for the child . . ., and in default of agreement the Board may determine that question on the information available to them at the time of their determination.	STA
+As with child benefit, therefore, the parents are free to elect between themselves who is to have the CTC.	Ratio
+Unlike child benefit, however, HMRC is constrained by the main responsibility test if the parents fail to agree.	Ratio
+Although the Act allows for sharing, the decision not to provide for it in the regulations was deliberate.	Ratio
+The Paymaster General, Mrs Dawn Primarolo, explained to Parliament (Hansard House of Commons Debates, 26 June 2002, vol 387, col 926-927): Together [the Act and the regulations] create a system that ensures that the family with main responsibility for a child will be provided with a suitable level of support, depending on their needs.	Ratio
+That is similar to many current systems of support for children, and we believe that currently - it provides the most suitable means to ensure that we can focus support on raising children out of poverty.	Ratio
+Our present aim is to enable one family to claim support for any particular child at any one time.	Ratio
+That is the principle on which the Bill, the draft regulations and the business systems being developed are based.	Ratio
+There are several sound reasons for that approach.	Ratio
+Usually, the person or couple who have the main responsibility for care of a child bear more of the everyday responsibilities for the child, and meet the everyday expenditure for him or her.	Ratio
+It is vital, especially for families on lower incomes, that enough support is directed to that family to lift the child from poverty, or to keep him or her out of poverty.	Ratio
+The Government recognised that patterns of care may be changing, that many more families now share responsibility for children than was previously the case, and so, in future, directing support to one family might not be the right approach.	Ratio
+But they had no intention . .	Ratio
+.	Ratio
+of making hasty or ill-considered changes.	Ratio
+The question of shared responsibility for children goes wider than tax credits and affects other systems of support that recognise the needs of families with children, such as housing benefit.	Ratio
+Consultation and contact with lobby groups had shown that payment of support to the family with the main responsibility for the child is seen as the most appropriate way to deal with the vast majority of families with children.	Ratio
+Any change would also entail extensive and expensive IT and business systems changes.	Ratio
+This no-splitting approach is in line with the approach generally adopted across the benefit system, including housing and council tax benefits, although splitting had earlier been provided for in the child tax allowances which were abolished as from 1982, in the short-lived childrens tax credits which preceded CTC, and in the rules for supplementary benefit which was replaced by income support in 1988.	Ratio
+So the Government adopted a no-splitting policy having had some experience of operating the alternative.	Ratio
+Under the Welfare Reform Act 2012, CTC and many other benefits will be replaced by a new benefit, Universal Credit.	Ratio
+Initially this will apply only to new claims, so that existing claimants will remain on CTC until they are transferred to Universal Credit.	Ratio
+The Government has announced that its current intention is to retain the no-splitting rule (Universal Credit: welfare that works, Chapter 2, para 40).	Ratio
+After the decision not to provide for CTC to be split, there came the decision of the Court of Appeal in Hockenjos v Secretary of State for Social Security [2004] EWCA Civ 1749, [2005] EuLR 385.	Ratio
+This concerned claims for child supplements to jobseekers allowance which had been made in 1997, long before the introduction of CTC.	Ratio
+Father and mother were sharing the care of their two children roughly equally, but the mother was receiving the child benefit in respect of them.	Ratio
+The father was claiming jobseekers allowance, but was denied the supplements applicable to children for whom the claimant was responsible because he was not in receipt of the child benefit.	Ratio
+The regulations provided that the person in receipt of child benefit was to be treated as responsible for the child in question.	Ratio
+Unlike CTC, jobseekers allowance was covered by Council Directive 79/7/EEC, article 4 of which prohibited discrimination on grounds of sex.	Ratio
+The Court of Appeal held that the rule was indirectly discriminatory against fathers; that the link with child benefit could not be justified; and that treating only one parent as responsible in a shared care situation could not be justified.	Ratio
+Following Hockenjos, officials in HMRC and HM Treasury conducted a review of the no splitting rule in CTC.	Ratio
+They produced a Table of Policy Issues, assessing the options of Single Payment, Split Payment and Extra Payment against the criteria of Precedent, Rationale, Impact on the benefits system, Public expenditure, Support for Shared parenting, Administration and Other factors.	Ratio
+The full table is annexed to Upper Tribunal Judge Jacobs decision and the columns relating to the Single payment and Split payment options are reproduced by the Court of Appeal at para 33 of their judgment (the Extra payment option no doubt being regarded by all as a complete non-starter).	Ratio
+The full table is also annexed to this judgment.	Ratio
+Unsurprisingly, officials concluded that there had been no material change in the balance of policies which had led to the original CTC scheme and so no further work was done.	Ratio
+Upper Tribunal Judge Jacobs in the present case distinguished Hockenjos on the basis: first, that discrimination under EU law is different from discrimination under the ECHR; that cost is no excuse in EU law, but it may be a justification under the ECHR; that there were no competing claims in that case, because the mother was not claiming jobseekers allowance; that there was a fundamental principle of equality in EU law; and finally, and most importantly, that the structure of jobseekers allowance and CTC were different.	Ratio
+The Court of Appeal did not think that the differences between EU and ECHR law were likely to lead to materially different outcomes (para 53); but they were impressed that the Government had thought about the issue when introducing CTC and had reviewed the policy in the light of the Hockenjos case (para 55); that there was no equivalent to the linkage with child benefit, which was the primary objectionable feature of the JSA scheme (para 59); and that CTC is a benefit of a different kind from JSA (para 60).	Ratio
+They therefore reached their own conclusion on justification rather than following Hockenjos: [2010] EWCA Civ 56.	Ratio
+The test for justification?	Ratio
+The proper approach to justification in cases involving discrimination in state benefits is to be found in the Grand Chambers decision in Stec v United Kingdom (2006) 43 EHRR 1017.	PRE
+The benefits in question were additional benefits for people who had to stop work because of injury at work or occupational disease.	PRE
+They were entitled to an earnings related benefit known as reduced earnings allowance (REA).	PRE
+But on reaching the state pension age, they either continued to receive REA at a frozen rate or received instead a retirement allowance (RA) which reflected their reduced pension entitlement rather than reduced earnings.	PRE
+Women suffered this reduction in benefits earlier than men because they reached state pension age at 60 whereas men reached it at 65.	PRE
+The Court repeated the well-known general principle that A difference of treatment is, however, discriminatory if it has no objective and reasonable justification; in other words, if it does not pursue a legitimate aim or if there is not a reasonable relationship of proportionality between the means employed and the aim sought to be realised (para 51).	PRE
+However, it explained the margin of appreciation enjoyed by the contracting states in this context (para 52): The scope of this margin will vary according to the circumstances, the subject-matter and the background.	PRE
+As a general rule, very weighty reasons would have to be put forward before the Court could regard a difference in treatment based exclusively on the ground of sex as compatible with the Convention.	PRE
+On the other hand, a wide margin is usually allowed to the State under the Convention when it comes to general measures of economic or social strategy.	PRE
+Because of their direct knowledge of their society and its needs, the national authorities are in principle better placed than the international judge to appreciate what is in the public interest on social or economic grounds, and the Court will generally respect the legislatures policy choice unless it is manifestly without reasonable foundation.	PRE
+The phrase manifestly without reasonable foundation dates back to James v United Kingdom (1986) 8 EHRR 123, para 46, which concerned the compatibility of leasehold enfranchisement with article 1 of the First Protocol.	PRE
+In Stec, the Court clearly applied this test to the states decisions as to when and how to correct the inequality in the state pension ages, which had originally been introduced to correct the disadvantaged position of women.	PRE
+Similarly, the decision to link eligibility for REA to the pension system was reasonably and objectively justified, given that this benefit is intended to compensate for reduced earning capacity during a persons working life (para 66).	PRE
+The Grand Chamber applied the Stec test again to social security benefits in Carson v United Kingdom (2010) 51 EHRR 369, para 61, albeit in the context of discrimination on grounds of country of residence and age rather than sex.	PRE
+The same test was applied by Lord Neuberger (with whom Lord Hope, Lord Walker and Lord Rodger agreed) in R (RJM) v Secretary of State for Work and Pensions [2008] UKHL 63, [2009] 1 AC 311, which concerned the denial of income support disability premium to rough sleepers.	PRE
+Having quoted para 52 of Stec he observed, at para 56, that this was an area where the court should be very slow to substitute its view for that of the executive, especially as the discrimination is not on one of the express, or primary grounds.	PRE
+He went on to say that it was not possible to characterise the views taken by the executive as unreasonable.	PRE
+He concluded (para 57): The fact that there are grounds for criticising, or disagreeing with, these views does not mean that they must be rejected.	PRE
+Equally, the fact that the line may have been drawn imperfectly does not mean that the policy cannot be justified.	PRE
+Of course, there will come a point where the justification for a policy is so weak, or the line has been drawn in such an arbitrary position, that, even with the broad margin of appreciation accorded to the state, the court will conclude that the policy is unjustifiable.	PRE
+Their Lordships all stressed that this was not a case of discrimination on one of the core or listed grounds and that this might make a difference.	PRE
+In R (Carson) v Secretary of State for Work and Pensions [2005] UKHL 37, [2006] 1 AC 173, both Lord Hoffmann and Lord Walker drew a distinction between discrimination on grounds such as race and sex (sometimes referred to as suspect) and discrimination on grounds such as place of residence and age, with which that case was concerned.	PRE
+But that was before the Grand Chambers decision in Stec.	PRE
+It seems clear from Stec, however, that the normally strict test for justification of sex discrimination in the enjoyment of the Convention rights gives way to the manifestly without reasonable foundation test in the context of state benefits.	PRE
+The same principles were applied to the sex discrimination involved in denying widows pensions to men in Runkee v United Kingdom [2007] 2 FCR 178, para 36.	PRE
+If they apply to the direct sex discrimination involved in Stec and Runkee, they must, as the Court of Appeal observed (para 50), apply a fortiori to the indirect sex discrimination with which we are concerned.	PRE
+The reality is that, although the rule does happen to be indirectly discriminatory against fathers, the complaint would be exactly the same if it did not discriminate between the sexes.	Ratio
+Mothers who share the care of their children for a shorter period each week while living on subsistence level benefits have exactly the same problem.	Ratio
+The real object of the complaint is the discrimination between majority and minority shared carers.	Ratio
+It is quite likely that the Strasbourg Court would regard this as another status for the purpose of article 14, because they have taken a broad view of what that entails.	Ratio
+But this reinforces the view that they would apply the manifestly without reasonable foundation test of justification.	Ratio
+In fact, the appellant did not argue for anything other than the test established in Stec and RJM.	ARG
+It is unnecessary for us to consider to what extent the test under the ECHR is different from the test in EU law.	Ratio
+EU law requires that, in order to justify indirect sex discrimination, the state has to show that the rule in question is a suitable and necessary means of achieving a legitimate social policy aim which is unrelated to discrimination on the prohibited ground.	Ratio
+In choosing the measures capable of achieving the aims of its social and economic policy, the state has a broad margin of discretion, although it cannot frustrate the implementation of a fundamental principle such as equal pay for men and women: see R v Secretary of State for Employment, Ex p Seymour-Smith (Case C-167/97) [1999] ECR I-623 and [1999] 2 AC 554.	Ratio
+The Court of Appeal in this case thought that the two tests would not lead to materially different outcomes and in particular that the Court of Appeal in Hockenjos would have reached the same conclusion under the ECHR as they did under EU law (para 53).	Ratio
+Is the rule justified?	Ratio
+But the fact that the test is less stringent than the weighty reasons normally required to justify sex discrimination does not mean that the justifications put forward for the rule should escape careful scrutiny.	Ratio
+On analysis, it may indeed lack a reasonable basis.	Ratio
+This case is different from Stec and Runkee in two important respects.	Ratio
+First, they were concerned with non-means-tested benefits; CTC is of course means-tested, though not at subsistence level, and the other benefits to which the appellant was entitled were at subsistence level.	Ratio
+And secondly, the justification advanced in each case was the historic need to cater for the disadvantage suffered by women in the workplace, in the first place by allowing them to retire with a state pension earlier than men, and in the second place by giving them a pension to compensate for the loss of their deceased husbands income on which they had usually been dependent.	Ratio
+The margin lay in deciding when and how to remove the discrimination.	Ratio
+We are not here concerned with the timing of transitional arrangements, but with a considered policy choice which could last indefinitely.	Ratio
+The appellants case is simple (and skilfully deployed).	ARG
+He is responsible for looking after his children for three days a week.	ARG
+He is dependent upon subsistence level benefits: his incapacity benefit is deducted from his income support and his disability living allowance is to meet the particular needs arising out of his disability.	ARG
+He therefore has nothing with which to meet the needs of his children while they are with him.	ARG
+The mother could agree to share the CTC and the child benefit with him, but she does not have to do so.	ARG
+HMRC can give one of them the child benefit for one child and the other the benefit for the other child, but they cannot do this with the CTC.	ARG
+The court which made the order in the family proceedings has no power to order the mother to share the CTC with the father: the family courts powers to make periodical payments orders for the benefit of children were removed with the introduction of the child support scheme: see Child Support Act 1991, s 8(3).	ARG
+Splitting used to be possible under the fore-runner to income support and under the child tax allowance scheme, so it can be done.	ARG
+And in fact it is now possible to share Child Tax Benefit under the comparable scheme in Canada (in Australia, shared carers can each claim the full benefit).	ARG
+Comparisons with other European states are not helpful, because of their different approaches to the allocation of parental responsibility after separation and of their very different tax and social security systems.	ARG
+The parties have each done a considerable amount of work on the systems in other countries.	Ratio
+The respondent has produced a Comparative Survey of Legislative Provisions governing the Allocation of Child Benefits in Shared Care Arrangements and the appellant has produced a Research Note into that survey.	Ratio
+Of the 30 countries surveyed, only six provide for splitting child benefits between separated parents; of these, five provide for equal sharing and one provides for sharing in proportion to the time spent caring for the child.	Ratio
+The difficulty, as the appellant points out, is knowing what is meant by a child benefit in the particular country and how it fits into their tax and social security systems as a whole.	Ratio
+Interesting though this information is, it is hard for us to draw any conclusions from it as to the justification for the UK rule, other than that there is little European consensus about the merits of sharing the care of children, let alone about the merits of splitting state support for them.	Ratio
+The respondents case is also simple (and skilfully deployed).	Ratio
+The aim of CTC is to provide support for children.	Ratio
+The principal policy objective is to target that support so as to reduce child poverty.	Ratio
+The benefit attaches to the child rather than the parent.	Ratio
+It is paid to the main carer because the main carer bears more of the everyday expenditure for the child and most of the capital expenditure on things such as clothes, shoes, sporting and leisure equipment, school trips and the like.	Ratio
+Splitting the benefit would reduce the amount available to the main carer, who is usually the one less well placed to earn income, and might result in neither household being able to afford such items as clothes and shoes.	Ratio
+Nor is it obvious how the means test should operate if the award is split.	Ratio
+Should it be based on the main carers household income, or on the minority carers household income, or on both carers household income, or a pro rata award to each based on their household income? Unless based on the main carers income, the total amount payable would go down when the minority carers income went up, thus reducing the amount available to the main carer even before the benefit was split.	Ratio
+Nor is it clear how the benefit should be apportioned between them, especially as shared care arrangements tend to vary over time, while CTC awards are made for a year at a time.	Ratio
+There would inevitably be increased administrative complexity and costs.	Ratio
+Given the overall limits on public expenditure, this would be likely to result in less money being available to support children.	Ratio
+It would also have knock-on effects elsewhere in the system, for example for those benefits which are pass-ported by receipt of the full rate of CTC.	Ratio
+The respondent also points out that the appellant is not attacking the no- splitting rule in every case, but only in cases such as his, where a substantial minority carer is dependent upon means-tested benefits.	Ratio
+In other words, he is asking for an exception to be made to an otherwise justifiable rule.	Ratio
+The more usual case of shared care is likely to involve a minority carer who is in full time work and a main carer who is not.	Ratio
+It is well-established that bright line rules of entitlement to benefits can be justified, even if they involve hardship in some cases.	Ratio
+Hence, this rule cannot be said to be unreasonable or manifestly without reasonable foundation.	Ratio
+As to Hockenjos, the respondents primary case is that it was wrongly decided.	RLC
+Both Scott Baker LJ and Ward LJ based their decisions upon the view that the EU principle of equal treatment could not be frustrated and thus gave no weight to the margin of discretion.	RLC
+Arden LJ set out the right test, which was little different from the domestic test of Wednesbury unreasonableness (para 107) but then failed to apply it.	RLC
+It was unfair to criticise the Government for not addressing its mind to whether there was a viable alternative, as they clearly had done so when introducing the new CTC scheme.	RLC
+It was also wrong for Ward LJ to base his conclusion on the fact that the parents were not claiming the same benefit and thus competing for the same child premiums.	RLC
+In fact one was claiming jobseekers allowance and the other was claiming income support, both subsistence level means-tested benefits, to which additional payments for children could be made to one parent only, so the effect of the Court of Appeals decision was a double payment.	RLC
+Furthermore, as entitlement was linked to child benefit, once the father had claimed and been awarded the child benefit for one child, he also qualified for the additional allowance for that child.	RLC
+The respondents secondary case, if Hockenjos was rightly decided, is that this case can be distinguished, because it concerns a different test under the ECHR, a different benefit, consideration was given to the alternatives and separated parents are competing for the same benefit.	RLC
+Discussion	Ratio
+I am a little sceptical about the objective of lifting the child from poverty or keeping him or her out of poverty.	Ratio
+This is, of course, a laudable aim.	Ratio
+But success in achieving it will depend upon how child poverty is defined, rather than upon the actual living standards of real children.	Ratio
+Both this government and the last have committed themselves to abolishing or at least reducing child poverty.	Ratio
+Precise targets are set out in the Child Poverty Act 2010.	Ratio
+But the definitions in the Act all depend upon the relevant income group into which the household where the child lives falls.	Ratio
+Thus, for example, for the target reduction of relative low income (in section 3), the household falls within the relevant income group if its equivalised net income is less than 60% of the median equivalised net household income for the year in question (equivalised means adjusted to take account of variations in household size and composition: s 7).	Ratio
+Thus if support is targeted upon only one household, it will be much easier to say that a child has been lifted out of poverty than it would be if the support had to be split between two households.	Ratio
+However, the statistical definition of child poverty may reflect a wider truth.	Ratio
+If funds are targeted at one household, it is likely that a child living in that household will be better off than he or she would be if the funds are split between two households with modest means.	Ratio
+The state is, in my view, entitled to conclude that it will deliver support for children in the most effective manner, that is, to the one household where the child principally lives.	Ratio
+This will mean that that household is better equipped to meet the childs needs.	Ratio
+It also happens to be a great deal simpler and less expensive to administer, thus maximising the amount available for distribution to families in this way.	Ratio
+The rule is also linked to the move from tax allowances and social security benefits into a seamless tax credit system.	Ratio
+When child additions to subsistence level benefits were decided on a week by week basis, it was practicable, although not easy, to divide them between two households which were claiming the same or essentially the same benefits.	Ratio
+Once the benefit is payable, on a means tested but not subsistence basis, irrespective of the work status of the parents, it becomes much harder to split it between two households who may move in and out of work at different times and whose incomes may be very different.	Ratio
+This brings with it all the problems of how to calculate the benefit mentioned earlier.	Ratio
+It would also mean that the benefit available to the lower income main carer would go down when the higher income minority carers income went up.	Ratio
+The ideal of integrating the tax and social security systems, so as to smooth the transition from benefit to work and reduce the employment trap, has been attractive to policy makers for some time.	Ratio
+The introduction of CTC (and working tax credit) was a step in that direction.	Ratio
+In my view it was reasonable for government to take that step and to regard the targeting of child support to one household as integral to it.	Ratio
+It is also reasonable for a government to regard the way in which the state delivers support for children, and indeed for families, as a separate question from the way in which children spend their time.	Ratio
+The arrangements which separated parents make for their children are infinitely various and variable.	Ratio
+They depend upon a multitude of factors, such as the childrens ages and preferences, where they go to school, how close the parents live to one another, and what the parents can afford.	Ratio
+Most parents can and do sort out these arrangements for themselves.	Ratio
+Only a small minority have to have these imposed upon them by a court, and even then they are free to change them if they both want to do so.	Ratio
+Some might think that the ideal solution would lie with restoring to the family courts the power to make appropriate orders to deal with such payments, either by ordering one parent to share it with the other, or by ordering a periodical payment to take account of the benefits which one parent receives.	Ratio
+Then the order could be properly tailored to the different means available in each household, rather than divided according to an arbitrary criterion of time spent with each parent.	Ratio
+It would not make sense to order a mother living on a low income to make a payment to a father living on a high income just because the children spent some of their time with him.	Ratio
+The children would need the money more when they were living with their mother than when they were living with their father.	Ratio
+But if the circumstances were the other way round, then of course it would make sense to order that the benefit be shared or even ceded entirely to a parent living at subsistence level.	Ratio
+The difficult case is where both parents are living at subsistence level, because without the full amount of the benefit neither might be able to provide properly for the child.	Ratio
+The less happy one of the parents was to share care with the other, the less likely it is that a satisfactory solution will be agreed.	Ratio
+Unfortunately, the advent of the child support scheme has removed the possibility of doing justice from the courts.	Ratio
+To restore it would obviously be the more rational solution to the problem under discussion.	Ratio
+For all the reasons given, I conclude that the no-splitting rule is a reasonable rule for the state to adopt and the indirect sex discrimination is justified.	Ratio
+Remedy	Ratio
+Had I reached a different conclusion, it would have been necessary to consider the difficult question of remedy.	Ratio
+It is difficult for several reasons, not least because this is a statutory appeal rather than judicial review, so that we are limited to upholding or setting aside the tribunals decision and if we set it aside to re-making it ourselves or sending it back to the tribunal to decide.	Ratio
+If we were to disapply Rule 2.2 in reg 3 (para 7 above), the effect of section 7(2) of the 2002 Act would appear to be that, as the father was in receipt of a prescribed benefit, he would be entitled to CTC at the full rate if he were held to be responsible for the children during the period in question, even though the mother has already received it at that rate and there is no machinery for recovering any part of it from her.	Ratio
+In other words, we would be disapplying a rule which has a discriminatory effect without any means of applying the only sensible alternative rule, which is to share the benefit between the parents.	Ratio
+Section 7(2) is in primary legislation and cannot simply be ignored.	Ratio
+Fortunately, we do not have to grapple with this conundrum, although of course that fact that it arises in this case would not have been a reason to hold that the impugned rule is justified.	Ratio
+However I agree with the Upper Tribunal and the Court of Appeal that the rule is justified and would therefore dismiss this appeal.	RPC

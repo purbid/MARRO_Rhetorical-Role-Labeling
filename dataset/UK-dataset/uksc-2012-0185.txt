@@ -1,0 +1,382 @@
+This is a reference made by the Attorney General for England and Wales (the Attorney General) under section 112 of the Government of Wales Act 2006 (the 2006 Act) for a determination on whether sections 6 and 9 of the Local Government Byelaws (Wales) Bill 2012 are within the legislative competence of the National Assembly for Wales (the Assembly).	Ratio
+The background to the reference	FAC
+Following a referendum held in 1997, the Government of Wales Act 1998 (the 1998 Act) set out the initial devolution settlement for Wales.	FAC
+This included the establishment of the Assembly, a body corporate which had the legal responsibility for discharging the devolved executive and legislative functions.	FAC
+Sections 21 and 22 of the 1998 Act governed the functions of the Assembly, and they included provisions for transferring functions vested in a Minister of the Crown to the Assembly, by Order in Council.	FAC
+Schedule 2 to the 1998 Act set out the fields of functions which were to be devolved to the Assembly in the first such Order in Council, including [t]he environment and [l]ocal government.	FAC
+The first Order in Council making such provision was the National Assembly for Wales (Transfer of Functions) Order 1999, SI 1999 No 672 (the 1999 Order).	FAC
+The Assemblys legislative powers were limited, and a White Paper, Better Governance for Wales (Cm 6582) published in June 2005, proposed increasing those powers in three respects: (i) giving the Assembly wider powers to make subordinate legislation; (ii) allowing the United Kingdom Parliament (Parliament) to confer enhanced legislative powers on the Assembly in relation to specified matters in devolved fields; and (iii) following a referendum, enabling the Assembly to make laws in all devolved fields without recourse to Parliament.	FAC
+These proposals were adopted by Parliament, and implemented by the 2006 Act.	FAC
+Part 1 of the 2006 Act re-enacts many of the provisions of the 1998 Act, but it omits any reference to the Assembly being a corporate body.	FAC
+Section 45 establishes the Welsh Assembly Government, which comprises the First Minister, the Welsh Ministers, the Counsel General to the Welsh Assembly Government and the Deputy Welsh Ministers.	FAC
+Section 46 provides for the First Minister to be appointed by Her Majesty.	FAC
+Sections 48 and 50 confer on the First Minister the power to appoint, with the approval of Her Majesty, the Welsh Ministers and the Deputy Welsh Ministers from among the Assembly members.	FAC
+Sections 56 to 92 make provision about the functions of the First Minister, the Welsh Ministers, and the Counsel General.	FAC
+Part 3 of, and Schedule 5 to, the 2006 Act contain what were anticipated to be transitional provisions regarding the Assemblys powers with effect from the day after the Assembly election in 2007.	FAC
+They were intended to be replaced by the Assembly Act provisions, contained in Part 4 of, and Schedule 7 to, the 2006 Act.	FAC
+These provisions are intended, inter alia, to give the Assembly primary legislative powers for certain areas, and are provided by section 105 to come into force pursuant to an order made by Welsh Ministers following a referendum.	FAC
+That referendum duly took place, and the Welsh Ministers duly made the order contemplated, as a consequence of which the provisions of Part 3 and Schedule 5 lapsed, and the provisions of Part 4 and Schedule 7 took effect, on 5 May 2011.	FAC
+As a result of this, the Assembly has power to make primary legislation, which powers are delimited by provisions which identified the extent of the Assemblys legislative competence.	FAC
+If there is an issue as to whether a Bill, or a provision in a Bill, passed by the Assembly exceeds that competence, the issue can be referred to this court under the terms of section 112 of the 2006 Act.	FAC
+The first Bill to be passed by the Assembly under its new power was the Local Government Byelaws (Wales) Bill 2012 (the Bill), the aim of which is to simplify procedures for making and enforcing local authority byelaws in Wales.	FAC
+Certain provisions of the Bill, in particular section 6 and section 91, are intended to remove the need for the confirmation of byelaws by the Welsh Ministers or by the Secretary of State.	FAC
+Section 6 (through Part 1 of Schedule 1 to the Bill) refers to certain specific enactments (the scheduled enactments) which currently require confirmation, and section 9 would empower the Welsh Ministers to add to those enactments.	FAC
+The Secretary of States consent to the inclusion of these two sections in the Bill was sought.	FAC
+She was prepared to agree to section 6 of the Bill (section 6), because she was content to give up her right to confirm byelaws made under the specific provisions identified in Part 1 of Schedule 1 to the Bill, but she was not prepared to agree to the inclusion of section 9 of the Bill (section 9).	FAC
+The Assembly nonetheless proceeded to pass the Bill with sections 6 and 9 in their 1 What would be, or become, sections of a Statute enacted by the UK Parliament are conventionally referred to as clauses in the Bill until it becomes a Statute.	FAC
+However, in this judgment, I follow the language used in Standing Orders 26 and 26A of the National Assembly for Wales (June 2012), which deal with Acts of the Assembly, and refer to sections of a Bill.	FAC
+original form.	FAC
+The Attorney General then referred to this court the question whether sections 6 and 9 were outwith the Assemblys legislative competence.	FAC
+The parties who were identified as respondents to the reference were (i) the National Assembly for Wales Commission, representing the Assembly, and (ii) the Counsel General, both of whom appeared before us.	FAC
+The Assembly was represented by Mr Rhodri Williams QC, with Ms Rebecca Stickler, and the Counsel General, Mr Theodore Huckle QC, was assisted by Mr Clive Lewis QC.	FAC
+The Attorney General for Northern Ireland, Mr John Larkin QC (who appeared with Mr David McAlister) also appeared, having been permitted to intervene, as the issues raised by this reference have potential implications for the extent of the legislative competence of the Northern Ireland Assembly under the Northern Ireland Act 1998.	FAC
+I propose first to explain the position (under the Local Government Act 1972 and the 1999 Order) relating to the confirmation of many of the byelaws identified in Schedule 1 to the Bill, following which I will identify the relevant provisions of the Bill and of the 2006 Act.	Ratio
+Having set the scene, as it were, I will then discuss certain preliminary issues, following which I will address the central issue on this reference.	Ratio
+Finally, I must deal with certain procedural issues which have arisen on this reference.	Ratio
+The Local Government Act 1972 and the 1999 Order	STA
+The power to make byelaws is conferred by a host of statutes, mostly on local authorities and similar bodies.	Ratio
+Many of those statutes contain specific provisions whereby a byelaw must be confirmed by some other body or person (normally the Secretary of State or another Minister of the Crown), but many do not.	Ratio
+The Local Government Act 1972 (the 1972 Act), as its long title states, includes many provisions concerning local government and the functions of local authorities in England and Wales.	STA
+Section 236 of the 1972 Act (section 236) is entitled Procedure, etc, for byelaws.	STA
+Subsection (1) explains that, subject to certain exceptions (irrelevant for present purposes), the section appl[ies] to byelaws to be made by a local authority under this Act and to byelaws made by a local authority under any other enactment and conferring on the authority a power to make byelaws and for which specific provision is not otherwise made.	STA
+Section 236(3) sets out the technical requirements for a local authority making a byelaw (under its common seal or, where there is no seal, under the hands and seals of two members).	STA
+Subsections (3), (4) and (5) of section 236 make reference to confirmation of a byelaw, and subsection (7) states that [t]he confirming authority may confirm, or refuse to confirm, any byelaw submitted under this section.	STA
+Crucially for present purposes, section 236(11) is in these terms: In this section the expression the confirming authority means the authority or person, if any, specified in the enactment (including any enactment in this Act) under which the byelaws are made, as the authority or person by whom the byelaws are to be confirmed, or if no authority or person is so specified, means the Secretary of State.	STA
+The effect of this provision is that, where a statutory provision giving the local authority the power or duty to make the byelaw either so provides or is silent as to the existence or identity of a confirmatory body or person, before any byelaw made under that provision by a local authority can be effective, the Secretary of State has to confirm the byelaw.	Ratio
+The National Assembly for Wales (Transfer of Functions) Order 1999	STA
+The 1998 Act provided in section 22(1) that: Her Majesty may by Order in Council (a) provide for the transfer to the Assembly of any function so far as exercisable by a Minister of the Crown in relation to Wales, (b) direct that any function so far as so exercisable shall be exercisable by the Assembly concurrently with the Minister of the Crown, or (c) direct that any function so far as exercisable by a Minister of the Crown in relation to Wales shall be exercisable by the Minister only with the agreement of, or after consultation with, the Assembly.	Ratio
+The 1999 Order was made pursuant to that provision, and was concerned with transferring a large number of functions of Ministers of the Crown to the Assembly.	Ratio
+It did this by identifying each specific function which was to be so transferred.	Ratio
+In some cases, there had to be qualifications to, and in other cases there had to be exceptions from or variations to, the transfer of functions.	Ratio
+Thus, article 2 of the 1999 Order is to this effect: Schedule 1 to this Order shall have effect as follows (a) except as provided [below], all functions of a Minister of the Crown under the enactments specified in Schedule 1 are, so far as exercisable in relation to Wales, transferred to the Assembly; (b) where so directed in Schedule 1 functions exercisable by a Minister of the Crown shall, so far as exercisable in relation to Wales, be exercisable by the Assembly concurrently with the Minister; (c) it is directed that (except in the case of functions which are exercisable by the Assembly jointly with a Minister of the Crown) ..	STA
+Schedule 1 to the 1999 Order sets out Enactments Conferring Functions Transferred by Article 2.	Ratio
+The list of those enactments includes the 1972 Act, in respect of which it is expressly directed that the functions of the Secretary of State under section 236(11) shall be exercisable by the Assembly concurrently with the Secretary of State.	Ratio
+The Local Government Byelaws (Wales) Bill 2012	STA
+Section 1 is entitled Overview, and it is in these terms, so far as relevant: This Act - (a) reforms procedures for making byelaws in Wales, including removing a requirement for confirmation of byelaws by the Welsh Ministers; .	STA
+(d) restates for Wales a general power to make byelaws.	STA
+Section 2 delimits the powers of a county or county borough to make byelaws, which must be for the good rule and government of the whole or any part of its area or to prevent nuisances in its area.	STA
+Section 3 defines legislating councils, which extends to counties, county borough councils, community councils, National Park authorities in Wales, and the Countryside Council for Wales.	STA
+Sections 4 and 5 deal with the powers of legislating authorities and the Welsh Ministers to revoke byelaws.	STA
+Section 6 is entitled Byelaws not requiring confirmation, and the first two subsections are in these terms: (1) This section applies to byelaws made by a legislating authority under the enactments listed in Part 1 of Schedule 1 .	STA
+(2) Before it makes a byelaw, an authority must (a) publish on the authoritys website an initial written statement which describes the issue which the authority thinks may be addressed by making a byelaw; (b) consult any person who the authority thinks is likely to be interested in, or affected by, the issue.	STA
+The remaining six subsections set out the procedural requirements which a legislating authority must then satisfy before making a byelaw not requiring confirmation.	STA
+These requirements include considering responses to the subsection (2) consultations, publishing on its website a further statement, followed by notice of the intention to make the byelaw, and then the draft byelaw, ensuring that the draft byelaw is available for inspection to those who want to see it, and making the byelaw within six months of the date of the notice of intention.	STA
+Part 1 of Schedule 1 to the Bill has the same heading as section 6, and sets out what I call the scheduled enactments, which are specific sections of certain statutes, including a number of sections in respect of which it is common ground between all parties that section 236(11), as varied by the 1999 Order, applies.	STA
+Most of these sections are in the Public Health Act 1936, and they include, for example, byelaw-making powers in relation to preventing the occurrence of nuisances from snow, filth, dust, ashes and rubbish (section 81), for regulation of sanitary conveniences (section 87), for regulating management of, and charges for, the use of mortuaries and post-mortem rooms (section 198), and regulating baths, washhouses, swimming baths and bathing places (section 223).	STA
+Section 7 is concerned with Byelaws requiring confirmation, which subsection (1) explains are byelaws made by a legislating authority under any enactment other than those listed in Part 1 of Schedule 1, subject to exceptions set out in subsection (2), namely to the extent that the statutory power under which a particular byelaw is made makes different provision in relation to the requisite procedure.	STA
+Subsections (3) to (9) then set out procedures which have to be followed by the legislating authority, which are similar to those in subsections (2) to (7) of Section 6.	STA
+Subsections (10) to (12) of section 7 provide as follows: (10) The confirming authority may confirm, or refuse to confirm, any byelaw submitted to it under this section.	STA
+(11) For the purposes of this Act, the confirming authority is (a) the person specified in the enactment under which the byelaws are made as the person who is to confirm the byelaws, or (b) if no person is specified, the Welsh Ministers.	STA
+(12) The functions of the Welsh Ministers under subsection (11)(b) are exercisable concurrently with the Secretary of State.	STA
+Section 8 is concerned with formalities for making byelaws.	STA
+Section 9 is headed Power to amend Part 1 of Schedule 1, and is in these terms: The Welsh Ministers may by order amend Part 1 of Schedule 1 by adding to or subtracting from the list of enactments, or by amending the type of authority that may make byelaws without confirmation.	STA
+Sections 10 and 11 are concerned with enforcement of byelaws, and sections 12 to 16 (and Part 2 of Schedule 1) with fixed penalty notices.	STA
+Sections 18 to 23 are headed Miscellaneous and general, and only section 20, which is entitled Consequential amendments and incorporates Schedule 2, needs to be mentioned.	STA
+Schedule 2 sets out a number of Minor and consequential amendments to other statutes.	STA
+Paragraph 9(3) amends section 236, effectively limiting its ambit in local authorities to England.	STA
+Paragraph 17 amends the 1999 Order, inter alia, by deleting the words directing that the functions of the Secretary of State under section 236(11) shall be exercisable by the Assembly concurrently with the Secretary of State.	STA
+The question whether any of the provisions of the Bill are within the competence of the Assembly must be judged by reference to the 2006 Act, to which I now turn.	Ratio
+The Government of Wales Act 2006	STA
+The provisions of the 2006 Act which are directly relevant for present purposes are in Part 4 and Schedule 7.	Ratio
+The provisions which are of central importance are section 108, and paragraph 1 of Part 2, and paragraph 6 of Part 3, of Schedule 7.	Ratio
+Section 108 is entitled Legislative competence and subsections (1) to (3) provide as follows: (1) Subject to the provisions of this Part, an Act of the Assembly may make any provision that could be made by an Act of Parliament.	STA
+(2) An Act of the Assembly is not law so far as any provision of the Act is outside the Assemblys legislative competence.	STA
+(3) A provision of an Act of the Assembly is within the Assemblys legislative competence only if it falls within subsection (4) or (5).	STA
+It is common ground that subsections (4) and (5) present no problems for the Bill in the present case.	STA
+Subsection (4) requires every provision in an Act of the Assembly to relate to one or more of the subjects listed in Part 1 of Schedule 7, which every provision in the Bill does.	STA
+Subsection (6) states: (6) But a provision which falls within subsection (4) or (5) is outside the Assemblys legislative competence if (a) it breaches any of the restrictions in Part 2 of Schedule 7, having regard to any exception in Part 3 of that Schedule from those restrictions, . .	STA
+Part 2 of Schedule 7 is headed General Restrictions, and the first of those restrictions is in paragraph 1, which is headed Functions of a Minister of the Crown, and is in these terms: (1) A provision of an Act of the Assembly cannot remove or modify, or confer power by subordinate legislation to remove or modify, any pre-commencement function of a Minister of the Crown.	STA
+(3) In this Schedule pre-commencement function means a function which is exercisable by a Minister of the Crown before [5 May 2011].	STA
+Part 3 of Schedule 7 is headed Exceptions from Part 2, the first of which is in paragraph 6, which has a very similar heading to paragraph 1 of Part 2, and states: (1) Part 2 does not prevent a provision of an Act of the Assembly removing or modifying, or conferring power by subordinate legislation to remove or modify, any pre-commencement function of a Minister of the Crown if (a) the Secretary of State consents to the provision, or (b) the provision is incidental to, or consequential on, any other provision contained in the Act of the Assembly.	STA
+I must also refer to section 112(1), which explains how this reference arises.	STA
+It empowers the Counsel General or the Attorney General to refer the question whether a Bill, or any provision of a Bill, would be within the Assemblys legislative competence to the Supreme Court for decision.	STA
+Pending such a reference, a Bill cannot be given Royal Assent see section 115.	STA
+It is also appropriate to refer to section 154, which provides: (1) This section applies to (b) any provision of an Act of the Assembly, or a Bill for such an Act, which could be read in such a way as to be outside the Assemblys legislative competence, (2) The provision is to be read as narrowly as is required for it to be within competence or within the powers, if such a reading is possible, and is to have effect accordingly .	STA
+Preliminary issues: the meaning of concurrently	Ratio
+While the central issue on this reference is whether section 6 and section 9 are outside the legislative competence of the Assembly, there are two preliminary points which have been debated and which need to be resolved before turning to that central issue.	Ratio
+First, there is the question of what is meant by the direction in the 1999 Order that the functions of the Secretary of State under section 236(11) shall be exercisable by the Assembly concurrently with the Secretary of State.	Ratio
+Three possible interpretations were aired.	Ratio
+The first interpretation, which arose in argument, is that the Assembly is to exercise each of the functions, but needs the Secretary of States agreement before it does so.	Ratio
+The second and third interpretations both involve the Assembly and the Secretary of State each having the right to exercise the functions.	Ratio
+The second interpretation, favoured by Mr Williams for the Assembly, is that, in relation to any particular function, it is, as a matter of law, only the Assembly or, as the case may be, the Secretary of State who can exercise the function.	Ratio
+The third interpretation, favoured by Mr Jonathan Swift QC (who appeared with Ms Joanne Clement for the Attorney General) and by the Counsel General, is that, subject to the normal public law principle of rationality, it is open to either the Secretary of State or the Assembly to exercise any of the functions.	Ratio
+I have reached the clear conclusion that the third of these interpretations is correct.	Ratio
+First, the natural meaning of concurrently in a provision such as the 1999 Order, which involves two persons or entities having concurrent functions, is that they each have the right to exercise the functions separately.	Ratio
+The primary meaning of the word concurrent is running with rather than agreeing.	Ratio
+And it would involve implying some qualification to the provision, if only one of the two persons or entities could exercise any particular function.	Ratio
+Indeed, if each function could only be exercised by the Assembly or the Secretary of State, it would be the antithesis of their having concurrent power.	Ratio
+Secondly, the notion that the Assembly can exercise any of the functions, but only with the consent of the Secretary of State, would effectively mean that there is no difference between concurrent functions and joint functions.	Ratio
+That is unlikely as the 1999 Order refers in a number of places to joint exercise of functions, including in article 2(c).	Ratio
+That point is reinforced when one looks at section 22(1) of the 1998 Act, under which the 1999 Order was made: subsection (b) deals with concurrently exercisable functions, and subsection (c) is concerned with functions exercisable by the Secretary of State with the agreement of the Assembly.	Ratio
+Thirdly, Craies on Legislation 10th ed, (2012) supports the notion that the concept of concurrent power to exercise functions has an established meaning in legislation.	Ratio
+At para 3.12.6, it is stated that [w]here a function is vested in two Ministers concurrently, either may perform it, acting alone, on any occasion.	Ratio
+While no case law is cited in support of this proposition, such an unequivocal statement in a respected book on the subject deserves respect, and is likely to be familiar to those responsible for drafting statutes.	Ratio
+Fourthly, it seems far more sensible and consistent with the purpose of the Welsh devolution legislation to conclude that it was intended that the Assembly and the Secretary of State were each intended to have the power to exercise the concurrent functions, and that it was to be left to their good sense to decide which should exercise a particular function in a particular case.	Ratio
+As Lord Carnwath said during argument, the courts should only be involved where normal public law principles justify quashing a particular exercise of a function on the ground that it should not have been exercised by the particular person or entity.	Ratio
+Preliminary issues: does any question of legislative competence arise?	Ratio
+The Attorney General for Northern Ireland contends that the instant reference is, in effect, misconceived, at least in relation to section 6, because that section would not have the effect which the Attorney General contends, namely removing any right vested in the Secretary of State to confirm byelaws.	ARG
+He puts this point in two ways.	ARG
+The first way in which the argument is put is that Section 6 itself does not remove any right.	ARG
+I will discuss that point when considering the central issue on this reference.	Ratio
+However, even if it is right, it could be no more than a technical point, as there can be no doubt but that paragraphs 9 and 17 of Schedule 2 to the Bill indubitably remove the Secretary of States right to confirm byelaws under section 236(11).	Ratio
+Accordingly, the first way of putting the Attorney General for Northern Irelands point goes nowhere in substantive terms (albeit that it has some relevance to the central issue, and it gives rise to a procedural point which Lord Hope discusses in his judgment).	Ratio
+The second way in which the Attorney General for Northern Ireland puts his case is that section 236(11) states in terms that it applies only to those byelaws for which there is no statutory provision for confirmation by someone other than the Secretary of State.	ARG
+Accordingly, runs the argument, section 236(11) specifically contemplates, and therefore effectively permits, a subsequent statutory provision conferring the confirmatory function, in respect of any byelaw to which section 236(11) currently applies, on some other person or entity.	ARG
+This argument is ingenious, but I would reject it.	Ratio
+It seems to me clear that the effect of section 236(11) was to confer a function on the Secretary of State, and the Bill, if it becomes an Act, will remove that function from the Secretary of State in relation to the scheduled enactments, and accordingly, paragraph 1 of Part 2 of Schedule 7 to the 2006 Act appears to be engaged.	Ratio
+The fact that the function concerned was conferred by a default statutory provision, which specifically envisages that there may be legislation which transfers the function to someone else, does not alter the fact that the confirmatory function of the Secretary of State falls within the ambit of paragraph 1(3) of Part 2 of Schedule 7.	Ratio
+The central issue on this reference: Section 6 of the Bill	Ratio
+It is common ground between the original parties to this reference that section 6 is within paragraph 1 of Part 2 of Schedule 7 to the 2006 Act, in that it would have the effect of remov[ing] [a] pre-commencement function of a Minister of the Crown, namely the Secretary of States role in confirming (or refusing to confirm) byelaws made under the statutory provisions which are (i) scheduled enactments, and (ii) provisions to which section 236(11) applies.	Ratio
+On that basis the only issue is whether, as the Counsel General contends (with the support of Mr Williams and the Attorney General for Northern Ireland), the section can be saved on the basis that, in so far as it would remove the pre- commencement function, it would be within paragraph 6(1)(b) of Part 3 of Schedule 7 to the 2006 Act, as it is incidental to, or consequential on, [an] other provision contained in the [Bill].	Ratio
+However, as already mentioned, the Attorney General for Northern Ireland challenges the otherwise agreed proposition that section 6 would remove the Secretary of States confirmatory role under section 236(11) in relation to any scheduled enactments.	ARG
+He makes the point that section 1 only refers to the confirmatory powers of the Welsh Ministers, not to the Secretary of States powers, and that no part of section 6 refers to his powers either.	ARG
+In my view, this point highlights the way in which the Bill is structured, and, more importantly for present purposes, it tends to support the argument advanced by the Counsel General, namely that the removal by the Bill of the Secretary of States power to confirm byelaws under section 236(11) is indeed incidental to, or consequential on one of the principal purposes of section 6 of the Bill, which is, as section 1 states, to remove the requirement for confirmation by the Welsh Ministers, as part of the overall streamlining and modernising of the way in which byelaws are made in Wales.	Ratio
+The answer to the question whether a particular provision in an enactment is incidental to, or consequential on another provision, obviously turns on the facts of the particular case.	Ratio
+The answer may to some extent be a question of fact and degree, and it should turn on substance rather than form, although, of course, in any well drafted Bill, the substance will be reflected in the form, at least in relation to that sort of question.	Ratio
+Assistance on the point may be gleaned from what was said in this court in Martin v Most [2010] UKSC 10; [2010] SC (UKSC) 40, about paragraph 3(1)(a) of Schedule 4 to the Scotland Act 1998, which permits the Scottish Parliament to modify the law on reserved matters if, inter alia, the modification is incidental to, or consequential on, provision made which does not relate to reserved matters.	Ratio
+There is a close similarity between those words and the words in paragraph 6(1)(b) of Part 3 of Schedule 7 to the 2006 Act, and the two provisions are concerned with similar material.	Ratio
+However, they are found in different statutes, and one must therefore be wary of assuming that they have precisely the same effect, as context is so crucially important when interpreting any expression, perhaps particularly an expression as potentially fact-sensitive as incidental to, or consequential on.	Ratio
+Nonetheless, I consider that the approach adopted in that case is of assistance here.	Ratio
+In a brief passage at [2010] UKSC 10, paragraph 40, Lord Hope described a point as important in explaining why it was not incidental or consequential on provisions found elsewhere in the enactment.	Ratio
+Lord Rodger described certain amendments as falling within paragraph 3(1)(a) of Schedule 4 to the Scotland Act 1998, if they raise[d] no separate issue of principle, and were safely stowed away in a schedule in paragraph 93.	Ratio
+He referred back to that observation at paragraph 128, where he described paragraph 3(1)(a) of Schedule 4 to the Scotland Act 1998 as intended to cover the kinds of minor modifications which are obviously necessary to give effect to a piece of devolved legislation, but which raise no separate issue of principle.	Ratio
+He contrasted them with other provisions which were independent and deal with distinct aspects of the situation.	Ratio
+Section 6 of the Bill plainly is intended to have the effect of removing the need for confirmation by the Welsh Ministers of any byelaw made under the scheduled enactments.	Ratio
+That is a primary purpose of the Bill, as is clear from reading the provisions quoted above, both in itself and for the purpose of streamlining and modernising the making of byelaws.	Ratio
+I consider that, applying the approach of Lord Hope and Lord Rodger in Martin v Most [2010] UKSC 10, the removal of the Secretary of States confirmatory powers by the Bill in relation to the scheduled enactments would be incidental to, and consequential on, this primary purpose.	Ratio
+In summary form, I reach this conclusion because of the following combination of circumstances, of which points (i) and (iv) are particularly telling.	Ratio
+(i) The primary purpose of the Bill cannot be achieved without that removal, (ii) the Secretary of States confirmatory power is concurrent with that of the Welsh Ministers, (iii) the confirmatory power arises from what is in effect a fall-back provision, (iv) the scheduled enactments relate to byelaws in respect of which the Secretary of State is very unlikely indeed ever to exercise his confirmatory power, (v) section 7 of the Bill reinforces this conclusion, and (vi) the contrary view would risk depriving paragraph 6(1)(b) of Part 3 of Schedule 7 to the 2006 Act of any real effect.	Ratio
+The first of these reasons is obvious.	Ratio
+One of the streamlining and modernising purposes of the Bill would be undermined if the Secretary of States confirmatory function remained in respect of any of the scheduled enactments.	Ratio
+There would be no point in removing the Welsh Ministers confirmatory function in relation to the scheduled enactments unless the Secretary of States concurrent function was also disposed of.	Ratio
+Indeed, the notion that the Assembly would intend to remove the Welsh Ministers confirmatory function while retaining that of the Secretary of State is bizarre.	Ratio
+Secondly, there is attraction in the point that the Secretary of States confirmatory function has become redundant on the basis that, as Lord Clarke put it, the enactment by the Assembly of section 6(1) amounted to a blanket confirmation in advance by the Welsh Ministers of any future byelaw made under the scheduled enactments, provided the procedures laid down by sections 6(2) to (8) are complied with.	Ratio
+While a blanket confirmation in advance of any byelaw cannot be a valid exercise of the Welsh Ministers confirmatory function, the argument highlights the oddity of the Secretary of States confirmatory power surviving the removal of the Welsh Ministers confirmatory power.	Ratio
+Thirdly, there is the fact that the confirmatory function bestowed on the Secretary of State by section 236(11) is really a default function.	Ratio
+The confirmatory function is only given to the Secretary of State if no other statute (including one passed after the 1972 Act) confers the function on any other body or person.	Ratio
+To my mind, that feature tends to support the notion that it is not, to use Lord Hopes word in Martin v Most [2010] UKSC 10, paragraph 40, an important function.	Ratio
+Thus, the point made by the Attorney General for Northern Ireland assists my conclusion.	Ratio
+Fourthly, and most crucially, the scheduled enactments concern byelaws whose nature is such that it would be for the Welsh Ministers, rather than the Secretary of State, to confirm them.	Ratio
+This is because they are very much directed to local, small-scale (but important) issues.	Ratio
+That point is strongly supported by the fact that it appears that, since the 1999 Order came into force, it has always been the Welsh Ministers, rather than the Secretary of State, who have exercised the confirmatory function in relation to byelaws made under any of the scheduled enactments.	Ratio
+It seems to me that, in those circumstances, given the purpose of section 6, and the purpose of the Bill as explained in section 1, it would be positively perverse if the Secretary of State should retain the confirmatory function when the Welsh Ministers have disclaimed their confirmatory function.	Ratio
+It was not suggested by Mr Swift that there were any circumstances envisaged by the Secretary of State in which she would wish to exercise her confirmatory function in relation to the scheduled enactments.	Ratio
+In practical terms, this conclusion is supported by the fact that the only reason the Secretary of State did not consent to section 6 had nothing to do with the contents of that section or of Schedule 1, but with the inclusion of section 9 in the Bill.	Ratio
+Fifthly, as pointed out by Lord Reed, the provisions of section 7 of the Bill give some support for this conclusion.	Ratio
+It establishes new concurrent powers in relation to byelaws (other than the scheduled enactments) which previously fell within section 236(11).	Ratio
+Where subsections (11)(b) and (12) of section 7 apply, the confirmatory power of the Welsh Ministers is exercisable concurrently with that of the Secretary of State.	Ratio
+This reinforces the argument that the Secretary of States confirmatory function under section 236(11) is redundant as a result of the enactment of sections 6 and 7.	Ratio
+Finally, it is important, as the Counsel General argued, to arrive at a conclusion which gives a provision such as paragraph 6(1)(b) of Part 3 of Schedule 7 to the 2006 Act some real effect.	ARG
+It is difficult to think of circumstances in which it would have effect if it does not apply to section 6.	ARG
+Mr Swift suggested that, if it did not apply to section 6, it could still apply in a case where the Assembly abolished a statutory provision for byelaws altogether.	ARG
+I do not find that very persuasive.	Ratio
+First, if he is right in the present case, it suggests that the provision can apply in a more extreme type of case than the present case, but not in the present case.	Ratio
+Secondly, I am not convinced that it would be necessary to remove a power to confirm byelaws in relation to a given activity if the power to make byelaws in relation to that activity was abolished.	Ratio
+The central issue on this reference: section 9 of the Bill	Ratio
+Section 9 of the Bill would have the effect of enabling the Welsh Ministers to add to (and to subtract from) the scheduled enactments, which would then become subject to the section 6 procedure, rather than the section 7 procedure.	Ratio
+As already explained, the crucial difference for present purposes between the two procedures is the requirement under section 7 for confirmation of the byelaw by Welsh Ministers and/or the Secretary of State or other Minister of the Crown (depending on the statutory provision under which the byelaw is made) see, in particular, section 7(10) to (12).	Ratio
+The Attorney Generals argument is that section 9 would confer power on the Welsh Ministers by subordinate legislation to remove or modify pre- commencement function[s] of a Minister of the Crown.	ARG
+Accordingly, he argues, by virtue of section 108(6)(a) of, and paragraph 1(1) of Part 2 of Schedule 7 to, the 2006 Act, the section is outside the legislative competence of the Assembly.	ARG
+If section 9 is to be interpreted as giving the Welsh Ministers power to add to the scheduled enactments any enactment which gives the Secretary of State or another Minister of the Crown a confirmatory function in relation to byelaws, then I would accept that argument.	Ratio
+However, there could be no objection to the section, if the scope of the power it would confer on the Welsh Ministers was limited to byelaws made under enactments which currently satisfy one of two requirements.	Ratio
+Those requirements are that the enactment concerned (i) identifies the Welsh Ministers, and not a Minister of the Crown, as having the confirmatory power, or (ii) identifies a Minister of the Crown as having the confirmatory power, but the removal of that power would be incidental or consequential within the meaning of paragraph 6(1)(b) of Part 3 of Schedule 7 to the 2006 Act.	Ratio
+The basis for requirement (i) is self-evident, and the basis for requirement (ii) is the same as that for concluding that section 6 is within the legislative competence of the Assembly.	Ratio
+Although it is perfectly true that there are no express words in section 9 which limit its scope in this way, I am satisfied that it does have such a limited effect.	Ratio
+That is because of the simple legal principle, identified by Lord Reed, embodied in the Latin maxim nemo dat quod non habet.	Ratio
+Given that the jurisdiction of the Assembly is limited to removing, or delegating the power to remove, functions of Ministers of the Crown when the removal satisfies the requirements of paragraph 6(1)(b) of Part 3 of Schedule 7 to the 2006 Act, the Assembly cannot confer a wider power on Welsh Ministers.	Ratio
+Accordingly, the wide words of section 9 must be read as being circumscribed in their scope so as to render the section valid.	Ratio
+The same conclusion can be arrived at by invoking section 154(2) of the 2006 Act.	Ratio
+It would not be permissible to invoke that statutory provision if it was inconsistent with the plain words of section 9.	Ratio
+However, it would, in my view, be permissible to invoke it to limit the apparently unlimited and general effect of that briefly expressed section.	Ratio
+Such an interpretation is consistent with the thrust of the Bill as a whole, and it does not conflict with any other provision in the Bill.	Ratio
+And that point is reinforced by the fact that all the currently scheduled enactments satisfy requirements (i) or (ii).	Ratio
+Some procedural issues	Ratio
+I have read in draft the judgment to be given by Lord Hope.	Ratio
+He discusses certain practical issues in paragraphs 85 to 100, and I agree with what he says.	Ratio
+I should add that I also agree with his further observations at paragraphs 71 to 84.	Ratio
+Conclusion	RPC
+For these reasons, I would make a declaration on the reference that the Assembly had the legislative competence to enact sections 6 and 9 of the Bill.	RPC
+It should be added that, although this is a successful outcome for the Assembly and the Counsel General, it cannot be regarded as a setback in practical terms for the Secretary of State.	Ratio
+Somewhat curiously, the conclusion I have reached as to the effect of section 9 is one which reflects the terms on which she was prepared to give her consent to Section 6 of the Bill.	Ratio
+It is also right to say that, standing back, and considering the general purpose of the 2006 Act and the 1999 Order, this appears to be a sensible conclusion.	Ratio
+As Lord Carnwath said, the desirability of streamlining and modernising the system for making byelaws is reflected in section 236A of the 1972 Act, which only applies to England, and was inserted by section 129 of the Local Government and Public Involvement in Health Act 2007.	Ratio
+A similar system of modernising and streamlining the system in Wales is hard to object to.	Ratio
+And, if that system removes the confirmatory function of the Secretary of State, or other Ministers of the Crown, but only where (i) the function is concurrently exercisable with Welsh Ministers, and (ii) the byelaws concerned would probably always be for the Welsh Ministers to confirm, it would be entirely consistent with the general thrust of the extended powers given to the Assembly and Welsh Ministers by Part 4 of, and Schedule 7 to, the 2006 Act.	Ratio
+Finally, it is right to record that various other issues were canvassed in the written and oral arguments.	Ratio
+They included the proper approach to the interpretation of the 2006 Act as a constitutional enactment, and whether certain statutory provisions mentioned in Part 1 of Schedule 1 were governed by section 236(11).	Ratio
+Given my conclusions on the issues considered in this judgment, it is unnecessary to determine those other issues, and it therefore seems to me appropriate to leave them to be resolved if and when it is necessary to do so in a future appeal or reference.	Ratio
+LORD HOPE (with whom Lord Clarke, Lord Reed and Lord Carnwath agree)	Ratio
+I add this supplement to Lord Neubergers judgment, with which I am in full agreement, in order to do two things.	Ratio
+The first is to make some general observations on the approach to issues about the legislative competence of the National Assembly for Wales in the light of the Scottish experience.	Ratio
+The second is to provide guidance on some matters of practice which require clarification in the light of the way this reference has been dealt with.	Ratio
+Background	Ratio
+The making of this reference to the Supreme Court is a significant event in Welsh law.	Ratio
+The Local Government Byelaws (Wales) Bill 2012 is the first Bill to have been passed by the Assembly.	Ratio
+That in itself is important, as it has provided the Assembly with the first opportunity to put into practice its power to make laws.	Ratio
+That power was given to it by section 107(1) of the Government of Wales Act 2006 (the 2006 Act) upon the coming into force on 5 May 2011 of the Assembly Act provisions in Part 4 of the Act.	Ratio
+Now there is the making of the reference.	Ratio
+This is an even more significant milestone than, in the words of Lady Cosgrove, the case of A v Scottish Ministers [2002] SC (PC) 63 was for Scotland: see para 2.	Ratio
+In that case the first Act of the Scottish Parliament, the Mental Health (Public Safety and Appeals) (Scotland) Act 1999, received the Royal Assent 13 days after the Bill had been introduced in the Parliament as a matter of urgency.	Ratio
+A restricted patient who was being detained in the State Hospital then challenged the Parliaments legislative competence on the ground that the Act was incompatible with his Convention rights.	Ratio
+It took nearly two years before, after working its way through the devolution issues procedure, the challenge was finally dismissed by the Judicial Committee of the Privy Council.	Ratio
+Here use is being made, for the first time, of the power that is given by section 112 of the 2006 Act to the Counsel General or the Attorney General to refer the question whether a Bill would be within the Assemblys legislative competence to the Supreme Court for decision before it is submitted for Royal Assent under section 115.	Ratio
+A similar provision was included in section 33 of the Scotland Act 1998 (the 1998 Act) to ensure that the Lord Advocate and the law officers of the United Kingdom Government were content that Bills of the Scottish Parliament were within competence before they were submitted for Royal Assent under section 32 by the Presiding Officer.	Ratio
+The Scottish Parliament has passed many Bills since that Act came into force.	Ratio
+But none of them has been challenged before enactment by any of the relevant law officers.	Ratio
+So there has not yet been an occasion for the making use in relation to any of its Bills of the power under section 33 for pre-legislative scrutiny.	Ratio
+The reason why a reference has been made in this case, in contrast to the lack of use of the equivalent provision in Scotland, is likely to lie in differences between the systems that have been used to devolve legislative power to the devolved legislatures from the United Kingdom Parliament at Westminster and executive power to the devolved governments from Ministers of the United Kingdom Government.	Ratio
+Under the Scottish system, the general power to make laws conferred on the Scottish Parliament by section 28 is subject to section 29 of the 1998 Act, which provides that an Act of the Scottish Parliament is outside its competence so far as, among other things, it relates to matters reserved to Westminster or is in breach of the restrictions in Schedule 4.	Ratio
+A list of the reserved matters is set out in Schedule 5 to the 1998 Act.	Ratio
+These provisions were accompanied by a general transfer of functions conferred on Ministers of the Crown to the Scottish Ministers by section 53, so far as these functions are exercisable within devolved competence.	Ratio
+This difference of approach can be illustrated by comparing the restrictions on the powers of the Assembly under Part 2 of Schedule 7 to the 2006 Act, read together with the exceptions in Part 3, with the restrictions on the powers of the Scottish Parliament under Schedule 4 to the 1998 Act.	Ratio
+The Assembly cannot remove or modify, or confer power by subordinate legislation to remove or modify, any pre-commencement function of the Minster of the Crown unless (a) the Secretary of State consents to the provision or (b) the provision is incidental to, or consequential on, any other provision contained in the Act of the Assembly: paragraph 1 of Part 2 read together with paragraphs 6(1)(a) and (b) of Part 3.	Ratio
+The phrase incidental to, or consequential on is used in paragraph 3(1)(a) of Schedule 4 to the 1998 Act, which provides that the restriction on the power of the Scottish Parliament to modify, or confer power by subordinate legislation to modify, the law on reserved matters does not apply to modifications which are incidental to, or consequential on, provision made (whether by virtue of the Act in question or another enactment) which does not relate to reserved matters.	Ratio
+But there is no reference here or anywhere else in the 1998 Act which defines devolved competence differently, to removing a pre-commencement function of a Minister of the Crown.	Ratio
+A proper understanding of the effect of Schedule 7 to the 2006 Act, and of paragraph 6(1)(b) of Part 3 in particular, is of central importance to the resolution of the issue raised by this reference.	Ratio
+So I think that it was entirely proper for the Attorney General to refer sections 6 and 9 of the Bill to this court for pre- legislative scrutiny under section 112 rather than raise the issue after its enactment as a devolution issue under section 149 and Schedule 9.	Ratio
+Any delay in the submitting of a Bill which has been passed by the Assembly for Royal Assent is, of course, to be regretted.	Ratio
+It was with that in mind that the hearing was given the earliest possible date in the courts programme.	Ratio
+But it is to be hoped that it will be more than compensated for by the benefits that will come from the removal of uncertainty at the first opportunity as to whether sections 6 and 9 are within legislative competence.	Ratio
+General principles	Ratio
+It may be helpful to restate, in the Welsh context, some principles of general application that have guided the court when dealing with issues about the legislative competence of the Scottish Parliament.	Ratio
+First, the question whether a Bill of the Assembly is within its legislative competence is a question of law which, if the issue is referred to it, the court must decide.	Ratio
+The judicial function in this regard has been carefully structured.	Ratio
+It is not for the judges to say whether legislation on any particular issue is better made by the Assembly or by the Parliament of the United Kingdom at Westminster.	Ratio
+How that issue is to be dealt with has already been addressed by the United Kingdom Parliament.	Ratio
+It must be determined according to the particular rules that section 108 of the 2006 Act and Schedule 7 have laid down.	Ratio
+Those rules, just like any other rules, have to be interpreted.	Ratio
+It is for the court to say what the rules mean and how, in a case such as this, they must be applied in order to resolve the issue whether the measure in question was within competence.	Ratio
+Second, the question whether the Bill is within competence must be determined simply by examining the provisions by which the scheme of devolution has been laid out.	Ratio
+That is not to say that this will always be a simple exercise.	Ratio
+But, as Lord Walker observed in Martin v Most [2010] UKSC 10; 2010 SC (UKSC) 40, para 44 when discussing the system of devolution for Scotland, the task of the United Kingdom Parliament in relation to Wales was to define the legislative competence of the Assembly, while itself continuing as the sovereign legislature of the United Kingdom.	Ratio
+It had to define, necessarily in fairly general and abstract terms, permitted or prohibited areas of legislative activity.	Ratio
+The aim was to achieve a constitutional settlement, the terms of which the 2006 Act was designed to set out.	Ratio
+Reference was made in the course of the argument in the present case to the fact that the 2006 Act was a constitutional enactment.	Ratio
+It was, of course, an Act of great constitutional significance, and its significance has been enhanced by the coming into operation of Schedule 7.	Ratio
+But I do not think that this description, in itself, can be taken to be a guide to its interpretation.	Ratio
+The rules to which the court must apply in order to give effect to it are those laid down by the statute, and the statute must be interpreted like any other statute.	Ratio
+But the purpose of the Act has informed the statutory language, and it is proper to have regard to it if help is needed as to what the words mean.	Ratio
+Third, the question whether measures passed under devolved powers by the legislatures in Wales, Scotland and Northern Ireland are amenable to judicial review, and if so on what grounds, was considered in AXA General Insurance Company Ltd v Lord Advocate [2011] UKSC 46, [2012] 1 AC 868.	Ratio
+The court in that case had the benefit of submissions by the Counsel General.	Ratio
+It was common ground that, while there are some differences of detail between the 2006 Act and the corresponding legislation for Scotland and Northern Ireland, these differences do not matter for that purpose.	Ratio
+The essential nature of the legislatures that the devolution statutes have created in each case is the same.	Ratio
+But it has not been suggested that the Bill is the result of an unreasonable, irrational and arbitrary exercise of the Assemblys legislative authority.	Ratio
+This case is concerned only with the question whether the Bill is outside competence under the provisions laid down by the statute.	Ratio
+In the light of these principles the issue at the heart of the argument about section 6 of the Bill resolves itself into a simple question: what is meant by the phrase incidental to, or consequential on in paragraph 6(1)(b) of Part 3 of Schedule 7 to the 2006 Act? Section 6 would have the effect of removing a pre- commencement function of a Minister of the Crown.	Ratio
+According to the rules that section 108 read together with Part 2 of Schedule 7 have laid down, a provision of an Act of the Assembly cannot do this unless it falls within one of the exceptions in paragraph 6 of Part 3.	Ratio
+I agree with Lord Neuberger that section 6 falls within the exception in paragraph 6(1)(b).	Ratio
+The words incidental to, or consequential on, any other provision contained in the Act of the Assembly make it clear that the interpretative exercise to which it points is one of comparison.	Ratio
+How significant is the removal of the pre-commencement function, when it is seen in the context of the Act as a whole? If the removal has an end and purpose of its own, that will be one thing.	Ratio
+It will be outside competence.	Ratio
+If its purpose or effect is merely subsidiary to something else in the Act, and its consequence when it is put into effect can be seen to be minor or unimportant in the context of the Act as a whole, that will be another.	Ratio
+It can then be regarded as merely incidental to, or consequential on, the purpose that the Bill seeks to achieve.	Ratio
+The provision in question meets this test.	Ratio
+So it is within competence.	Ratio
+I also agree with what he says about section 9.	Ratio
+On the face of it, the power that it gives to add or subtract from the list of enactments is open-ended.	Ratio
+This, no doubt, is why the UK Government has thought it right to raise the question whether it too is within competence.	Ratio
+But it falls to be read as narrowly as is required for it to be within competence, if such a reading is possible, and to have effect accordingly: see section 154(2).	Ratio
+That can be done by reading it in a way that brings it within the exception in paragraph 6(1)(b) of Part 3 of Schedule 7.	Ratio
+The Assembly does not have legislative competence to confer on the Welsh Ministers powers that are wider than those which have been given to it by the 2006 Act.	Ratio
+So it will be open to the Welsh Ministers to add to the list of enactments in Part 1 of Schedule 1 to the Bill by removing a pre-commencement function of a Minister of the Crown without the consent of the Secretary of State only if it meets the test in paragraph 6(1)(b).	Ratio
+I see no difficulty in reading section 9 in this way, and in holding that the power is to have effect subject to that limitation.	Ratio
+So it too is within competence.	Ratio
+Practice	Ratio
+The method which the Attorney General used for the bringing of this reference was to file a Notice of Appeal in the form for applications for permission to appeal or appeals which is described as Form 1 in UKSC Practice Direction 7.3.2 and its Annex.	Ratio
+It named the National Assembly for Wales as the only respondent and its Chief Legal Advisor, on whom the Notice of Appeal was served, as its solicitor.	Ratio
+The Counsel General for Wales and the Attorney General for Northern Ireland were later joined as respondents at their own request.	Ratio
+The use of this procedure raises two questions.	Ratio
+The first is as to the correct procedure that should be adopted under Rule 41 of the Supreme Court Rules 2009 and Practice Direction 10 for the making of a reference under section 112 of the 2006 Act and its counterparts in Scotland and Northern Ireland.	Ratio
+The second has two parts.	Ratio
+First, was it appropriate for the Assembly to be called as a respondent to these proceedings? Second, what are the circumstances in which the Assembly, although not called as respondent, would have standing to appear in proceedings which raise questions as to the legislative competence of one of its enactments?	Ratio
+The only previous example of a reference being made to the Supreme Court of a Bill passed by a devolved legislature is a reference that was made by the Attorney General for Northern Ireland in 2011.	Ratio
+As was noted in AXA General Insurance Co Ltd v Lord Advocate [2012] 1 AC 868, para 15, he referred the question whether the Damages (Asbestos-related Conditions) (Northern Ireland) Bill was within the competence of the Northern Ireland Assembly for pre- enactment scrutiny under section 11 of the Northern Ireland Act 1998.	Ratio
+He too used Form 1 for this purpose and the reference was served on the Northern Ireland Assembly, which was named on the form as the only respondent.	Ratio
+The Northern Ireland Assembly responded by serving a notice of objection indicating its opposition to the grounds of the reference.	Ratio
+It used the form which is described as Form 3 in Practice Direction 7.3.2 and its Annex.	Ratio
+But the reference was withdrawn before the hearing of the appeal in AXA took place.	Ratio
+So there was no opportunity for a discussion of the procedural issues in that case.	Ratio
+(a) the reference procedure	Ratio
+Rule 41 of the Supreme Court Rules 2009 (SI 2009/1603 (L17)) provides: (2) A reference made by the relevant officer is made by filing the reference and by serving a copy on any other relevant officer who is not already a party and who has a potential interest in the proceedings.	STA
+[emphasis added] (3) A reference must state the question or issue to be decided by the Court.	STA
+(4) The Registrar shall give notice of the question or issue to the appropriate relevant officer where that officer is not already a party to any proceedings.	STA
+Rule 3(2) of the Supreme Court Rules defines the expression relevant officer as meaning, in relation to proceedings in England and Wales, the Attorney General and, in relation to proceedings that particularly affect Wales, the Counsel General to the Welsh Assembly Government.	STA
+The procedure to be used in cases which raise devolution issues is dealt with in Practice Direction 10.	Ratio
+It is pointed out in Practice Direction 10.1.3 that such a case can reach the Supreme Court in four ways, one of which is by way of a reference by a relevant officer.	Ratio
+Practice Direction 10.1.4 repeats the definition of the expression relevant officer which is set out in Rule 3(2).	Ratio
+The four ways in which a devolution issue may reach the Supreme Court are then dealt with under four separate headings.	Ratio
+Practice Direction 10.2, under the heading references of a question by a relevant officer, states: 10.2.1 A reference of a question by a relevant officer is made by filing the reference, and serving a copy on any other relevant officer who is not already a party and who has a potential interest in the proceedings, within any time limits specified by the relevant statute.	Ratio
+[emphasis added] 10.2.2 The reference should state the question to be determined with respect to the proposed Order in Council, proposed Assembly Measure or Bill to which the reference relates; whether it applies to the whole Order in Council, proposed Assembly Measure or Bill or to a provision of it, and the reference shall have annexed to it a copy of the Order in Council, Assembly Measure or Bill to which it relates.	Ratio
+10.2.3 Any relevant officer (other than the one making the reference) who wishes to participate in the proceedings shall within 7 days of service of the reference on him notify the Registrar and the other parties.	Ratio
+Any relevant officer who gives notice automatically becomes a respondent to the proceedings.	Ratio
+As these provisions make clear, the reference should be served on any other relevant officer.	Ratio
+Those words are to be read together with the definition of the expression relevant officer in Rule 3(2) and Practice Direction 10.1.4.	Ratio
+There ought not to have been any room for doubt that, in the case of a reference by the Attorney General of a Bill of the National Assembly for Wales, the Counsel General had a potential interest in the proceedings.	Ratio
+So the reference should have been served on him.	Ratio
+It should not have been served on the Assembly which is not referred to in any of these provisions.	Ratio
+It is not a relevant officer.	Ratio
+It should also be noted that, in contrast to what is set out in the part of Practice Direction 10 which deals with appeals to the Supreme Court (see Practice Direction 10.3.5), the procedure set out in Practice Direction 10.2 does not lay down any particular form for use in such proceedings: see also Practice Direction 10.4.1 for references by courts and Practice Direction 10.5.1 for direct references by a law officer.	Ratio
+These Practice Directions do not refer to Form 1.	Ratio
+That form is designed for use only for notices of appeal and applications for permission to appeal.	Ratio
+As the wording of Practice Direction 7.3.2 makes clear, it is not designed for use in the case of references.	Ratio
+Counsel for the Attorney General submitted that these provisions fail to identify who is the respondent to a section 112 reference, and that there is a lack of coherence in the combination of Rule 41 and Practice Direction 10.	ARG
+I do not think that this does justice to the provisions which I have quoted.	Ratio
+They require service of the reference on any other relevant officer, and they provide that he will automatically become a respondent to the proceedings if he notifies the Registrar that he wishes to participate in them.	Ratio
+The phrase any other relevant officer reflects the fact that section 112 does not state that there must be a respondent to a reference that is made under it.	Ratio
+Circumstances can be envisaged where that would not be appropriate.	Ratio
+It would, for example, be open to the Counsel General, to make a reference of a question about legislative competency in which no other relevant officer has an interest on the ground, for example, that a provision was incompatible with the Convention rights: see section 108(6)(c).	Ratio
+The court will, of course, benefit from the argument of a contradictor.	Ratio
+But it is not in a position to compel the appearance of a law officer who does not wish to participate.	Ratio
+What it seeks to ensure is that any other relevant officer is notified.	Ratio
+What then happens is up to the relevant officer.	Ratio
+It should be understood therefore (a) that proceedings on a reference under section 112 of the 2006 Act and its counterparts in Scotland and Northern Ireland are proceedings sui generis and (b) that they should be served on, and only on, any other relevant officer in his capacity as a relevant officer, not as a respondent.	Ratio
+He will become a respondent if, and only if, he notifies the Registrar that he wishes to participate.	Ratio
+There is no requirement for the reference to be served on the National Assembly, although Practice Direction 10.2.6 states that it must be notified.	Ratio
+Notification also should be given to the Clerk of the Assembly appointed under section 26.	Ratio
+This is because it is her function to submit the Bill for Royal Assent under section 115.	Ratio
+She may not do this if a reference has been made and not yet disposed of by the Supreme Court: section 115(2).	Ratio
+The Presiding Officer has the same function in Scotland, and is under the same prohibition, with regard to Acts of the Scottish Parliament under section 32(2) of the 1998 Act; see, as regards Northern Ireland, section 11(2) of the Northern Ireland Act 1998.	Ratio
+No form has been laid down for use in the case of references.	Ratio
+So it is open to the law officer or court, on making the reference, to adopt whatever style and layout is thought to be most appropriate in the circumstances.	Ratio
+The Registrar must however be provided with the following information for administrative purposes: (a) the names, addresses and contact details of the party making the reference and his legal representatives; (b) the names, addresses and contact details of any relevant officer on whom the reference has been served and his legal representatives; and (c) similar details of any person who has been notified.	Ratio
+These details should be set out in a covering document, to which the reference and any accompanying documents should be attached.	Ratio
+The Practice Directions are kept under continuous review and amended from time as required.	Ratio
+Amendments are needed to take account of changes in the systems for devolution.	Ratio
+For example, references to a Measure of the National Assembly for Wales in Practice Direction 10 are no longer appropriate as Part 3 of the 2006 Act has ceased to have effect.	Ratio
+They will need to be deleted.	Ratio
+Changes will be needed to take account of a new system for appeals to the Supreme Court in devolution questions arising in criminal cases under the Scotland Act 2012 which are classified as compatibility issues.	Ratio
+Account will be also have to be taken of the points mentioned in this judgment.	Ratio
+A revised version of the Practice Directions will be issued in due course.	Ratio
+(b) participation of the Assembly	Ratio
+The 2006 Act confers no legal personality on the National Assembly for Wales.	Ratio
+Instead the National Assembly for Wales Commission was established by section 27, which does have legal personality.	Ratio
+The Commission has the duty of providing the Assembly with the property, staff and premises required for its purposes: section 27(5).	Ratio
+Further provisions about the Commission are set out in Schedule 2 to the 2006 Act.	Ratio
+Among them is paragraph 4 which sets out its powers.	Ratio
+These include, in particular, entering into contracts, charging for goods and services, investing sums not immediately required for its functions and accepting gifts: paragraph 4(2).	Ratio
+There is no indication either in section 27 itself or in the Schedule that it was contemplated that either the Assembly or the Commission should have the right to institute, defend or appear in legal proceedings in which the legislative competence of a Bill passed by the Assembly was under scrutiny.	Ratio
+Section 112(1) of the 2006 Act confers the function of referring a question about legislative competence on the Counsel General or the Attorney General.	Ratio
+The Counsel General represents the interests of the Welsh Ministers on the one hand and the Attorney General represents the interests of the Ministers of the Crown on the other.	Ratio
+So their positions under this provision can be regarded as reciprocal.	Ratio
+Each can be taken to have the right to appear in proceedings raised by the other, which he can exercise if he wishes to do so.	Ratio
+References to the right of the Counsel General to bring and defend proceedings are also to be found in Schedule 9: see, for example, paragraphs 4, 13, 14 and 30.	Ratio
+No reference is made anywhere in such terms to the Assembly or the Commission.	Ratio
+In Adams v Advocate General 2003 SC 171 a challenge was made by way of a petition for judicial review to the validity of the Protection of Wild Mammals (Scotland) Act 2002, which was an Act of the Scottish Parliament.	PRE
+Among the questions raised was whether the Act was outside the Parliaments legislative competence.	PRE
+The Advocate General for Scotland lodged answers in which she contended that the Scottish Parliament was the appropriate respondent and that, since proceedings instituted against the Parliament must be instituted against the Parliamentary corporation in terms of section 40(1) of the 1998 Act, the corporation ought to have been called as respondent.	PRE
+Lord Nimmo Smith rejected this contention: see para 31.	PRE
+He said that the proceedings were not proceedings against the Parliament within the meaning of section 40(1), as by the stage when they were brought the Act had passed out of its hands.	PRE
+Appearing as a contradictor did not appear to be one of the corporations functions, and it was clear from the scheme of the Act that the Lord Advocate, as the Scottish law officer acting in the public interest, was the appropriate person to perform that role.	PRE
+I would apply the same reasoning to a case where the challenge to legislative competence was made after a Bill had been enacted and become an Act of the Assembly.	Ratio
+The situation in this case is different, as the Bill is still in the hands of the Clerk.	Ratio
+So it cannot be said to have passed out of the hands of the Assembly.	Ratio
+But the more important point is that appearing as a contradictor to a challenge of that kind is not one of the Commissions functions under the 2006 Act.	Ratio
+The way that Act has set out its functions and those of the Counsel General must be respected.	Ratio
+The appropriate person to represent the public interest in resisting a challenge of that kind is the Counsel General, whose functions include making appropriate representations about any matter affecting Wales: section 62.	Ratio
+The scope that is given to him by that section makes any intervention by the Assembly or the Commission in such proceedings unnecessary.	Ratio
+This is not to say that the Assembly or the Commission may not have standing to appear in proceedings in which such questions are raised.	Ratio
+There may be cases where the views of the Assembly or the Commission, one way or the other, might be of assistance.	Ratio
+In that event the court would be willing to give permission to these bodies, or either of them, to intervene under Rule 26 if it was asked to do so.	Ratio
+This should not be regarded, however, as detracting from the rule that the appropriate person on whom such proceedings should be served is the Counsel General or, if the proceedings are brought by the Counsel General, the Attorney General.	Ratio
+Conclusion	RPC
+For the reasons given by Lord Neuberger, I would determine this reference by declaring that sections 6 and 9 of the Local Government Byelaws (Wales) Bill 2012 are within the legislative competence of the Assembly.	RPC

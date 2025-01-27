@@ -1,0 +1,528 @@
+These three appeals raise questions as to the circumstances in which the Parole Board (the board) is required to hold an oral hearing.	Ratio
+One of the appeals (that of the appellant Osborn) concerns a determinate sentence prisoner who was released on licence but then recalled to custody.	Ratio
+The other appeals (those of the appellants Booth and Reilly) concern indeterminate sentence prisoners who have served their minimum terms.	Ratio
+It may be helpful to summarise at the outset the conclusions which I have reached.	Ratio
+i) In order to comply with common law standards of procedural fairness, the board should hold an oral hearing before determining an application for release, or for a transfer to open conditions, whenever fairness to the prisoner requires such a hearing in the light of the facts of the case and the importance of what is at stake.	Ratio
+By doing so the board will also fulfil its duty under section 6(1) of the Human Rights Act 1998 to act compatibly with article 5(4) of the European Convention for the Protection of Human Rights and Fundamental Freedoms, in circumstances where that article is engaged.	Ratio
+ii) It is impossible to define exhaustively the circumstances in which an oral hearing will be necessary, but such circumstances will often include the following: a) Where facts which appear to the board to be important are in dispute, or where a significant explanation or mitigation is advanced which needs to be heard orally in order fairly to determine its credibility.	Ratio
+The board should guard against any tendency to underestimate the importance of issues of fact which may be disputed or open to explanation or mitigation.	Ratio
+b) Where the board cannot otherwise properly or fairly make an independent assessment of risk, or of the means by which it should be managed and addressed.	Ratio
+That is likely to be the position in cases where such an assessment may depend upon the view formed by the board (including its members with expertise in psychology or psychiatry) of characteristics of the prisoner which can best be judged by seeing or questioning him in person, or where a psychological assessment produced by the Ministry of Justice is disputed on tenable grounds, or where the board may be materially assisted by hearing evidence, for example from a psychologist or psychiatrist.	Ratio
+Cases concerning prisoners who have spent many years in custody are likely to fall into the first of these categories.	Ratio
+c) Where it is maintained on tenable grounds that a face to face encounter with the board, or the questioning of those who have dealt with the prisoner, is necessary in order to enable him or his representatives to put their case effectively or to test the views of those who have dealt with him.	Ratio
+d) Where, in the light of the representations made by or on behalf of the prisoner, it would be unfair for a paper decision made by a single member panel of the board to become final without allowing an oral hearing: for example, if the representations raise issues which place in serious question anything in the paper decision which may in practice have a significant impact on the prisoners future management in prison or on future reviews.	Ratio
+In order to act fairly, the board should consider whether its iii) independent assessment of risk, and of the means by which it should be managed and addressed, may benefit from the closer examination which an oral hearing can provide.	Ratio
+iv) The board should also bear in mind that the purpose of holding an oral hearing is not only to assist it in its decision-making, but also to reflect the prisoners legitimate interest in being able to participate in a decision with important implications for him, where he has something useful to contribute.	Ratio
+v) The question whether fairness requires a prisoner to be given an oral hearing is different from the question whether he has a particular likelihood of being released or transferred to open conditions, and cannot be answered by assessing that likelihood.	Ratio
+vi) When dealing with cases concerning recalled prisoners, the board should bear in mind that the prisoner has been deprived of his freedom, albeit conditional.	Ratio
+When dealing with cases concerning post-tariff indeterminate sentence prisoners, it should scrutinise ever more anxiously whether the level of risk is unacceptable, the longer the time the prisoner has spent in prison following the expiry of his tariff.	Ratio
+vii) The board must be, and appear to be, independent and impartial.	Ratio
+It should not be predisposed to favour the official account of events, or official assessments of risk, over the case advanced by the prisoner.	Ratio
+viii) The board should guard against any temptation to refuse oral hearings as a means of saving time, trouble and expense.	Ratio
+ix) The boards decision, for the purposes of this guidance, is not confined to its determination of whether or not to recommend the prisoners release or transfer to open conditions, but includes any other aspects of its decision (such as comments or advice in relation to the prisoners treatment needs or the offending behaviour work which is required) which will in practice have a significant impact on his management in prison or on future reviews.	Ratio
+x) Paper decisions made by single member panels of the board are provisional.	Ratio
+The right of the prisoner to request an oral hearing is not correctly characterised as a right of appeal.	Ratio
+In order to justify the holding of an oral hearing, the prisoner does not have to demonstrate that the paper decision was wrong, or even that it may have been wrong: what he has to persuade the board is that an oral hearing is appropriate.	Ratio
+xi) In applying this guidance, it will be prudent for the board to allow an oral hearing if it is in doubt whether to do so or not.	Ratio
+xii) The common law duty to act fairly, as it applies in this context, is influenced by the requirements of article 5(4) as interpreted by the European Court of Human Rights.	Ratio
+Compliance with the common law duty should result in compliance also with the requirements of article 5(4) in relation to procedural fairness.	Ratio
+xiii) A breach of the requirements of procedural fairness under article 5(4) will not normally result in an award of damages under section 8 of the Human Rights Act unless the prisoner has suffered a consequent deprivation of liberty.	Ratio
+The legislative framework	STA
+Section 239(2) of the Criminal Justice Act 2003 (the 2003 Act) provides that it is the duty of the board to advise the Secretary of State with respect to any matter referred to it by him which is to do with the early release or recall of prisoners.	STA
+This includes advising on licence conditions: R (Brooke) v Parole Board [2008] EWCA Civ 29; [2008] 1 WLR 1950, para 47.	STA
+Section 239(5) permits the Secretary of State to make rules with respect to the proceedings of the board.	STA
+Section 239(6) permits the Secretary of State to give the board directions as to the matters to be taken into account by it in discharging its functions under Chapter 6 of Part 12 of the 2003 Act, which concerns the release, licences and recall of determinate sentence prisoners, or under Chapter II of Part II of the Crime (Sentences) Act 1997 as amended (the 1997 Act), which concerns the release, licences and recall of indeterminate sentence prisoners.	STA
+It will be necessary to return to the rules and directions which were in force at the material time.	STA
+Determinate sentence prisoners who are serving a sentence of 12 months or more are automatically entitled to be released on licence at the halfway point in their sentence: section 244 of the 2003 Act.	STA
+Section 254 confers on the Secretary of State the power to revoke the licence and to recall the prisoner to prison.	STA
+There is no obligation on the Secretary of State to consult the board before doing so, and any direct challenge to the Secretary of States decision to revoke a licence can only be made by way of an application for judicial review.	STA
+At the material time, section 255C(4) of the 2003 Act (as inserted by the Criminal Justice and Immigration Act 2008) imposed a duty upon the Secretary of State to refer the recalled prisoners case to the board.	STA
+Section 255C(5) provided that, where on such a reference the board recommended the prisoners immediate release, the Secretary of State must give effect to that recommendation.	STA
+In relation to indeterminate sentence prisoners, section 28(5) of the 1997 Act imposes a duty on the Secretary of State to release the prisoner as soon as he has served the tariff part of his sentence and the board has directed his release.	STA
+Section 28(6) prohibits the board from giving such a direction unless it is satisfied that it is no longer necessary for the protection of the public that the prisoner should be confined.	STA
+The Rules	STA
+The rules in force at the material time were the Parole Board Rules 2004 as amended by the Parole Board (Amendment) Rules 2009 (the rules): those currently in force, the Parole Board Rules 2011 (SI 2011/2947), contain analogous provisions.	Ratio
+The rules applied where an indeterminate sentence prisoners case was referred to the board for a decision as to whether he should be released.	Ratio
+It is common ground between the parties that they had no application where a determinate sentence prisoners case was referred, following his recall, for a decision as to whether he should be re-released.	Ratio
+The rules therefore applied in the cases of the appellants Booth and Reilly, but not in the case of the appellant Osborn.	Ratio
+The rules made provision for the listing of the prisoners case, following which the Secretary of State was required to serve on the board, and on the prisoner or his representative, specified information and reports.	Ratio
+The prisoner was then required to serve on the board and on the Secretary of State any representations about his case that he wished to make.	Ratio
+Rule 11 provided for the initial consideration of a prisoners case by a single member of the board, without a hearing.	STA
+It provided: 11.	STA
+(1) Within 14 weeks of the case being listed, a single member panel shall consider the prisoners case (sic) without a hearing.	STA
+11.	STA
+(2) The single member panel must either (a) decide that the case should receive further consideration by an oral panel, or (b) make a provisional decision that the prisoner is unsuitable.	STA
+11.	STA
+(3) The decision of the single member panel shall be recorded in writing with reasons, and shall be provided to the parties within a week of the date of the decision.	STA
+It was implicit in rule 11(2) that an oral hearing would always be held before an indeterminate sentence prisoner was released.	STA
+Rule 12 was headed Provisional decision against release, and applied where a decision was taken under rule 11(2)(b).	STA
+It provided: 12.	STA
+(1) In any case where the single member panel has made a provisional decision under rule 11(2)(b) that the prisoner is unsuitable for release, the prisoner may request an oral panel to give consideration to his case with a hearing.	STA
+12.	STA
+(2) Where the prisoner does so request consideration of his case with a hearing, he must serve notice to that effect, giving full reasons for the request on the board and the Secretary of State within 19 weeks of the case being listed.	STA
+12.	STA
+(3) If no notice has been served in accordance with paragraph (2) after the expiry of the period permitted by that paragraph, the provisional decision shall become final and shall be provided to the parties within 20 weeks of the case being listed.	STA
+The rules were silent as to how requests for an oral hearing were to be decided and by whom.	STA
+Where a decision was made under rule 11(2)(a) or a hearing was ordered pursuant to a request under rule 12(2), Part 4 of the rules applied.	Ratio
+Provision was made for such matters as the prisoners attendance at the hearing, the submission of documentary evidence and the calling of witnesses.	Ratio
+In relation to the procedure to be followed at the hearing, rule 19 provided that the panel was required so far as possible to make its own enquiries in order to satisfy itself of the level of risk of the prisoner.	Ratio
+The parties were entitled to appear and be heard and to take such part in the proceedings as the panel thought fit.	Ratio
+They were permitted to hear each others evidence, put questions to each other, call any witnesses whom the board had authorised to give evidence, and put questions to any witness or other person appearing before the panel.	Ratio
+After all the evidence had been given, the prisoner was to be given a further opportunity to address the panel.	Ratio
+Under the rules as introduced in 2004, an indeterminate sentence prisoner was entitled under rule 12(1), in any case where a single member panel had made a provisional decision under rule 11(2)(b), to require a three member oral panel to give consideration to his case with a hearing.	Ratio
+This right was taken away by the Parole Board (Amendment) Rules 2009 (SI 2009/408), which came into effect on 1 April 2009.	Ratio
+There is a difference between the position in England and Wales following that amendment and the position in the rest of the United Kingdom, where indeterminate sentence prisoners (and some other categories of prisoner) remain entitled to an oral hearing: see the Parole Board (Scotland) Rules 2001 (SSI 2001/1315) rule 20, and the Parole Commissioners Rules (Northern Ireland) 2009 (SR 2009 No 82), rule 17(2).	Ratio
+The directions	Ratio
+At the time when the appellants cases were considered by the board, the directions given by the Secretary of State in relation to determinate sentence prisoners recalled to prison, such as the appellant Osborn, stated that the assumption is that the board will seek to re-release the prisoner or set a future re- release date in all cases where it is satisfied that the risk be safely managed in the community (sic).	FAC
+The board was required to consider a number of matters, including the likelihood of the offender complying with the requirements of probation supervision.	FAC
+In assessing that likelihood, the board was required to consider the offenders conduct during the licence period to date.	FAC
+In relation to indeterminate sentence prisoners such as the appellants Booth and Reilly, the board was required by the relevant directions to consider a number of matters, including whether the prisoner had made positive and successful efforts to address the attitudes and behavioural problems which led to the commission of the index offence, the nature of any offences against prison discipline which he had committed, his attitude and behaviour to other prisoners and staff, any medical, psychiatric or psychological conditions, particularly if there was a history of mental instability, and any indication of predicted risk as determined by a validated actuarial risk predictor model, or any other structured assessments of risk and treatment needs.	FAC
+Other directions assumed that the board had the power to recommend the transfer of indeterminate sentence prisoners to open conditions, and to give directions relating to the exercise of that power.	FAC
+Practice determinate sentence prisoners recalled to custody	FAC
+In relation to determinate sentence prisoners recalled to custody, such as the appellant Osborn, the practice of the board, following the decision of the House of Lords in R (West) v Parole Board [2005] UKHL 1; [2005] 1 WLR 350, was to grant an oral hearing to any prisoner who requested one following a provisional decision.	Ratio
+That practice changed in February 2007, when the board published a notice stating that it would require reasons from the prisoner when applying for an oral hearing, and would grant such applications only where it appeared to the board that a hearing was necessary and fell within the ambit of the House of Lords ruling.	Ratio
+The practice followed by the board in relation to such prisoners is set out in unpublished guidance to panels.	Ratio
+That guidance states: All recalled prisoners are initially considered by a paper panel.	Ratio
+That panel can decide whether to send the case to an oral hearing.	Ratio
+An oral hearing will normally be granted in three sets of circumstances: 1. where the prisoner disputes the circumstances of the recall and the facts of the recall are central to the question of risk and re-release; or 2.	Ratio
+where the prisoner argues that the recall incident was not justified for some reason, or was not as serious as alleged and this affects the assessment of risk; 3.	Ratio
+any case where the assessment of risk requires live evidence from the prisoner and/or witnesses.	Ratio
+Where the prisoner asks for an oral hearing, the panel should: Consider whether it is possible to decide the issues and release on the papers; Otherwise, send the case for an oral hearing Where a prisoner submits representations challenging his or her recall the panel should: Consider whether it is possible to decide the issues and release on the papers; or Refuse the representations ... or Send the case to an oral hearing.	Ratio
+This should only be done when the panel is unable to decide the issues on the papers and concludes that they can only be determined after hearing oral evidence.	Ratio
+(emphasis in original)	Ratio
+Practice indeterminate sentence prisoners	Ratio
+Historically, as I have explained, indeterminate sentence prisoners were entitled to an oral hearing.	Ratio
+Following the amendment of the rules in 2009, guidance was issued which was in force at the material time.	Ratio
+It stated: Decisions on oral hearings will be taken by the ICM [Intensive Case Management] member.	Ratio
+The member will consider this in all cases, regardless of whether the prisoner has requested one.	Ratio
+An oral hearing will normally be granted in two sets of circumstances: 1.	Ratio
+Where the ICM member considers there is a realistic prospect of release or a move to open conditions; or 2.	Ratio
+In any case where the assessment of risk requires live evidence from the prisoner and/or witnesses.	Ratio
+This would include a case where a progressive move is not a realistic outcome, but where live evidence is needed to determine the risk factors.	Ratio
+It is envisaged that this will be a rare step to take and would normally only be necessary where experts disagreed about a risk factor; for example, whether or not there was a sexual element to an offence that needed exploring.	Ratio
+It is only intended to apply this principle where there is a dispute about whether an issue is a risk factor at all, not necessarily whether it has been addressed or not.	Ratio
+An oral hearing will not be granted where there is no realistic prospect of release or open conditions, but where such outcomes are requested by the prisoner, detailed reasons will be given for refusing, in particular where the prisoner is already in category C or D.	Ratio
+This guidance is thoroughly illogical.	Ratio
+First, if an oral hearing will normally be granted in two sets of circumstances, the first being that there is a realistic prospect of release or a move to open conditions, it cannot be correct to say that an oral hearing will not be granted where there is no prospect of release or open conditions: if that were true, the second alternative would not exist.	Ratio
+Secondly, if, applying the guidance, the board has been able to conclude that there is no realistic prospect of release or a move to open conditions, then it is difficult to see how it can nevertheless consider that the assessment of risk requires live evidence.	Ratio
+The facts Michael Osborn	FAC
+The appellant Osborn was convicted in 2006 of putting people in fear of violence by harassment, and possession of an imitation firearm, during an incident when he was said to have brandished the imitation firearm at the home of his estranged wife.	FAC
+He received a sentence of six years imprisonment, the custodial element of which expired on 20 February 2009, when he was released on licence.	FAC
+He was assessed as presenting a very high risk of harm, and was placed under surveillance from the point of his leaving prison.	FAC
+He was recalled to custody the same day, after arriving at the hostel where he was to live 20 minutes after the time when he was required by his licence conditions to be there, having visited an address at a village in Staffordshire en route.	FAC
+His licence was revoked the same day.	FAC
+He was informed by the Ministry of Justice that he had been recalled to prison because it had been reported by the probation service that he had breached a condition of his licence by failing to confine himself to an address approved by his supervising officer during the hours of a curfew.	FAC
+He was informed that his licence had been revoked by the Secretary of State for Justice because in view of the offences for which he was originally sentenced, the risk suggested by his offending history and his behaviour as described in the breach report completed by the probation service, the Home Secretary (sic) was no longer satisfied that it was right for him to remain on licence.	FAC
+The appellants case was then listed before the board, which was provided with a request for recall report or recall pack, written with a view to justifying the recall, and a report for review of re-release.	FAC
+These documents, prepared by the Ministry of Justice or its agencies, contained accounts of events prior to and after his release by his offender manager, a line manager and a senior manager, all of whom agreed that he could not be safely released.	FAC
+In particular, the offender manager raised concerns about the appellants willingness to comply with licence conditions.	FAC
+He reported that the appellant had stated to him, before being released, his refusal to comply with the requirements of his licence, initially challenging whether he should be required to reside at approved premises, and also challenging the extent of an exclusion zone.	FAC
+The offender manager had also received information that on the day of his release, when reminded that he could not have access to firearms, the appellant had said not for another two hours.	FAC
+He was reported to have said that he would be back in prison shortly after he had done what he needed to do.	FAC
+It was also reported that shortly before the appellant had left the address which he had visited en route to the hostel he had telephoned the hostel manager to tell her that he would be late, saying falsely that he was on the A38.	FAC
+On returning to his car he had removed and rearranged items in the boot.	FAC
+This gave rise to concern in view of his comment about access to firearms.	FAC
+He was also reported to have told the hostel manager earlier that week that he could not share a room as he had a multi-personality disorder.	FAC
+In view of this reported statement, the offender manager considered it crucial that the prisoner should undergo a full psychiatric assessment before being considered for release.	FAC
+In a letter dated 6 April 2009, the appellants solicitors made representations to the board in support of his release, attaching a handwritten statement in which the appellant provided a detailed account of the events of the day on which he had been released and recalled to custody.	FAC
+He maintained that there had been a delay in his release while the prison waited for the surveillance team to arrive, and that the hostel manager had in consequence agreed to a 30 minute extension of the deadline for his getting there.	FAC
+He had arrived at the hostel before that deadline expired.	FAC
+He had stopped in the village in order to drop off his sister-in-law, who was one of the passengers in the car in which he had been collected from prison.	FAC
+The solicitors accepted that the appellant had expressed initial concerns about the licence conditions, but said that he had now been advised of the proper channels for challenging such conditions and understood that they were binding.	FAC
+They stated that he had demonstrated in custody that he could behave well, and that he could be expected to comply with his licence.	FAC
+They maintained that any risk could be safely managed within the community, as probation reports indicated.	FAC
+His previous offending, before the index offence, had taken place when he was 16 or 17 years of age.	FAC
+He was now 37.	FAC
+His record within prison had been good: he held trusted employment and was adjudication free.	FAC
+His risk level had been altered to very high on the day before his release, by his recently appointed offender manager, without a proper review or assessment, so as to enable the surveillance and emergency recall to be arranged.	FAC
+The solicitors also said that the offender managers report had only been received that day, and that they had not been able to obtain the appellant's comments on the allegations made against him.	FAC
+They noted that the offender manager had stated that the appellant was devoid of any victim sympathy/awareness, but commented that he had had very little contact with their client.	FAC
+They confirmed that the appellant suffered from mental health problems, but said that the probation service was fully aware of them.	FAC
+It was understood that the prison service had also been aware of them throughout the appellants incarceration, and that he had remained in contact with the psychiatric nurse at his current prison until being signed off.	FAC
+On 22 April 2009 the appellants case was considered by a paper panel comprising an anonymous member of the board, who decided to make no recommendation that he should be released.	FAC
+In its written decision, the panel noted the nature of the index offence and the previous record.	FAC
+It summarised the offender managers account of the appellants attitude towards the licence conditions and of events on the date of release.	FAC
+The removal and rearrangement of items in the car boot were again linked to the alleged comment about access to firearms.	FAC
+The panel stated that it had considered representations dated 2 March 2009 submitted by the appellants legal advisers.	FAC
+It was noted that those representations provided no explanation for the appellants detour to the village.	FAC
+The risk assessments were noted, including the assessment of a lack of victim empathy.	FAC
+It was noted that the hostel was unwilling to accommodate the appellant, and that report writers considered that other approved premises were unlikely to offer him accommodation until his motivation to comply improved.	FAC
+The panel referred to the appellants apparent unwillingness to comply with the requirements of licence supervision: an important finding based on the account of events provided by the offender manager.	FAC
+It was concluded that the assessment of risk was such that it could not be safely managed within the community.	FAC
+The panel does not appear to have considered the letter from the appellants solicitors dated 6 April 2009 or the appellants statement, enclosed with that letter.	FAC
+The appellant was notified of the decision by a standard form letter from the Ministry of Justice (not the board) dated 24 April 2009.	FAC
+The letter informed him that he was entitled to request an oral hearing within 14 days.	FAC
+His solicitors did so, by letter dated 28 April 2009.	FAC
+In the letter, they pointed out that the appellants statement did not appear to have been taken into account.	FAC
+They commented that the panel had relied on information which had not been disclosed to them and which they had not had an opportunity to consider, such as the information about the availability of hostel accommodation.	FAC
+They requested directions that specified witnesses and written documentation should be available at the oral hearing.	FAC
+The proposed witnesses included the hostel manager, who could confirm the appellants account of the telephone calls and could give evidence about the availability of a hostel place; the prison officer who was the source of the allegations about the appellants statements on the day of his release; the minutes of the body responsible for altering the appellants risk level the day before his release; the appellants sister-in-law, whom he claimed to have dropped off in the village; the offender manager; and a psychologist, in case his evidence should be necessary.	FAC
+In a further letter dated 13 May 2009 the solicitors reiterated that the appellant disputed the allegations made against him by the offender manager.	FAC
+By a decision dated 5 June 2009 the request for an oral hearing was refused by another anonymous single member panel.	RLC
+The decision stated that the panel had seen the oral hearing request from the prisoner/solicitor, together with the paper recall panel decision dated 22.4.09 and the dossier they reviewed.	RLC
+The decision then stated that the request for an oral hearing had been refused for the following reasons: Michael Osborn's solicitor's representations dated 27/5/09 and 28/4/09 dispute parts of the behaviour on the day of release which led to recall (eg Mr Osborn's detour) as well as brandishing a firearm in the index offences.	RLC
+This panel has carefully considered the full dossier and concludes that the disputed facts are not central either to the recall decision or the panel's risk assessment of the panel (sic) on 22/4/09; Mr Osborn's denial of the index offences was known to the panel already.	RLC
+So far as appears from the decision, this panel proceeded on the basis of the same material as had been before the earlier panel, with the addition of two subsequent letters from the appellants solicitors.	Ratio
+There is no indication that the letter dated 6 April, or the appellants statement, were taken into account.	Ratio
+The appellants claim that the time when he was due to arrive at the hostel had been extended does not appear to have been considered.	Ratio
+The fact that the appellant disputed many of the allegations made against him, and the potential bearing of that dispute upon the assessment of risk, do not appear to have been taken into account.	Ratio
+Langstaff J dismissed the appellants application for judicial review ([2010] EWHC 580 (Admin)).	RLC
+The judge considered that the facts in the appellants case were only minimally in contention, that the focus of the letter dated 28 April 2009 had been on matters which were peripheral to the decision made, and that the bulk of the letter indicated a desire to ask questions about matters of fact which were not in dispute and did not have any relevance to the risk to the public on re-release.	RLC
+On appeal to the Court of Appeal ([2010] EWCA Civ 1409, [2011] UKHRR 35), where the case was considered together with that of the appellant Booth, Carnwath LJ (with whom Sedley and Moses LJJ agreed) accepted that there was some force in the submission that, contrary to the understanding of the judge, there were significant factual disputes on matters relevant to the decision (para 45).	RLC
+He considered however that the judge was right to consider that the boards decision on release did not ultimately depend on resolution of these issues (para 47).	RLC
+The lack of information about the appellants current mental health status and the recommendation that a full psychiatric assessment should be carried out, combined with the very high risk of harm should he re-offend, provided ample reason for not allowing release (ibid).	RLC
+The appellant was eventually allowed an oral hearing in November 2010.	FAC
+His application for release was refused.	FAC
+The facts John Booth	FAC
+The appellant Booth received a discretionary life sentence in 1981 for attempted murder, with a minimum term of six and a half years.	FAC
+The conviction concerned the attempted murder by strangulation of an elderly woman in a train compartment.	FAC
+He has remained in custody ever since, save for a short period in 1993, when he was released but recalled after three months.	FAC
+Psychiatric treatment has continued throughout his sentence.	FAC
+Although he has progressed to open conditions on various occasions, he has failed on each occasion in that setting, most recently in 2003.	FAC
+In July 2009 the appellants case was referred to the board by the Secretary of State under section 28 of the 1997 Act, to consider whether or not it would be appropriate to direct the appellants release.	FAC
+If the board did not consider it appropriate to direct release, it was invited to advise the Secretary of State whether the appellant should be transferred to open conditions.	FAC
+If the board made such a recommendation, it was invited to comment on the degree of risk involved.	FAC
+It was also invited to advise the Secretary of State on the continuing areas of risk that needed to be addressed.	FAC
+The dossier provided to the board included reports from the deputy lifer manager, the appellants offender supervisor, and a psychologist in training.	FAC
+The appellant was described in the dossier as a very institutionalised man who, if not encouraged, would be satisfied to remain in custody for the remainder of his life.	FAC
+The referral letter, following the standard form, requested the board to give full reasons for its decision or recommendation, but also stated that the board was not being asked to comment on or make any recommendation about any specific treatment needs or offending behaviour work required.	FAC
+Notwithstanding that statement, it is apparent from the papers concerning the appellants Booth and Reilly that in practice the board may comment on treatment needs and on the offending behaviour work required.	FAC
+It is indeed difficult for it to avoid doing so, if it is to give reasons for its decisions and recommendations which address the matters that it is required by the Secretary of States directions to consider, and if it is to comply with the request for advice about areas of risk that need to be addressed.	FAC
+It also appears that such comments may have an impact on the prisoners management in prison and on the courses offered to him, as one would expect.	FAC
+The appellant subsequently received from the board a letter in a standard tick-box form, dated 21 October 2009.	FAC
+It stated: The Parole Board has decided not to direct your release (or recommend your transfer to open conditions if applicable).	FAC
+This is a decision taken on the papers and the full decision is attached.	FAC
+The letter continued: You can appeal the decision and ask for a full oral hearing before a panel of the Parole Board if you believe that there are significant and compelling reasons for this.	FAC
+You have four weeks (28 days) from the date of this letter to decide if you wish to lodge an appeal.	FAC
+This letter mischaracterises the nature of the single member decision, the rights of the prisoner following the making of such a decision, and the function of the board at that stage under rules 11 and 12.	FAC
+The implication of the letter is that the board has decided that the prisoner should not be released or recommended for transfer to open conditions, subject to a right of appeal.	FAC
+The prisoner is requested by the form either to signify his acceptance of that decision or to put forward reasons why he does not accept it: in other words, his grounds of appeal.	FAC
+The reference to compelling reasons implies that there is a significant onus on the prisoner.	FAC
+As I have explained, however, the decision made by the single member under rule 11(2)(b) is merely provisional.	Ratio
+Where a provisional decision is made, the prisoners entitlement under rule 12(1) is not to appeal against that decision, but to request an oral panel to give consideration to his case with a hearing.	Ratio
+The board then has to consider that request.	Ratio
+If it grants the request, the matter is then considered by an oral panel de novo, as I have explained.	Ratio
+Enclosed with the letter was the decision taken by an anonymous intensive case management (ICM) member.	Ratio
+It stated: A single Parole Board member reviewed your case on the papers on the 14th October 2009.	Ratio
+The Parole Board is empowered to direct your release if it is satisfied that it is no longer necessary for the protection of the public that you continue to be detained.	Ratio
+The member was not so satisfied and does not direct release; nor recommend transfer to open conditions.	Ratio
+There was nothing in the decision to indicate its provisional nature.	Ratio
+The decision summarised the appellants history as set out in the dossier, and stated: In order to improve your ability to cope the thinking skills programme (TSP) has been recommended for you and this was considered a good starting point in order to start addressing your risk and to deal with your long term problems of dealing with stress The report by the psychologist reports that you have made progress with your coping skills as evidenced by your current behaviour as compared to the severe difficulties you have had in the past.	RLC
+The concern, however, is that you have little awareness of what may unsettle you in the future and that your relapse prevention strategies rely solely on professional support.	RLC
+The report states you do not see it as your responsibility to change but for others to look after you.	RLC
+The psychologist recommends the TSP for you In order to fully benefit from this programme it is suggested that some 1:1 work with the treatment team would be needed before you started the programme No report writers are in a position to recommend release or a progressive move to open conditions for you.	RLC
+You feel you may benefit from a direct release to Box Tree Cottage which offers a high level of supportive accommodation for offenders but it is felt that such plans are somewhat premature for you although the offender manager and the psychologist have not ruled out this type of progression in the longer term.	RLC
+In response to the letter, the appellants solicitors requested an oral hearing by letter dated 17 November 2009.	FAC
+They stated that the appellants was a complex case.	FAC
+Since his last review, he had been working on a one-to-one basis with a psychiatrist in the prison on cognitive skills, and was currently covering some of the elements of the thinking skills programme.	FAC
+He had completed work to reduce his risk since his last review.	FAC
+He had not had any adjudications.	FAC
+He had had successful releases on temporary licence.	FAC
+His application for release might therefore be successful.	FAC
+He would require psychiatric intervention when released.	FAC
+This needed to be considered at an oral hearing.	FAC
+His probation officer was currently arranging for him to visit Box Tree Cottage, which provided accommodation with psychiatric support on hand.	FAC
+It was likely that he would request direct release to that accommodation.	FAC
+By letter dated 19 November 2009, headed Appeal against Paper Decision, the board informed the appellant that the appeal has been refused.	FAC
+The letter stated: The ICM assessor's duty is to consider whether the grounds of the appeal are justified and if an oral hearing would make any material difference to the paper hearing decision.	FAC
+The implication of that statement is that a decision which was taken before any representations were received from the prisoner should be reconsidered only if representations subsequently made demonstrated that an oral hearing would result in a different decision.	FAC
+The letter continued: The criteria for granting an oral hearing is (sic) where the member considers there is a realistic chance of release or open conditions and where the assessment of risk requires live evidence to determine the risk factors.	FAC
+In Mr. Booth's case the offender manager, the offender supervisor and the prison psychologist all agree on the current risk factors which are thinking skills deficits and anger management issues and that interventions need to be completed to address these risk factors.	FAC
+They all conclude that Mr. Booth is unsuitable for release or open conditions.	FAC
+There is no evidence or argument put forward in the representations which persuades the ICM assessor that an oral hearing is justified.	FAC
+The paper decision is therefore final.	FAC
+The decision does not explain why the points made on behalf of the appellant in the letter dated 17 November 2009 had been discounted by the anonymous ICM assessor, beyond reiterating the contrary opinions of the offender manager, the offender manager and the prison psychologist.	FAC
+The facts James Reilly	FAC
+The appellant Reilly was convicted in 2002 of offences of robbery, attempted robbery and possession of an imitation firearm, relating to the attempted robbery of a post office and the robbery of another post office.	FAC
+He had 19 previous convictions, two of which were for robbery.	FAC
+He received an automatic life sentence with a minimum term of six years and eight months, which expired in September 2009.	FAC
+During the course of his sentence he was transferred to Northern Ireland, but remained subject to the jurisdiction of the board under section 28 of the 1997 Act.	FAC
+By letter dated 3 March 2009 the board notified the appellant that he was being considered for release.	FAC
+He was told that he would receive a copy of his dossier and would have 28 days to submit written representations.	FAC
+The board would consider his case and notify him of its decision whether to grant an oral hearing.	FAC
+He would then have 28 days to decide whether he accepted the decision or whether he wished to appeal the decision.	FAC
+On 19 March 2009 the appellants solicitors replied, requesting an oral hearing and indicating that the appellant would be legally represented.	FAC
+On 29 April 2009 they wrote to the board, drawing to its attention that they had not yet received the dossier.	FAC
+On 8 May 2009 the solicitors were informed by the board that the appellant had a target month for oral hearing of September 2009, and that it had not yet received the dossier.	FAC
+On 21 May 2009 the solicitors wrote to the prison authorities requesting confirmation that the dossier had been submitted to the board.	FAC
+On 3 June they learned that a copy of the dossier had been provided to the appellant, but not to them.	FAC
+At some point in about June 2009 the appellant received an undated letter from the board, in the standard form described in para 33.	FAC
+Like the similar letter addressed to the appellant Booth, it informed the appellant that the board had decided not to direct his release or to recommend his transfer to open conditions, and that he could appeal the decision and ask for a full oral hearing.	FAC
+Enclosed with the letter was an undated and anonymous decision.	FAC
+It took as its starting point a pre-tariff review carried out by the board in 2006, which stated that the appellant needed to show a sustained period of good behaviour, and that he was working on drug relapse prevention and undertaking specified courses.	FAC
+In relation to the first of these, the panel noted that since 2007 the appellant had been adjudicated upon for matters including possession of unauthorised articles, attempted assault on staff, damaging prison property, possession of a knife, disobeying orders and abusive behaviour.	FAC
+He had failed a number of drug tests.	FAC
+He had undertaken one of the relevant courses with apparent success, but the drug tests indicated that he had been unable to translate this work into positive action.	FAC
+Given the drug test results, he was unsuitable for the other recommended course.	FAC
+The panel concluded that there was more work to be done, particularly in relation to the use of violence, and that the appellant would need to demonstrate that he could maintain his behaviour and motivation before less secure conditions could be considered.	FAC
+By letter dated 10 July 2009 the appellants solicitors requested an oral hearing.	FAC
+They pointed out, first, that the panel had not had before it any representations from the appellant.	FAC
+Secondly, they noted that the major reservations in the panels decision reflected the comments in the dossier about the appellants prison record and failed drug tests.	FAC
+They submitted that the appellants adjudication record did not on examination indicate an unacceptable risk.	FAC
+The charge of possession of unauthorised articles related to items from the tuck shop.	FAC
+The charge of attempted assault concerned his flicking a sock in the direction of a prison officer.	FAC
+The charge of damaging prison property concerned a torn bed sheet.	FAC
+Possession of a knife concerned a knife which the appellant had removed from another prisoner in order to avoid an incident.	FAC
+In relation to disobeying orders, the appellant had objected to being in the vicinity of heavy machinery in the prison workshop as he was epileptic.	FAC
+Following the adjudication he worked instead in another part of the prison.	FAC
+The charge of abusive behaviour had been dismissed.	FAC
+In relation to the drugs tests, during the relevant periods the appellant had been prescribed medications which might account for the results.	FAC
+It was submitted that the appellant had progressed sufficiently to be seriously considered for open conditions.	FAC
+It was believed that the necessary remaining courses could be accessed by prisoners in such conditions.	FAC
+Not all the report writers had commented on the appropriateness of open conditions.	FAC
+By letter dated 20 July 2009, headed Appeal Against Paper Decision, the appellant was notified that his appeal had been refused.	FAC
+The letter, whose author was unidentified, stated: The appeal has been refused on the grounds that while individual adjudications may have explanations there still remains significant offending behaviour work for you to carry out, particularly with regard to instrumental violence.	FAC
+Until such work is successfully completed, the risk of reconviction or of causing serious harm cannot be regarded as reduced.	FAC
+No report writers recommend a move to open or release at this review.	FAC
+This panel endorses the view that no recommendation can be made at this time and the appeal is refused.	FAC
+The paper decision is therefore final.	FAC
+The letter did not address the possibility that the recommendations of the report writers had been influenced by the appellants history of adjudications and failed drug tests, to which they had referred, or the possibility that the boards independent assessment might be affected if the appellants explanations were accepted.	FAC
+Nor did it address the possibility, raised in the appeal, that any further courses might be undertaken in open conditions.	FAC
+There is no indication that the explanation put forward for the failed drug tests was taken into account.	FAC
+By letter dated 23 July 2009 the appellant was informed that the Secretary of State agreed with the panels recommendation for the reasons which it gave, and considered that a number of risk factors were outstanding and required further work.	FAC
+In particular, the appellant needed to address his behaviour and drug use in prison over a sustained period.	FAC
+It appears from the latter conclusion, which did not form part of the appeal decision, that the Secretary of State may have been proceeding on the basis of the paper decision, which had become final.	FAC
+On an application for judicial review, Treacy J held that the board had acted in breach of its common law duty to act fairly, and incompatibly with the appellants Convention rights under article 5(4), in failing to provide him with an oral hearing ([2010] NIQB 46).	RLC
+In a subsequent judgment ([2010] NIQB 56), Treacy J decided that the appropriate remedy was the award of certiorari to quash the boards decision.	RLC
+He declined to make an award of damages under section 8 of the Human Rights Act, noting that it was agreed that the appellant could not establish that he had been deprived of liberty as a result of the decision, and concluding that any frustration or distress which he might have suffered was not of such intensity as to justify an award of damages.	RLC
+An appeal against the first of these decisions was allowed by the Court of Appeal in Northern Ireland ([2011] NICA 6).	RLC
+The court followed the approach which had been adopted by the Court of Appeal of England and Wales in the cases of the appellants Osborn and Booth, and concluded that, since the factual issues highlighted by the appellants solicitors were not of critical importance, it followed that the board could fairly conclude that an oral hearing would not assist it in its determination of the relevant issue.	RLC
+The appellant was eventually allowed an oral hearing in May 2011.	FAC
+His application for release was refused.	FAC
+Domestic law and Convention rights	STA
+The submissions on behalf of the appellants focused on article 5(4), and paid comparatively little attention to domestic administrative law.	Ratio
+As I shall explain, that approach does not properly reflect the relationship between domestic law (considered apart from the Human Rights Act) and Convention rights.	Ratio
+The guarantees set out in the substantive articles of the Convention, like other guarantees of human rights in international law, are mostly expressed at a very high level of generality.	Ratio
+They have to be fulfilled at national level through a substantial body of much more specific domestic law.	Ratio
+That is true in the United Kingdom as in other contracting states.	Ratio
+For example, the guarantee of a fair trial, under article 6, is fulfilled primarily through detailed rules and principles to be found in several areas of domestic law, including the law of evidence and procedure, administrative law, and the law relating to legal aid.	Ratio
+The guarantee of a right to respect for private and family life, under article 8, is fulfilled primarily through rules and principles found in such areas of domestic law as the law of tort, family law and constitutional law.	Ratio
+Many other examples could be given.	Ratio
+Article 5, in particular, is implemented through several areas of the law, including criminal procedure, the law relating to sentencing, mental health law and administrative law: indeed, article 5(4) is said to have been inspired by the English law of habeas corpus (Sanchez-Reisse v Switzerland (1986) 9 EHRR 71, 88).	Ratio
+As these examples indicate, the protection of human rights is not a distinct area of the law, based on the case law of the European Court of Human Rights, but permeates our legal system.	Ratio
+The values underlying both the Convention and our own constitution require that Convention rights should be protected primarily by a detailed body of domestic law.	Ratio
+The Convention taken by itself is too inspecific to provide the guidance which is necessary in a state governed by the rule of law.	Ratio
+As the European court has said, a norm cannot be regarded as a law unless it is formulated with sufficient precision to enable the citizen to regulate his conduct (Sunday Times v United Kingdom (1979) 2 EHRR 245, 271).	Ratio
+The Convention cannot therefore be treated as if it were Moses and the prophets.	Ratio
+On the contrary, the European court has often referred to the fundamentally subsidiary role of the Convention (see eg Hatton v United Kingdom (2003) 37 EHRR 611, para 97).	Ratio
+In relation to article 5(4) in particular, the court has made it clear that in order for there to be compliance with that guarantee, there must in the first place be compliance with the relevant substantive and procedural rules of domestic law (Koendjbiharie v The Netherlands (1990) 13 EHRR 820, para 27).	Ratio
+Domestic law may however fail to reflect fully the requirements of the Convention.	Ratio
+In that situation, it has always been open to Parliament to legislate in order to fulfil the United Kingdoms international obligations; as it has done, for example, in response to judgments of the European court concerning the application of article 5(4).	Ratio
+The courts have also been able to take account of those obligations in the development of the common law and in the interpretation of legislation.	Ratio
+The Human Rights Act has however given domestic effect, for the purposes of the Act, to the guarantees described as Convention rights.	Ratio
+It requires public authorities generally to act compatibly with those guarantees, and provides remedies to persons affected by their failure to do so.	Ratio
+The Act also provides a number of additional tools enabling the courts and government to develop the law when necessary to fulfil those guarantees, and requires the courts to take account of the judgments of the European court.	Ratio
+The importance of the Act is unquestionable.	Ratio
+It does not however supersede the protection of human rights under the common law or statute, or create a discrete body of law based upon the judgments of the European court.	Ratio
+Human rights continue to be protected by our domestic law, interpreted and developed in accordance with the Act when appropriate.	Ratio
+That approach is now well established.	PRE
+A few examples may be given.	PRE
+In R (Daly) v Secretary of State for the Home Department [2001] UKHL 26; [2001] 2 AC 532 a policy that prisoners should be absent from their cells while they were being searched for contraband, as applied to a prisoner who had correspondence with his solicitor in his cell, was held to be unlawful on the ground that it infringed the prisoners common law right that the confidentiality of privileged legal correspondence be maintained.	PRE
+Lord Bingham of Cornhill noted in the final paragraph of his speech that that result was compatible with article 8 of the Convention.	PRE
+In that regard he adopted the observations of Lord Cooke of Thorndon, who said (para 30): It is of great importance, in my opinion, that the common law by itself is being recognised as a sufficient source of the fundamental right to confidential communication with a legal adviser for the purpose of obtaining legal advice.	PRE
+Thus the decision may prove to be in point in common law jurisdictions not affected by the Convention.	PRE
+Rights similar to those in the Convention are of course to be found in constitutional documents and other formal affirmations of rights elsewhere.	PRE
+The truth is, I think, that some rights are inherent and fundamental to democratic civilised society.	PRE
+Conventions, constitutions, bills of rights and the like respond by recognising rather than creating them.	PRE
+When the House of Lords considered in R (West) v Parole Board [2005] UKHL 1; [2005] 1 WLR 350 the circumstances in which determinate sentence prisoners recalled to prison were entitled to an oral hearing before the board, it took the common law as its starting point, and considered judgments of the European court, together with judgments from a number of common law jurisdictions, in deciding what the common law required.	PRE
+It went on to hold that the boards review of the prisoners case would satisfy the requirements of article 5(4) provided it was conducted in a manner that met the common law requirements of procedural fairness.	PRE
+That decision is of obvious relevance to the present appeals.	PRE
+Similarly, when the House of Lords rejected the admission of evidence obtained by torture, it did so on the basis of the common law: A v Secretary of State for the Home Department (No 2) [2005] UKHL 71; [2006] 2 AC 221.	PRE
+Lord Bingham observed at para 51 that English common law had regarded torture and its fruits with abhorrence for over 500 years, and concluded at para 52 that the principles of the common law, standing alone, compelled the exclusion of third party torture evidence.	PRE
+He noted that that was consistent with the Convention.	PRE
+More recently, the importance of the continuing development of the common law, in areas falling within the scope of the Convention guarantees, was emphasised by the Court of Appeal in R (Guardian News and Media Ltd) v City of Westminster Magistrates Court (Article 19 intervening) [2012] EWCA Civ 420; [2013] QB 618.	PRE
+The case concerned access by the Press to documents referred to in court, and was decided on the basis of the common law, including authorities from other jurisdictions, rather than on the basis of article 10 of the Convention.	PRE
+Toulson LJ, with whose reasoning the other members of the court agreed, stated at para 88: The development of the common law did not come to an end on the passing of the Human Rights Act 1998 .	PRE
+It is in vigorous health and flourishing in many parts of the world which share a common legal tradition.	PRE
+This case provides a good example of the benefit which can be gained from knowledge of the development of the common law elsewhere.	PRE
+Finally, in this connection, in R (Faulkner) v Secretary of State for Justice [2013] UKSC 23; [2013] 2 WLR 1157, para 29, the ordinary approach to the relationship between domestic law and the Convention was described as being that the courts endeavour to apply and if need be develop the common law, and interpret and apply statutory provisions, so as to arrive at a result which is in compliance with the UKs international obligations, the starting point being our own legal principles rather than the judgments of the international court.	PRE
+Against the background of those authorities, the error in the approach adopted on behalf of the appellants in the present case is to suppose that because an issue falls within the ambit of a Convention guarantee, it follows that the legal analysis of the problem should begin and end with the Strasbourg case law.	Ratio
+Properly understood, Convention rights do not form a discrete body of domestic law derived from the judgments of the European court.	Ratio
+As Lord Justice-General Rodger once observed, it would be wrong to see the rights under the European Convention as somehow forming a wholly separate stream in our law; in truth they soak through and permeate the areas of our law in which they apply (HM Advocate v Montgomery 2000 JC 111, 117).	Ratio
+Procedural fairness at common law three preliminary matters	Ratio
+Following the approach I have described, it is necessary to begin by considering the practice followed by the board in the light of domestic principles of procedural fairness.	Ratio
+In doing so, it may be helpful to clarify three matters at the outset.	Ratio
+The first matter concerns the role of the court when considering whether a fair procedure was followed by a decision-making body such as the board.	Ratio
+In the case of the appellant Osborn, Langstaff J refused the application for judicial review on the ground that the reasons given for refusal [to hold an oral hearing] are not irrational, unlawful nor wholly unreasonable (para 38).	Ratio
+In the case of the appellant Reilly, the Court of Appeal in Northern Ireland stated at para 42: Ultimately the question whether procedural fairness requires their deliberations to include an oral hearing must be a matter of judgment for the Parole Board.	Ratio
+These dicta might be read as suggesting that the question whether procedural fairness requires an oral hearing is a matter of judgment for the board, reviewable by the court only on Wednesbury grounds.	Ratio
+That is not correct.	Ratio
+The court must determine for itself whether a fair procedure was followed (Gillies v Secretary of State for Work and Pensions [2006] UKHL 2; 2006 SC (HL) 71; [2006] 1 WLR 781, para 6 per Lord Hope of Craighead).	Ratio
+Its function is not merely to review the reasonableness of the decision-makers judgment of what fairness required.	Ratio
+The second matter to be clarified concerns the purpose of procedural fairness.	Ratio
+In the case of the appellant Osborn, Langstaff J stated at para 6 that in determining whether an oral hearing was necessary, what fell to be considered was the extent to which an oral hearing would guarantee better decision making in terms of the uncovering of facts, the resolution of issues and the concerns of the decision-maker, due consideration being given to the interests at stake.	Ratio
+In the Court of Appeal, Carnwath LJ interpreted Lord Binghams speech in R (West) v Parole Board [2005] UKHL 1; [2005] 1 WLR 350 as implying that the underlying rationale of procedural fairness at common law was one in which the emphasis is on the utility of the oral procedure in assisting in the resolution of the issues before the decision-maker (para 38).	Ratio
+There is no doubt that one of the virtues of procedurally fair decision- making is that it is liable to result in better decisions, by ensuring that the decision- maker receives all relevant information and that it is properly tested.	Ratio
+As Lord Hoffmann observed however in Secretary of State for the Home Department v (AF (No 3) [2009] UKHL 28; [2010] 2 AC 269, para 72, the purpose of a fair hearing is not merely to improve the chances of the tribunal reaching the right decision.	Ratio
+At least two other important values are also engaged.	Ratio
+The first was described by Lord Hoffmann (ibid) as the avoidance of the sense of injustice which the person who is the subject of the decision will otherwise feel.	Ratio
+I would prefer to consider first the reason for that sense of injustice, namely that justice is intuitively understood to require a procedure which pays due respect to persons whose rights are significantly affected by decisions taken in the exercise of administrative or judicial functions.	Ratio
+Respect entails that such persons ought to be able to participate in the procedure by which the decision is made, provided they have something to say which is relevant to the decision to be taken.	Ratio
+As Jeremy Waldron has written (How Law Protects Dignity [2012] CLJ 200, 210): Applying a norm to a human individual is not like deciding what to do about a rabid animal or a dilapidated house.	Ratio
+It involves paying attention to a point of view and respecting the personality of the entity one is dealing with.	Ratio
+As such it embodies a crucial dignitarian idea respecting the dignity of those to whom the norms are applied as beings capable of explaining themselves.	Ratio
+This point can be illustrated by Byles Js citation in Cooper v Wandsworth Board of Works (1863) 14 CB (NS) 180, 195 of a dictum of Fortescue J in Dr Bentleys Case (R v Chancellor of Cambridge, Ex p Bentley (1748) 2 Ld Raym 1334): The laws of God and man both give the party an opportunity to make his defence, if he has any.	PRE
+I remember to have heard it observed by a very learned man, upon such an occasion, that even God himself did not pass sentence upon Adam before he was called upon to make his defence.	PRE
+The point of the dictum, as Lord Hoffmann explained in AF (No 3) at para 72, is that Adam was allowed a hearing notwithstanding that God, being omniscient, did not require to hear him in order to improve the quality of His decision-making.	PRE
+As Byles J observed (ibid), the language used by Fortescue J is somewhat quaint, but has been the law from that time to the present.	PRE
+This aspect of fairness in decision-making has practical consequences of the kind to which Lord Hoffmann referred.	Ratio
+Courts have recognised what Lord Phillips of Worth Matravers described as the feelings of resentment that will be aroused if a party to legal proceedings is placed in a position where it is impossible for him to influence the result Secretary of State for the Home Department v AF (No 3) [2009] UKHL 28; [2010] 2 AC 269, para 63).	Ratio
+In the present context, research has established the importance attached by prisoners to a process of risk assessment which provides for their contribution to the process (see Attrill and Liell, Offenders Views on Risk Assessment, in Who to Release? Parole, Fairness and Criminal Justice (2007), ed Padfield).	Ratio
+Other research reveals the frustration, anger and despair felt by prisoners who perceive the boards procedures as unfair, and the impact of those feelings upon their motivation and respect for authority (see Padfield, Understanding Recall 2011, University of Cambridge Faculty of Law Research Paper No 2/2013 (2013)).	Ratio
+The potential implications for the prospects of rehabilitation, and ultimately for public safety, are evident.	Ratio
+The second value is the rule of law.	Ratio
+Procedural requirements that decision- makers should listen to persons who have something relevant to say promote congruence between the actions of decision-makers and the law which should govern their actions (see eg Fuller, The Morality of Law, revised ed (1969), p 81, and Bingham, The Rule of Law (2010), chapter 6).	Ratio
+The third matter to be clarified concerns the cost of oral hearings: a consideration which appears to have underlain some of the changes to the rules and practice of the board which have given rise to the present appeals, and which is reflected in the boards annual reports, where figures are given for the savings achieved by the refusal of oral hearings in recall cases.	Ratio
+The easy assumption that it is cheaper to decide matters without having to spend time listening to what the persons affected may have to say begs a number of questions.	Ratio
+In the context of parole, where the costs of an inaccurate risk assessment may be high (whether the consequence is the continued imprisonment of a prisoner who could safely have been released, or re-offending in the community by a prisoner who could not), procedures which involve an immediate cost but contribute to better decision- making are in reality less costly than they may appear.	Ratio
+In the present cases, counsel for the board accepted that cost was not a conclusive argument against the holding of oral hearings.	Ratio
+R (West) v Parole Board	PRE
+The circumstances in which the board should afford an oral hearing to determinate sentence prisoners who have been released on licence and then returned to prison were considered by the House of Lords in R (West) v Parole Board [2005] UKHL 1; [2005] 1 WLR 350.	PRE
+The case was decided at a time when such prisoners were entitled to challenge the revocation of their licence before the board (whereas now, as explained earlier, the board cannot adjudicate directly upon the appropriateness of the revocation of the licence, but must determine whether the prisoner should be re-released, having regard to his conduct during the licence period, amongst other matters).	PRE
+The case was also decided at a time when indeterminate sentence prisoners in England and Wales were entitled to an oral hearing.	PRE
+The House considered the requirements of procedural fairness in the light of a wide-ranging review of authorities from a number of common law jurisdictions, and also a number of judgments of the European court, including Waite v United Kingdom (2002) 36 EHRR 1001, to which it will be necessary to return.	PRE
+Lord Bingham, with whose speech the majority of the committee expressed agreement, stated (para 31): While an oral hearing is most obviously necessary to achieve a just decision in a case where facts are in issue which may affect the outcome, there are other cases in which an oral hearing may well contribute to achieving a just decision.	PRE
+The duty to afford an oral hearing therefore exists where there are facts in dispute which may affect the outcome, but it is not confined to such circumstances.	PRE
+Lord Bingham did not attempt to define exhaustively the other circumstances in which an oral hearing was required, but gave some examples, and some general guidance (para 35): Even if important facts are not in dispute, they may be open to explanation or mitigation, or may lose some of their significance in the light of other new facts.	PRE
+While the board's task certainly is to assess risk, it may well be greatly assisted in discharging it (one way or the other) by exposure to the prisoner or the questioning of those who have dealt with him.	PRE
+It may often be very difficult to address effective representations without knowing the points which are troubling the decision-maker.	PRE
+The prisoner should have the benefit of a procedure which fairly reflects, on the facts of his particular case, the importance of what is at stake for him, as for society.	PRE
+Lord Hope added two observations about the approach then followed by the board in relation to cases of the type in question, according to which it professed its willingness to hold oral hearings where the decision turned on disputed issues of fact, but in practice rarely held such hearings.	PRE
+First, there appeared to be a long- standing institutional reluctance on the part of the board to deal with cases orally: It would not be surprising if a consequence of that reluctance was an approach, albeit unconscious and unintended, which undervalued the importance of any issues of fact that the prisoner wished to dispute (para 66).	PRE
+As Lord Hope pointed out, this approach was liable to lead to reliance upon assumptions based on general knowledge and experience, and to a lack of focus on the prisoner as an individual.	PRE
+The institutional reluctance of the board to hold oral hearings in determinate recall cases appears to have continued during the period with which these appeals are concerned.	PRE
+The boards annual report for 2009-2010 records, in relation to determinate recall cases considered under the Criminal Justice and Immigration Act 2008, that of a total of 12,388 cases considered that year, only 145 were sent to an oral hearing: in other words, 1%.	PRE
+The proportion the following year was the same.	PRE
+That reluctance can also be detected in the tone of the internal guidance discussed earlier.	PRE
+The statistics also indicate a low rate of success in applications for oral hearings by indeterminate sentence prisoners: of 1054 negative paper decisions considered by ICM assessors in 2009-2010, 174 were sent to an oral hearing on appeal: in other words, 83% of appeals were refused.	PRE
+Lord Hopes second observation concerned the allowance of oral hearings where there were disputed issues of fact: The question is not whether the case ultimately turns on a disputed issue of fact when the decision is taken.	PRE
+It is whether, when the papers are first looked at, it is likely to do so (para 67).	PRE
+In other words, one cannot decide whether a disputed issue of fact will prove to be determinative at the stage of considering whether an oral hearing is appropriate.	PRE
+The most one can do at that stage is to identify the issues which appear to be important, and then decide in the light of that assessment (and other relevant factors) whether an oral hearing should be held.	PRE
+Finally, in relation to West, it is useful to note how the House dealt with the cases before it.	PRE
+The appellant West had breached his licence conditions in a number of ways.	PRE
+He had an explanation for some but not all of the breaches.	PRE
+He was refused an oral hearing.	PRE
+The House concluded that his explanations could not properly be rejected without hearing him.	PRE
+In so far as he had no explanation, the question whether the breach had an unacceptable impact on the risk posed to the public could not fairly be resolved without an oral hearing.	PRE
+The appellant Smith had repeatedly used class A drugs after his release on licence, while living in designated hostels.	PRE
+He maintained that he had succeeded in freeing himself from drugs while in prison, but had relapsed in the hostels because of the prevailing drug culture.	PRE
+He did not request an oral hearing, but it was nevertheless held that such a hearing should have been offered: the board might have been assisted by evidence from his psychiatrist, and should have allowed the appellant an opportunity to persuade it that the community would be better protected by allowing him to remain on licence under supervision than by returning him to prison with the prospect of eventual unsupervised release.	PRE
+The circumstances in which fairness requires an oral hearing	Ratio
+What fairness requires of the board depends on the circumstances.	Ratio
+As these can vary greatly from one case to another, it is impossible to lay down rules of universal application.	Ratio
+The court can however give some general guidance.	Ratio
+Generally, the board should hold an oral hearing whenever fairness to the prisoner requires such a hearing in the light of the facts of the case and, as was said in West, the importance of what is at stake.	Ratio
+The board should consider whether its independent assessment of risk, and of the means by which it should be managed and addressed, may benefit from the closer examination which an oral hearing can provide.	Ratio
+It is presumably because of the possibility of such assistance that the board must hold an oral hearing under rule 11(2)(a) in any case where an indeterminate sentence prisoner appears to the single member panel to be potentially suitable for release or for a transfer to open conditions.	Ratio
+The assumption must be that an oral hearing has the potential to make a difference.	Ratio
+But that potential may also exist in other cases.	Ratio
+The boards annual report for 2005-2006 contains a statement by a psychiatrist member of the board which demonstrates how valuable oral hearings can be: I find the oral hearings particularly rewarding in that the evidence on the day can sometimes illuminate a situation sufficiently to turn around my preliminary view of the case.	Ratio
+There is no substitute for being able to hear from, and ask questions of the prisoner.	Ratio
+The board should also bear in mind that the purpose of holding an oral hearing is not only to assist it in its decision-making, but also to reflect the prisoners legitimate interest in being able to participate in a decision with important implications for him, where he has something useful to contribute.	Ratio
+An oral hearing should therefore be allowed where it is maintained on tenable grounds that a face to face encounter with the board, or the questioning of those who have dealt with the prisoner, is necessary to enable him or his representatives to put their case effectively or to test the views of those who have dealt with him.	Ratio
+When dealing with cases concerning recalled prisoners, the board should bear in mind that the prisoner has been deprived of his freedom, albeit conditional: a factor upon which Lord Bingham placed emphasis in West.	Ratio
+In relation to cases concerning post-tariff indeterminate sentence prisoners, it has been said more than once that the board should scrutinise ever more anxiously whether the level of risk is unacceptable, the longer the time the prisoner has spent in prison following the expiry of his tariff (R v Parole Board, Ex p Bradley [1991] 1 WLR 134, 146; R v Parole Board, Ex p Wilson [1992] QB 740, 747).	Ratio
+It also has to be borne in mind that the issues which are considered by the board are not in practice confined to the question whether the prisoner should or should not be released or transferred.	Ratio
+As I have explained, the statutory directions given to the board require it to consider numerous matters.	Ratio
+The boards findings in relation to these matters may in practice affect the prisoners future progress in prison, for example in relation to the courses which he is required to undertake and his future reviews.	Ratio
+The board may also be asked specifically to advise the Secretary of State on matters affecting the prisoner.	Ratio
+For example, when post-tariff indeterminate sentence prisoners are referred to the board, it is generally asked to advise on the continuing areas of risk that need to be addressed.	Ratio
+In such cases, the fair disposal of issues of that kind may require an oral hearing even if the question whether the prisoner should be released or transferred does not.	Ratio
+In accordance with the guidance provided in West, an oral hearing is required when facts which appear to be important are in dispute, or where a significant explanation or mitigation is advanced which needs to be heard orally if it is to be accepted.	Ratio
+An oral hearing is also necessary when for other reasons the board cannot otherwise properly or fairly make an independent assessment of risk, or of the means by which it should be managed and addressed.	Ratio
+That is likely to be the position in cases where such an assessment may depend upon the view formed by the board (including its members with expertise in psychology or psychiatry) of characteristics of the prisoner which can best be judged by seeing or questioning him in person, or where a psychological assessment produced by the Ministry of Justice is disputed on tenable grounds, or where the board may be materially assisted by hearing evidence, for example from a psychologist or psychiatrist.	Ratio
+As is illustrated by the judgments of the European Court of Human Rights in Hussain v United Kingdom (1996) 22 EHRR 1, Singh v United Kingdom 21 February 1996, Reports of Decisions and Judgments, 1996-I, p 280 and Waite v United Kingdom (2002) 36 EHRR 1001, cases concerning prisoners who have spent lengthy periods in custody are likely to fall into the first of these categories, since an independent assessment of their continuing dangerousness will require a judgment to be made of the extent to which they have developed over the period since their conviction: a matter which cannot normally be independently and fairly assessed without seeing the person concerned.	PRE
+Whether a prisoners right to a fair hearing requires the holding of an oral hearing does not depend on his establishing that his application for release or transfer stands any particular chance of success: that approach would not allow for the possibility that an oral hearing may be necessary in order for the prisoner to have a fair opportunity of establishing his prospects of success, and thus involves circular reasoning.	Ratio
+The point can be illustrated by the example of a prisoner who is unable to participate effectively in a written procedure due to learning difficulties.	Ratio
+To decide whether he should be allowed an oral hearing on the basis of his prospects of success as they appeared on the basis of the official dossier and his written representations, if any, would plainly be unfair.	Ratio
+The problem with reliance on the prospects of success, as they appear from the written material, as the touchstone of what fairness requires is not however confined to prisoners who are manifestly disadvantaged by a written procedure.	Ratio
+In so far as the boards practice is to require that a realistic prospect of success be demonstrated, as a precondition of the grant of an oral hearing, that practice should therefore cease.	Ratio
+It is in addition fundamental to procedural fairness that the board must be, and appear to be, independent and impartial.	Ratio
+The dossier provided to the board by the Ministry of Justice is plainly important to the boards discharge of its functions: it records the prisoners progress in the prison system and the rehabilitation courses which he has undertaken, and it includes expert views on the likelihood of his re-offending.	Ratio
+Nevertheless, as was said in R (Brooke) v Parole Board [2008] EWCA Civ 29; [2008] 1 WLR 1950 at para 96, the board has to evaluate the material placed before it by the Ministry and reach its own objective judicial decision.	Ratio
+The board should therefore have no predisposition to favour the official version of events, or the official risk assessment, over the case advanced by the prisoner.	Ratio
+In that regard, the court was referred to a study of the recall of determinate sentence prisoners which concluded that the single member panels were little more than a rubber stamp (Padfield, Understanding Recall 2011, University of Cambridge Faculty of Law Research Paper No 2/2013 (2013) p 40).	Ratio
+That conclusion is supported, in relation to the period when the appellant Osborns case was considered, by the statistics which I have mentioned.	Ratio
+It is equally important that the board should not give way to the temptation, identified in West by Lord Hope, to discount the significance of matters which are disputed by the prisoner in order to avoid the trouble and expense of an oral hearing.	Ratio
+It is also important that the administrative procedure adopted by the board should be well adapted to ensuring that an oral hearing is held when such a hearing is necessary.	Ratio
+In that regard, it has to be said that the procedural rules in force at the material time, and the analogous rules currently in force, are liable to give rise to a number of problems, as the present appeals demonstrate (problems which might be avoided if the board took a decision about the appropriate form of hearing, and nothing else, only after any representations on behalf of the prisoner had been received).	Ratio
+First, the rule requiring a single member panel either to decide that the case should receive further consideration by an oral panel, or to make a provisional decision that the prisoner is unsuitable for release or for a transfer to open conditions, should not be understood as meaning that an oral hearing is appropriate only if the single member panel forms the provisional view that the prisoner is suitable for release or transfer.	Ratio
+Secondly, it is important to understand the provisional nature of a decision made by the single member panel that the prisoner is unsuitable for release.	Ratio
+The right conferred on the prisoner, following that decision, to request an oral hearing is not a right of appeal.	Ratio
+The prisoner does not have to demonstrate that the decision was (or may have been) wrong: what he has to persuade the board is simply that an oral hearing is appropriate.	Ratio
+The unfairness which results from the boards treatment of the request for an oral hearing as an appeal is illustrated by the case of the appellant Booth, in which the ICM assessor identified the critical question as being whether the grounds of the appeal are justified and if an oral hearing would make any material difference to the paper decision.	Ratio
+The request for an oral hearing was thus decided on the basis that the earlier decision was presumptively correct.	Ratio
+This is to put the cart before the horse.	Ratio
+If fairness requires an oral hearing, then a decision arrived at without such a hearing is unfair and cannot stand.	Ratio
+The question whether an oral hearing is required cannot therefore be decided on the basis of a presumption that a decision taken without such a hearing is correct.	Ratio
+Thirdly, since the effect of the refusal of an oral hearing is that the provisional decision becomes final, it follows that an oral hearing should be granted in any case where it would be unfair to the prisoner for that to happen.	Ratio
+For example, if the representations made in support of the prisoners request for an oral hearing raise issues which place in question anything in the provisional decision which may in practice have a significant impact on the prisoners future management in prison or on his future reviews, such as reports of poor behaviour or recommendations that particular courses should be undertaken to reduce risk, it will usually follow that an oral hearing should be allowed for that reason alone, even if there is no doubt that the prisoner should remain in custody or in closed conditions (see eg Roose v Parole Board [2010] EWHC 1780 (Admin)).	Ratio
+The present appeals	FAC
+The requirements of procedural fairness at common law were not met in the cases of the appellants.	Ratio
+In the case of the appellant Osborn, there were several facts which the paper recall panel treated as important and which were in dispute, or for which a significant explanation or mitigation was advanced: the appellants attitude to the licence conditions; the basis of the official assessment of the risk which he presented; the events on the date of his release, including his alleged statement about firearms; his claim that the hostel manager had agreed to put back the time when he was due to arrive; and his explanation for the detour to the village.	Ratio
+An oral hearing should therefore have been held.	Ratio
+In the case of the appellant Booth, the approach adopted by the board to the application of rule 12(1) was mistaken, as explained in paras 94 and 95.	ARG
+The points put forward in support of his so-called appeal raised significant issues on which the input of his psychiatrist might have been helpful and which merited the depth of consideration which only an oral hearing could provide.	ARG
+In that regard, it is relevant that the appellant had spent so long in custody post-tariff and that the board had been asked to advise on continuing areas of risk that needed to be addressed.	Ratio
+In the case of the appellant Reilly, the history of adjudications and failed drugs tests was treated as important by the paper panel, and must have influenced the risk assessments which were before it; but that history was disputed in some significant respects, and in other respects was open to explanation or mitigation, according to the representations made on the appellants behalf.	Ratio
+An oral hearing should therefore have been held.	Ratio
+The unfairness resulting from the failure to hold such a hearing was compounded, in the manner explained in para 96, when his appeal was refused and the paper panel decision became final.	Ratio
+The Secretary of State then expressed agreement with the decision and required the appellant to undertake work aimed at addressing misbehaviour and drug use in prison: matters which the ICM assessor had left out of account because they were not considered critical to the question whether to recommend release or transfer, but which remained part of a decision which had become final.	Ratio
+Furthermore, the approach adopted by the board to the application of rule 12(1) was also mistaken, as explained in para 94.	Ratio
+Convention rights	Ratio
+It is unnecessary to consider Convention rights in order to determine the validity of the decisions in question.	Ratio
+It is however appropriate to do so in order to consider whether compliance with common law requirements will satisfy the requirements of article 5(4) of the Convention, or whether that article imposes more far-reaching obligations in respect of the holding of oral hearings.	Ratio
+It is also necessary to consider article 5(4) for the purpose of determining the claim advanced on behalf of the appellant Reilly for an award of damages under section 8 of the Human Rights Act.	Ratio
+Article 5(4) and the present appeals	STA
+Article 5(4) of the Convention provides: Everyone who is deprived of his liberty by arrest or detention shall be entitled to take proceedings by which the lawfulness of his detention shall be decided speedily by a court and his release ordered if the detention is not lawful.	STA
+As was explained in A v United Kingdom (2009) 49 EHRR 625, paras 202-203, prisoners are entitled under article 5(4) to a review of the lawfulness of their detention in the light of the requirements of domestic law and of the Convention.	Ratio
+The review must be carried out in accordance with a procedure which has a judicial character and provides guarantees appropriate to the type of deprivation of liberty in question.	Ratio
+As explained earlier, prisoners who have been recalled to prison following release on licence are entitled to a review by the board of whether they should be re-released, the test under the relevant directions being whether the risk posed by the prisoner can be safely managed in the community.	Ratio
+Indeterminate sentence prisoners whose tariff period has expired are entitled to a review by the board of whether their continued detention is necessary for the protection of the public.	Ratio
+It is not in issue in these appeals that the board possesses the essential features of a court within the meaning of article 5(4).	Ratio
+On that basis, the boards discharge of its functions should satisfy the requirements of article 5(4), provided its reviews are conducted speedily and in accordance with a procedure which meets Convention standards of fairness.	Ratio
+In R (West) v Parole Board [2005] UKHL 1; [2005] 1 WLR 350, Lord Bingham cited a number of judgments of the European Court of Human Rights, including the case of Waite v United Kingdom, in his discussion of the common law, in accordance with the long-established understanding that the Convention is relevant to the development of the common law.	Ratio
+Having provided the guidance as to the requirements of common law fairness which I have discussed, Lord Bingham concluded, in agreement with the other members of the appellate committee, that review by the board would satisfy the requirements of article 5(4) provided it was conducted in a manner that met the requirements of the common law (para 37).	Ratio
+Lord Hope also referred to the case of Hussain v United Kingdom (1996) 22 EHRR 1.	Ratio
+The case of Hussain concerned an applicant who had been convicted of murder at the age of 16 and sentenced to detention during Her Majestys pleasure, with a tariff of 15 years.	Ratio
+Following the expiry of the tariff, he was reviewed by the board on several occasions, but had no opportunity to take part in the proceedings in any way, and did not see the reports before the board.	Ratio
+Its recommendations were not binding upon the Secretary of State, and were not followed.	Ratio
+By the time his case was considered by the European court, he had been detained for over 17 years.	Ratio
+In its judgment, the court observed that an indeterminate term of detention for a young person, which might be as long as that person's life, could only be justified by considerations based on the need to protect the public.	Ratio
+Those considerations, centred on an assessment of the young offender's character and mental state and of his or her resulting dangerousness to society, must of necessity take into account any developments in the young offender's personality and attitude as he or she grew older (para 53).	Ratio
+Following the expiry of the tariff, the applicant was entitled under article 5(4) to take proceedings to have the justification for his continuing detention decided by a court at reasonable intervals (para 54).	Ratio
+The board could not be regarded as a court for the purposes of article 5(4), given that it could not order the release of a prisoner, and the proceedings before it were not of an adversarial nature (para 58).	Ratio
+The court continued: 59.	Ratio
+The court recalls in this context that, in matters of such crucial importance as the deprivation of liberty and where questions arise which involve, for example, an assessment of the applicant's character or mental state, it has held that it may be essential to the fairness of the proceedings that the applicant be present at an oral hearing.	Ratio
+60.	Ratio
+The court is of the view that, in a situation such as that of the applicant, where a substantial term of imprisonment may be at stake and where characteristics pertaining to his personality and level of maturity are of importance in deciding on his dangerousness, article 5(4) requires an oral hearing in the context of an adversarial procedure involving legal representation and the possibility of calling and questioning witnesses.	Ratio
+As I understand this passage, para 59 contains general observations reflecting the previous case law, whereas para 60 expresses a principle applicable specifically to cases such as that of the applicant, where (1) a substantial term of imprisonment may be at stake and (2) characteristics pertaining to his personality and level of maturity are of importance in deciding on his dangerousness.	Ratio
+The court repeated paras 59-60 of its Hussain judgment in the case of Singh v United Kingdom 21 February 1996, Reports of Decisions and Judgments, 1996-I, p 280, issued on the same day as Hussain.	Ratio
+That case also concerned a young offender sentenced to detention during Her Majestys pleasure, who had been released on licence and then had his licence revoked in the light of concerns as to his conduct.	Ratio
+The case of Waite v United Kingdom also concerned a young offender who had been sentenced to detention during Her Majestys pleasure, released on licence, and then had his licence revoked in the light of concerns as to his conduct, which included misuse of drugs, a sexual relationship with a minor, attempted suicide and failure to maintain contact with his supervising officer.	PRE
+The board upheld the decision to revoke his licence without holding an oral hearing.	PRE
+The court held that there had been a breach of article 5(4), and rejected the contention that, since the applicant had admitted the facts leading to his recall, the board was bound to conclude that public protection required that he should be confined: Art 5(4) is first and foremost a guarantee of a fair procedure for reviewing the lawfulness of detention - an applicant is not required, as a precondition to enjoying that protection, to show that on the facts of his case he stands any particular chance of success in obtaining his release (para 59).	PRE
+That passage is consistent with, and supports, the approach which I have concluded applies at common law.	PRE
+The court continued (ibid): In matters of such crucial importance as the deprivation of liberty and where questions arise involving, for example, an assessment of the applicant's character or mental state, the court's case law indicates that it may be essential to the fairness of the proceedings that the applicant be present at an oral hearing.	PRE
+In such a case as the present, where characteristics pertaining to the applicant's personality and level of maturity and reliability are of importance in deciding on his dangerousness, art 5(4) requires an oral hearing in the context of an adversarial procedure involving legal representation and the possibility of calling and questioning witnesses.	PRE
+The first sentence in that passage repeats the summary of the earlier case law in para 59 of the Hussain judgment.	PRE
+The second sentence repeats the principle stated in para 60 of that judgment.	PRE
+Although Waite, like Hussain and Singh, concerned a person who had committed the index offence as a young offender, the language of the second sentence is not confined to young offenders.	PRE
+The conditions mentioned by the European court are likely to apply to most indeterminate sentence prisoners who have served their minimum terms.	Ratio
+That is not to say that they will necessarily apply on every occasion when such a prisoners case is considered by the board: a prisoners case may be considered in different circumstances and at different intervals of time.	Ratio
+Bearing in mind however that the continued detention of a post-tariff prisoner must be justified by his continuing dangerousness as independently assessed by the board, and taking account of the importance of what is at stake, it will in most cases be necessary as a matter of fairness that he should have an opportunity to appear in person before the board.	Ratio
+That is consistent with the common law, as explained earlier.	Ratio
+Since the board failed in its duty of procedural fairness to the appellants at common law, it follows that it also failed to act compatibly with article 5(4).	Ratio
+Damages	Ratio
+The appellant Reilly sought to have his case remitted to the High Court for consideration of an award of damages as just satisfaction under section 8 of the Human Rights Act.	Ratio
+The circumstances in which such an award is appropriate in respect of a breach of article 5(4) were considered in R (Faulkner) v Secretary of State for Justice [2013] UKSC 23; [2013] 2 WLR 1157.	PRE
+Although that case was principally concerned with breaches of the requirement that a review of the lawfulness of detention must be held speedily, the court also considered violations of the requirement that reviews must follow a fair procedure.	PRE
+At paras 55-61, the court considered in particular the judgment of the Grand Chamber in Nikolova v Bulgaria (1999) 31 EHRR 64 and the later judgment in HL v United Kingdom (2004) 40 EHRR 761.	PRE
+In the latter case, Nikolova was described as having endorsed the principle that, where a violation of article 5(3) or (4) was of a procedural nature, just satisfaction could be awarded only in respect of damage resulting from a deprivation of liberty which would not otherwise have occurred.	PRE
+Although, as was noted in Faulkner at para 61, there have been cases since Nikolova, not concerned with delay, in which modest awards of damages have been made as compensation for frustration and anxiety, none of those cases is comparable with that of the appellant.	PRE
+In particular, the cases mentioned there which concerned post-tariff indeterminate sentence prisoners, such as Curley v United Kingdom (2000) 31 EHRR 401 and Von Blow v United Kingdom (2003) 39 EHRR 366, date from the period when there was no review of the continued lawfulness of detention by a body with the power to order release or with a procedure containing judicial safeguards.	PRE
+It is not argued that the appellant Reilly has suffered any deprivation of liberty as a result of the breach of article 5(4): damages are sought in respect of feelings of frustration and distress which the court is invited to assume he experienced.	Ratio
+In the circumstances, taking into account the principles applied by the European court as required by section 8(4) of the Human Rights Act, the finding of a violation constitutes sufficient just satisfaction.	Ratio
+Conclusion	RPC
+I would in each case allow the appeal, and make a declaration that the board breached its duty of procedural fairness to the appellant by failing to offer him an oral hearing, and was accordingly in breach of article 5(4) of the Convention.	RPC

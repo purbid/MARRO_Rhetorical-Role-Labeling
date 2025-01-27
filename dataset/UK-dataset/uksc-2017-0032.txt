@@ -1,0 +1,368 @@
+This appeal concerns an application made by the appellant, Professor Shanks OBE FRS FREng, for compensation under section 40 of the Patents Act 1977 (the 1977 Act) on the basis that the patents for an invention which he made in 1982 have been of outstanding benefit to his employer, the third respondent, Unilever UK Central Resources Ltd (CRL), and that he is entitled to a fair share of that benefit.	Ratio
+The appeal raises important issues concerning the circumstances in which such compensation may be awarded and how the amount of that compensation is to be determined.	Ratio
+The facts	FAC
+Professor Shanks was employed by CRL from May 1982 to October 1986 and was assigned to its Colworth research laboratories in Bedfordshire.	FAC
+He initially received a salary of 18,000 per annum and a Volvo car.	FAC
+His brief was to develop biosensors for use in process control and process engineering.	FAC
+In July 1982 Professor Shanks visited Professor Anthony Turner and Professor John Higgins at Cranfield University and there he learned of the work they were carrying out into the use of biosensors for monitoring diabetes.	FAC
+As a result of this visit Professor Shanks became interested in the possibility of using re-usable or disposable devices incorporating biosensors for diagnostic applications and in a report dated 1 August 1982 entitled Report on new opportunities afforded by electronic sensors he identified a number of new product opportunities, one of which was a limited re-use or disposable sensor for monitoring glucose, insulin or immunoglobulin levels in diabetics.	FAC
+It was at about this time that Professor Shanks conceived his invention.	FAC
+He had often observed how a droplet of liquid placed on the edge of the glass plates of a liquid crystal display (LCD) was drawn by capillary action into the 10-micron gap between them, and he realised the same phenomenon would occur with other liquids such as blood or urine.	FAC
+He also appreciated how it could be used with etched or printed planar electrodes and enzyme electrochemical techniques he had seen at Cranfield, and in this way provide a system for measuring the glucose concentration in blood, serum or urine.	FAC
+In October 1982 Professor Shanks built the first prototype of his invention at home using Mylar film and slides from his daughters toy microscope kit, and bulldog clips to hold the assembly together.	FAC
+It has since become known as the Electrochemical Capillary Fill Device or ECFD.	FAC
+He also developed a similar system which uses fluorescence rather than conductivity and this has become known as the Fluorescent Capillary Fill Device or FCFD.	FAC
+CRL at that time employed all of the Unilever groups UK-based research staff.	FAC
+It was not a trading company and was a wholly owned subsidiary of Unilever plc.	FAC
+Unilever plc and Unilever NV were parallel parent companies of the Unilever group and were listed on the London and Amsterdam stock exchanges respectively, but the business of the group was run as a single entity.	FAC
+Save where from the context otherwise appears, I will refer to the Unilever group as Unilever.	Ratio
+It is accepted by Professor Shanks that the rights to his inventions belonged to CRL from the outset pursuant to section 39(1) of the 1977 Act.	FAC
+CRL assigned all these rights to Unilever plc for 100.	FAC
+Unilever plc retained the rights for the UK, Australia and Canada but assigned the rights for elsewhere in Europe, Japan and the USA to Unilever NV, again for 100.	FAC
+Unilever NV later assigned the rights for the USA to a company which later became Unilever Patent Holdings BV.	FAC
+On 13 June 1984 Unilever plc filed UK patent application 8415018 (the priority application).	FAC
+It was entitled Devices for Use in Chemical Test Procedures and was directed to both the ECFD and the FCFD technologies.	FAC
+Professor Shanks was named as inventor.	FAC
+On 12 June 1985 European patent application 0170375 was filed claiming priority from the priority application.	FAC
+It related only to the ECFD technology and was filed by Unilever plc for the UK and by Unilever NV for various other contracting states.	FAC
+Corresponding patent applications were filed in Australia, Canada, Japan and the USA.	FAC
+It was in relation to the patents which were granted on all of these applications (the Shanks patents) that Professor Shanks made the application for compensation which is the subject of these proceedings.	FAC
+Unilever was not itself interested in developing a business in the field of glucose testing for this would have required it to compete with companies which were established in this therapeutic sector.	FAC
+Consequently, relatively little was done to develop the ECFD technology after the end of 1984.	FAC
+Indeed, it was regarded by Unilever as far from a key technology.	FAC
+Instead, until 1986, Unilever and Professor Shanks focused on the FCFD technology which had potential application in areas of relevance to Unilevers existing businesses.	FAC
+Professor Shanks left Unilever in October 1986 and in October 1987 Unilever sold the FCFD technology, and the patents it held relating to it, to Ares-Serono Inc. Ares-Serono also took an option on the ECFD technology but did not exercise it.	FAC
+In the years that followed Unilever carried out a good deal of work in the field of pregnancy and fertility testing where it developed commercially successful products.	FAC
+Nevertheless, some research into glucose testing was carried out from 1987 to 1994 and, based primarily upon the work of Professor Brian Birch, Unilever applied for and was granted further patents (the Birch patents).	FAC
+It also maintained the Shanks patents.	FAC
+The glucose testing market expanded considerably in the late 1990s and 2000s, however; and biosensors incorporating the ECFD technology played an important role in this.	FAC
+Indeed, the ECFD technology eventually appeared in most glucose testing products.	FAC
+It also became apparent that, although not vital, it was a technology that most of the significant companies in the field were willing to pay millions of pounds to use.	FAC
+Unilever never considered licensing of patent rights to be a key part of its business.	FAC
+Its main purpose in having patents was to use them to protect its existing commercial activities.	FAC
+Cross-licensing of unexploited patents was of secondary importance and out-licensing was of even less interest.	FAC
+Consequently, the resources it devoted to the activity of out-licensing were relatively limited and, in most cases, the prospective licensees of the Shanks patents contacted Unilever and initiated licensing discussions themselves.	FAC
+However, as I have mentioned, Unilever did keep the Shanks patents in force and it needed significant effort and skill to conduct the licensing negotiations, albeit not to the extent a dedicated licensing team would have provided.	FAC
+In the end seven licences (or sets of licences) of the Shanks patents were granted by Unilever for a total consideration of about 20.3m.	FAC
+The hearing officer thought this figure should be discounted to reflect the inclusion of the Birch patents in all but one of the licences, producing a net figure attributable to the Shanks patents of about 19.55m.	FAC
+In 1994 management responsibility for the Shanks and Birch patents (and various other patents) was transferred to Unipath, another Unilever company.	FAC
+In addition, Unipath took on the bulk of Unilevers medical diagnostics business, including its commercially successful products in the fields of pregnancy and fertility testing.	FAC
+In 2001 Unipath and the Shanks and the Birch patents (and the benefit of the licences under these patents) were sold to Inverness Medical Innovations, Inc (IMI).	FAC
+The hearing officer found that, of the price paid by IMI, about 5m was attributable to the Shanks patents.	FAC
+Unilevers total earnings from the Shanks patents therefore amounted to around 24.55m.	FAC
+The hearing officer estimated that Unilever had incurred costs in prosecuting, maintaining and licensing the patents of about 250,000.	FAC
+It followed that Unilevers net benefit from the patents was about 24.3m which the hearing officer rounded down to 24m.	FAC
+The history of the proceedings	RLC
+Professor Shanks made his application for compensation on 9 June 2006.	Ratio
+It came on for hearing before Mr Julyan Elbro, the hearing officer acting for the Comptroller General of Patents (the Comptroller), in March 2012.	RLC
+The hearing lasted for nine days between March and May of that year.	RLC
+On 21 June 2013 the hearing officer issued his decision: BL O/259/13.	RLC
+He found that, having regard to the size and nature of Unilevers business, the benefit provided by the Shanks patents fell short of being outstanding.	RLC
+The hearing officer went on to consider what a fair share of the benefit would have been had he considered it to be outstanding.	RLC
+He had regard to the various matters set out in section 41 of the 1977 Act and concluded that 5% would have been appropriate, amounting to about 1.2m.	RLC
+He declined to increase this figure to take into account the time value of money.	RLC
+Professor Shanks appealed to the High Court against the hearing officers decision.	RLC
+The appeal was heard by Arnold J and he gave judgment on 23 May 2014: [2014] EWHC 1647 (Pat); [2014] RPC 29.	RLC
+He dismissed the appeal, holding that the hearing officer had made no error of principle in finding that the Shanks patents were not of outstanding benefit to Unilever.	RLC
+However, he continued, had he come to the opposite conclusion, he would have found that a fair share of the benefit would have been only 3%.	RLC
+He also held that it was not appropriate to take into account the time value of money and that in assessing the benefit of the Shanks patents to Unilever, the sums it had received should be discounted to reflect the payment of corporation tax.	RLC
+An appeal to the Court of Appeal was also dismissed: Shanks v Unilever plc (No 2) [2017] EWCA Civ 2; [2017] Bus LR 883; [2017] RPC 15.	RLC
+The court (Patten, Briggs and Sales LJJ) agreed with Arnold J that the hearing officer had made no error of principle in considering the issue of outstanding benefit.	RLC
+However, the court unanimously overturned Arnold Js finding in relation to the deduction of corporation tax and, by a majority (Briggs and Sales LJJ), held that there would be cases where the change in the value of money over time would have to be recognised in determining whether the benefit was outstanding, and that it was likely to be relevant in assessing what amounted to a fair share of that benefit.	RLC
+The issues	Ratio
+This further appeal now gives rise to the following issues: i) What are the principles governing the assessment of outstanding benefit to an employer and did the hearing officer apply them correctly? ii) How should a fair share of an outstanding benefit be assessed and were the hearing officer and Arnold J wrong in their assessment?	Ratio
+I must also consider whether, in assessing what amounts to a fair share of an outstanding benefit, it is appropriate to take into account the time value of money and any liability of the employer for tax.	Ratio
+The legal framework	STA
+Employees inventions are addressed in sections 39 to 43 of the 1977 Act.	STA
+These provisions have been amended by the Patents Act 2004 but only in relation to patents applied for after 1 January 2005.	STA
+We are therefore concerned in this appeal with these sections in their form prior to their amendment by the Patents Act 2004.	STA
+Section 39 deals with the right to an invention made by an employee: 39(1) Notwithstanding anything in any rule of law, an invention made by an employee shall, as between him and his employer, be taken to belong to his employer for the purposes of this Act and all other purposes if - (a) it was made in the course of the normal duties of the employee or in the course of duties falling outside his normal duties, but specifically assigned to him, and the circumstances in either case were such that an invention might reasonably be expected to result from the carrying out of his duties; or (b) the invention was made in the course of the duties of the employee and, at the time of making the invention, because of the nature of his duties and the particular responsibilities arising from the nature of his duties he had a special obligation to further the interests of the employers undertaking.	STA
+(2) Any other invention made by an employee shall, as between him and his employer, be taken for those purposes to belong to the employee.	STA
+There have been cases where it has been difficult to decide whether an invention belongs to an inventor or his employer, but this is not one of them.	STA
+As I have mentioned, there has never been any dispute between the parties that the invention described in European patent application 0170375 belonged to CRL, as Professor Shanks employer, from the outset, whether under paragraph (a) or (b) of subsection (1) of section 39.	STA
+He was, as the hearing officer held, employed to invent.	STA
+Section 40 then makes provision for the payment of compensation to an employee in particular circumstances.	STA
+In its unamended form it reads, so far as relevant: 40(1) Where it appears to the court or the comptroller on an application made by an employee within the prescribed period that the employee has made an invention belonging to the employer for which a patent has been granted, that the patent is (having regard among other things to the size and nature of the employers undertaking) of outstanding benefit to the employer and that by reason of those facts it is just that the employee should be awarded compensation to be paid by the employer, the court or the comptroller may award him such compensation of an amount determined under section 41 below.	STA
+(2) Where it appears to the court or the comptroller on an application made by an employee within the prescribed period that - a patent has been granted for an invention made (a) by and belonging to the employee; (b) his rights in the invention, or in any patent or application for a patent for the invention, have since the appointed day been assigned to the employer or an exclusive licence under the patent or application has since the appointed day been granted to the employer; (c) the benefit derived by the employee from the contract of assignment, assignation or grant or any ancillary contract (the relevant contract) is inadequate in relation to the benefit derived by the employer from the patent; and (d) by reason of those facts it is just that the employee should be awarded compensation to be paid by the employer in addition to the benefit derived from the relevant contract; the court or the comptroller may award him such compensation of an amount determined under section 41 below.	STA
+Section 40 therefore deals with two different cases.	Ratio
+In the first, the invention belongs to the employer from the outset.	Ratio
+In the second, the invention belongs initially to the employee but his or her rights in the invention or any patent or patent application for the invention are subsequently assigned or exclusively licensed to the employer.	Ratio
+In this appeal we are concerned with the first and so section 40(1).	Ratio
+In such a case the employee may be awarded compensation if the invention is of outstanding benefit to the employer.	Ratio
+Of relevance to both cases are section 43(4) which provides that references to a patent and to a patent being granted are references to a patent and its being granted whether under the law of the United Kingdom or the law in force in any other country or under any treaty or international convention; and section 43(7) which provides that benefit means benefit in money or moneys worth.	Ratio
+The key amendment introduced by the Patents Act 2004 makes compensation payable when the invention (and not just the patent) has been of outstanding benefit.	Ratio
+The amount of compensation is to be determined in accordance with section 41.	STA
+In its unamended form this reads, so far as relevant: 41(1) An award of compensation to an employee under section 40(1) or (2) above in relation to a patent for an invention shall be such as will secure for the employee a fair share (having regard to all the circumstances) of the benefit which the employer has derived, or may reasonably be expected to derive, from the patent or from the assignment, assignation or grant to a person connected with the employer of the property or any right in the invention or the property in, or any right in or under, an application for that patent.	STA
+(2) For the purposes of subsection (1) above the amount of any benefit derived or expected to be derived by an employer from the assignment, assignation or grant of - (a) the property in, or any right in or under, a patent for the invention or an application for such a patent; or (b) the property or any right in the invention; to a person connected with him shall be taken to be the amount which could reasonably be expected to be so derived by the employer if that person had not been connected with him.	STA
+(4) In determining the fair share of the benefit to be secured for an employee in respect of a patent for an invention which has always belonged to an employer, the court or the comptroller shall, among other things, take the following matters into account, that is to say - (a) the nature of the employees duties, his remuneration and the other advantages he derives or has derived from his employment or has derived in relation to the invention under this Act; (b) devoted to making the invention; the effort and skill which the employee has (c) the effort and skill which any other person has devoted to making the invention jointly with the employee concerned, and the advice and other assistance contributed by any other employee who is not a joint inventor of the invention; and (d) the contribution made by the employer to the making, developing and working of the invention by the provision of advice, facilities and other assistance, by the provision of opportunities and by his managerial and commercial skill and activities.	STA
+Section 43(8) provides that section 533 of the Income and Corporation Taxes Act 1970 is to apply for determining for the purpose of section 41(2) whether one person is connected with another.	STA
+Entitlement to compensation	Ratio
+An employee who makes an invention which belongs to his employer from the outset and for which a patent has been granted is therefore entitled to compensation if he or she establishes: first, that the patent is, having regard among other things to the size and nature of the employers undertaking, of outstanding benefit to the employer; and secondly, that, by reason of these matters, it is just that he or she be awarded compensation.	Ratio
+Who is the employer?	Ratio
+The starting point for the assessment of whether an employee is entitled to compensation is therefore the identification of the employer.	Ratio
+There can be no doubt that, at least in the ordinary case, Parliament intended the term employer to mean the inventors actual employer.	Ratio
+Section 39 deals with the ownership of the invention as between the inventor and his or her employer and requires a consideration of the employees duties; section 40 provides for the compensation of employees for certain inventions which may belong initially either to the employer or to the employee and, in an appropriate case, the payment of that compensation by the employer to the employee; and section 41 deals with the assessment of the compensation.	Ratio
+In all three cases the employer is the inventors actual employer.	Ratio
+What is the benefit?	Ratio
+The next task is to identify the benefit in the hands of the employer.	Ratio
+This is not explained in section 40(1) which deals with an invention which has always belonged to the employer; nor is it explained in section 40(2) which deals with an invention which initially belonged to the employee.	Ratio
+But section 41(1) makes clear that in both cases it is the benefit which the inventors actual employer has derived or may reasonably be expected to derive from the patent, or from the assignment or grant to a person connected with him of any right in the invention or patent or patent application for the invention.	Ratio
+Section 41(1) is complemented by section 41(2) which deals further with a disposal to a connected person.	Ratio
+This was considered by the Court of Appeal at an earlier stage of these proceedings on an appeal from a decision of Mann J: [2009] EWHC 3164 (Ch); [2010] RPC 11.	Ratio
+The Court of Appeal (Longmore LJ, Jacob LJ and Kitchin J) held ([2010] EWCA Civ 1283; [2011] RPC 12) that, in assessing the benefit derived or expected to be derived by an employer from an assignment of the patent to a person connected with him, the court must consider the position of the actual employer and the benefit which the assignee has in fact gained or is expected to gain.	Ratio
+There is also one curious feature of section 41(2) which it is convenient to mention at this point.	Ratio
+It says it has effect for the purposes of section 41(1) but makes no mention of section 40.	Ratio
+Nevertheless, for the legislative scheme to operate effectively, section 41(2) must also have effect for the purposes of section 40 and, in my opinion, it is to be interpreted in that way.	Ratio
+As for the assessment of the benefit of the patent, there is no dispute that it means the benefit in the hands of the employer after deduction of any costs to the employer of securing that benefit.	Ratio
+Is the benefit outstanding?	Ratio
+I now turn to the meaning of the word outstanding in the expression outstanding benefit.	Ratio
+In GEC Avionics Ltds Patent [1992] RPC 107, 115, Mr Vivian, for the Comptroller, noted that the statute did not use words such as significant or substantial and said the benefit must be something out of the ordinary and not such as one would normally expect to arise from the results of the duties that the employee is paid for.	PRE
+The employee failed to establish the patent was of outstanding benefit because the employer had received substantial orders for equipment not employing the invention well after its merits were known.	PRE
+In British Steel PLCs Patent [1992] RPC 117, 122, Dr Ferdinando, for the Comptroller, thought the word outstanding implied a superlative.	PRE
+The patent related to an improved valve for controlling the flow of molten metal which was used by the employer at only one site and on one machine.	PRE
+The claim for compensation was rejected because the employee failed to establish a number of the benefits for which he contended, and because the hearing officer felt constrained by the way the case was presented to assess the proven benefit against all of the profits and the whole turnover of the employer, of which it represented only a very small percentage.	PRE
+In Memco-Med Ltds Patent [1992] RPC 403, 414, Aldous J indicated that he did not disagree with the approaches of these hearing officers and said that the word outstanding denoted something special and required the benefit to be more than substantial or good.	PRE
+The case concerned a patent relating to an improved unit for preventing the doors from closing on a person getting into or out of a lift.	PRE
+Sales of the improved unit were of great importance but were all made to one customer and the evidence suggested that the business relationship between the employer and that customer would have been the same whether or not a patent had been granted.	PRE
+So, once again, the claim failed.	PRE
+In Kelly and Chiu v GE Healthcare Ltd [2009] EWHC 181 (Pat); [2009] RPC 12 Floyd J reviewed all of these authorities and, at para 60(iv), summarised the position as he saw it in these terms: Outstanding means something special or out of the ordinary and more than substantial, significant or good.	PRE
+The benefit must be something more than one would normally expect to arise from the duties for which the employee is paid.	PRE
+The Kelly case is of particular interest because the patents in issue were found to be of outstanding benefit to the claimants employer, Amersham, which was subsequently taken over by GE Healthcare Ltd, the defendant.	PRE
+The facts were striking in that, had the patents not existed, Amersham would have faced a financial crisis whereas, with the patents, its business was transformed.	PRE
+The commercial embodiment of the invention of the patents was an imaging agent which cost a little under 2.5m to develop but, with the protection afforded by the patents, achieved sales between 1993 and 2007 having a total value in excess of 1.3 billion.	PRE
+In my view these cases are all helpful to a point as illustrations of circumstances which were found to fall each side of the line.	Ratio
+But at the end of the day they provide no substitute for the statutory test which requires the benefit to be outstanding.	Ratio
+This is an ordinary English word meaning exceptional or such as to stand out and it refers here to the benefit (in terms of money or moneys worth) of the patent to the employer rather than the degree of inventiveness of the employee.	Ratio
+It is, however, both a relative and qualitative term and so I must now consider the context in which the question is to be asked and answered.	Ratio
+Put another way, in relation to what must the benefit from the patent be outstanding? Which factors may be taken into account in making that assessment?	Ratio
+Here the 1977 Act provides some guidance.	Ratio
+It says that the court must have regard among other things to the size and nature of the employers undertaking.	Ratio
+But this gives rise to two further questions which were the subject of a good deal of argument before us.	Ratio
+What is the employers undertaking for this purpose? And what is the relevance of that undertakings size and nature?	Ratio
+The employers undertaking	Ratio
+In this context I understand the word undertaking to mean simply a unit or entity which carries on a business activity, and here the undertaking of interest is that of the company or other entity which employs the inventor.	Ratio
+In many cases the identification of that undertaking will be comparatively straightforward.	Ratio
+It will be the whole or, if it is divided into economic units, the relevant unit of the employers business.	Ratio
+So, as Aldous J observed in Memco-Med at p 414 and I agree, the undertaking may be the whole or a division of the employers business.	Ratio
+We are concerned in this appeal with a different and more difficult case, however.	Ratio
+It is one in which CRL is part of a larger group of companies and where the work carried out by CRLs researchers was exploited by that larger group as a whole.	Ratio
+This gives rise to the question whether the relevant undertaking is CRL or the whole or a part of the larger group of which it forms a part, Unilever.	Ratio
+The hearing officer rejected the submission made on behalf of Professor Shanks that the employers undertaking was CRL.	Ratio
+He said at para 196: In the event, on the facts of this case I find that the reality of the situation is that described by the defendants: regardless of how the various companies in the Unilever group have been structured, researchers at Colworth (employed by CRL) were doing work which was going to be exploited by the group as a whole.	Ratio
+Indeed, it is notable that the whole benefit from the Shanks patents was generated by licensing activity operated out of the central Unilever companies.	Ratio
+Having regard to the size and nature of the employers undertaking therefore requires me to have regard to whether the benefit from the patents is outstanding in the context of the Unilever group as a whole.	Ratio
+Arnold J and the Court of Appeal agreed with the hearing officer.	Ratio
+Patten LJ explained at paras 33 and 34 that an assessment of what constituted the undertaking based upon the economic and business realities of the employers organisation was the correct approach.	Ratio
+He continued that if one took what he described as a strictly legal approach to the interpretation of the statute it could be said that the employer was CRL but he rejected this as a possible conclusion for two reasons: first, that if what he called the strict legal approach were to govern section 40(1) then it must also apply to section 41(1) with the consequence that the benefit derived from the patents would be limited to the nominal payments CRL received upon their assignment and would not include the sums subsequently received by other companies in the group from licence fees and the sale of Unipath.	Ratio
+Secondly, the earlier decision of the Court of Appeal in this case was, in his opinion, only consistent with treating CRLs undertaking as including the other group companies that received these payments.	Ratio
+He pointed out that the work carried out by the employees of CRL was intended to enure for the benefit of Unilever as a whole and that he could see no answer to the reasoning of the hearing officer and his conclusion that the relevant undertaking in this case was or included Unilever plc and Unilever NV.	Ratio
+Upon this further appeal Mr Patrick Green QC, for Professor Shanks, submits that the hearing officer and the courts below lost sight of the fact that CRL was Professor Shanks employer and that the entire Unilever group could not sensibly be described as CRLs undertaking.	ARG
+Mr Daniel Alexander QC, for Unilever, commends the hearing officers reasoning.	ARG
+He submits that it is unreal to treat CRL as the relevant undertaking because it never generated any material revenues, was not the beneficiary of the royalties in question and is and was simply a service company for the Unilever group.	ARG
+Neither of these interpretations is without difficulty.	Ratio
+The submission for Professor Shanks faces the problem that CRL has in reality received no more than a nominal benefit from the patents and certainly nothing that could be described as outstanding.	Ratio
+As Mr Alexander fairly says, the real benefits have been received by other Unilever companies.	Ratio
+A partial answer to this is provided by section 41(2) which deems the benefit derived from the assignment of a patent to a connected person to be the benefit which could reasonably be expected to be derived if that person had not been connected.	Ratio
+True it is that section 41(2) does not in terms apply to section 40(1) but, as I have said, I think it must be interpreted in that way.	Ratio
+This is still not a complete answer, however, for the deeming provision does not, on the face of it, apply to the benefit from other patents arising from the work at CRL against which the benefits from the patents in issue may be judged.	Ratio
+Mr Green embraces this result, arguing that CRLs actual profits were at most about 2m per year and that judged against this figure, the 24.3m earned from the Shanks patents is plainly outstanding.	Ratio
+But that, so it seems to me, is not comparing like with like.	Ratio
+It would artificially and unfairly elevate the benefit to CRL from the Shanks patents in relation to any benefit it derived in other ways.	Ratio
+The interpretation for which Unilever contends and which was accepted by the hearing officer and on appeal focuses on the phrase the employers undertaking in section 40(1).	Ratio
+This, so it is said, is perfectly apt to describe the larger entity of which CRL is a part, that is to say, the whole Unilever group.	Ratio
+But the problem with this interpretation is that it strips the phrase from its context.	Ratio
+The subsection as a whole is concerned with the benefit of the patent to the employer and the assessment of whether that benefit is, in the hands of the employer, outstanding.	Ratio
+Consideration of the size and nature of the employers undertaking is therefore tethered to this assessment.	Ratio
+It is not, on the face of it, an inquiry into the value of the benefit to the group of which the employer is a part relative to other unrelated aspects of the groups business.	Ratio
+In my judgement the correct approach to the application of section 40 and the one that does least violence to its language lies between these extremes.	Ratio
+It is to look at the commercial reality of the situation but to do so, in a case such as the present, from the perspective of the inventors employer.	Ratio
+Where, as here, a group company operates a research facility for the benefit of the whole group and the work results in patents which are assigned to other group members for their benefit, the focus of the inquiry into whether any one of those patents is of outstanding benefit to the company must be the extent of the benefit of that patent to the group and how that compares with the benefits derived by the group from other patents for inventions arising from the research carried out by that company.	Ratio
+This gives practical and commercial effect to the language of section 41 and involves a comparison of like with like.	Ratio
+Furthermore, it is, in my opinion, the approach which sits most comfortably with the next aspect of the analysis, namely the relevance of the size and nature of the employers undertaking.	Ratio
+The relevance of size and nature of the employers undertaking	Ratio
+Before the Court of Appeal, Unilevers central argument on the issue of outstanding benefit was that 24.3m, though not inconsiderable, was dwarfed by the turnover and profits of Unilever as a whole.	Ratio
+As Patten LJ recorded at para 26 of his judgment, Unilever makes a wide range of products from Viennetta ice-cream to deodorants which generate billions of pounds in sales and hundreds of millions of pounds in profits over the life of the patents which relate to them.	Ratio
+It was accepted that the rate of return on many if not most of these patents was much lower than on the Shanks patents but that was said not to be enough to make the benefit of the Shanks patents outstanding when regard was had to the size and nature of Unilevers business.	Ratio
+This submission found an echo in Mr Alexanders submissions to this court for he took us to a graph of Unilevers profits between 1984 and 2004 against which a plot of the royalty income from the Shanks and Birch patents, displayed on the same scale, was so close to the base line as to be indistinguishable from it.	Ratio
+Mr Green characterised this submission before the courts below and in this court as too big to pay.	ARG
+He argued that, were it to be accepted, it would be all but impossible for an employee to establish that the benefit from a patent to a business such as that of Unilever was outstanding and this would be manifestly unjust to employee inventors.	ARG
+This found favour with the Court of Appeal to a point.	Ratio
+As Patten LJ explained at para 28, outstanding benefit cannot be determined simply by comparing the income derived from a patent with the overall turnover and profitability of the employers undertaking.	Ratio
+But it raises the more fundamental question as to the relevance of the size and nature of an undertaking to the assessment of whether the benefit to it from a patent is outstanding and how these factors should be taken into account.	Ratio
+In my judgement there is no single answer to this question.	Ratio
+Many different aspects of the size and nature of the employers business may be relevant to the enquiry.	Ratio
+For example, the benefit may be more than would normally have been expected to arise from the duties for which the employee was paid; it may have been arrived at without any risk to the business; it may represent an extraordinarily high rate of return; or it may have been the opportunity to develop a new line of business or to engage in unforeseen licensing opportunities.	Ratio
+In the circumstances of this case and for the reasons I have given, a highly material consideration must be the extent of the benefit of the Shanks patents to the Unilever group and how that compares with the benefits the group derived from other patents resulting from the work carried out at CRL.	Ratio
+In some cases it may be possible to see that a patent has been of outstanding benefit to an employer by looking at the size and profitability of the whole business.	Ratio
+In the Kelly case (see paras 37-38 above), for example, the benefits of patent protection went far beyond anything which one would normally expect to arise from the sort of work the employees were doing.	Ratio
+The patents protected Amershams business from generic competition and allowed it to make major deals; and sales of the patented product accounted for a large proportion of its profits.	Ratio
+In short, the patents transformed its business.	Ratio
+Similarly, as Patten LJ explained at para 28, a straightforward comparison of profitability may be sufficient, in the case of a smaller company, to show an outstanding benefit without recourse to wider considerations of the scope of an employees duties or the expectations the employer may have had about the anticipated level of return.	Ratio
+I also recognise that a large undertaking may be able to exert greater leverage than a smaller undertaking when negotiating licence fees.	Ratio
+This was a matter to which the hearing officer referred in para 207 of his judgment.	Ratio
+There he explained and I agree that a particular sum might represent an excellent return for a small undertaking but might not be so regarded by a large undertaking which was in a position to spend substantial sums on litigation to enforce its rights.	Ratio
+Much the same might apply to sales of a patented product.	Ratio
+A large undertaking might be able to harness its goodwill and sales force in a way that a smaller undertaking could not do.	Ratio
+These would be appropriate matters to take into account.	Ratio
+On the other hand, I think a tribunal should be very cautious before accepting a submission that a patent has not been of outstanding benefit to an employer simply because it has had no significant impact on its overall profitability or the value of all of its sales.	Ratio
+Those profits and sales may have been generated by a range of different products which have nothing to do with the technology the subject of the patent; the parts of the business responsible for them may not have contributed to any commercial success of the patented invention; and they may be a very poor guide to whether the benefit the employer has derived from the patent is out of the ordinary.	Ratio
+Indeed, I find it very hard to see how a failure materially to affect the aggregated sales value or overall profitability of the business could, in and of itself, justify a finding that the benefit of a patent has not been outstanding.	Ratio
+Tax and the assessment of benefit	Ratio
+Arnold J accepted a submission by Unilever that in assessing the benefit it received from the Shanks patents, it was necessary to take into account the amount of tax which it had to pay, and in doing so he placed some reliance on the decision in Celanese International Corpn v BP Chemicals Ltd [1999] RPC 203.	Ratio
+There Laddie J held that, in the context of an account of profits derived by a defendant from infringement of a patent, the defendant could only be required to pay over its net profits after payment of corporation tax.	Ratio
+The Court of Appeal disagreed with Arnold Js approach and so do I. Section 40(1) is concerned with the assessment of the benefit of the patent to the employer and whether that benefit is outstanding.	Ratio
+This exercise is quite different from an assessment of the profits which a defendant has made from its infringing activities and which it has been ordered to disgorge.	Ratio
+In this case Dr Osborn, Unilevers expert on this issue, quantified the appropriate reduction to be applied to the benefit Unilever had derived from the patents at 30% on the basis that this was the average rate of corporation tax which it had to pay in the relevant period, as calculated from its accounts.	Ratio
+Mr Alexander, for Unilever, submitted that Dr Osborns analysis was reasonable and proportionate and that revenues which had to be paid over in tax, such that they could not be enjoyed by Unilever, could not count as a benefit.	Ratio
+I find myself unable to accept Mr Alexanders submission for it seems to me artificially to reduce the size of the benefit before deciding how much compensation should be paid to the employee.	Ratio
+In my judgement the first step is to quantify the benefit and the next is to decide how much compensation would secure for the employee a fair share of it.	Ratio
+The employee must account for any tax due on that share and the employer must account for any tax due on the balance.	Ratio
+The approach for which Mr Alexander contends, on the other hand, would mean that the employer has only to pay to the employee a share of the benefit net of tax but can take the benefit of any available relief from tax in respect of the moneys he has paid, whilst the employee will be liable to account for tax on the moneys that he or she has received.	Ratio
+In my judgement the former approach is both fairer and consonant with the legislative purpose of these provisions.	Ratio
+It follows that Patten LJ was right to say at para 43 of his judgment that the incidence of tax is a consequence of the benefit rather than a part of it.	Ratio
+Assessment of the benefit net of tax would require in every case an investigation of the employers tax position including, among other things, any losses rolled forward.	Ratio
+The time value of money	Ratio
+Unilever received payments of licence fees under the Shanks patents over the period from 1996 to 2004 and it received the part of the purchase price of Unipath attributable to the Shanks patents in 2001.	Ratio
+Professor Shanks made his application for compensation on 9 June 2006.	Ratio
+Professor Shanks contends and, indeed, has always contended that Unilever has had the use of the moneys it derived from the Shanks patents ever since it received them and that this should be taken into account.	Ratio
+As Arnold J noted, Professor Shanks did not rely upon this contention before him as a basis for challenging the hearing officers decision as to whether the benefit was outstanding.	Ratio
+In my judgement he was right to take that course.	Ratio
+The mere passage of time cannot turn a patent which was not an outstanding benefit into one which was.	Ratio
+However, he did rely on it to increase the size of the benefit of which he should receive a fair share or, to put it another way, to increase the size of his share if he was successful in overturning the hearing officers decision on the issue of outstanding benefit.	Ratio
+That remains the position on this appeal and it is convenient to address it now.	Ratio
+The hearing officer rejected Professor Shanks argument on the basis that there was not enough evidence before him to justify an increase.	Ratio
+The evidence was in his view too speculative.	Ratio
+On appeal, Arnold J held that the time value of the money which Unilever had received was not a benefit derived from the Shanks patents within the meaning of section 41(1).	Ratio
+He reasoned that the definition of benefit in section 43(7) coupled with the terms of section 41(1) pointed to the assessment being made as of the date the money was received; that the time value of money was not a benefit Unilever derived from the Shanks patents; that if the time value of money were treated as a relevant benefit the enquiry would have no temporal end; that Professor Shanks could have brought the claim earlier than he did; and that, it being common ground that the Comptroller could not award interest, an award reflecting the time value of money would be inconsistent with the statutory scheme.	Ratio
+On further appeal to the Court of Appeal, Patten LJ held, like Arnold J, that the benefit under section 41(1) was limited to direct receipts from the exploitation of the patent rights and did not include any allowance for the fact that the employer had had the benefit of those receipts for a period of time prior to an award under that section.	Ratio
+However, Briggs LJ, with whom Sales LJ agreed on this issue, came to the contrary conclusion.	Ratio
+He explained, at para 73, that he would expect the time value of money (or its change in real value over time due to inflation) to be relevant in the quantification of the inventors fair share under section 41(1) because of the deleterious effect on the real value of money of the likely substantial time between the employers receipt of the benefit and the making of the order for payment at the end of the proceedings.	Ratio
+Mr Alexander, for Unilever, now submits that the approach taken by Patten LJ and Arnold J is the correct one for the reasons they gave and because it is clear, simple and practical, and that the alternative, though theoretically attractive in some respects, would introduce disproportionate complexity, would drive up the costs of proceedings and would actively reward an inventor who delays in bringing a claim, just as Professor Shanks did in this case.	ARG
+In my judgement Mr Alexander was correct to describe the approach contended for by Professor Shanks as attractive, though I would not for my part characterise that attraction as theoretical.	Ratio
+To the contrary, it seems to me to be the approach which accords with justice and common sense.	Ratio
+Professor Shanks seeks an award which reflects the fact that, on the assumption he prevails on the other limbs of his appeal, he has for many years been kept out of a fair share of the benefit Unilever has derived from the Shanks patents.	Ratio
+Nor, with great respect, am I persuaded by the reasoning of Arnold J or that of Patten LJ on appeal.	Ratio
+That reasoning has at its heart the proposition that the time value of the money that Unilever has received is neither a benefit nor derived from the Shanks patents.	Ratio
+I disagree.	Ratio
+I see no reason why the time value of money cannot be a benefit derived from a patent within the meaning of section 41(1).	Ratio
+Unilever has had the benefit of the licence fees and other moneys derived from the Shanks patents ever since they were paid.	Ratio
+Another legitimate approach, which amounts to the same thing, is that of the majority in the Court of Appeal.	Ratio
+On the assumption that he wins on the issue of outstanding benefit, Professor Shanks is entitled to an uplift because the fair share of the benefit should in this case reflect the deleterious effect on the real value of money of the substantial time between Unilevers receipt of the licence fees and other moneys and its making of any payment of compensation.	Ratio
+Turning now to Arnold Js other reasons for rejecting this part of Professor Shanks case, the inquiry under section 41(1) will in this case end at the time the order for payment is made.	Ratio
+In other cases, in assessing benefit, it may be necessary to look forward.	Ratio
+But that is specifically contemplated by section 41(1) which makes clear that, in an appropriate case, an award must be such as to secure for the employee a fair share of the benefit which the employer may reasonably be expected to derive from the patent.	Ratio
+I also reject the suggestion that the approach Professor Shanks contends for would cut across the statutory scheme.	Ratio
+It is true that the Comptroller has no power to award interest.	Ratio
+But that is not what Professor Shanks seeks and in my opinion there is nothing in the scheme which bars the Comptroller from having regard to the impact of inflation in assessing the benefit or what amounts to a fair share of it.	Ratio
+As for complexity and delay, there is nothing unduly complex about an assessment of the impact of time on the real value of money; nor should the possibility of an uplift encourage delay, for if in any case the employee has delayed unduly, the Comptroller would no doubt take that into account in carrying out his assessment.	Ratio
+In this case there is no finding by the hearing officer that Professor Shanks was unreasonably slow to make his application; nor can he be criticised for his conduct of the proceedings.	Ratio
+In my judgement, and on the assumption he is otherwise successful on his appeal, fairness demands that his award of compensation should reflect the detrimental effect of time on the value of money.	Ratio
+Was the benefit outstanding?	Ratio
+The hearing officer carried out his assessment of the appropriate characterisation of the benefit of the Shanks patents to Unilever by considering that benefit in a number of ways.	Ratio
+He looked at it in the light of Unilevers overall profits and turnover, by reference to patents in general, in the context of Unilevers licensing activities, in the light of Unilevers patent activities and finally, as compared to Unilevers activities in general.	Ratio
+In the course of this analysis the hearing officer made a series of findings and observations which are to my mind rather striking.	Ratio
+He held that there was an extreme disparity in numerical terms between the benefit Unilever received and the regular salary and 100 assignment fee that Professor Shanks was paid.	Ratio
+He observed that there was scant evidence before him of Unilevers other licensing activities and that he had been provided with no example of another licensing deal which had provided Unilever with an income at or above the level of the Shanks patents.	Ratio
+He found that the Shanks patents had produced a very high rate of return; that Unilever had made a very small effort to commercialise Professor Shanks invention; that Unilevers licensing efforts were serious but not exceptional; and that Unilever had generated the benefit it derived from the Shanks patents at no significant risk.	Ratio
+In drawing his conclusions, he held that the benefit was a substantial and significant one in monetary terms, and that in comparison with the benefit to Unilever of other patents, it did stand out.	Ratio
+In my opinion all of these matters point strongly to the conclusion that the Shanks patents were an outstanding benefit to CRL having regard to the size and nature of its undertaking as I would hold these features must be understood.	Ratio
+How then did the hearing officer arrive at his conclusion that they were not? I think the key aspects of his reasoning may be summarised as follows.	Ratio
+Looking first at Unilevers profits and turnover, the hearing officer agreed with Professor Shanks that it was simplistic to look simply at the figures for the overall turnover or profits of the undertaking and to say that a given benefit was only a small percentage of that.	Ratio
+He explained that a relatively modest sum might represent an excellent return for a small company but would not do so for a larger entity, such as Unilever, which by its nature, for example being able to contemplate greater expenditure on litigation, could secure a higher return in a negotiation.	Ratio
+Ultimately, he continued, it was a matter of considering the benefit in the overall context and making an assessment as to whether it was outstanding.	Ratio
+Turning next to the benefit of the Shanks patents in relation to patents in general, the hearing officer explained that there was expert evidence before him on this issue but he found none of it of much assistance.	Ratio
+Instead he reasoned that the assessment had to be carried out in the context of the employers undertaking and that he found it hard to see how a benefit of a relatively modest sum of, say, 50,000 could be considered an outstanding benefit in the context of Unilevers overall budget.	Ratio
+This was followed by a consideration of the benefit to Unilever of the Shanks patents in the context of its licensing activities.	Ratio
+Here the hearing officer recognised that the Shanks patents did stand out in terms of the licensing income they generated but thought that it did not follow that the benefit was outstanding.	Ratio
+How the benefit was obtained was, in his view, irrelevant.	Ratio
+What mattered was whether the benefit was outstanding in the context of the undertaking as a whole.	Ratio
+The hearing officer then considered the benefit to Unilever of the Shanks patents in light of Unilevers broader patent activities.	Ratio
+Here he referred to the evidence of Dr Mulder who held the position of Vice President Patents at Unilever.	Ratio
+Some years earlier Dr Mulder had attempted to value Unilevers patents but he accepted in the course of his cross examination that his analysis did not produce a value of the patents in monetary terms but rather in terms of the value of product sales to which they related.	Ratio
+He was therefore unable to identify any other patent which was more beneficial to Unilever than the Shanks patents.	Ratio
+Finally, the hearing officer compared the benefits from the Shanks patents with the benefits generated by its other activities and referred in this connection to the unchallenged evidence of Dr Mulder that Unilever had a number of highly successful products, such as Viennetta ice cream, spreads and deodorants, and that these generated an income of many billions of pounds and many hundreds of millions of pounds of profit over the lifetime of the patents which protected them.	Ratio
+He said this gave some indication of the sorts of sums that could be of great benefit to Unilever and they were an order of magnitude greater than the benefit derived from the Shanks patents.	Ratio
+The hearing officer expressed his conclusions in these terms: 222.	Ratio
+Considering the totality of the evidence, I was left with a clear impression.	Ratio
+The benefit provided by the Shanks patents was a substantial and significant one in money terms - the sort of sum that Unilever would, on the evidence, worry about Furthermore, in comparison to the benefit from other patents to Unilever, from the evidence before me it does, in Mr Emanuels words stand out.	Ratio
+But Unilever makes profits at an order of magnitude greater on other inventions - albeit primarily by manufacture and at a much lower rate of return than was provided by the Shanks patents.	Ratio
+Further, this is not such a case as Kelly, where Floyd J held that without the patents in that case, Amersham would have faced a crisis.	Ratio
+There was no suggestion from either party that the Shanks patents were crucial to Unilevers success.	Ratio
+223.	Ratio
+In my view, taking account of the size and nature of Unilevers business, the benefit provided by the Shanks patents falls short of being outstanding.	Ratio
+Did the hearing officer make an error of principle in assessing the benefit?	Ratio
+It is apparent from the summary in the immediately foregoing section that a central and essential part of the hearing officers reasoning was that Unilever generated a vast income and commensurate profits from the manufacture and sale of products such as ice cream, spreads and deodorants which had the benefit of patent protection, and that this income and these profits were an order of magnitude greater than the benefits Unilever derived from the Shanks patents.	Ratio
+The hearing officer clearly thought that this was highly relevant because he said in terms that it gave an indication of the sorts of benefits generated by highly successful products and so the sorts of sums which could be considered of great benefit to Unilever.	Ratio
+This is also apparent from his conclusion, for in referring to profits an order of magnitude greater on other inventions, the hearing officer was referring to the overall profits made by Unilever from the manufacture and sale of these products.	Ratio
+There are in my view a number of problems with these aspects of the hearing officers analysis.	Ratio
+First, he adopted the wrong starting point.	Ratio
+Professor Shanks was employed by CRL, and CRL operated a research facility for the Unilever group.	Ratio
+CRLs undertaking for the purposes of section 40 of the 1977 Act was the business of generating inventions and providing those inventions and the patents which protected them to Unilever for use in connection with its business.	Ratio
+It was to the size and nature of this undertaking, among other things, that the hearing officer was required by section 40 to have regard in assessing the nature of the benefit to CRL and Unilever of any such patent.	Ratio
+Instead the hearing officer took CRLs undertaking to be the whole of the Unilever group and this pervaded the whole of his evaluation.	Ratio
+In my judgement that was wrong in principle.	Ratio
+Secondly and irrespective of his starting point and the extent of CRLs undertaking, the hearing officers particular focus upon the overall turnover and profits generated by Unilever, as illustrated by the size of its business in making and selling ice cream, spreads and deodorants, was in my view misdirected.	Ratio
+The success of these products could no doubt be attributed to a range of factors including quality, branding and pricing.	Ratio
+It is also true that they were protected at least to some degree by patent families which related to the processes by which they were made or aspects of the technology which they contained.	Ratio
+But, as the hearing officer himself acknowledged, only a proportion of the sale price of any product could be attributed to any patent protection, and Unilevers attempts to assess the value of these other patents failed.	Ratio
+Indeed, the hearing officer recognised that, in terms of the benefit which Unilevers patents had generated, the Shanks patents stood out.	Ratio
+Thirdly, it cannot be said that the size and success of Unilevers business as a whole played any material part in securing the benefit it has enjoyed from the Shanks patents.	Ratio
+That benefit was generated by licensing or selling its patent rights, not by harnessing its manufacturing capacity, its sales and distribution facilities or its goodwill.	Ratio
+The licence fees, which constituted the main part of the benefit, were paid by licensees who, with one exception, approached Unilever.	Ratio
+It is true that Unilevers licensing personnel negotiated those licences with skill and serious effort but its costs of doing so were modest and taken into account, and the hearing officer made no finding to the effect that the royalty rates were boosted by the application of Unilevers financial muscle or the threat of legal proceedings.	Ratio
+These were matters he failed properly to take into account.	Ratio
+Fourthly, the hearing officer appeared rightly to disavow an approach which involved assessing the extent and nature of the benefit derived from a patent simply by comparing it to the patent owners overall turnover or profits.	Ratio
+But he also indicated these matters might be relevant if, for example, an undertakings size enabled it to exert greater leverage.	Ratio
+Yet, having apparently rejected such an approach, he then adopted it.	Ratio
+There was no justification here for simply weighing the sums Unilever generated from the Shanks patents against the size of its turnover and overall profitability in products such as Viennetta ice cream, spreads and deodorants and yet this formed an important part of his assessment.	Ratio
+I am conscious that the decision of the hearing officer on this issue necessarily involved an evaluation and it is of course well established that an appellate court should be very cautious in differing from such an evaluation unless it involves an error of principle: see, for example, Biogen Inc v Medeva plc [1997] RPC 1, 45 per Lord Hoffmann.	Ratio
+That is particularly so where the decision is that of a specialist tribunal.	Ratio
+What constitutes an error of principle was considered most recently by Lord Hodge in Actavis Group PTC EHF v ICOS Corpn [2019] UKSC 15; [2019] Bus LR 1318, paras 80-81.	Ratio
+As he there explained, such an error is not confined to an error as to the law but extends to certain types of error in the application of a legal standard to the facts in an evaluation of those facts.	Ratio
+A legal error might involve asking the wrong question, failing to take into account relevant matters or taking into account irrelevant matters.	Ratio
+In the absence of such an error, the appeal court would be justified in differing from a tribunals assessment if it were to reach the view that the tribunals conclusion was outside the bounds within which reasonable disagreement was possible.	Ratio
+I am satisfied that, for the reasons given in paras 79-82 above, the hearing officer was wrong in principle and that Arnold J on appeal and the Court of Appeal on further appeal wrongly failed so to hold.	Ratio
+Further, having regard to the fundamental nature of these errors, the decision of the hearing officer must be set aside.	Ratio
+I have considered whether it is necessary to remit this appeal for a rehearing but I have concluded it is not, for it seems to me to be clear how the hearing officer would or ought to have decided this issue had he directed himself correctly.	Ratio
+I would add that this is a conclusion at which I am relieved to arrive in the light of the time these proceedings have taken and the costs that must have been incurred.	Ratio
+In summary and as I have foreshadowed, Professor Shanks made his invention using his own initiative for his brief was to work in the area of biosensors for process control and process engineering and he was made to understand that he should not stray too far from it.	Ratio
+He built the first prototype of his invention in October 1982, some five months after he had joined CRL.	Ratio
+This would have been a new product area for Unilever but it was a development which the group did not, in the hearing officers terminology, get behind and push.	Ratio
+It was regarded as far from a key technology and it was one into which Unilever made only a modest investment.	Ratio
+It is true that Unilever patented and maintained a patent portfolio which protected it and in due course expended significant effort and skill in the licensing negotiations.	Ratio
+But the rewards it enjoyed were substantial and significant, were generated at no significant risk, reflected a very high rate of return, and stood out in comparison with the benefit Unilever derived from other patents.	Ratio
+What was more, they could not be attributed to the deployment or application of Unilevers wider business assets or infrastructure; nor were they found to be the consequence of any leverage Unilever could exert because of its size.	Ratio
+In short, the benefit Unilever enjoyed from the Shanks patents was outstanding within the meaning of section 40 of the 1977 Act.	Ratio
+Fair share	Ratio
+Section 41 of the 1977 Act says that an award of compensation to an employee under section 40(1) or (2) shall be such as will secure for the employee a fair share, having regard to all the circumstances, of the benefit which the employer has derived or may be reasonably expected to derive from the patent.	STA
+Section 41(4) then specifies that various matters must be taken into account.	STA
+In assessing what would have been a fair share of the benefit Unilever had derived from the Shanks patents, the hearing officer duly addressed each of the matters set out in section 41(4).	Ratio
+In so doing he had regard to the nature of Professor Shanks duties and that he was employed to invent; Professor Shanks remuneration, which was commensurate with his level of responsibility; the effort and skill Professor Shanks expended in making the invention; the contribution made by Unilever to the making, developing and working of the invention; and Unilevers licensing effort which, the hearing officer observed, was serious but not exceptional.	Ratio
+The hearing officer also had regard to the evidence before him about the percentage award rates in company and university employee compensation schemes.	Ratio
+Having regard to all of these matters, the results of a literature review and the parties submissions, he held that 5% would have been the appropriate fair share of the benefit, had it been outstanding.	Ratio
+On appeal, Arnold J came to the conclusion that an important factor in Unilevers ability to extract licence fees was the fact that it could afford to bring proceedings for patent infringement and pursue them to a conclusion, and that the hearing officer had wrongly failed to take this into account.	Ratio
+In these circumstances he thought that it would not be right to award to Professor Shanks a percentage of the benefit which was higher than the 3% awarded to the inventors in the Kelly case, and that this would have been the fair share of the benefit to award to Professor Shanks, had that benefit been outstanding.	Ratio
+On further appeal, the Court of Appeal did not need to address this issue and did not do so.	Ratio
+Professor Shanks now contends that Arnold J had no proper basis for reducing the share of the benefit to 3% and that even 5% is too low, for it fails properly to take into account that he conceived the invention outside and in addition to his assigned role; that the licence fees generated by the patent represented an entirely new income stream for Unilever; and that he made the invention and the patent was exploited at no risk to Unilever.	ARG
+He argues that between 10% and 20% of the benefit would represent a fair share.	ARG
+In my judgement Arnold J was wrong to find that 3% represented a fair share of the benefit Unilever enjoyed from the Shanks patents.	Ratio
+The hearing officer had well in mind the size of Unilevers business and the nature of the licensing negotiations yet he did not make a finding that it secured the licence rates it did because it could afford to bring and pursue infringement proceedings against the prospective licensees.	Ratio
+The absence of such a finding is not at all surprising.	Ratio
+Unilever had no manufacturing business it needed to protect and, with one exception, the discussions were initiated by the prospective licensees.	Ratio
+In substance, these were negotiations between willing licensors and willing licensees.	Ratio
+Arnold J therefore had no basis for reducing the percentage from 5% to 3%.	Ratio
+I am not persuaded by Professor Shanks other arguments, however.	Ratio
+The hearing officer found that the invention was made in the course of his contractual duties, although its subject matter was not the main focus of his work.	Ratio
+Moreover, as the hearing officer also found, Professor Shanks was employed to invent and, in making the invention, did what he was employed to do.	Ratio
+I accept that the patent generated a new stream of income for Unilever, but it did not do so without its input.	Ratio
+To the contrary, it was brought to fruition by Unilevers negotiation of the licences, and that is something in which Professor Shanks played no part.	Ratio
+Finally, it is true that Unilever made only a relatively small effort to commercialise the invention and exploited the Shanks patents at no real risk to itself, but these were matters which the hearing officer took into account in arriving at his figure of 5%.	Ratio
+I am satisfied that the hearing officer made no error in the way he approached this issue and it would not be appropriate to interfere with the conclusion to which he came.	Ratio
+It only remains to apply to the 5% share of the 24m an uplift to reflect the impact of time on the value of money.	Ratio
+Professor Shanks invites us to take 1999 as the median year in which Unilever received the benefit and then to take into account the effect of inflation using the Bank of England calculator.	Ratio
+I did not detect any substantive objection from Unilever to this methodology and I think it is a reasonable and fair way to proceed.	Ratio
+This produces a figure of about 2m at an average inflation rate of 2.8%.	Ratio
+In my judgement the fair share of that benefit to which Professor Shanks is entitled is therefore 2m.	Ratio
+Conclusion	RPC
+For these reasons I would allow Professor Shanks appeal.	RPC
+In my judgement the Shanks patents were of outstanding benefit to Unilever and CRL and Professor Shanks is entitled to a fair share of that benefit amounting to 2m.	RPC

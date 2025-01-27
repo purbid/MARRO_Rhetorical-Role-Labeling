@@ -1,0 +1,364 @@
+These appeals arise out of a dispute between British Telecommunications Plc, whom I shall call BT, and four mobile network operators.	FAC
+The dispute is about the termination charges which BT is entitled to charge to mobile network operators for putting calls from the latters networks through to BT fixed lines with associated 08 numbers.	Ratio
+The dispute is a highly technical one, both factually and legally, and like most such disputes involves a surfeit of acronyms.	Ratio
+But it raises issues of great importance to the telecommunications industry, to its regulator, and indirectly to millions of consumers.	Ratio
+The following summary is a gross over-simplification but is sufficient for present purposes.	FAC
+In principle, the cost of a call is charged to the caller by the originating communications provider to which he subscribes (a CP, in the jargon of the business).	FAC
+Out of its charges to the caller, the originating CP must pay charges to the terminating network or to an intermediate carrier if there is one.	FAC
+08 numbers are known as non-geographic numbers.	FAC
+They are allocated to fixed line subscribers, and automatically translated into the appropriate geographic number in the course of transmission.	FAC
+Where the call originates from another fixed line, an 08 number allows the subscriber to whom that number has been allocated to receive it on the basis that the caller will be charged at a standard, and generally reduced, charge.	FAC
+Calls to 080 numbers are free to fixed line callers except where charges are notified at the beginning of the call.	FAC
+Calls to 0845 numbers are charged to fixed line callers by the originating CP at its standard local call rate.	FAC
+Calls to 0870 numbers are charged to fixed line callers by the originating CP at its standard national call rate except where different charges have been published.	FAC
+In each case, the terminating CP will collect a termination charge from the CP from which it received the call.	FAC
+However, where calls originate from a mobile network operator, that operator will commonly charge the caller for a call to a 080 number, or charge him more than the standard local or national rate for a call to a 0845 or 0870 number.	FAC
+In 2009 BT notified mobile network operators of a revised scheme of termination charges for 08 numbers.	FAC
+The defining feature of the new scheme was that mobile network operators would be charged at a rate which varied according to the amount which the originating network charged the caller.	FAC
+The higher the charges to the caller, the greater the termination charge.	FAC
+The new scheme was rejected by the four mobile network operators party to these appeals.	FAC
+The issue was submitted to the Office of Communications (Ofcom) under a statutory dispute resolution procedure.	FAC
+Appeal lies from Ofcom to the Competition Appeal Tribunal, and from them on points of law only to the Court of Appeal.	RLC
+Ofcom decided that BT should not be allowed to introduce the new charging scheme.	RLC
+The Competition Appeal Tribunal overturned that decision and decided that they should.	RLC
+The Court of Appeal restored the original decision of Ofcom.	RLC
+The legal framework	FAC
+The sector is regulated under a pan-European regulatory scheme known as the Common Regulatory Framework.	FAC
+The objective of the scheme is to ensure end- to-end connectivity on a common basis throughout the EU, without distortions arising from anti-competitive behaviour or restrictions arising from national law or practices.	FAC
+It is contained in a number of Directives, all issued on 7 March 2002.	FAC
+Two of these are important for present purposes.	FAC
+They are Directive 2002/21/EC, known as the Framework Directive and Directive 2002/19/EC known as the Access Directive.	FAC
+They were amended in 2009, with a deadline for transposition in 2011, after the time which is relevant for the present appeal.	FAC
+I shall refer to them below in their unamended form.	FAC
+They refer to each other, and have to be construed together.	FAC
+The Directives	STA
+The background to the Directives, and previous Directives on the same subject, is the progressive liberalisation of the European telecommunications market which had previously been dominated by state-controlled monopolies.	FAC
+The Framework Directive recites, at Recital (1), that the current regulatory framework under previous Directives has been successful in creating the conditions for effective competition in the telecommunications sector during the transition from monopoly to full competition.	FAC
+Recital (25) records that it may still be necessary to impose ex ante obligations on CPs to ensure the development of a competitive market, where CPs exceed a given threshold of market power, but that the relevant threshold should now correspond to the concept of dominance as defined in the case-law of the Court of Justice, i.e. the possession of significant power enabling a CP to operate unconstrained by competitive pressure.	FAC
+Recital (27) recites: (27) It is essential that ex ante regulatory obligations should only be imposed where there is not effective competition, i.e. in markets where there are one or more undertakings with significant market power, and where national and Community competition law remedies are not sufficient to address the problem.	FAC
+Subject to ex ante regulation in circumstances where there is not effective competition, the scheme of the Directives is permissive.	FAC
+The Access Directive recites: (5) In an open and competitive market, there should be no restrictions that prevent undertakings from negotiating access and interconnection arrangements between themselves, in particular on cross-border agreements, subject to the competition rules of the Treaty.	FAC
+In the context of achieving a more efficient, truly pan-European market, with effective competition, more choice and competitive services to consumers, undertakings which receive requests for access or interconnection should in principle conclude such agreements on a commercial basis, and negotiate in good faith.	FAC
+(6) In markets where there continue to be large differences in negotiating power between undertakings, and where some undertakings rely on infrastructure provided by others for delivery of their services, it is appropriate to establish a framework to ensure that the market functions effectively.	FAC
+National regulatory authorities should have the power to secure, where commercial negotiation fails, adequate access and interconnection and interoperability of services in the interest of end-users.	FAC
+In particular, they may ensure end-to-end connectivity by imposing proportionate obligations on undertakings that control access to end-users.	FAC
+(14) Directive 97/33/EC laid down a range of obligations to be imposed on undertakings with significant market power, namely transparency, non-discrimination, accounting separation, access, and price control including cost orientation.	FAC
+This range of possible obligations should be maintained but, in addition, they should be established as a set of maximum obligations that can be applied to undertakings, in order to avoid over-regulation.	FAC
+(20) Price control may be necessary when market analysis in a particular market reveals inefficient competition.	FAC
+The regulatory intervention may be relatively light, such as an obligation that prices for carrier selection are reasonable as laid down in Directive 97/33/EC, or much heavier such as an obligation that prices are cost oriented to provide full justification for those prices where competition is not sufficiently strong to prevent excessive pricing.	FAC
+In particular, operators with significant market power should avoid a price squeeze whereby the difference between their retail prices and the interconnection prices charged to competitors who provide similar retail services is not adequate to ensure sustainable competition.	FAC
+The general objectives of the scheme are identified by Articles 7.1 and 8 of the Framework Directive (as in force at the relevant time).	STA
+They provide: Article 7 Consolidating the internal market for electronic communications 1.	STA
+In carrying out their tasks under this Directive and the Specific Directives, national regulatory authorities shall take the utmost account of the objectives set out in Article 8, including in so far as they relate to the functioning of the internal market.	STA
+Article 8 Policy objectives and regulatory principles 1.	STA
+Member States shall ensure that in carrying out the regulatory tasks specified in this Directive and the Specific Directives, the national regulatory authorities take all reasonable measures which are aimed at achieving the objectives set out in paragraphs 2, 3 and 4.	STA
+Such measures shall be proportionate to those objectives.	STA
+Member States shall ensure that in carrying out the regulatory tasks specified in this Directive and the Specific Directives, in particular those designed to ensure effective competition, national regulatory authorities take the utmost account of the desirability of making regulations technologically neutral.	STA
+National regulatory authorities may contribute within their competencies to ensuring the implementation of policies aimed at the promotion of cultural and linguistic diversity, as well as media pluralism.	STA
+2	STA
+The national regulatory authorities shall promote competition in the provision of electronic communications networks, electronic communications services and associated facilities and services by inter alia: (a) ensuring that users, including disabled users, derive maximum benefit in terms of choice, price, and quality; (b) ensuring that there is no distortion or restriction of competition in the electronic communications sector; (c) encouraging efficient investment in infrastructure, and promoting innovation; 4.	STA
+The national regulatory authorities shall promote the interests of the citizens of the European Union by inter alia: (a) ensuring all citizens have access to a universal service specified in Directive 2002/22/EC (Universal Service Directive); (b) ensuring a high level of protection for consumers in their dealings with suppliers, in particular by ensuring the availability of simple and inexpensive dispute resolution procedures carried out by a body that is independent of the parties involved;	STA
+Detailed provision for the terms of interconnection between CPs is contained in the Access Directive.	STA
+Article 1 provides: Article 1 Scope and aim 1.	STA
+Within the framework set out in Directive 2002/21/EC (Framework Directive), this Directive harmonises the way in which Member States regulate access to, and interconnection of, electronic communications networks and associated facilities.	STA
+The aim is to establish a regulatory framework, in accordance with internal market principles, for the relationships between suppliers of networks and services that will result in sustainable competition, interoperability of electronic communications services and consumer benefits.	STA
+The key element of the system for achieving these objects is the legal relationship between CPs.	STA
+This is embodied in interconnection terms agreed between them, generally in a series of bilateral contracts.	STA
+The relevant provisions of the Access Directive are Articles 4 and 5.	STA
+Article 4 Rights and obligations for undertakings 1.	STA
+Operators of public communications networks shall have a right and when requested by other undertakings so authorised, an obligation to negotiate interconnection with each other for the purpose of providing publicly available electronic communications services, in order to ensure provision and interoperability of services throughout the Community.	STA
+Operators shall offer access and interconnection to other undertakings on terms and conditions consistent with obligations imposed by the national regulatory authority pursuant to Articles 5, 6, 7 and 8.	STA
+Article 5 Powers and responsibilities of the national regulatory authorities with regard to access and interconnection 1.	STA
+National regulatory authorities shall, acting in pursuit of the objectives set out in Article 8 of Directive 2002/21/EC (Framework Directive), encourage and where appropriate ensure, in accordance with the provisions of this Directive, adequate access and interconnection, and interoperability of services, exercising their responsibility in a way that promotes efficiency, sustainable competition, and gives the maximum benefit to end-users.	STA
+In particular, without prejudice to measures that may be taken regarding undertakings with significant market power in accordance with Article 8, national regulatory authorities shall be able to impose: (a) to the extent that is necessary to ensure end-to-end connectivity, obligations on undertakings that control access to end-users, including in justified cases the obligation to interconnect their networks where this is not already the case; 3.	STA
+Obligations and conditions imposed in accordance with paragraphs 1 and 2 shall be objective, transparent, proportionate and non- discriminatory, and shall be implemented in accordance with the procedures referred to in Articles 6 and 7 of Directive 2002/21/EC (Framework Directive).	STA
+4	STA
+With regard to access and interconnection, Member States shall ensure that the national regulatory authority is empowered to intervene at its own initiative where justified [or, in the absence of agreement between undertakings, at the request of either of the parties involved,] in order to secure the policy objectives of Article 8 of Directive 2002/21/EC (Framework Directive), in accordance with the provisions of this Directive and the procedures referred to in Articles 6 and 7, 20 and 21 of Directive 2002/21/EC (Framework Directive).	STA
+The words in square brackets in Article 5.4 were removed by Directive 2009/140/EC.	STA
+Articles 9 to 13 of the Access Directive represent the most intrusive parts of the regulatory scheme.	STA
+They require member states to ensure that national regulatory authorities are empowered to impose obligations of transparency, non- discrimination, accounting separation, access to and use of specific network facilities, and price control and accounting obligations in certain cases.	STA
+Article 8.3 provides that without prejudice to (among other provisions) Article 5.1, national regulatory authorities shall not impose the obligations set out in Articles 9 to 13 on operators that have not been designated in accordance with paragraph 2.	STA
+Operators are designated in accordance with paragraph 2 of Article 8 if they have been shown to have significant market power in a specific market by a market analysis carried out in accordance with Article 16 of the Framework Directive.	STA
+Significant market power is defined by Article 14.2 of the Framework Directive: 2.	STA
+An undertaking shall be deemed to have significant market power if, either individually or jointly with others, it enjoys a position equivalent to dominance, that is to say a position of economic strength affording it the power to behave to an appreciable extent independently of competitors, customers and ultimately consumers.	STA
+BT has not been designated as having significant market power in the market relevant to this case, and the present appeal has nothing to do with Articles 9 to 13 of the Access Directive, which are relevant only by way of background.	STA
+The scheme of the Directives has been considered on a number of occasions by the Court of Justice of the European Union, notably in Case C-227/07 Commission of the European Communities v Republic of Poland [2008] ECR I-8403 and Case C-192/08 TeliaSonera Finland Oyj [2009] ECR I-10717.	Ratio
+It can fairly be summarised as follows.	Ratio
+The objectives of the scheme are set out in Article 8 of the Framework Directive, and in particular in Article 8.2, which assumes that consumer welfare will generally be achieved by competition and requires national regulatory authorities to promote both.	Ratio
+The telecommunications sector is assumed to have become competitive except in those cases where a CP can be identified as having significant market power in a relevant market.	Ratio
+In a competitive market, the objectives in Article 8 of the Framework Directive are to be achieved through the terms of the interconnection agreements between CPs.	Ratio
+CPs operating in such a market are left to negotiate their own interconnection terms in good faith, with the minimum of regulatory interference.	Ratio
+But they are required by Article 4.1 of the Access Directive to offer interconnection terms consistent with the obligations imposed by the national regulatory authority pursuant to Articles 5, 6, 7 and 8.	Ratio
+Under Article 5.4 of the Access Directive, these obligations of the regulator include its obligation to secure the policy objectives in Article 8 of the Framework Directive.	Ratio
+The result is that interconnection terms consistent with the objectives in Article 8 of the Framework Directive must be available to any CP which asks for them.	Ratio
+Reserve powers are required to be conferred on national regulatory authorities by Article 5 of the Access Directive to impose objective, transparent, proportionate and non-discriminatory terms calculated to achieve the objectives in Article 8 of the Framework Directive.	Ratio
+In summary, these powers are exercisable where it is necessary to do so in order (i) to achieve end-to-end connectivity in a case where the parties have failed to agree interconnection terms (Articles 5.1 and 5.4 of the Access Directive); or (ii) to achieve the objectives in Article 8 of the Framework Directive, in a case where interconnection terms have been agreed but are not calculated to achieve those objectives (Article 5.4 of the Access Directive); or (iii) in order to impose certain kinds of term on parties with significant market power (Articles 8 to 13 of the Access Directive).	Ratio
+It should be noted that the promotion of efficient and competitive markets is one of the overarching objectives in Article 8.2 of the Framework Directive, and is therefore potentially relevant in all three cases.	Ratio
+Although price control may not be imposed by regulation on CPs without significant market power, this does not mean that competition considerations are irrelevant in a competitive market.	Ratio
+As the Court of Justice pointed out in Case C-192/08 TeliaSonera [2009] ECR I-10717, para 55, a national regulatory authority may intervene to prevent the imposition by a CP of interconnection terms likely to hinder the emergence of a competitive market even if that CP does not have significant market power.	Ratio
+This is a point of some practical importance, because a CP without significant market power nevertheless has a monopoly of access to its current customers.	Ratio
+Dispute resolution	Ratio
+Arrangements for dispute resolution are an integral part of the scheme.	STA
+I have already referred to Article 5.4 of the Access Directive, which deals with the resolution of disputes about access and connectivity and cross-refers to Article 20 of the Framework Directive.	STA
+Article 20 contains the principal provision governing dispute resolution.	STA
+It provides so far as relevant: Article 20 Dispute resolution between undertakings 1.	STA
+In the event of a dispute arising in connection with obligations arising under this Directive or the Specific Directives between undertakings providing electronic communications networks or services in a Member State, the national regulatory authority concerned shall at the request of either party, and without prejudice to the provisions of paragraph 2, issue a binding decision to resolve the dispute in the shortest possible time frame and in any case within four months except in exceptional circumstances.	STA
+The Member State concerned shall require that all parties cooperate fully with the national regulatory authority.	STA
+2	STA
+Member States may make provision for national regulatory authorities to decline to resolve a dispute through a binding decision where other mechanisms, including mediation, exist and would better contribute to resolution of the dispute in a timely manner in accordance with the provisions of Article 8.	STA
+The national regulatory authority shall inform the parties without delay.	STA
+If after four months the dispute is not resolved, and if the dispute has not been brought before the courts by the party seeking redress, the national regulatory authority shall issue, at the request of either party a binding decision to resolve the dispute in the shortest possible time frame and in any case within four months.	STA
+3	STA
+In resolving a dispute, the national regulatory authority shall take decisions aimed at achieving the objectives set out in Article 8.	STA
+Any obligations imposed on an undertaking by the national regulatory authority in resolving a dispute shall respect the provisions of this Directive or the Specific Directives.	STA
+Article 4 of the Framework Directive requires that there should be a right of appeal from any decision of a national regulatory authority, whether under its regulatory or its adjudicatory powers.	STA
+This is not just a right of judicial review.	STA
+The appeal must ensure that the merits of the case are duly taken into account.	STA
+The Communications Act 2003	STA
+Effect is given to the Directives in the United Kingdom by the Communications Act 2003.	STA
+Under the Act, Ofcom is the national regulatory authority for the purposes of the scheme.	STA
+Since it is common ground that the Directives are accurately transposed in the Act, it will generally be convenient to refer to the European rather than the domestic legislation.	STA
+It is, however, appropriate to refer to section 190 of the Act of 2003, which deals with the resolution of disputes by Ofcom.	STA
+Section 190(2) provides: (2) Their main power is to do one or more of the following- (a) to make a declaration setting out the rights and obligations of the parties to the dispute; (b) to give a direction fixing the terms or conditions of transactions between the parties to the dispute; (c) to give a direction imposing an obligation, enforceable by the parties to the dispute, to enter into a transaction between themselves on the terms and conditions fixed by Ofcom; and (d) for the purpose of giving effect to a determination by Ofcom of the proper amount of a charge in respect of which amounts have been paid by one of the parties of the dispute to the other, to give a direction, enforceable by the party to whom the sums are to be paid, requiring the payment of sums by way of adjustment of an underpayment or overpayment.	STA
+Sections 3 and 4 provide, in terms corresponding to the Directives, for the matters to which Ofcom must have regard in performing its functions generally.	STA
+Section 3(3) reflects the permissive character of the regulatory scheme, by providing that Ofcom must have regard, in all cases, to the principles under which regulatory activities should be transparent, accountable, proportionate, consistent and targeted only at cases in which action is needed (emphasis added).	STA
+The contract	FAC
+BT provides connection services to other CPs on the terms of its Standard Interconnect Agreement.	STA
+Clause 12 of this document deals with BT charges.	STA
+It provides: 12.	STA
+BT SERVICES 12.1 For a BT service or facility the Operator shall pay to BT the charges specified from time to time in the Carrier Price List.	STA
+12.2 BT may from time to time vary the charge for a BT service or facility by publication in the Carrier Price List and such new charge shall take effect on the Effective Date, being a date not less than 28 calendar days after the date of such publication, unless a period other than 28 calendar days is expressly specified in a Schedule.	STA
+12.5 As soon as reasonably practicable following an order, direction, determination or consent by Ofcom of a charge (or the means of calculating that charge) for a BT service or facility, BT shall make any necessary alterations to the Carrier Price List so that it accords with such determination.	STA
+12.9 If there is a difference between a charge for a BT service or facility specified in the Carrier Price List and a charge determined by Ofcom, the charge determined by Ofcom shall prevail.	STA
+A change in BT charges is notified to the counterparties by a Network Charge Change Notice (or NCCN).	STA
+The reference in Clause 12 to determinations by Ofcom is to determinations under Clause 26, which reflects the terms of Article 20 of the Framework Directive.	STA
+It provides that subject to any other mode of dispute resolution available to the parties, disputes are to be resolved as far as possible by agreement, but failing agreement either party may refer the dispute to Ofcom.	STA
+The combined effect of Clauses 12 and 26 is that variations to BTs charges are introduced unilaterally by BT and take effect automatically from the date proposed, subject to the counterpartys right to object.	STA
+If agreement cannot be reached, the dispute is referred to Ofcom for determination, unless both parties elect some other form of dispute resolution.	STA
+Meanwhile, the variation is treated as provisionally valid.	STA
+The Change Notices	FAC
+On 3 June 2009, BT issued Network Charge Change Notice 956 in respect of calls to 080 numbers.	FAC
+This was on its face an exercise by BT of the powers of variation conferred on BT by Clause 12.2 of the Interconnection Agreement.	FAC
+The revised tariffs proposed in the Change Notice provided for BT to make a payment to the originating network if that network charged zero for the call.	FAC
+If the originating network charged the caller, there were no charges either way provided that the charge was below a given threshold.	FAC
+Above that threshold, the CP interconnecting with BT was required to pay a progressively rising termination charge depending on the band into which the charge to the caller fell.	FAC
+On 2 October 2009, BT issued corresponding notices numbered 985 and 986 relating to calls to 0845 and 0870 numbers.	FAC
+These provided for BT to charge CPs a variable proportion of the charge made by the originating network to the caller, again depending on the band into which the charge to the caller fell.	FAC
+All of these notices were disputed and referred by one or more mobile network operators to Ofcom.	FAC
+Ofcoms determinations	FAC
+Ofcom issued a final determination dated 5 February 2010 in relation to 080 numbers, and a second final determination dated 10 August 2010 in relation to 0845 and 0870 numbers.	FAC
+For present purposes, it is possible to concentrate on the determination relating to 0845 and 0870 numbers, because it is common ground that that determination may be taken to represent Ofcoms position in relation to all three number ranges.	FAC
+Ofcom decided that it would permit the changes to be made only if they were fair and reasonable, judged by three governing principles.	FAC
+Principle 1 was that mobile network operators should be able to recover their efficient costs of originating calls to the relevant numbers.	FAC
+Principle 2 was that the new charges should (i) provide benefits to consumers, and (ii) not entail a material distortion of competition.	FAC
+Principle 3 was that implementation of the new charges should be reasonably practicable.	FAC
+All three principles can be related to objectives set out in Article 8.2 of the Framework Directive.	FAC
+No one has challenged this as an appropriate analytical framework.	FAC
+Ofcom found that Principle 1 was satisfied.	FAC
+It found that Principle 3 was not satisfied, but it was overruled on that point by the Competition Appeal Tribunal, and there has been no appeal against its decision on that point.	FAC
+Accordingly the outcome of this appeal turns on the application of Principle 2.	FAC
+Ofcom found that Principle 2 was not sufficiently likely to be met.	FAC
+As regards Principle 2(i), which is known as the welfare test, Ofcom distinguished between three potential effects on consumers: the direct effect, essentially the effect on consumer prices for calls to 08 numbers; the indirect effect, which referred to the possibility that revenue gains by BT would feed back to the consumer in the form of lower charges or higher standards of service by service providers who use 08 numbers; and the mobile tariff package effect (or waterbed effect), by which it meant the potential for mobile network operators deprived of one revenue stream to try to compensate themselves by seeking to raise prices elsewhere.	FAC
+It thought that the direct effect was likely to be positive for consumers, because a tariff based on the originating networks charge to the caller was likely to lead mobile network operators to reduce their charges to callers, although it could not say by how much.	FAC
+It thought that the indirect effect was also likely to be positive, because over time some of the benefits to BT would be passed on to service providers using the 08 numbers in question, although callers to 08 numbers would not necessarily benefit.	FAC
+Ofcoms concern was about the mobile tariff package effect.	FAC
+It thought that this was likely to be negative because mobile network operators would probably try to recoup the higher termination charges by raising charges for other services.	FAC
+Taking the three effects together, Ofcoms conclusion was as follows: 9.30 As set out above, there is uncertainty about the sizes of each of the Direct, Indirect and Mobile tariff package effects.	FAC
+However, as shown in Table 9.1, the overall effect on consumers depends on the relative sizes of these offsetting effects (even though we place more weight on the Direct effect than the Mobile tariff package effect, because of our policy preference for 0845/0870 prices to be aligned with geographic call prices).	FAC
+9.31 Our judgement in respect of Principle 2 is therefore finely balanced.	FAC
+We recognise the possibility that consumers could benefit from NCCNs 985 and 986.	FAC
+However, we also recognise the risk of harm to consumers from NCCNs 985 and 986, particularly in light of our conclusions on the Mobile tariff package effect.	FAC
+9.32 Given the uncertainty which we have identified as to whether BT's NCCNs would result in a net benefit or net harm to consumers, and in light of our overriding statutory duties to further the interests of consumers, we consider it is appropriate for us to place greater weight on this potential risk to consumers from NCCNs 985 and 986.	FAC
+Turning to the competition test at Principle 2(ii), Ofcom concluded that while there were some concerns on this count, the risk of a material distortion of competition arising from the changes was relatively low.	FAC
+Taking the welfare test and the competition test together, Ofcom concluded that Principle 2 was not satisfied, because BT could not positively demonstrate that the proposed tariff changes would be beneficial to consumers.	RLC
+In summary, what Ofcom decided was that although the direct and the indirect effect of BTs proposed price changes could be expected to result in lower prices for consumers, BT should not be allowed to make the changes because it was not possible to forecast how far mobile network operators would be able to compensate themselves by increasing other charges.	RLC
+The decision of the Competition Appeal Tribunal	RLC
+Under section 192 of the Communications Act 2003, an appeal to the CAT is an appeal on the merits.	Ratio
+It is a rehearing, and is not limited to judicial review or to points of law.	Ratio
+This reflects the requirements of Article 4 of the Framework Directive.	Ratio
+The CAT allowed BTs appeals.	RLC
+The tribunal agreed with the approach embodied in Ofcoms three principles, but they had a different starting point.	RLC
+In their view, BT was prima facie entitled to change its charges for three reasons.	RLC
+I list them in the order in which they will be addressed below.	RLC
+The first was that BT had a contractual right to vary its charges, subject to Ofcoms determination if the dispute resolution procedure was operated.	RLC
+The second was that the introduction of innovative charging structures was itself a mode of competing, and that interference with it would restrict competition.	RLC
+The third was that price control is an intrusive form of control which elsewhere in the 2003 Act can only be introduced by SMP condition (para. 442).	RLC
+It was therefore inappropriate for Ofcom to use its dispute resolution powers as a way of controlling the charges of a CP like BT which did not have significant market power in a relevant market.	Ratio
+Summarising their view of these points, the CAT said: 396.	Ratio
+The crucial question is what is a regulator to do in the context of such uncertainty? Essentially, the regulator has two choices: (1) To prevent change unless it can be demonstrated that the change is beneficial- in which case it may well be said that the dead hand of regulation is constraining behaviour which may actually be beneficial to consumers.	Ratio
+We stress that our conclusion regarding Principle 2(i) was that the welfare assessment was inconclusive, not that consumers would be harmed.	Ratio
+(2) Alternatively, to allow change despite the uncertainty, even though there is a risk that the change may result in a disbenefit to consumers, recognising that an undue fetter on commercial freedom is itself a disbenefit to consumers.	Ratio
+It followed that, if Principles 1 and 3 were satisfied (as they were), Ofcom could reject a proposed change in a CPs termination charges only if the welfare test distinctly showed that they would adversely affect consumer welfare.	Ratio
+The CAT reached substantially the same conclusions about the welfare test as Ofcom did, namely that it was inconclusive.	Ratio
+They expressed their conclusion as follows at paragraph 379: Fundamentally, the welfare analysis is inconclusive, due to a lack of empirical evidence.	Ratio
+Even with the assistance of the simplifying assumptions that we have described, a reliable assessment of elasticity of demand is not possible.	Ratio
+Whilst it is possible to conclude that prices for 080, 0845 and 0870 calls will, on balance, fall, it cannot be said how far they will fall, nor what volumes of calls there will be at any given price.	Ratio
+Equally, the extent of the Mobile Tariff Package Effect is essentially unknown.	Ratio
+An inconclusive welfare test could not in the CATs view be enough.	Ratio
+The CATs conclusion on this point is conveniently summarised at paragraphs 447-448 of their judgment: 447.	Ratio
+If, therefore, the test to be applied is whether the NCCNs can be shown to provide benefits to consumers, then that test is not met.	Ratio
+However, we do not consider this to be the correct test in the circumstances of the present case, because it places undue importance on Ofcom's policy preference, at the expense of the two other relevant factors that we have identified as forming a part of Principle 2 (namely Principle 2(ii) [the risk of a distortion to competition arising from restricting CP's commercial freedom to price] and BT's private law rights.	Ratio
+448	Ratio
+We consider that whilst Ofcom's welfare analysis could override these other factors, it should only do so where it can clearly and distinctly be demonstrated that the introduction of the NCCNs would act as material disbenefit to consumers.	Ratio
+In short, given the presence of the two other factors that we have identified, it is not enough for the welfare analysis to be simply inconclusive.	Ratio
+The welfare analysis must demonstrate, and demonstrate clearly, that the interests of consumers will be disadvantaged.	Ratio
+The decision of the Court of Appeal	RLC
+Appeal lies from the CAT to the Court of Appeal on a point of law only.	RLC
+The Court of Appeal (Lloyd, Etherton and Elias L.JJ) overruled the CAT and restored the decision of Ofcom.	RLC
+The leading judgment was given by Lloyd LJ, with whom both the other members of the Court agreed.	RLC
+In summary, Lloyd LJ rejected the CATs starting point.	RLC
+In the first place, he held that the tribunal had been wrong to treat BT as having a prima facie right to change its charges, which needed to be displaced.	RLC
+It had no more than a right to do so subject to the determination of Ofcom if the counterparty objected.	RLC
+Secondly, he held that they had been wrong to attach weight to their view that a restraint on BTs freedom to set its own charges would itself distort competition.	RLC
+Thirdly, he held that the CAT had been wrong to attach weight to the fact that BT, not having significant market power in a relevant market, was not subject to ex ante control of its prices on competition grounds.	RLC
+Having disposed of the three considerations that led the CAT to put the burden of justifying their objection to the new charges on the mobile network operators, Lloyd LJ held that it was for BT to justify its charges as being fair and reasonable.	RLC
+This, he thought, required them to establish positively that consumers would benefit by them, something which the inconclusive outcome of the welfare test made it impossible for them to do.	RLC
+The function of Ofcom in resolving disputes	Ratio
+Lloyd LJ attached considerable importance to the nature of the function which Ofcom is performing when it resolves disputes about charges under an interconnection agreement.	Ratio
+He considered (para 63) that dispute resolution is a form of regulation in its own right, to be applied in accordance with its own terms.	Ratio
+In his view, the terms of the Interconnection Agreement were of little if any relevance because their effect was that any new charges introduced by BT were liable to be overridden by Ofcom in the exercise of its regulatory powers.	Ratio
+This led him to regard interconnection charges as an essentially regulatory construct.	Ratio
+Much of the rest of his analysis follows from these premises.	Ratio
+Because Ofcoms determination of the dispute was a regulatory function, Lloyd LJ considered that the balancing of the various factors relevant to Principle 2 was a value judgment for it.	Ratio
+Since it was not shown to have erred in principle, its decision should be restored.	Ratio
+The dispute resolution functions of Ofcom have often been described as regulatory, notably by the CAT in T-Mobile (UK) Ltd v Office of Communications [2008] CAT 12.	Ratio
+It is unquestionably true that the dispute resolution functions of national regulatory authorities are part of the regulatory scheme, and that in exercising those functions the regulator is required by Article 20.3 of the Framework Directive to promote the overarching objectives set out in Article 8, just as it is required to do in exercising its other functions.	Ratio
+But the description of dispute resolution as a form of regulation in its own right is apt to mislead without some analysis of what is meant by it.	Ratio
+As a national regulatory authority charged with the resolution of disputes, Ofcom has both regulatory and adjudicatory powers.	STA
+Article 20.1 of the Framework Directive requires national regulatory authorities to have power to resolve disputes between CPs in connection with obligations arising under this Directive or the Specific Directives between undertakings.	STA
+Article 5.4 of the Access Directive requires national regulatory authorities to have a power of intervention in a dispute about access and interconnection in accordance with (inter alia) the procedures in Article 20 of the Framework Directive, in order to secure the policy objectives of Article 8 of the Framework Directive.	STA
+The combined effect of these provisions is that the dispute resolution function extends to disputes of different kinds.	STA
+A dispute may arise (i) under the existing interconnection terms, or (ii) because the parties have been unable to agree terms and one of them wants the regulator to impose them, or (iii) because there are binding terms but they do not satisfy (or no longer satisfy) Article 5.3 of the Access Directive or the policy objectives in Article 8 of the Framework Directive.	STA
+In case (i) it may perform an adjudicatory or a regulatory role or a combination of the two.	STA
+The existence side by side of both adjudicatory and regulatory functions follows from the scheme of the Directives, but is particularly clearly spelled out in section 190 of the Communications Act, which I have already quoted.	STA
+The section distinguishes between Ofcoms powers in the course of dispute resolution to declare the rights and obligations of the parties (section 190(2)(a)), to fix the terms of transactions between the parties (section 190(2)(b)) and to impose an obligation to enter into a transaction on terms fixed by Ofcom (section 190(2)(c)).	STA
+The first of these powers is plainly adjudicatory.	STA
+The second and third are regulatory.	STA
+As I have pointed out above, the scheme of the Directives depends critically on the agreed interconnection terms.	Ratio
+This is a feature of the scheme which is fundamental to its essentially permissive character.	Ratio
+It reflects the consistent emphasis in the Directives on respecting freely negotiated interconnection terms in a competitive market: see in particular Recital (5) of the Access Directive.	Ratio
+In the ordinary case, the interconnection terms will have been negotiated between the parties, within the constraints imposed by law, namely that the result must be consistent with the objectives in Article 8 of the Framework Agreement.	Ratio
+If, however, they were imposed or modified by Ofcom under Article 5.1, the effect is the same, namely to create a contract or something that will be treated as legally equivalent to a contract.	Ratio
+When Ofcom is resolving a dispute about a proposed variation of charges under an existing agreement, it is performing a mixture of adjudicatory and regulatory functions.	Ratio
+The terms of the interconnection agreement are the necessary starting point for this process.	Ratio
+If there is no contractual right to vary the charges, it is difficult to see how Ofcom can approve a variation unless it is necessary to achieve end-to-end connectivity (for example to enable operators to recover their efficient costs) or to achieve the Article 8 objectives.	Ratio
+If there is a contractual right to a variation, but the proposed variation is not consistent with the Article 8 objectives, Ofcom may reject the variation.	Ratio
+It may also modify any terms which created an entitlement inconsistent with the Article 8 objectives.	Ratio
+If there is a contractual right to a variation which is consistent with the Article 8 objectives, Ofcoms function when the right is challenged is to give effect to it.	Ratio
+The contractual effect of the interconnection terms will of course depend on their proper law, and in some respects this may vary from one member state to another.	Ratio
+But as far as the Article 8 objectives are concerned, there will be commonality between every member state because all of them have the same obligation to ensure that interconnection agreements are framed and applied in a manner consistent with those objectives, and the same obligation to require their national regulatory authorities to give effect to those objectives both in imposing or modifying terms and in resolving disputes about them.	Ratio
+Clause 12 of the Interconnection Agreement	Ratio
+Clauses 12.1 and 12.2 of BTs Standard Interconnect Agreement confer a power on BT unilaterally to fix or vary its charges.	Ratio
+Although the mobile network operators did argue in the CAT that their unilateral character was a reason why they should not be given weight, neither they nor Ofcom argued in the CAT that clause 12 should be modified.	Ratio
+The manner in which English law ensures that contractual effect is given to the Article 8 objectives is by treating BTs discretion under Clause 12 as limited.	PRE
+As a general rule, the scope of a contractual discretion will depend on the nature of the discretion and the construction of the language conferring it.	PRE
+But it is well established that in the absence of very clear language to the contrary, a contractual discretion must be exercised in good faith and not arbitrarily or capriciously: Abu Dhabi National Tanker Company Ltd v Product Star Shipping Ltd (No 2) [1993] 1 Lloyds Rep 397, 404 (Leggatt LJ); Gan Insurance Company Ltd v Tai Ping Insurance Company Ltd (No 2) [2001] 2 All ER (Comm) 299, para 67 (Mance LJ); Paragon Finance Plc v Nash [2002] 1 WLR 685, paras 39-41 (Dyson LJ).	PRE
+This will normally mean that it must be exercised consistently with its contractual purpose: Ludgate Insurance Company Ltd v Citibank NA [1998] Lloyds Rep (I&R) 221, para 35 (Brooke LJ); Equitable Life Assurance Society v Hyman [2002] 1 AC 408, 459 (Lord Steyn), 461 (Lord Cooke of Thorndon).	PRE
+Interconnection agreements are made in a regulated environment.	PRE
+The regulatory scheme may change, quite possibly after interconnection terms have been agreed (as it did in this case).	Ratio
+But the intention of the parties must be to comply with the scheme as it stands from time to time so far as the contract permits.	Ratio
+That intention necessarily informs the scope and operation of any contractual discretions.	Ratio
+In my opinion, it is entirely clear that the discretion conferred by clause 12 of the Standard Interconnect Agreement is limited by reference to the purposes set out in Article 8 of the Framework Directive.	Ratio
+It follows that contractually BT was entitled to set its own charges, but only within limits which are fixed by those objectives.	Ratio
+By virtue of clause 12.5, BTs power to set its own charges within those limits is subject to any order, direction, determination or consent of Ofcom.	Ratio
+But this does not mean that Ofcom can do what it likes.	Ratio
+It is bound to start from the parties contractual rights and may override them only if that is required by the Article 8 objectives.	Ratio
+However, under Clause 12 of the Interconnection Agreement, this is a conflict which cannot arise, because BT has no contractual right to require a price variation which is not consistent with the Article 8 objectives.	Ratio
+In this case, therefore, Ofcoms function was to determine whether BTs proposed charges exceeded the limits of its contractual discretion.	Ratio
+That depends on whether they were in fact consistent with the Article 8 objectives.	Ratio
+This is where the three principles applied by Ofcom, including the welfare test and the competition test, come in.	Ratio
+Clause 13 of the Interconnection Agreement	Ratio
+At this point, it is necessary to make a short excursion into Clause 13 of the Interconnection Agreement.	Ratio
+Whereas Clause 12 is concerned with charges for BT services, Clause 13 deals with charges payable by BT to the Operator for Operator services.	Ratio
+It provides by Clause 13.1 that the charges are to be those specified from time to time in the Carrier Price List.	Ratio
+The remainder of Clause 13 is concerned with variations to the Operators charges in the Carrier Price List proposed by the Operator.	Ratio
+But it works in a different way from the corresponding provisions of Clause 12 relating to variations proposed by BT.	Ratio
+In particular, there is no direct equivalent of Clause 12.2.	Ratio
+The Operator has no unilateral right to introduce a variation.	Ratio
+He must request one.	Ratio
+If the request is rejected by BT and the parties fail to agree upon a modified version of the proposed variation, the issue is referred to Ofcom.	Ratio
+Under Clause 13, the variation is not treated as provisionally valid pending a determination.	Ratio
+The Court of Appeal attached importance to these differences because it considered that the way in which Ofcom determined a dispute about pricing must be the same whether the issue arose under Clause 12 or Clause 13.	Ratio
+It drew attention to the fact that the bottom rung of BTs proposed 080 pricing ladder involved a payment by BT to the CP and might therefore be said to represent an Operator service, and that at the next rung up no payment was due either way, which made it difficult to say whether it represented an Operator service or a BT service.	Ratio
+It might, thought Lloyd LJ, be a matter of chance which clause applied.	Ratio
+He regarded this as a reason for treating BTs right to vary its charges under Clause 12.2 as being of very limited importance.	Ratio
+Mr Daniel Beard QC, who appeared for BT, declined to go into this question at all, and there was little argument upon it even after the Court called for further submissions on the point.	ARG
+In my opinion we need not enter into it either, because it is irrelevant.	Ratio
+Clause 12 is concerned with variations proposed by BT to charges for a BT service.	Ratio
+The fact a variation proposed by BT comprises a tariff in which some payments for the BT service are negative or nil while others are positive does not alter the character of the tariff as a scheme of charges for the BT service, or take it outside Clause 12.	Ratio
+The only variations before us are those proposed by BT under Clause 12.	Ratio
+We are not concerned with the effect of Clause 13.	Ratio
+There is no obvious reason why Ofcoms treatment of the two cases should necessarily be the same notwithstanding differences between the relevant contractual provisions.	Ratio
+I am therefore disinclined to attach much practical importance in the present case to the differences between them.	Ratio
+Difficult questions may arise in a case where the Article 8 objectives neither preclude nor require a variation and the relevant party has no contractual right to require one.	Ratio
+The resolution of those questions must await a case in which they arise.	Ratio
+The welfare test	Ratio
+Leaving aside Principle 3, which it is now common ground was satisfied, the sole basis on which Ofcom rejected the new charges was that the welfare test having been inconclusive, it had not been demonstrated that BTs new schedule of charges would produce consumer benefits.	Ratio
+In my opinion, this was wrong in principle, for substantially the reasons given by the CAT.	Ratio
+BT were contractually entitled to vary their charges unless the proposed variations were inconsistent with the Article 8 objectives, including the objective of ensuring consumer benefit in accordance with Article 8.2(a).	Ratio
+Ofcom have not found that they were inconsistent with those objectives.	Ratio
+They have found that they would produce direct and indirect consumer benefits of unquantifiable value, and that these benefits might or might not be exceeded by disbenefits arising from the attempts of mobile network operators to increase revenue in other directions.	Ratio
+The latter factor was found by the CAT to be essentially unknown.	Ratio
+In my opinion, it is not consistent with either the contract or the scheme of the Directives for Ofcom to reject charges simply because they might have adverse consequences for consumers, in the absence of any reason to think that they would.	Ratio
+It is not consistent with the contract because it prevents BT from exercising its discretion to alter its charges in circumstances where there is no reason to suppose, and Ofcom has not found, that the limits of that discretion have been exceeded.	Ratio
+It is inconsistent with the scheme of the Directives because it involves applying an extreme form of the precautionary principle to a dynamic and competitive market, in a manner which is at odds with the Directives market-oriented and essentially permissive approach.	Ratio
+Logically, given the inherent difficulty of forecasting the extent of any direct or indirect effects, and the practical impossibility of forecasting the mobile tariff package effect, it would rule out any increases in termination charges other than those justified by reference to underlying costs.	Ratio
+On this point, therefore, I think that the CAT were right and that the Court of Appeal were wrong to overturn them.	Ratio
+In its submissions on the appeal, Ofcom submitted that the degree of risk which is acceptable must be related to the gravity of the adverse effect if the risk materialises.	ARG
+It expressed concern that it should not, for example, be inhibited from blocking a price variation which on a balance of probabilities was unlikely to be adverse, but which if things went wrong would be catastrophic.	ARG
+I agree.	ARG
+This would be an example of a case where the existence of the risk was itself adverse to the interests protected by Article 8.	ARG
+But on the facts found by Ofcom and the CAT, we are a long way from that kind of situation in the present case.	ARG
+It is right to add that if and when sufficiently adverse effects were to materialise at some point in the future, Ofcom has power to intervene to address them at that stage.	ARG
+Anti-competitive effect of price control	Ratio
+The Court of Appeals second reason for thinking that it was for BT to demonstrate positively that there would be consumer benefits from the proposed changes to their charging structure was that they disagreed with the CATs emphasis on the anti-competitive effect of preventing the introduction of innovative charging structures.	Ratio
+The Court of Appeal did not suggest that it was economically mistaken.	Ratio
+But they considered that too much weight had been attached to it by the CAT.	Ratio
+In their view, this was a matter of regulatory policy.	Ratio
+Since Ofcom was the regulator and it was exercising a regulatory function in resolving the present dispute, the CAT should not have interfered with their conclusion unless Ofcom erred in principle.	Ratio
+The Court of Appeal thought that since the CAT substantially agreed with Ofcoms conclusion on the welfare test, there was no error of principle.	Ratio
+I think that in this respect also, the Court of Appeal was wrong.	Ratio
+In the first place, as I have explained, in resolving this particular dispute, Ofcom was not exercising a regulatory function, but resolving a dispute under the unchallenged terms of an existing agreement.	Ratio
+But the main problem about the Court of Appeals view is a more fundamental one.	Ratio
+According to the CATs analysis, the effect of not allowing BT to introduce innovative charging structures was itself anticompetitive because innovative pricing structures are an effective mode of competing.	Ratio
+This was clearly a relevant consideration, even if it was not a conclusive one: see Article 8.2(b) of the Framework Directive.	Ratio
+It was not a consideration taken into account by Ofcom.	Ratio
+Since the right to introduce the proposed pricing package brought benefits for competition, the mobile network operators should have to justify their demand that the package should be rejected by pointing to some countervailing detriments to consumers disclosed by the welfare test if it were to be accepted.	Ratio
+An inconclusive welfare test could not be enough for this purpose.	Ratio
+The CAT was hearing an appeal by way of rehearing on the merits.	Ratio
+Their conclusion about the anti-competitive effects of restricting price changes and the weight to be attached to it was a factual judgment which it was perfectly entitled to make.	Ratio
+It was, moreover, an economic judgment by an expert tribunal which had received a substantial amount of additional evidence, including economic evidence.	Ratio
+Since appeal lay to the Court of Appeal only on points of law, the CATs findings on the distortion of competition liable to result from the rejection of the new charging structure were not open to rejection on appeal.	Ratio
+Inappropriateness of restricting prices in the absence of significant market power	Ratio
+These considerations are enough to resolve the present dispute in favour of BT.	Ratio
+It is therefore unnecessary to consider the CATs third reason for requiring the mobile network operators to show a distinct disbenefit to consumers in order to justify rejecting a proposed change to interconnection charges.	Ratio
+This was that the rejection of BTs proposed charges amounted to imposing price control on an entity such as BT which had not been designated as having significant market power in a relevant market.	Ratio
+This, it was argued, was wrong in principle because there was no power under the Directives and the Act to regulate the prices of a firm without such power.	Ratio
+BT put this point at the forefront of their submissions.	Ratio
+For reasons which were never entirely clear but may have to do with their commercial and regulatory strategies, they were anxious to avoid relying on BTs rights under the Interconnection Agreements or adopting those parts of the CATs reasoning which were based on them, and instead sought to obtain a ruling that the Common Regulatory Framework can never authorise Ofcom to reject a price variation unless it would leave an efficient operator unable to cover its costs.	Ratio
+I will only say that as at present advised I am not convinced by this.	Ratio
+It seems to me to be irrelevant to the question on which this appeal turns, namely whether BT must positively demonstrate consumer benefit if they are to justify their proposed charges.	Ratio
+Moreover, the fact that BT does not have significant market power in a relevant market does not mean that the promotion of competition, which is included among the Article 8 objectives, is irrelevant to a dispute about charges.	Ratio
+It only means that Ofcom may not exercise its regulatory power to control prices.	Ratio
+Ofcom has not purported to do this.	Ratio
+There is an important difference between (i) exercising a regulatory power to impose price control in order to correct market failure or control the abuse of a dominant economic position, and (ii) deciding whether a particular proposed tariff change advances consumer welfare for the purpose of determining whether there is a right to introduce it.	Ratio
+A hypothetical alternative analysis	Ratio
+It will be apparent that I do not accept the basic conceptual framework within which the Court of Appeal reviewed these questions.	Ratio
+It is, however right, in view of the way that the argument went and in the light of suggestions that there should be a reference to the Court of Justice of the European Union, to point out that the result would have been the same even if Lloyd LJ had been right to regard Ofcoms dispute resolution functions as purely regulatory and the interconnection terms as being unimportant.	Ratio
+The whole scheme of the Directives is to leave the arrangements for interconnection to the parties unless there are grounds for regulatory intervention.	Ratio
+The permissible grounds of regulatory intervention in the case of a CP without significant market power are that the interconnection terms have been framed or are being operated in a manner which is inconsistent with end-to-end connectivity or conflicts with the Article 8 objectives.	Ratio
+If the result of the welfare test and the competition test is that there is no positive reason to believe that the effects will be adverse, there is no justification for regulatory intervention.	Ratio
+Reference to the Court of Justice of the European Union	Ratio
+If this appeal turned on the point about the absence of significant market power which BT put at the forefront of their submissions (see paragraphs 47-8 above), it would in my view have been appropriate to refer that point to the CJEU before determining it.	Ratio
+As it is, I would decide the appeal on less controversial grounds, and I do not consider that a reference is appropriate.	Ratio
+The recognition that the interconnection terms are the starting point does not itself warrant a reference, since the centrality of the interconnection terms in the scheme of the Directives is obvious and no convincing reason has been put forward by any of the parties or interveners for ignoring them.	Ratio
+In any event, for the reasons that I have given, the outcome would be the same even on a purely regulatory analysis.	Ratio
+Leaving aside Mr Beards argument about the absence of significant market power, there is no dispute about the Article 8 criteria themselves.	Ratio
+Ultimately, the problem which the Respondents have faced on this appeal is that the CATs economic analysis of the facts was that there was no reason to anticipate a net adverse effect engaging that Article.	Ratio
+Conclusion	RPC
+In my opinion there was no justification for the Court of Appeal to set aside the careful analysis of the CAT on a matter lying very much within its expertise.	RPC
+I would accordingly allow this appeal.	RPC
+Counsel will be invited to make written submissions on the form of order unless this can be agreed.	RPC
+In my opinion there was no justification for the Court of Appeal to set aside the careful analysis of the CAT on a matter lying very much within its expertise.	RPC
+I would accordingly allow this appeal.	RPC
+Counsel will be invited to make written submissions on the form of order unless this can be agreed.	RPC

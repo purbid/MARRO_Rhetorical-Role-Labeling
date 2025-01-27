@@ -1,0 +1,484 @@
+The ability of asylum seekers who make unsuccessful claims to be allowed to remain to discover further reasons why they should not be removed from the country where they seek refuge is an inescapable feature of any system that is put in place to meet a States obligations under the Geneva Convention on the Status of Refugees and article 3 of the European Convention on Human Rights.	FAC
+The opportunity for further reasons to be put forward is enhanced by the fact that a series of decisions may need to be taken before a persons immigration status is resolved.	FAC
+Various measures have been put in place by the United Kingdom to deal with this phenomenon.	FAC
+Some of these measures are to be found in the Immigration Rules, and on occasion the meaning that is to be given to them is the subject of controversy: see ZT (Kosovo) v Secretary of State for the Home Department [2009] UKHL 6, [2009] 1 WLR 348.	FAC
+In this case however we are concerned with meaning and effect of the statute.	STA
+The relevant provisions are to be found in Part 5 of the Nationality, Immigration and Asylum Act 2002, which deals with immigration and asylum appeals.	STA
+The question is whether the expression an asylum claim, or a human rights claim in section 92(4)(a) of the 2002 Act includes any second or subsequent claim that the asylum seeker may make, or only a second or subsequent claim which has been accepted as a fresh claim by the Secretary of State under rule 353 of the Immigration Rules.	Ratio
+The facts	FAC
+The first respondent BA is a citizen of Nigeria.	FAC
+He is married to a British citizen, by whom he has four children.	FAC
+He entered the United Kingdom in 1988 as a visitor.	FAC
+Initially he was given six months leave to enter.	FAC
+Later he was granted leave to remain as a student until the end of August 1991.	FAC
+He was granted indefinite leave to remain on 25 May 1994 on the basis of his marriage.	FAC
+On 20 May 2005, however, he was served with a decision by the Secretary of State that he was to be deported following his release on licence from a 10 year sentence of imprisonment for conspiracy to import class A drugs.	FAC
+His appeal against this decision to the asylum and immigration tribunal on human rights grounds failed.	FAC
+On 25 May 2007 he was served with a deportation order.	FAC
+On 25 June 2007 and 8 August 2007 further submissions were made on his behalf as to why he should not be deported.	FAC
+The Secretary of State agreed to consider his reasons for seeking revocation of the deportation order, but she declined to revoke it.	FAC
+Directions were then given for him to be removed from this country on 29 December 2007.	FAC
+The respondent PE is a citizen of Cameroon.	FAC
+He entered the United Kingdom clandestinely in August 2004.	FAC
+On 19 May 2005 he applied for asylum.	FAC
+The Secretary of State refused his application on 5 July 2005.	FAC
+On 9 July 2005 it was decided that directions were to be given for his removal to Cameroon.	FAC
+He did not appeal against this decision.	FAC
+Before it was put into effect however he was sentenced to twelve months imprisonment for having a forged passport and using it to obtain work, to which he had pleaded guilty.	FAC
+As a result of this conviction the Secretary of State decided to make a deportation order against him.	FAC
+He appealed against this decision on asylum and human rights grounds, but his appeal was dismissed.	FAC
+The deportation order was signed, and it was served on him on 10 January 2007.	FAC
+On various dates thereafter his representatives made written representations on his behalf for the decision to be reconsidered.	FAC
+They claimed that he had been and would be persecuted in Cameroon on account of his homosexuality.	FAC
+The Secretary of State declined to reconsider her decision, as in her view his further representations did not amount to a fresh claim within the meaning of rule 353 of the Immigration Rules.	FAC
+He appealed to the tribunal against the Secretary of States refusal to revoke her decision to make the order.	FAC
+The tribunal held that this decision was not an appealable decision.	FAC
+On 27 December 2007 BA applied for judicial review of the directions for his removal.	FAC
+He contended that he had a further in-country right of appeal.	FAC
+It was no part of his case that his further representations amounted to a fresh claim under rule 353 of the Immigration Rules.	FAC
+PE had already applied for judicial review of the decisions that had been made against him.	FAC
+He claimed that he had a right of appeal against a refusal to revoke the deportation order, that this right was exercisable in-country and that in any event the representations amounted to a fresh claim under rule 353.	FAC
+Permission was given in each case, and the applications were heard together by Blake J: [2008] EWHC 1140 (Admin); [2008] 4 All ER 798.	FAC
+The judge held that what determined whether there was an in- country right of appeal was whether or not the Secretary of State was satisfied under rule 353 there was a fresh claim: para 62.	RLC
+In his opinion neither claimant had an in-country right of appeal simply by virtue of having made a protection claim or having made fresh representations supported by different material: para 74.	RLC
+In PEs case he quashed the decision that his was not a fresh claim and remitted it for redetermination by the Secretary of State.	RLC
+He said that if the Secretary of State were to conclude that the claim is a fresh one but it was still refused, PE would have access to a right of appeal in-country before removal.	RLC
+But if it was not a fresh claim, his right to appeal would have to be exercised from abroad.	RLC
+As Sedley LJ observed in the Court of Appeal, this conclusion raises the same issue as that raised by BAs appeal: [2009] EWCA Civ 119; [2009] 2 WLR 1370, para 4.	RLC
+Rule 353 of the Immigration Rules, on which the Secretary of State relies, is headed Fresh claims.	STA
+It provides: 353.	STA
+When a human rights or asylum claim has been refused and any appeal relating to that claim is no longer pending, the decision maker will consider any further submissions and, if rejected, will then determine whether they amount to a fresh claim.	STA
+The submissions will amount to a fresh claim if they are significantly different from the material that has previously been considered.	STA
+The submissions will only be significantly different if the content: (i) had not already been considered; and (ii) taken together with the previously considered material, created a realistic prospect of success, notwithstanding its rejection.	STA
+Rule 353A, which needs to be read together with rule 353 to complete the picture, provides: 353A. Consideration of further submissions shall be subject to the procedures set out in these Rules.	STA
+An applicant who has made further submissions shall not be removed before the Secretary of State has considered the submissions under paragraph 353 or otherwise.	STA
+This paragraph does not apply to submissions made overseas.	Ratio
+The 2002 Act	STA
+This Act was passed in the light of strong pressure to streamline appeals against immigration decisions in the light of objections that were taken to the large number of repeat claims.	STA
+Part 5 of the Act provides a general right of appeal against an immigration decision to an adjudicator: section 82(1).	STA
+The expression immigration decision is defined in section 82(2).	STA
+It includes, among other things, a decision that a person is to be removed from the United Kingdom who is here unlawfully, a decision to make a deportation order under section 5(1) of the Act and a refusal to revoke a deportation order under section 5(2): sections 82(2)(g), (j) and (k).	STA
+Having defined this expression, the statute proceeds to lay down an elaborate system for the handling of appeals.	STA
+Section 84(1) provides that an appeal under section 82(1) against an immigration decision must be brought under one or more of the grounds specified in that subsection.	STA
+They include the following ground, with a view to ensuring that the United Kingdom complies with its international obligations: (g) that removal of the appellant from the United Kingdom in consequence of the immigration decision would breach the United Kingdoms obligations under the Refugee Convention or would be unlawful under section 6 of the Human Rights Act 1998 as being incompatible with the appellants Convention rights.	STA
+This is the ground on which both BA and PE rely.	STA
+Section 92, as amended, provides: (1) A person may not appeal under section 82(1) while he is in the United Kingdom unless his appeal is of a kind to which this section applies.	STA
+(2) This section applies to an appeal against an immigration decision of a kind specified in section 82(2)(c), (d),(e), (f) . . .	STA
+and (j).	STA
+(3) This section also applies to an appeal against refusal of leave to enter the United Kingdom if (a) at the time of the refusal the appellant is in the United Kingdom, and (b) on his arrival in the United Kingdom the appellant had entry clearance.	STA
+(4) This section also applies to an appeal against an immigration decision if the appellant (a) has made an asylum claim, or a human rights claim, while in the United Kingdom, or (b) is an EEA national or a member of the family of an EEA national and makes a claim to the Secretary of State that the decision breaches the appellants rights under the Community Treaties in respect of entry to or residence in the United Kingdom.	STA
+The respondents case is that section 92(4)(a) confers a suspensive in-country right of appeal unless the appeal has been certified under either section 94 or section 96 of the 2002 Act.	FAC
+It is suspensive because it suspends the operation of the immigration decision appealed against until the appeal has been disposed of.	FAC
+Section 94 excludes appeals in asylum and human rights cases if the Secretary of State certifies that they are clearly unfounded.	STA
+The relevant subsections, as amended, provide as follows: (1) This section applies to an appeal under section 82(1) where the appellant has made an asylum claim or a human rights claim (or both).	STA
+(2) A person may not bring an appeal to which this section applies in reliance on section 92(4)(a) if the Secretary of State certifies that the claim or claims mentioned in subsection (1) is or are clearly unfounded.	STA
+(9) Where a person in relation to whom a certificate is issued under this section subsequently brings an appeal under section 82(1) while outside the United Kingdom, the appeal shall be considered as if he had not been removed from the United Kingdom.	STA
+Section 96 removes the right of appeal altogether if the Secretary of State or an immigration officer certifies that the person has dealt with, or ought to have dealt with, the issue in an earlier appeal.	STA
+The relevant subsections of section 96, as amended, are in these terms: (1) An appeal under section 82(1) against an immigration decision (the new decision) in respect of a person may not be brought if the Secretary of State or an immigration officer certifies (a) that the person was notified of a right of appeal under that section against another immigration decision (the old decision) (whether or not an appeal was brought and whether or not any appeal brought has been determined), (b) that the claim or application to which the new decision relates relies on a matter that could have been raised in an appeal against the old decision, and (c) that, in the opinion of the Secretary of State or the immigration officer, there is no satisfactory reason for that matter not having been raised in an appeal against the old decision.	STA
+(2) An appeal under section 82(1) against an immigration decision (the new decision) in respect of a person may not be brought if the Secretary of State or an immigration officer certifies (a) that the person received a notice under section 120 by virtue of an application other than that to which the new decision relates or by virtue of a decision other than the new decision, (b) that the new decision relates to an application or claim which relies on a matter that should have been, but has not been, raised in a statement made in response to that notice, and (c) that, in the opinion of the Secretary of State or the immigration officer, there is no satisfactory reason for that matter not having been raised in a statement made in response to that notice.	STA
+The expressions asylum claim and human rights claim are each defined in section 113(1).	STA
+It provides: In this Part, unless a contrary intention appears asylum claim means a claim made by a person to the Secretary of State at a place designated by the Secretary of State that to remove the person from or to require him to leave the United Kingdom would breach the United Kingdoms obligations under the Refugee Convention, human rights claim means a claim made by a person to the Secretary of State at a place designated by the Secretary of State that to remove the person from or to require him to leave the United Kingdom would be unlawful under section 6 of the Human Rights Act 1998 (c. 42) (public authority not to act contrary to Convention) as being incompatible with his Convention rights Section 12 of the Immigration, Asylum and Nationality Act 2006 amends those definitions prospectively by adding in each case a provision that the expression: does not include a claim which, having regard to a former claim, falls to be disregarded for the purposes of this Part in accordance with the immigration rules.	STA
+As Sedley LJ observed in the Court of Appeal, under this amended formula a claim in any case where an earlier challenge to removal has been made and failed will only rank as an asylum claim or a human rights claim if it is a fresh claim under rule 353: [2009] 2 WLR 1370, para 27.	STA
+The amendment has not yet been brought into force, as the entire system of immigration law is now under review.	STA
+A Green Paper containing proposals to simplify the law was published in February 2008, and it is expected that a Bill to simplify the law will be published towards the end of this year.	STA
+No certificates under either section 94 or section 96 have been issued to the respondent in either case.	Ratio
+They maintain that in these circumstances they are entitled to have their appeals heard in-country under section 92(4)(a), and that they cannot be removed from the United Kingdom until their appeals have been dealt with.	Ratio
+The Secretary of States contention is that an appeal against an immigration decision is available only out of country where, as in BAs case, the further representations have not been advanced as a fresh claim or, as in PEs case, have not been accepted as such by the Secretary of State.	Ratio
+He maintains that their appeals must now be pursued out of country.	Ratio
+If so, there is now no obstacle to the respondents being deported in accordance with the deportation orders that have been served on them.	Ratio
+The competing arguments in more detail	ARG
+For the Secretary of State Miss Laing QC did not dispute that a right of appeal arises under section 82(1) when a decision that is an immigration decision is taken.	ARG
+Nor does she dispute that the Secretary of States refusal in these cases not to revoke the deportation orders were immigration decisions within the meaning of section 82(2)(k) of the 2002 Act.	ARG
+What was in issue was whether the right of appeal against those decisions was to be exercised from within the United Kingdom.	Ratio
+Her submission was that the words an asylum claim, or a human rights claim in section 92(4)(a) mean a first asylum or human rights claim or a second or subsequent asylum or human rights claim which has been accepted as a fresh claim under rule 353 of the Immigration Rules.	ARG
+She acknowledged that this was not the literal meaning of this provision, as the definitions of these expressions made no reference to the fact that the claims to which they referred had to be a first or a fresh claim.	ARG
+But she said that they had to be construed in the context of the scheme of the statute as a whole, and that they had to be read in the way she suggested to avoid an absurdity.	ARG
+She submitted that the authorities also showed that they had to be read subject to this qualification.	ARG
+She based this submission on two decisions of the Court of Appeal: Cakabay v Secretary of State for the Home Department (Nos 2 and 3) [1999] Imm AR 176 and R v Secretary of State for the Home Department, ex p Onibiyo [1996] QB 768.	ARG
+In each of these cases observations were made about the treatment of repeat claims for asylum in the context of the provisions of the Asylum and Immigration Appeals Act 1993.	ARG
+In Cakabay v Secretary of State for the Home Department (Nos 2 and 3) [1999] Imm AR 176, 180-181, Schiemann LJ said: The statute makes no express provision as to what is to be done in the case of repeated claims for asylum by the same person.	PRE
+The second claim may be identical to the first (a repetitious claim) or may be different (a fresh claim).	PRE
+It is common ground that a fresh claim attracts all the substantive and procedural consequences of an initial claim whereas a repetitious claim does not.	PRE
+In the case of a repetitious claim no more is required to be done: the first decision has ensured that the United Kingdom has complied with its obligations under the Convention.	PRE
+Section 6 of the 1993 Act creates no inhibition on the claimants removal: the Secretary of State has on the occasion of his decision on the first claim decided the repetitious claim.	PRE
+So far as the decision on the claimants repetitious application for leave to enter is concerned, the claimant will be told that leave has already been refused and that there is no need for any new decision.	PRE
+In R v Secretary of State for the Home Department, ex p Onibiyo [1996] QB 768 the court had to consider whether, as a matter of law, a person might make more than one claim for asylum within the meaning of section 6 of the 1993 Act during a single uninterrupted stay in the United Kingdom.	PRE
+The Secretary of State argued that, once a person had made a claim for asylum, had had that claim refused and had unsuccessfully exercised his rights of appeal under section 9 of that Act, his legal rights were exhausted.	PRE
+There could be no further claim for asylum unless the claimant left the United Kingdom and returned before making a fresh application.	PRE
+At p 781 Sir Thomas Bingham MR rejected that argument.	PRE
+He said that it would undermine the beneficial object of the Convention if the making of an unsuccessful application for asylum were to be treated as modifying the obligation of the United Kingdom or depriving a person of the right to make a fresh claim for asylum.	PRE
+He then discussed what constituted a fresh claim.	PRE
+At pp 783-784 he said that the acid test must always be whether, comparing the new claim with that which had been rejected, and excluding material on which the claimant could reasonably be expected to rely in the earlier claim, the new claim was sufficiently different from the earlier claim to admit of a realistic prospect that a favourable view could be taken of the new claim despite the unfavourable conclusion reached on the earlier claim.	PRE
+Miss Laing said that the same approach should be taken to the words used in section 92(4)(a) of the 2002 Act.	ARG
+She submitted that the intention of Parliament when enacting this provision had to be derived from the context, the legislative history and the requirements of the international instruments.	ARG
+The essential features of the 2002 Act remained the same as those in the 1993 Act.	ARG
+It was to be assumed that where the same words were used they were intended to have the same meaning.	ARG
+It was implicit in the approach that was taken in Ex p Onibiyo that the Convention did not require protection against removal if all that the further representations were doing was to repeat an earlier claim which had been considered and rejected on appeal.	ARG
+What the international instruments required was compliance, not redundancy.	ARG
+It was only a fresh claim that would be an obstacle to the claimants removal, by converting what would otherwise be an out of country appeal into an appeal that must be dealt with in-country.	ARG
+As for the prospective amendment of section 113, she said that it did two things.	ARG
+It removed the requirement that a claim be made at a place designated by the Secretary of State.	ARG
+And it clarified what section 113 should be taken to have meant on enactment.	ARG
+In the words of the Explanatory Notes, its purpose is to clarify that further submissions which follow the refusal of an asylum or human rights claim but which do not amount to a fresh claim will not carry a further right of appeal.	ARG
+But it was of no assistance in resolving the argument either way as to the meaning of the definitions in their current form.	ARG
+Lloyd LJ was right when he said in the Court of Appeal that the amendment should be ignored: [2009] 2 WLR 1370, para 35.	ARG
+Mr Husain too submitted that the meaning of the words used in section 94(2)(a) must be understood from their context.	ARG
+But he said that the context was markedly different from that in the 1993 Act.	ARG
+There was now a series of statutory provisions against abuse which were not to be found in the earlier legislation.	ARG
+It was those provisions, and not those instituted under the Immigration Rules by the executive, that should be used if it was thought that the appeals should not be dealt with in-country.	ARG
+The Secretary of States approach rendered the new provisions otiose and unworkable in the case of second claims.	ARG
+For example, Parliament had provided by section 84(1)(g) that an appeal against an immigration decision might be taken on the ground that the persons removal from the United Kingdom would breach the States obligations under the Refugee Convention.	ARG
+Section 84(1)(c) dealt with the situation where it was contended that the decision was unlawful under section 6 of the Human Rights Act 1998.	ARG
+But the rights conferred by the European Convention on Human Rights were, in various respects, not the same: JM v Secretary of State for the Home Department [2006] EWCA Civ 1402; [2007] Imm AR 293, para 27, per Laws LJ.	ARG
+If the Secretary of State was right that the appeal could only be taken in-country if it was certified under rule 353, the person would be forced to take his appeal out of country even although it was on grounds referred to in section 84(1)(g), which could be different from those advanced at an earlier stage under section 84(1)(c).	ARG
+As he would be without a certificate under section 94, he would be deprived of the benefit of section 94(9).	ARG
+As for what was said in R v Secretary of State for the Home Department, ex p Onibiyo, Mr Husain said that it was not the only relevant authority.	ARG
+Prior to the enactment of the 2002 Act there were two other important decisions to which reference should be made.	ARG
+In R (Kariharan) v Secretary of State for the Home Department [2002] EWCA Civ 1102, [2003] QB 933, reference was made to the one-stop procedure that was introduced by sections 74-77 of the Immigration and Asylum Act 1999 and to section 73 of that Act, which enabled the Secretary of State to certify that a claim that a decision of a decision-maker was in breach of the appellants human rights could reasonably have been made earlier, the effect of which was that the appeal was to be treated as finally determined: see Auld LJ, para 30.	ARG
+In para 36 Sedley LJ said that those provisions gave ample powers to the Secretary of State to dispose summarily of repetitive and abusive appeals.	ARG
+In R v Secretary of State for the Home Department, ex p Saleem [2001] 1 WLR 443, 449, Roche LJ accepted that the right of appeal to an independent appellate body was a fundamental or basic right akin to the right of unimpeded access to a court, an infringement of which must be either expressly authorised by or arise by necessary implication from an Act of Parliament.	ARG
+Furthermore the approach that was taken in R v Secretary of State for the Home Department, ex p Onibiyo to the problem of repeat claims was imprecise and had been rendered unnecessary by the current legislation.	Ratio
+In that case, as Sir Thomas Bingham MR recorded at p 783, counsel for the applicant, Mr Blake QC, as he then was, had conceded that that a fresh claim for asylum could not be made by advancing, even with some elaboration or addition, a claim already made or by relying on evidence available to the applicant but not advanced at the time of an earlier claim.	Ratio
+A similar concession was made in Manvinder Singh v Secretary of State for the Home Department [1995] EWCA Civ 53, where Stuart-Smith LJ noted that in his skeleton argument Mr Blake QC had accepted that Parliament could not have intended removal to be indefinitely deferred pending successive identical appeals.	Ratio
+The observations in Ex p Onibiyo had been inspired by the possibility of abuse.	Ratio
+The contours of the legislation had now changed.	Ratio
+The opportunity to resolve the issue by bringing the amendment of the definitions in section 113 into force had not been taken.	Ratio
+It was difficult to understand why, if its purpose was simply to clarify, it had not been brought into force.	Ratio
+As it was, the legislation had to be taken as it stood without regard to what may have been contemplated by the amendment.	Ratio
+Discussion	Ratio
+I have set out the competing arguments at some length, partly out of respect for the excellent submissions that were advanced by counsel on either side in the Chamber of the House of Lords on the occasion of the last sitting of the House in its judicial capacity, and partly because they demonstrate very clearly the essence of the issue that we must decide.	Ratio
+Miss Laing invites us to follow Sir Thomas Bingham MRs analysis of the problem in R v Secretary of State for the Home Department, ex p Onibiyo, to hold that the words an asylum claim, or a human rights claim in section 92(4)(a) of the 2002 Act mean a first asylum or human rights claim or a second or subsequent claim which has been accepted by the Secretary of State as a fresh claim, and that the procedure for determining whether or not a second or subsequent claim is a fresh claim is to be found in rule 353 of the Immigration Rules.	Ratio
+Mr Husain on the other hand invites us to examine those words in the context of the current legislation read as a whole, taking full account of the progress of thinking since Ex p Onibiyo as to how the problem of repeat claims should be addressed.	Ratio
+He submits that there is no justification, in the light of the provisions for dealing with repeat claims that the 2002 Act contains, for enlarging upon the plain words of the statute.	Ratio
+The strength of Miss Laings argument lies in the fact that the definition of the phrase claim for asylum has remained, in substance, the same since its first appearance in section 1 of the 1993 Act where it was said to mean a claim made by a person (whether before or after the coming into force of this section) that it would be contrary to the United Kingdoms obligations under the Convention for him to be removed from, or required to leave, the United Kingdom.	Ratio
+The Convention there referred to was, of course, the Refugee Convention.	Ratio
+The definition in section 167 of the 1999 Act was in substantially the same terms.	Ratio
+Section 113 of the 2002 Act varies the language a little bit, because it calls this kind of claim an asylum claim, introduces a requirement for it to be made at a place designated by the Secretary of State (no such place has been designated) and adds a definition in almost identical terms of a human rights claim.	Ratio
+The relevant phrase throughout is a claim.	Ratio
+In R v Secretary of State for the Home Department, ex p Onibiyo the Secretary of States argument that once there had been a claim for asylum and one appeal there could be no further claim for asylum unless the claimant had left the United Kingdom and returned before making the fresh application was rejected.	PRE
+It was held that there could be a fresh claim for asylum with the same consequences as to the right of appeal as follow on the refusal of an initial claim, provided that the Secretary of State recognised the fresh claim as a claim for asylum.	PRE
+If one looks no further and applies what Bennion on Statutory Interpretation (5th ed, 2008), section 201 and Part XIV described as the informed interpretation rule, there is plainly much to be said for the view that the definitions that are set out in section 113 of the 2002 Act should be read in the same way.	Ratio
+The procedure for determining whether a repeat claim is or is not a fresh claim is set out in rule 353 of the Immigration Rules, the effect of which I attempted to explain in Z T (Kosovo) v Secretary of State for the Home Department [2009] 1 WLR 348, para 33.	Ratio
+It is a short step to conclude that a repeat claim which is not held under rule 353 to be a fresh claim falls to be disregarded as an asylum claim, or a human rights claim for the purposes of section 92(4)(a).	Ratio
+Like Lloyd LJ, I would not draw an inference either way from the amendment of section 113 by section 12 of the 2006 Act as it is not yet in force.	Ratio
+It is an elementary principle, however, that the words of a statute should be construed in the context of the scheme of the statute as a whole.	Ratio
+And it is plain that the scheme of the 2002 Act is not the same as that of the 1993 Act to which Sir Thomas Bingham MR addressed himself in Ex p Onibiyo.	Ratio
+The problem to which he addressed himself was created by the absence of any provision in the statute to prevent abuse.	Ratio
+The question was how that gap might best be filled, having regard to the fact that the blunt solution that was proposed by the Secretary of State would, as the Master of the Rolls pointed out at p 781, undermine the beneficial object of the Convention and the measures giving effect to it in this country.	Ratio
+Parliament might, of course, have stood still and left the matter to be dealt with under the Immigration Rules.	Ratio
+But it has not stood still.	Ratio
+The experience of the intervening years has been taken into account.	Ratio
+First, there were the provisions against abuse in sections 73 to 77 of the 1999 Act.	Ratio
+Now there is a set of entirely new provisions in the 2002 Act.	Ratio
+As Lord Hoffmann said in A v Hoare [2008] UKHL 6, [2008] 1 AC 844, para 15, while there is a good deal of authority for having regard in the construction of a statute to the way a word or phrase has been construed by the court in earlier statutes, the value of such previous interpretation as a guide to construction will vary with the circumstances.	PRE
+In this case the phrase in question has remained, in essence, unchanged.	PRE
+But the system in which it must be made to work is very different.	PRE
+This is a factor to which full weight must be given.	PRE
+The new system contains a range of powers that enable the Secretary of State or, as the case may be, an immigration officer to deal with the problem of repeat claims.	Ratio
+The Secretary of States power in section 94(2) of the 2002 Act to certify that a claim is clearly unfounded, if exercised, has the effect that the person may not bring his appeal in-country in reliance on section 92(4).	Ratio
+The power in section 96 enables the Secretary of State or an immigration officer to certify that a person who is subject to a new immigration decision has raised an issue which has been dealt with, or ought to have been dealt with, in an earlier appeal against a previous immigration decision, which has the effect that the person will have no right of appeal against the new decision.	Ratio
+It is common ground that the present cases are not certifiable under either of these two sections.	Ratio
+Why then should they be subjected to a further requirement which is not mentioned anywhere in the 2002 Act? It can only be read into the Act by, as Sedley LJ in the Court of Appeal put it, glossing the meaning of the words aclaim so as to exclude a further claim which has not been held under rule 353 to be a fresh claim: [2009] 2 WLR 1370, paras 20, 30.	Ratio
+The court had to do this in Ex p Onibiyo.	Ratio
+But there is no need to do this now.	Ratio
+It is not just that there is no need now to read those words into the statute.	Ratio
+As Mr Husain pointed out, the two systems for excluding repeat claims are not compatible.	Ratio
+Take the system that section 94 lays down for dealing with claims that the Secretary of State considers to be clearly unfounded.	Ratio
+If he issues a certificate to that effect, the appeal must be pursued out of country.	Ratio
+But the claimant will have the benefit of section 94(9), which provides that where a person in relation to whom a certificate under that section subsequently brings an appeal under section 82(1) while outside the United Kingdom the appeal will be considered as if he had not been removed from the United Kingdom.	Ratio
+He will have the benefit too of the passage in parenthesis in section 95, which provides: A person who is outside the United Kingdom may not appeal under section 82(1) on the ground specified in section 84(1)(g) (except in a case to which section 94(9) applies).	Ratio
+If Miss Laing is right, the effect of a decision by the Secretary of State that the representations that a person makes against an immigration decision of the kind mentioned in section 82(1)(k) a refusal to revoke a deportation order is not a fresh claim will be that an appeal against that decision must be brought out of country.	Ratio
+But the interpretative route by which she reaches that position does not save that person from the exclusionary rule in section 95, unless which has not been done in these cases the claims are also certified under section 94(2) as clearly unfounded.	Ratio
+The ground of appeal referred to in section 84(1)(g) has been designed to honour the international obligations of the United Kingdom.	Ratio
+To exclude claims which the Secretary of State considers not to be fresh claims from this ground of appeal, when claims which he certifies as clearly unfounded are given the benefit of it, can serve no good purpose.	Ratio
+On the contrary, it risks undermining the beneficial objects of the Refugee Convention which the court in Onibiyo, under a legislative system which had no equivalent to section 95, was careful to avoid.	Ratio
+In my opinion Lloyd LJ in the Court of Appeal was right to attach importance to this point: [2009] 2 WLR 1370, paras 39-40.	Ratio
+As he said, the development of the legislative provisions and the powers given to the Secretary of State to limit the scope for in country appeals deprive Miss Laings submissions of the foundation which they need.	Ratio
+There is obviously a balance to be struck.	Ratio
+The immigration appeals system must not be burdened with worthless repeat claims.	Ratio
+On the other hand, procedures that are put in place to address this problem must respect the United Kingdoms international obligations.	Ratio
+That is what the legislative scheme does, when section 95 is read together with section 94(9).	Ratio
+It preserves the right to maintain in an out of country appeal that the decision in question has breached international obligations.	Ratio
+I would hold that claims which are not certified under section 94 or excluded under section 96, if rejected, should be allowed to proceed to appeal in-country under sections 82 and 92, whether or not they are accepted by the Secretary of State as fresh claims.	Ratio
+There is no doubt, as I indicated in Z T (Kosovo) v Secretary of State for the Home Department [2009] 1 WLR 348, para 33, that rule 353 was drafted on the assumption that a claimant who made further submissions would be at risk of being removed or required to leave immediately if he does not have a fresh claim.	Ratio
+That was indeed the case when this rule was originally drafted, as there was no equivalent of section 92(4) of the 2002 Act.	Ratio
+But Mr Husains analysis has persuaded me that the legislative scheme that Parliament has now put in place does not have that effect.	Ratio
+Its carefully interlocking provisions, when read as a whole, set out the complete code for dealing with repeat claims.	Ratio
+Rule 353, as presently drafted, has no part to play in the legislative scheme.	Ratio
+As an expression of the will of Parliament, it must take priority over the rules formulated by the executive.	Ratio
+Rule 353A on the other hand remains in place as necessary protection against premature removal until the further submissions have been considered by the Secretary of State.	Ratio
+Conclusion	RPC
+I would dismiss these appeals and affirm the orders made by the Court of Appeal.	RPC
+I have had the advantage of reading in draft the judgment of Lord Hope and am persuaded that for the reasons he has given these appeals should be dismissed.	RPC
+I am in full agreement also with the comments made by Lord Brown whose judgment I have also had the advantage of reading in draft.	RPC
+I agree with the judgment of Lord Hope and with the additional observations of Lord Brown.	RPC
+The submission for the Home Secretary that the expression an asylum claim in section 92(4)(a) of the Nationality, Immigration and Asylum Act 2002 should be given the same meaning as Sir Thomas Bingham gave to the expression a claim for asylum in section 6 of the Asylum and Immigration Appeals Act 1993 is at first sight compelling.	Ratio
+Certainly, the change in the form of the expression is irrelevant.	Ratio
+The contexts within which the two expressions have to be interpreted are, however, relevant.	Ratio
+And, as Lord Hope explains, they are significantly different, since the 2002 Act contains a new scheme for dealing with abusive claims.	Ratio
+Given that new scheme, there is no longer the same need to adopt the former interpretation and, indeed, the one now adopted fits the new context better.	Ratio
+I am afraid that I have reached a different conclusion from the other members of the Court.	Ratio
+There is no need to explain my views in detail as it will make no difference to the result.	Ratio
+We are concerned with the meaning of the word claim in section 92(4)(a) of the Nationality, Immigration and Asylum Act 2002.	Ratio
+When that Act was passed, it had been understood since 1996 that in this context the word claim referred to a first claim, or to a second or subsequent claim which was different from any earlier claim, but not to a second or subsequent claim which was merely repetitious of an earlier claim.	Ratio
+This eminently sensible conclusion had been reached by a Court of Appeal led by Sir Thomas Bingham MR in R v Secretary of State for the Home Department, ex parte Onibiyo [1996] QB 768.	Ratio
+It is a well-known principle of statutory interpretation that when Parliament re-enacts words which have already been the subject of judicial interpretation it intends them to have the same meaning.	Ratio
+There was no need, therefore, for Parliament to spell out what it meant by a claim in section 92(4)(a).	RPC
+It was already well-known.	RPC
+In Onibiyo the Court also considered whether the decision that a claim was a claim was a question of precedent fact for the court to decide or a question for the Secretary of State to decide subject to challenge on the usual judicial review grounds.	Ratio
+It was not necessary to decide this question in that case, but the Master of the Rolls inclined to the latter view.	Ratio
+This was adopted by the Court of Appeal in later cases: see eg WM (DRC) v Secretary of State for the Home Department [2006] EWCA Civ 1495, [2007] Imm A R 337; R (AK) (Sri Lanka) v Secretary of State for the Home Department [2009] EWCA Civ 447.	Ratio
+Rule 353 of the Immigration Rules sets out the test which the Secretary of State applies in making his decision.	Ratio
+It should not be thought, however, that Miss Laings argument depends upon the existence and wording of rule 353.	Ratio
+That merely provides for how the Secretary of State reaches his decision as to whether or not a claim is a claim.	Ratio
+It is not the end of the matter.	Ratio
+The Secretary of States test might come under attack for not reflecting the acid test laid down by the Master of the Rolls in Onibiyo.	Ratio
+His conclusion reached in an individual case might come under attack on Wednesbury or other conventional grounds.	Ratio
+The conclusion of the Court of Appeal, that this is not a question of precedent fact, to be determined by the appellate authorities and ultimately by the courts, might be challenged in the Supreme Court.	Ratio
+Miss Laings argument is simply that when Parliament enacted section 92(4)(a) of the 2002 Act it thought that the meaning of an asylum claim, or a human rights claim, was already well established and did not include a claim which was merely repetitious of an earlier one.	Ratio
+She is not relying on rule 353 to construe the 2002 Act.	Ratio
+I am not persuaded by Mr Husains argument, attractively though it was put, that the new powers under sections 94 and 96 to restrict or deny appeals put such an entirely new complexion on matters that Parliament is to be taken to have abandoned the old meaning of claim without saying so.	Ratio
+This would be astonishing given that it is apparently common ground that neither of these claims would have been certifiable under either section.	Ratio
+Section 94 removes the right of in-country (but not out-country) appeal if an asylum or human rights claim is clearly unfounded.	Ratio
+Yet apparently it is not suggested that the fact that a claim has been made previously and rejected necessarily means that it is clearly unfounded.	Ratio
+Section 96 removes the right of appeal altogether if a claim or application raises matters which could have been raised on an appeal against an earlier decision.	Ratio
+This does not deal with a claim which raises exactly the same matters as were rejected on an earlier occasion.	Ratio
+So it is common ground that these new powers are not apt to cater for repetitious claims.	Ratio
+If so, I cannot understand how Parliament, by introducing them, can be taken to have departed from an established interpretation which was designed to deal with a different problem.	Ratio
+Nor am I persuaded by the argument that, if an asylum or human rights claim is certified under section 94, the claimant can still raise his asylum or human rights arguments in an out-of-country appeal, but that otherwise section 95 prevents a person from raising asylum or human rights grounds from outside the country.	Ratio
+A person whose claim is certified under section 94 is denied any right of appeal in this country, but may appeal from outside.	Ratio
+It is only right in those circumstances that he should be able to appeal on the same grounds that he could have raised in this country.	Ratio
+A person whose claim is not a claim at all, because essentially the same claim has already been determined, has already enjoyed rights of appeal on asylum or human rights grounds in this country.	Ratio
+There is no reason to give him a second bite at the cherry whether here or abroad.	Ratio
+This country is bound not to expel people in breach of their human rights or when they have a well-founded fear of persecution in their home country.	Ratio
+We must of course have a fair system for deciding whether expulsion will be in breach of those obligations.	Ratio
+An initial decision followed by an appeal system in this country is sufficient to do this.	Ratio
+This country is not bound to allow people to make essentially the same claim time and time again as a way of staving off their departure.	Ratio
+The interpretation put forward by Miss Laing accords with our international obligations, as well as with principle and practicality.	Ratio
+I would have allowed this appeal.	RPC
+I have had the advantage of reading in draft the judgment of Lord Hope and am in full agreement with him that these appeals should be dismissed.	RPC
+I would make it clear, however, that this is not a conclusion at which I readily arrived and I reached it only on the basis that, as Mr Husain in his enticing submissions readily accepted, the statutory solution to the problem of abuse created by the making of repeat asylum claims lies not in construing an asylum claim in section 92(4)(a) of the Nationality, Immigration and Asylum Act 2002 as the Court of Appeal in R v Secretary of State for the Home Department ex parte Onibiyo [1996] QB 768 construed a claim for asylum in section 6 of the Asylum and Immigration Appeals Act 1993 but rather in the Secretary of State issuing certificates where appropriate under sections 94 or 96 of the 2002 Act (no equivalent provisions having been available under the 1993 Act).	Ratio
+True it is, as observed by Lord Hope in paragraph 29 of his judgment (and noted also at paragraph 13 of Sedley LJs judgment in the Court of Appeal [2009] 2 WLR 1370), that it is common ground between the parties that the present cases are not certifiable under either of these sections.	Ratio
+That, however, as I understand it, is solely because, so far as section 94 is concerned, it applies only where the appellant has made an asylum claim or a human rights claim (or both) (subsection 1).	Ratio
+By the same token that, on the Secretary of States argument, a repeat claim does not fall within those words in section 92 (4)(a), so he contends that it does not do so for section 94 purposes.	Ratio
+Given, however, as Mr Husain submits and I would accept, that a repeat claim does involve making a claim for the purposes of section 92(4)(a), so too it enables the Secretary of State to certify it as clearly unfounded if he so regards it under section 94.	Ratio
+Moreover, consistently with what the House said in ZT (Kosovo) v Secretary of State for the Home Department [2009] 1 WLR 348 (Lord Neubergers views expressed at paragraphs 80-81 of his opinion being determinative on this point), there will be precious few cases in which that test differs from the rule 353 test as to whether a claim has a realistic prospect of success.	Ratio
+The major reason why finally I am persuaded that the respondents approach is the correct one is that, so far from leaving the critical words an asylum claim in section 92(4)(a) to be construed as the Court of Appeal in Onibiyo construed a claim for asylum in the 1993 Act, Parliament in the 2002 Act not only made express provisions to deal with abusive claims but split up different aspects of the possible abuse between sections 94 and 96.	Ratio
+Sir Thomas Bingham MR in Onibiyo had said (at pp783-784): The acid test must always be whether, comparing the new claim with that earlier rejected, and excluding material on which the claimant could reasonably have been expected to rely in the earlier claim, the new claim is sufficiently different from the earlier claim to admit of a realistic prospect that a favourable view could be taken of the new claim despite the unfavourable conclusion reached on the earlier claim.	Ratio
+[Ex]cluding material on which the claimant could reasonably have been expected to rely in the earlier claim is now expressly dealt with by section 96.	Ratio
+As already explained, ordinary repeat claims fall to be excluded under section 94.	Ratio
+As Lord Hope points out, moreover, there is one very clear advantage in providing for any abuse by making repeat claims to be dealt with by section 94 rather than rule 353: by virtue of sections 94(9), 95 and 84(1)(g) it allows an out of country appeal to be brought on human rights grounds when otherwise that would not be possible.	Ratio
+For these reasons, therefore, which in large part echo those given in Lord Hopes altogether fuller judgment, I too would dismiss these appeals.	RPC
+For these reasons, therefore, which in large part echo those given in Lord Hopes altogether fuller judgment, I too would dismiss these appeals.	RPC
+For this reason I do not agree with the approach of Lord Wilson to this issue.	RPC
+Lord Neuberger of Abbotsbury MR at para 53 remarked that todays journalism is tomorrows archive and at para 58 In the case of journalism, above all news journalism, information held for purposes of journalism may soon stop being held for that purpose and be held, instead, for historical or archival purposes.	Ratio
+I imagine that the Bank of England also archives information initially used for the purposes of carrying out its functions.	Ratio
+No doubt the BBC has recourse to its archives for journalistic purposes from time to time and, if held for purposes of journalism is given a broad meaning it could be said in relation to the BBC that one of the purposes of holding archived material is journalism, albeit a relatively remote purpose.	Ratio
+However, Lord Neuberger accepted that archived material would not, as such, fall within the protection afforded by the definition.	RPC
+I consider that he was right to do so.	RPC
+Disclosure of material that is held only in the archives will not be likely to interfere with or inhibit the BBCs broadcasting functions.	Ratio
+It ought to be susceptible to disclosure under the Act.	Ratio
+If possible information held for purposes other than those of journalism, art or literature should be given an interpretation that brings archived material within that phrase.	Ratio
+Can this be achieved?	Ratio
+I believe that Lord Walker has the answer.	RPC
+He has concluded, as have I, that the protection is aimed at work in progress and BBCs broadcasting output.	RPC
+He suggests that the Tribunal should have regard to the directness of the purpose of holding the information and the BBCs journalistic activities.	RPC
+I agree.	RPC
+Information should only be found to be held for purposes of journalism, art or literature if an immediate object of holding the information is to use it for one of those purposes.	RPC
+If that test is satisfied the information will fall outside the definition, even if there is also some other purpose for holding the information and even if that is the predominant purpose.	RPC
+If it is not, the information will fall within the definition and be subject to disclosure in accordance with the provisions of Parts I to V of the Act.	RPC
+This appeal requires the Supreme Court to focus closely on the language and legislative purpose of the provisions of the Freedom of Information Act 2000 (FOIA) dealing with public authorities to which that statute has limited application.	Ratio
+Without that focus, a long trawl through the Strasbourg jurisprudence on article 10 of the European Convention on Human Rights is of little assistance.	Ratio
+The relevant provisions are in section 7 of and Schedule 1 to FOIA.	STA
+Section 7(1) provides that where a public authority is listed in Schedule 1 only in relation to information of a specified description, nothing in Parts I to V of the Act is to apply to any other information held by the authority.	STA
+Schedule 1, Part VI lists the British Broadcasting Corporation (BBC) in respect of information held for purposes other than those of journalism, art or literature.	STA
+A similar form of words appears (in adjectival form) in section 3 of the Data Protection Act 1998, which defines the special purposes as meaning any one or more of the following (a) the purposes of journalism, (b) artistic purposes, and (c) literary purposes.	STA
+Section 32 of the Data Protection Act gives a limited exemption where personal data is processed with a view to the publication by any person of any journalistic, literary or artistic material, and the data controller reasonably believes that, having regard in particular to the special importance of the public interest in freedom of expression, publication would be in the public interest, and that compliance with some specified provisions of the Data Protection Act would be incompatible with the special purposes.	STA
+Both sets of statutory provisions are evidently aimed at promoting freedom of expression, the value embodied in article 10 of the European Convention on Human Rights.	Ratio
+There is no relevant definition of journalism, art or literature in either statute.	Ratio
+The three words are abstract nouns which can be used to describe either an activity or the product of that activity.	Ratio
+Journalism is a word introduced into the English language from French in the 19th century.	Ratio
+The Oxford English Dictionary gives its primary meaning (by reference to journalist) as the occupation of editing or writing for a public journal.	Ratio
+In a loose sense it can cover the production of just about anything published in a newspaper (or, today, broadcast on sound radio or television).	Ratio
+But in the context of FOIA, its collocation with art and literature suggests that journalism is used to refer primarily to output on news and current affairs (no doubt including sport, an important part of the BBCs output); and the composite expression journalism, art or literature seems to be intended to cover the whole of the BBCs output in its mission (under article 5 of its Royal Charter) to inform, educate and entertain the public.	Ratio
+On that comprehensive approach the purposes of journalism, art or literature would be, quite simply, the purposes of the BBCs entire output to the public.	Ratio
+Mr Jeremy Clarkson must, it seems, have moved from the pigeonhole of journalism to that of literature when, as Irwin J recorded in British Broadcasting Corporation v Information Commissioner [2009] EWHC 2348 (Admin), [2010] EMLR 121, para 36, it was decided for editorial reasons to change the format of Top Gear so that it became primarily an entertainment programme rather than a consumer programme, [which] increased the production costs to an important degree.	Ratio
+British Broadcasting Corporation v Information Commissioner [2009] EWHC 2348 (Admin) (the financial information case) was heard by Irwin J immediately after he heard the case [2009] EWHC 2349 (Admin) in which this appeal is brought, and he handed down his judgment in the two cases on the same day, 2 October 2009.	PRE
+Important parts of the two judgments are, as Irwin J noted in the first paragraph of each judgment, expressed in identical or very similar terms.	PRE
+There is also one other first-instance judgment calling for mention, that is the judgment of Davis J in the first round of Mr Sugars litigation, British Broadcasting Corporation v Sugar [2007] EWHC 905 (Admin), [2007] 1 WLR 2583.	PRE
+The judgment of Davis J contains a valuable discussion of the relevant provisions of FOIA but proceeds on the footing that the Information Tribunal (the Tribunal) had no jurisdiction, in the circumstances, to hear an appeal from the Information Commissioner (the Commissioner).	PRE
+That premise was later shown by the decision of a bare majority of the House of Lords to be erroneous: [2009] UKHL 9, [2009] 1 WLR 430.	PRE
+One of the most important issues of law considered by Irwin J in his twin judgments is whether, as a matter of construction, the word predominantly should in effect be inserted in Schedule 1, Part VI before the phrase for purposes other than those of journalism, art or literature).	Ratio
+Irwin J described this (in para 3 of each judgment) as a concession made by the BBC before the Tribunal, but that description depends on the spectators viewpoint.	Ratio
+The Court of Appeal (Lord Neuberger MR, para 36) described it as a successful argument.	Ratio
+So it is worth looking at how this point developed.	Ratio
+Apart from any de minimis principle, which the Court of Appeal (Lord Neuberger MR, para 59) rightly regarded as unhelpful in this context, there are four possible categories of information held by the BBC that need to be considered: (1) information held exclusively for non-journalistic purposes; (2) information held predominantly, but not exclusively, for non-journalistic purposes (the other purposes being those of journalism); (3) information held predominantly, but not exclusively, for journalistic purposes (the other purposes being non-journalistic); and (4) information held exclusively for journalistic purposes.	Ratio
+Before the Tribunal Mr Sugar argued that the BBCs immunity under Schedule 1 Part VI (as opposed to its possible exemption under other particular provisions of FOIA) was limited to information in category (4).	Ratio
+In other words he was insisting on disclosure (apart from particular exemptions) of categories (1), (2) and (3).	Ratio
+The BBC did not oppose categories (1) and (2) (so that category (2) could be termed a concession) but opposed disclosure of category (3), and was successful in that argument.	Ratio
+Irwin J felt unable to accept the concession, either in the Sugar appeal or in the appeal in the financial information case.	Ratio
+He held that category (1) was the only category of information that the BBC had to disclose (again, subject to particular exemptions).	Ratio
+His reasons are at paras 44 to 66 of his judgment in the Sugar case and at paras 53 to 73 of his judgment in the financial information case, which are in almost identical terms.	Ratio
+The Court of Appeal agreed with his reasoning and conclusions (Lord Neuberger MR, paras 39 to 52).	Ratio
+I respectfully agree.	RPC
+In my judgment the correct view is that (as Lord Neuberger MR put it at para 44): once it is established that the information sought is held by the BBC for the purposes of journalism, it is effectively exempt from production under the Act, even if the information is also held by the BBC for other purposes.	RPC
+So in effect there are only two categories: one is information held for purposes that are in no way those of journalism, and the other is information held for the purposes of journalism, even if it is also held for other (possibly more important) purposes.	RPC
+That conclusion follows both from FOIAs legislative purpose and from its language.	Ratio
+First, legislative purpose.	Ratio
+It is common ground that FOIA was enacted in order to promote an important public interest in access to information about public bodies.	Ratio
+There are (as Schedule 1 to FOIA reveals) thousands of public authorities, large and small, which are paid for out of public funds, and whose actions or omissions may have a profound effect on citizens and residents of the United Kingdom.	Ratio
+There is a strong public interest in the press and the general public having the right, subject to appropriate safeguards, to require public authorities to provide information about their activities.	Ratio
+It adds to parliamentary scrutiny a further and more direct route to a measure of public accountability.	Ratio
+There is therefore force, in relation to FOIA as well as in relation to the Freedom of Information (Scotland) Act 2002, in the proposition that, as the whole purpose of the 2002 Act is the release of information, it should be construed in as liberal a manner as possible.	Ratio
+That is how it was put by Lord Marnoch in Common Services Agency v Scottish Information Commissioner [2006] CSIH 58, 2007 SC 231, para 32, approved by Lord Hope in the House of Lords [2008] UKHL 47, [2008] 1 WLR 1550, para 4.	Ratio
+But Lord Hope continued: But that proposition must not be applied too widely, without regard to the way the Act was designed to operate in conjunction with the [Data Protection Act 1998].	Ratio
+It is obvious that not all government can be completely open, and special consideration also had to be given to the release of personal information relating to individuals.	Ratio
+So while the entitlement to information is expressed initially in the broadest terms that are imaginable, it is qualified in respects that are equally significant and to which appropriate weight must also be given.	Ratio
+The scope and nature of the various exemptions plays a key role within the Acts complex analytical framework.	Ratio
+(The Commons Services Agency case serves to explain the position on freedom of information in Scotland, which is not immediately apparent from FOIA itself.	Ratio
+FOIA extends to Scotland and so applies to operations in Scotland of public authorities which operate throughout the United Kingdom; but Scotland also has its own statute applying to Scottish public authorities.)	Ratio
+In this case, there is a powerful public interest pulling in the opposite direction.	Ratio
+It is that public service broadcasters, no less than the commercial media, should be free to gather, edit and publish news and comment on current affairs without the inhibition of an obligation to make public disclosure of or about their work in progress.	Ratio
+They should also be free of inhibition in monitoring and reviewing their output in order to maintain standards and rectify lapses.	Ratio
+A measure of protection might have been available under some of the qualified exemptions in Part II of FOIA, in particular those in sections 36 (Prejudice to effective conduct of public affairs), 41 (Information provided in confidence) and 43 (Commercial interests).	Ratio
+But Parliament evidently decided that the BBCs important right to freedom of expression warranted a more general and unqualified protection for information held for the purposes of the BBCs journalistic, artistic and literary output.	Ratio
+That being the purpose of the immunity, section 7 and Schedule 1 Part VI, as they apply to the BBC, would have failed to achieve their purpose if the coexistence of other non-journalistic purposes resulted in the loss of immunity.	Ratio
+That is confirmed by the language of these statutory provisions.	Ratio
+The disclosable material is defined in terms (held for purposes other than those of journalism, art or literature) which are positive in form but negative in substance.	Ratio
+The real emphasis is on what is not disclosable that is material held for the purposes of the BBCs broadcasting output.	Ratio
+It is the most natural construction, which does not depend on reading in any words.	Ratio
+That was the view formed both by Irwin J (see especially paras 55 to 58 and 63 to 65 of his Sugar judgment) and by Lord Neuberger MR (see especially paras 40 to 42, 44 to 46, and 49 of his judgment).	Ratio
+Mr Eicke QC was critical of para 49, submitting that it assumed the very answer that the Court of Appeal was seeking to justify.	Ratio
+I consider that criticism to be unjustified, though the reasoning was perhaps rather compressed.	Ratio
+The unspoken premise is that Parliament must have intended to lay down a workable test, and both an exclusively and a predominantly test would raise almost insoluble problems in their practical application.	Ratio
+That is not to say that the test approved by Irwin J and the Court of Appeal is without its difficulties.	Ratio
+Parliament has, in trying to provide machinery for determining where the stronger public interest lies, placed a heavy burden on the Tribunal as an expert decision-maker.	Ratio
+Davis J cited the well-known speech of Lord Mustill in R v Monopolies and Mergers Commission, Ex p South Yorkshire Transport Ltd [1993] 1 WLR 23, 32-33 (where the relevant statute referred to a substantial part of the United Kingdom): But this clear-cut approach cannot be applied to every case, for the criterion so established may itself be so imprecise that different decision-makers, each acting rationally, might reach differing conclusions when applying it to the facts of a given case.	Ratio
+In such a case the court is entitled to substitute its own opinion for that of the person to whom the decision has been entrusted only if the decision is so aberrant that it cannot be classed as rational: Edwards v Bairstow [1956] AC 14.	Ratio
+The present is such a case.	Ratio
+Even after eliminating inappropriate senses of substantial one is still left with a meaning broad enough to call for the exercise of judgment rather than an exact quantitative measurement.	Ratio
+I consider that Davis J was right to regard the present case as falling within that category.	Ratio
+He was however mistaken in supposing that the Tribunal had no jurisdiction to hear an appeal, and so he should have treated the Tribunal, and not the Commissioner, as the crucial decision-maker.	Ratio
+Irwin J concluded (para 66 of his Sugar judgment) that the Tribunal had erred in law in applying the predominant purpose test.	Ratio
+So did Lord Neuberger MR (para 62).	Ratio
+So did Moses LJ (para 73), though I have some difficulty with the way his reasoning is expressed on this point, as it seems to come close to conflicting with the reasoning of the majority of the House of Lords in the first round of litigation, [2009] 1 WLR 430.	Ratio
+Munby LJ agreed with both judgments.	Ratio
+I would therefore dismiss this appeal, but for reasons different from those set out in the judgment of Lord Wilson.	RPC
+I would add that I am conscious that this interpretation of the limitation may be seen as conferring on the BBC an immunity so wide as to make the particular statutory redemptions redundant, and leave the BBC almost free of obligations under FOIA.	Ratio
+As the Tribunal observed (paras 96 and 102): On a broad definition, it could be argued that all of the activities of the BBC are for the purposes of journalism, art and literature, as these are broad descriptions of a substantial part of its broadcast output . . .	Ratio
+However, if a very broad definition was intended, there would be little point in including the BBC in Schedule 1, Part VI of FOIA.	Ratio
+The BBC could have been omitted altogether from the scope of the Act.	Ratio
+The same point was made by Davis J [2007] 1 WLR 2583, para 55.	Ratio
+In my view the correct approach is for the Tribunal, while eschewing the predominance of purpose as a test, to have some regard to the directness of the purpose.	Ratio
+That is not a distinction without a difference.	Ratio
+It is not weighing one purpose against another, but considering the proximity between the subject-matter of the request and the BBCs journalistic activities and end-product.	Ratio
+As Irwin J observed in the financial information case, para 87, in the context of a critique of what was operational: The cost of cleaning the BBC Boardroom is only remotely linked to the product of the BBC.	Ratio
+I respectfully agree with the measured comments of Lord Neuberger MR (para 55): In my view, whatever meaning is given to journalism I would not be sympathetic to the notion that information about, for instance, advertising revenue, property ownership or outgoings, financial debt, and the like would normally be held for purposes . . . of journalism.	Ratio
+No doubt there can be said to be a link between such information and journalism: the more that is spent on wages, rent or interest payments, the less there is for programmes.	Ratio
+However, on that basis, literally every piece of information held by the BBC could be said to be held for the purposes of journalism.	Ratio
+In my view, save on particular facts, such information, although it may well affect journalism-related issues and decisions, would not normally be held for purposes . . .	Ratio
+of journalism.	Ratio
+The question whether information is held for the purposes of journalism should thus be considered in a relatively narrow rather than a relatively wide way.	Ratio
+That is the best way forward in order to strike the difficult balance of competing interests for which Parliament must be taken to have been aiming.	Ratio
+But it will still leave some difficult decisions for the Commissioner and, on appeal, the Tribunal.	Ratio
+There cannot be (in the words of Davis J, para 57) any unequivocal, bright-line test.	Ratio
+All of us agree that on any conventional approach to the construction of the Freedom of Information Act 2000 (the Act) and in particular the expression information held for purposes . . .	RPC
+of journalism within the meaning of Schedule 1 to the Act, it clearly encompasses the Balen Report (the Report) throughout the whole period that the BBC has held it.	RPC
+It is the appellants contention, however, that this approach to the construction of the Act and the consequent non-disclosure of the Report would violate article 10 of the European Convention on Human Rights and that the Court is accordingly bound, consistently with section 3 of the Human Rights Act 1998, to read and give effect to the Act so as to require the Reports disclosure.	Ratio
+It is this contention that I am here principally concerned to address.	Ratio
+Given, however, that a disagreement exists within the Court as to whether information held for the purposes of journalism but held also for other purposes must be subjected to a test as to which purpose is predominant and disclosed if the predominant purpose is non-journalistic, I shall in conclusion briefly address this issue too, irrelevant though it is to the outcome of this particular appeal.	Ratio
+The appellants article 10 contention is not one that appears to have been advanced before Irwin J at first instance (certainly there is no mention of article 10 in his judgment).	Ratio
+Article 10 was, however, invoked in the Court of Appeal, indeed by both sides.	Ratio
+The BBC submitted that disclosure of the Report (and any other information held for the purposes of journalism) would have a chilling effect upon their right to freedom of expression; the appellant submitted that, subject only to narrow exceptions (none being applicable here), article 10 gives him a right of access to all such information.	ARG
+The Court of Appeal, however, derived no assistance from article 10 either way, Moses LJ (at para 77) finding it impossible to identify within the jurisprudence any pointer for or against the rival contentions.	ARG
+Before this Court Mr Eicke QC has vigorously returned to article 10 and advances what is essentially a two stage argument.	ARG
+First, he contends, in reliance principally upon a trilogy of Strasbourg decisions Matky v Czech Republic (Application No 19101/03) (unreported) 10 July 2006, (Matky), Tarsasag A Szabadsagjogokert v Hungary (2009) 53 EHRR 130 (14 April 2009) (Tarsasag), and Kenedi v Hungary (Application No 31475/05) (unreported) 26 August 2009 (Kenedi) that the ECtHR has recently moved towards the recognition of a right of access to information and that in the particular circumstances of the present case an interpretation of the Act which withholds from disclosure a document such as the Report interferes with the right of access to information protected by article 10(1).	ARG
+Secondly he submits that such interference is not necessary in a democratic society so as to be justified under article 10(2).	ARG
+He not only disputes that the release of the Report would have a chilling effect on freedom of expression but submits that only the need to protect journalistic sources or perhaps, indeed, more narrowly still, the need to protect sources who might otherwise be deterred from assisting journalists would constitute an overriding requirement of the public interest sufficient to justify this interference with the citizens article 10(1) right of access to information.	ARG
+Before turning to the trilogy of decisions upon which the appellant mainly relies it is helpful first to note the well-established body of Strasbourg jurisprudence which is recognised to define, generally speaking, the nature and extent of the right under article 10(1) to receive . . .	Ratio
+information and ideas without interference by public authority.	Ratio
+It is sufficient for present purposes to cite a short passage from the unanimous Grand Chamber decision in Roche v United Kingdom (2005) 42 EHRR 599 at para 172: The Court reiterates its conclusion in Leander v Sweden (1987) 9 EHRR 433 and in Gaskin v United Kingdom (1989) 12 EHRR 36 and, more recently, confirmed in Guerra v Italy (1998) 26 EHRR 357, that the freedom to receive information prohibits a Government from restricting a person from receiving information that others wish or may be willing to impart to him and that that freedom cannot be construed as imposing on a State, in circumstances such as those of the present case, positive obligations to . . .	Ratio
+disseminate information of its own motion.	Ratio
+It is right to observe, before moving on, that the circumstances of those particular cases were that the applicants were attempting to obtain information respectively about their being regarded as a security risk (Leander), about their childhood (Gaskin), about a chemical factory (Guerra) and about long-past Porton Down tests in which they had participated (Roche).	Ratio
+I come then to the first of the trilogy of cases on which the appellant so strongly relies: Matky.	Ratio
+The complainant there was seeking, against the background of a general right to information under the Czech legal system, access to documentation concerning the construction of a new nuclear power station and in particular was challenging a requirement of the domestic legislation (article 133 of the Building Act) that a request for information had to be justified.	Ratio
+The Court accepted that the rejection of his request constituted an interference with the complainants right to receive information.	Ratio
+But it held that the decision could not be considered arbitrary, recognised that Contracting States enjoy a certain margin of appreciation in this area and unanimously rejected the complaint as manifestly ill-founded.	Ratio
+Matky seems accordingly an unpromising foundation upon which to build any significant departure from what may be called the Roche approach to the freedom to receive information protected by article 10.	Ratio
+Nevertheless, in Tarsasag (the second in the appellants trilogy of cases) it was to Matky that the Second Section of the Court referred as (the sole) authority for the proposition that, the Leander line of authority notwithstanding, the Court has recently advanced towards a broader interpretation of the notion of freedom to receive information and thereby towards the recognition of a right of access to information.	Ratio
+In Tarsasag the court upheld a complaint by the Hungarian Civil Liberties Union that a refusal by the Constitutional Court to grant them access to an MPs pending complaint as to the constitutionality of certain proposed amendments to the Criminal Code breached its article 10 right to receive information.	Ratio
+The Government having accepted that there had been an interference with the applicants article 10 rights, Mr Eicke relies in particular upon the following passage in the Courts judgment: [The Court] considers that the present case essentially concerns an interference by virtue of the censorial power of an information monopoly with the exercise of the functions of a social watchdog, like the press, rather than a denial of a general right of access to official documents. . . .	Ratio
+Moreover, the states obligations in matters of freedom of the press include the elimination of barriers to the exercise of press functions where, in issues of public interest, such barriers exist solely because of an information monopoly held by the authorities.	Ratio
+(para 36)	Ratio
+Kenedi, the third in the trilogy of cases, was decided just four months after Tarsasag, also by the Second Section of the Court (including six of the same seven judges who had decided Tarsasag).	Ratio
+The applicant there was a historian specialising in the functioning of the secret services of dictatorships.	Ratio
+Although a succession of domestic court judgments had held him to be entitled to access to various documents for research purposes, the Ministry had refused to disclose them.	Ratio
+Once again, hardly surprisingly in this case, the government conceded that there had been an interference with the applicants article 10 rights.	Ratio
+The Court had no difficulty in finding in the result a violation of article 10: the Court cannot but conclude that the obstinate reluctance of the respondent States authorities to comply with the execution orders was in defiance of domestic law and tantamount to arbitrariness.	Ratio
+In my judgment these three cases fall far short of establishing that an individuals article 10(1) freedom to receive information is interfered with whenever, as in the present case, a public authority, acting consistently with the domestic legislation governing the nature and extent of its obligations to disclose information, refuses access to documents.	Ratio
+Of course, every public authority has in one sense the censorial power of an information monopoly in respect of its own internal documents.	Ratio
+But that consideration alone cannot give rise to a prima facie interference with article 10 rights whenever the disclosure of such documents is refused.	Ratio
+Such a view would conflict squarely with the Roche approach.	Ratio
+The appellants difficulty here is not that Mr Sugar was not exercising the functions of a social watchdog, like the press.	Ratio
+(Perhaps he was.) The Jewish Chronicle would be in no different or better position.	Ratio
+The appellants difficulty to my mind is rather that article 10 creates no general right to freedom of information and where, as here, the legislation expressly limits such right to information held otherwise than for the purposes of journalism, it is not interfered with when access is refused to documents which are held for journalistic purposes.	Ratio
+True it is, as Lord Judge CJ noted when giving the judgment of the Court in Independent News and Media Ltd v A [2010] 1 WLR 2262 (para 42), that the Venice Commission has described Tarsasag as a landmark decision on the relation between freedom of information and the . . .	Ratio
+Convention.	Ratio
+Whatever else might be said about Mr Eickes trilogy of cases, however, they cannot to my mind be said to support his first proposition having regard to the particular relationship between the parties in this case.	Ratio
+I should perhaps add for the sake of completeness that there is absolutely nothing in Independent News and Media Ltd v A, still less in R (Mohamed) v Secretary of State for Foreign Affairs (No 2) [2011] QB 218, to support Mr Eickes reliance on article 10 in the present context.	Ratio
+It follows that for my part I would hold that the appellants article 10 case fails at the first stage.	Ratio
+There was no interference here with Mr Sugars freedom to receive information.	Ratio
+The Act not having conferred upon him any relevant right of access to information, he had no such freedom.	Ratio
+Even were that not so, however, I would reject the second stage of Mr Eickes argument too.	Ratio
+Even were one to start with the supposition that any refusal by a public authority to disclose information involves a prima facie interference with a persons freedom to receive that information, it seems to me open to the State to legislate, as here, a blanket exclusion of any requirement to disclose information held (whether predominantly or not) for the purposes of journalism.	Ratio
+The appellants contrary argument fixes in particular upon a line of Strasbourg cases concerned essentially with journalistic sources: Goodwin v United Kingdom (1996) 22 EHRR 123, Nordisk Film and TV A/S v Denmark (Application No 40485/02) (8 December 2005) and Sanoma Uitgevers BV v The Netherlands (Application No 38224/03) (14 September 2010).	PRE
+What must be recognised, however, is that in each of these cases it was the journalists who were the complainants, that what they were complaining about were domestic court orders requiring disclosure of their sources or research material, and that the starting point for the Strasbourg Courts consideration of these complaints was, as the Grand Chamber noted at paragraph 59 of its judgment in Sanoma: In its earlier case-law the Court has found various acts of the authorities compelling journalists to give up their privilege and provide information on their sources or to obtain access to journalistic information to constitute interferences with journalistic freedom of expression.	PRE
+The applicant in Goodwin succeeded on the basis that he had been ordered to reveal the identity of a person who had provided him with information on an unattributable basis.	PRE
+The applicant in Nordisk failed because on the particular facts of that case (which it is not here necessary to rehearse) the applicant was not being ordered to disclose its journalistic source of information but rather part of its research material and that, even though the latter may have a chilling effect on the exercise of journalistic freedom of expression, there it was justified by an overriding requirement in the public interest: assisting in the prosecution of paedophiles.	PRE
+The applicant company in Sanoma succeeded because there was an order for the compulsory surrender of journalistic material containing information capable of identifying journalistic sources, an interference with its article 10 rights which the Court there held was not prescribed by law: the quality of the law was deficient in that there was no procedure attended by adequate legal safeguards for the applicant company in order to enable an independent assessment as to whether the interest of the criminal investigation overrode the public interest in the protection of journalistic sources.	PRE
+(para 100)	PRE
+Helpful though these cases may be, however, in explaining the limitations placed upon a journalists prima facie right to protect both his sources and his research material from compulsory court orders for their disclosure, they say little if anything about what other interests and concerns may properly be invoked by journalists in resisting the disclosure to others (whether or not themselves journalists) of other information held for journalistic purposes (ie information apart from that necessary to protect confidential sources and research material, including for example the Balen Report).	Ratio
+To my mind it stands to reason that the disclosure of a document such as the Report would be likely to affect the candour of any similar future report.	Ratio
+As the Information Tribunal itself found in the present case (at para 116): Self-critical review and analysis of output is a necessary part of safeguarding and enhancing quality.	Ratio
+The necessary frankness of such internal analysis would be damaged if it were to be written in an anodyne fashion, as would be likely to be the case if it were potentially disclosable to a rival broadcaster.	Ratio
+(Or, one may add, to anyone else.) In short I would reject also the second stage of the appellants argument: the contention that section 3 of the Human Rights Act should be invoked here to limit the information stipulated by the Act to be undisclosable through being held for the purposes of journalism merely to that held for the purpose of safeguarding the BBCs confidential sources.	Ratio
+I turn then briefly to the question whether, in a case where information is held partly for journalistic and partly for non-journalistic purposes, it is necessary to ask which purpose is predominant and to disclose any information held predominantly for non-journalistic purposes.	Ratio
+I conclude, in common with Lord Phillips and Lord Walker (and, indeed, with the Court of Appeal), but in respectful disagreement with Lord Wilson, that the answer is No. My reasons being essentially the same as those given by both Lord Phillips and Lord Walker (although perhaps more particularly those of Lord Walker), I can explain my concurrence very shortly indeed.	Ratio
+Really it comes to this.	Ratio
+With regard both to the BBC (together with the three other listed broadcasters) and the Bank of England, Parliament, for differing but in each case compelling reasons of national interest, was concerned not to subject these institutions to the operation of the Act including, for example, the need to resort to Part II of the Act to justify any reluctance to withhold some particular information from disclosure save only in strictly limited circumstances.	Ratio
+In the case of the BBC and other broadcasters it is only in respect of information held for purposes other than those of journalism, art or literature.	Ratio
+In the event that information is held to any significant degree (and we are all agreed that the de minimis principle would otherwise apply) for the purposes of journalism, then to my mind it would seem artificial and impermissible to construe the Act as applying to that information.	Ratio
+Quite simply, it remains information held for the purposes of journalism and therefore constitutes (within the meaning of section 7) other information than information held for purposes other than those of journalism.	Ratio
+The mere fact that it may be held (even perhaps to a predominant extent) also for purposes other than those of journalism cannot sensibly serve to enlarge the basic category of information in respect of which the BBC is listed and with regard to which, therefore, the Act is not disapplied by section 7.	Ratio
+In short, like Lord Walker, I find that the natural construction of the Act, and Parliaments evident concern to ensure that the interests of free expression trump without more those of freedom of information, supports the BBCs case on this issue.	RPC
+As for the point at which information will cease to be held to any significant degree for the purposes of journalism and become held instead, say, solely for archival purposes, that necessarily will depend on the facts of any particular case and involve a question of judgment.	RPC
+I too agree with Lord Walker that the central question to be asked in such a context will be, not which purpose is predominant, but rather whether there remains any sufficiently direct link between the BBCs continuing holding of the information and the achievement of its journalistic purposes.	RPC
+I too would dismiss this appeal.	RPC
+The question on this appeal is whether the Balen Report commissioned by the BBC in relation to its Middle Eastern coverage and completed in July 2004 constituted information held for purposes other than those of journalism, art or literature (within Part VI of Schedule 1 to the Freedom of Information Act 2000).	Ratio
+The appeal falls to be approached on the basis that the Report was at the material time held predominantly for journalistic but partly also for other purposes.	Ratio
+The material time was in 2005, when Mr Sugar first requested disclosure of the Report.	Ratio
+I agree with the other members of the Court that this appeal should be dismissed.	Ratio
+However, there is a difference in the basis upon which different members of the Court would dismiss it.	Ratio
+Lord Wilson would only dismiss it on the basis that the critical test is whether the BBC held the Report predominantly for the purposes of journalism.	Ratio
+Were this not the test, he would have regarded the existence of other not insignificant purposes as sufficient to mean that the Report was held for purposes other than those of journalism, art or literature, and so disclosable.	Ratio
+The other members of the Court take an opposite view: once it is established that the BBC held the Report for purposes of journalism, art or literature, the Report was exempt from disclosure, and would have been even had these not been the predominant purposes for which it was held.	Ratio
+The rival arguments on this point are finely balanced, and its resolution in the present appeal on the basis of sparse facts causes me a certain concern.	Ratio
+However, after some hesitation, I have come to the conclusion that the test applied by Lords Phillips, Walker and Brown is to be preferred.	Ratio
+The Freedom of Information Act 2000 reflects the value to be attached to transparency and openness in the workings of public authorities in modern society, and its provisions should be construed in as liberal a manner as possible: Common Services Agency v Scottish Information Commissioner [2008] UKHL 47, [2008] 1 WLR 1550, para 4 per Lord Hope.	Ratio
+But, as Lord Walker notes (para 77), Lord Hope went on to add that that proposition must not be applied too widely, and special considerations may lead to restrictions.	Ratio
+In the present case, the special consideration to which the legislator gave effect was the freedom of the BBC as a public service broadcaster in relation to its journalistic, artistic and literary output.	Ratio
+Information held for any such purposes of journalism, art or literature was absolutely exempt from disclosure.	Ratio
+The legislator was not content with the more qualified protection from disclosure, often depending on a balancing exercise or evaluation, which would anyway have been available under section 2, read with sections 28, 29, 36, 41 and 43.	Ratio
+To read into the words information held for purposes other than those of journalism, art or literature a need to evaluate whether such purposes were dominant seems to me unjustified.	Ratio
+I share Lord Walkers view (para 79) that the real emphasis of the words is on what is not disclosable, so that the exemption applies, without more, if the information is held for any journalistic, artistic or literary purpose.	Ratio
+That conclusion is to my mind also fortified by consideration of the exemption relating to certain functions of the Bank of England.	Ratio
+Lord Phillips discusses the position regarding archived material.	Ratio
+We were not given any clear picture when or on what basis archiving might occur.	Ratio
+I assume that the reference is to material not envisaged as having any current purpose, but stored for historical purposes or against the possibility of some unforeseen need to revisit, or produce evidence of, past events.	Ratio
+A library maintained for current reference would in contrast contain material held for the purposes of journalism, art or literature.	Ratio
+I agree with Lord Browns analysis of the current state of Strasbourg authority, and also with Lord Wilsons comment in para 59 on the decisions (or dicta) in Ullah and Al-Skeini.	RPC
+Nothing in the Strasbourg jurisprudence calls us to do anything but give effect in this case to what we consider to be the proper construction of the 2000 Act under ordinary domestic principles.	RPC
+It is unnecessary to say more, or to add to recent debate about the nature of the Convention rights in the United Kingdom or the domestic courts role in interpreting and applying them taking into account any relevant Strasbourg case-law.	RPC
+I agree with Lord Browns analysis of the current state of Strasbourg authority, and also with Lord Wilsons comment in para 59 on the decisions (or dicta) in Ullah and Al-Skeini.	RPC
+Nothing in the Strasbourg jurisprudence calls us to do anything but give effect in this case to what we consider to be the proper construction of the 2000 Act under ordinary domestic principles.	RPC
+It is unnecessary to say more, or to add to recent debate about the nature of the Convention rights in the United Kingdom or the domestic courts role in interpreting and applying them taking into account any relevant Strasbourg case-law.	RPC

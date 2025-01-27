@@ -1,0 +1,626 @@
+The issue in this appeal is whether the conditions of entitlement to state pension credit prescribed by regulation 2 of the State Pension Credit Regulations 2002 (SI 2002/1792) (the 2002 Regulations) are compatible with EU law.	Ratio
+Regulation 2 is not easy to summarise in a few words, but its general effect is to restrict entitlement to state pension credit to those who have a right to reside in the United Kingdom, the Channel Islands, the Isle of Man or the Republic of Ireland (the Common Travel Area).	Ratio
+The question is whether this is compatible with article 3(1) of Council Regulation (EC) No 1408/71 (Regulation 1408/71).	Ratio
+Regulation 1408/71 was replaced on 1 May 2010 by Regulation (EC) No 883/2004, which need not be examined as all the relevant events preceded that date.	Ratio
+Article 2(1) of Regulation 1408/71 provides that the Regulation applies to employed persons or self-employed persons who are or have been subject to the social security legislation of a Member State as well as to members of their families.	STA
+Article 3(1) provides, in respect of those to whom the Regulation applies, for equality of treatment in the application of social security schemes.	STA
+They are to be entitled to the same benefits under the legislation of any Member State of the kind to which Regulation 1408/71 applies as the nationals of that State.	STA
+The general effect of the 2002 Regulations, on the other hand, is as stated above.	STA
+Entitlement to state pension credit depends on whether the person concerned has a right to reside in the United Kingdom or elsewhere in the Common Travel Area.	STA
+The problem arises because regulation 2(2) of the 2002 Regulations affects nationals of different Member States in different ways.	Ratio
+A citizen of the United Kingdom has a right to reside in the United Kingdom by virtue of his or her right of abode under section 2(1) of the Immigration Act 1971.	Ratio
+An Irish citizen has, by virtue of his or her Irish nationality, a right to reside in the Republic of Ireland.	Ratio
+In their case regulation 2 of the 2002 Regulations does not preclude entitlement to state pension credit.	Ratio
+But nationals of other Member States do not qualify for the same treatment unless they have a right to reside here, which they do not have simply on the grounds of their nationality.	Ratio
+The appellant was born in Latvia on 1 June 1938.	FAC
+She came to the United Kingdom on 12 June 2000 before Latvia joined the European Union.	FAC
+She claimed asylum on the ground that, as she is of Russian ethnic origin, she had a well founded fear of persecution if she were to return there.	FAC
+Her claim to asylum was finally refused in January 2004, but no steps were taken to remove her from this country.	FAC
+On 1 May 2004 Latvia joined the EU, so pursuant to derogations from article 39(3) of the EC Treaty the appellant became entitled to work here if she complied with the Workers Registration Scheme in the Accession (Immigration and Worker Registration) Regulations 2004: see Zalewska v Department for Social Development (Child Poverty Action Group and another intervening) [2008] UKHL 67; [2008] 1 WLR 2606.	FAC
+She had worked in factories and as a kitchen assistant for about 40 years in Latvia.	FAC
+She is in receipt of a retirement pension from the Latvian social security authorities which is worth between 50 and 170 a month, depending upon the rate of exchange for the time being.	FAC
+But she has not worked at any time while she has been in this country, and she has no other income.	FAC
+In August 2005 the appellant claimed state pension credit from the respondent, the Secretary of State for Work and Pensions.	FAC
+Her claim was refused on 7 September 2005 on the ground that she lacked a right to reside in the United Kingdom.	FAC
+She appealed against that refusal, asserting direct discrimination on grounds of her nationality contrary to article 3(1) of Regulation 1408/71.	FAC
+Her case was that it was her Latvian nationality that precluded the entitlement to state pension credit which she would have had if she had been a United Kingdom national.	FAC
+On 12 December 2005 the appeal tribunal allowed her appeal on the grounds of direct discrimination.	RLC
+But on 11 June 2008 Commissioner Rowland allowed the respondents appeal against that decision.	RLC
+He held that the imposition of the right to reside test was indirect discrimination, but that it was justified as a proportionate means of achieving the legitimate aim of protecting the public finances of the host member state.	RLC
+There was, in his view, no obligation on the United Kingdom under Community law to afford access to social assistance to those who have no right of residence here.	RLC
+On 25 June 2009 the Court of Appeal (Lord Clarke of Stone-cum-Ebony MR and Moses and Sullivan LJJ) dismissed the appellants appeal against the decision of the Commissioner: [2009] EWCA Civ 621.	RLC
+State pension credit: the 2002 Regulations	STA
+State pension credit is a means tested non-contributory benefit.	STA
+The details of how it is calculated do not matter for present purposes.	Ratio
+But it is worth noting that it is made up of two elements, a guarantee credit and a savings credit, each of which have their own rules as to eligibility.	Ratio
+Section 2(2)(b) of the State Pension Credit Act 2002 provides that the guarantee credit is the difference between the prescribed amount and the claimants income.	STA
+Income includes retirement pension income, and an overseas arrangement such as a state pension from another Member State is retirement pension income for this purpose: sections 15(1)(c) and 16(1)(g).	STA
+Section 1(2)(a) provides that a claimant is entitled to state pension credit if he is in Great Britain.	STA
+Section 1(5)(a) provides that regulations may make provision as to the circumstances in which a person is to be treated as being in or not being in Great Britain for the purposes of the Act.	STA
+Regulation 2 of the 2002 Regulations was amended by regulation 5 of the Social Security (Habitual Residence) Amendment Regulations 2004 (the 2004 Amendment Regulations).	STA
+As so amended, it was in the form that was in force from 1 May 2004 to 29 April 2006.	STA
+This is the period during which the appellant made her claim.	STA
+In that form it provided as follows: (1) Subject to paragraph (2), a person is to be treated as not in Great Britain if he is not habitually resident in the United Kingdom, the Channel Islands, the Isle of Man or the Republic of Ireland, but for this purpose, no person is to be treated as not habitually resident in the United Kingdom who is (a) a worker for the purposes of Council Regulation (EEC) No 1612/68 or (EEC) No 1251/70 or a person with a right to reside in the United Kingdom pursuant to Council Directive No 68/360/EEC or No 73/148/EEC or a person who is an accession state worker requiring registration who is treated as a worker for the purpose of the definition of qualified person in regulation 5(1) of the Immigration (European Economic Area) Regulations 2000 pursuant to regulation 5 of the Accession (Immigration and Worker Registration) Regulations 2004; or (b) a refugee within the definition in article 1 of the Convention relating to the Status of Refugees done at Geneva on 28 July 1951, as extended by article 1(2) of the Protocol relating to the Status of Refugees done at New York on 31 January 1967; or (c) a person who has been granted exceptional leave to enter the United Kingdom by an immigration officer within the meaning of the Immigration Act 1971, or to remain in the United Kingdom by the Secretary of State; or (d) a person who is not a person subject to immigration control within the meaning of section 115(9) of the Immigration and Asylum Act 1999 and who is in the United Kingdom as a result of his deportation, expulsion or other removal by compulsion of law from another country to the United Kingdom; [or] (e) a person in Great Britain who left the territory of Montserrat after 1 November 1995 because of the effect on that territory of a volcanic eruption.	STA
+(2) For the purposes of treating a person as not in Great Britain in paragraph (1), no person shall be treated as habitually resident in the United Kingdom, the Channel Islands, the Isle of Man or the Republic of Ireland if he does not have a right to reside in the United Kingdom, the Channel Islands, the Isle of Man or the Republic of Ireland.	STA
+The persons referred to in regulation 2(1)(a) are various categories of persons who are afforded rights of residence by EU law.	Ratio
+Among these categories are nationals of other EU Member States who are workers (that is to say, in employment or looking for work with a genuine chance of being engaged) or who are self-employed.	Ratio
+They have a right to reside here and they are not to be treated as not habitually resident in the United Kingdom.	Ratio
+So if they are actually in this country too, they are in Great Britain for the purpose of entitlement to state pension credit under the statute.	Ratio
+Other nationals of EU Member States who have a right to reside in the United Kingdom or elsewhere in the Common Travel Area and are habitually resident in the United Kingdom or elsewhere in the Common Travel Area are also eligible to claim state pension credit if they are in Great Britain.	Ratio
+As they have a right to reside in the Common Travel Area, they are brought within the scope of the opening words of regulation 2(1) by regulation 2(2) which was inserted by regulation 5(c) of the 2004 Amendment Regulations.	Ratio
+All Irish nationals have a right to reside in the Republic of Ireland by virtue of their nationality.	Ratio
+As the Common Travel Area includes the Republic of Ireland they too are eligible to claim state pension credit if they are in Great Britain.	Ratio
+The appellant does not fall within any of the provisions listed in regulation 2(1)(a) to (e).	Ratio
+That being so, she can only qualify for entitlement to state pension credit if she is in Great Britain and habitually resident in the United Kingdom, the Channel Islands, the Isle of Man or the Republic of Ireland.	Ratio
+That is the effect of the opening words of regulation 2(1).	Ratio
+But regulation 2(2) provides that no person shall be treated as habitually resident in the United Kingdom or elsewhere in the Common Travel Area if he does not have a right to reside in the United Kingdom or elsewhere in the Common Travel Area.	Ratio
+As the appellant does not have that right, she is not to be treated as habitually resident in the United Kingdom (regulation 2(2)).	Ratio
+So she is to be treated as not in Great Britain for the purposes of section 1 of the 2002 Act (regulation 2(1)).	Ratio
+The Community law provisions	STA
+At the time when the appellant made her claim the Treaty Establishing the European Community (the EC Treaty) contained the general prohibition on discrimination to which, subject to the special provisions of the Regulation, article 3(1) of Regulation 1408/71 gave effect.	STA
+Article 12 (now, post-Lisbon, article 18 of the Treaty on the Functioning of the European Union) provided: Within the scope of application of this Treaty, and without prejudice to any special provisions contained therein, any discrimination on grounds of nationality shall be prohibited.	STA
+The Council, acting in accordance with the procedure referred to in article 251, may adopt rules designed to prohibit such discrimination.	STA
+Article 18 (now article 21 TFEU) provided: 1.	STA
+Every citizen of the Union shall have the right to move and reside freely within the territory of the Member States, subject to the limitations and conditions laid down in this Treaty and by the measures adopted to give it effect.	STA
+2	STA
+the Council may adopt provisions with a view to facilitating the exercise of the rights referred to in paragraph 1; save as otherwise provided in this Treaty, the Council shall act in accordance with the procedure referred to in article 51.	STA
+The Council shall act unanimously throughout this procedure.	STA
+Article 39 (now article 45 TFEU) provided for free movement of workers.	STA
+It included, among other things, the following rights mentioned in article 39(3): (c) to stay in a Member State for the purpose of employment in accordance with the provisions governing the employment of nationals of that State laid down by law, regulation or administrative action; (d) to remain in the territory of a Member State after having been employed in that State, subject to conditions which shall be embodied in implementing regulations to be drawn up by the Commission.	STA
+Article 42 (now article 48 TFEU) of the EC Treaty provided: The Council shall, acting in accordance with the procedure referred to in article 251, adopt such measures in the field of social security as are necessary to provide freedom of movement for workers; to this end, it shall make arrangements to secure for migrant workers and their dependants: (a) aggregation, for the purpose of acquiring and retaining the right to benefit and of calculating the amount of benefit, of all periods taken into account under the laws of the several countries; (b) payment of benefits to persons resident in the territories of Member States.	STA
+The Council shall act unanimously throughout the procedure referred to in article 251.	STA
+Regulation 1408/71 contains a system for the coordination of the different social security schemes of the Member States, while respecting the different characteristics of the national legislation: see the fourth recital of its preamble.	Ratio
+It was made under article 42 EC.	Ratio
+Its object is to ensure that social security schemes governing workers in each Member State moving within the EU are applied in accordance with uniform EU criteria.	Ratio
+To this end it lays down a set of rules founded in particular upon the prohibition of discrimination on grounds of nationality or residence and upon the maintenance by a worker of his rights acquired by virtue of one or more social security schemes which are or have been applicable to him: Cases C-95/99, C-96/99 and C-97/99 Khalil, Chaaban and Osseili v Bundesanstalt fr Arbeit [2001] 3 CMLR 1246, para 67.	PRE
+Article 2 provides as to the persons covered by the Regulation (the personal scope) as follows: 1.	STA
+This Regulation shall apply to employed or self-employed persons and to students who are or have been subject to the legislation of one or more Member States and who are nationals of one of the Member States or who are stateless persons or refugees residing within the territory of one of the Member States, as well as to the members of their families and their survivors.	STA
+It has been conceded for the purposes of these proceedings that the appellant falls within the personal scope of Regulation 1408/71 under article 2(1).	STA
+This is because she falls within the definition of employed person in article 1(a), which includes any person who is insured for one or more of the contingencies covered by the branches of a social security scheme for employed or self-employed persons.	STA
+The effect of the meaning that is given to employed person is that the Regulation applies to persons who have retired from employment in the EU but who remain insured because of contributions paid during their working life.	Ratio
+One of its main functions is to provide for retired workers who are living in a Member State which is different from that in which they worked.	Ratio
+The appellant remains insured under the Latvian social security scheme by virtue of the contributions paid during her working life there.	Ratio
+She did not come to this country to work here, but the basis of her residence in this country is irrelevant to the personal scope of Regulation 1408/71.	Ratio
+Its application is not limited to those whose current residence arises from an exercise of the right of free movement for the purpose of employment or other economic activity conferred by EU law.	Ratio
+Article 3 of Regulation 1408/71 addresses the issue of equality of treatment.	STA
+It was amended by Regulation (EC) No 647/2005 with effect from 13 April 2005.	STA
+As amended, it provides as follows: 1.	STA
+Subject to the special provisions of this Regulation, persons to whom this Regulation applies shall be subject to the same obligations and enjoy the same benefits under the legislation of any Member State as the nationals of the State.	STA
+The parties are agreed that article 3(1) prohibits both direct and indirect discrimination in respect of the appellants entitlement to state pension credit on grounds of nationality.	STA
+They are also agreed that it does not prohibit indirect discrimination if it is objectively justified by considerations independent of the nationality of the person concerned.	STA
+Article 4 sets out the matters covered by Regulation 1408/71 (the material scope).	STA
+Article 4(1) provides that the Regulation shall apply to all legislation concerning the branches of social security listed in that paragraph, including old- age benefits: paragraph (1)(c).	STA
+Article 4(2) provides as follows: 2.	STA
+This Regulation shall apply to all general and special social security schemes, whether contributory or non-contributory, and to schemes concerning the liability of an employer or shipowner in respect of the benefits referred to in paragraph 1.	STA
+General social benefits of a kind not listed in article 4(1) were held not to constitute a social security benefit within the meaning of Regulation 1408/71: Case 249/83 Vera Hoeckx v Centre Public dAide Sociale de Kalmthout [1987] 3 CMLR 638, para 14.	PRE
+But article 4(2a), which was inserted by Regulation (EEC) No 1247/92 with effect from 1 June 1992, as amended by Regulation (EC) No 647/2005 with effect from 13 April 2005, now provides so far as relevant: This Article shall apply to special non-contributory cash benefits which are provided under legislation which, because of its personal scope, objectives and/or conditions for entitlement has characteristics both of the social security legislation referred to in paragraph 1 and of social assistance.	STA
+Special non-contributory cash benefits means those: (a) which are intended to provide either: (i) supplementary, substitute or ancillary cover against the risks covered by the branches of social security referred to in paragraph 1, and which guarantee the persons concerned a minimum subsistence income having regard to the economic and social situation in the Member State concerned; or (ii) , and (b) where the financing exclusively derives from compulsory taxation intended to cover general public expenditure and the conditions for providing and for calculating the benefits are not dependent on any contribution in respect of the beneficiary.	STA
+and (c) which are listed in Annex IIa.	STA
+Among the special non-contributory benefits listed in Annex IIa in respect of the United Kingdom is state pension credit: para Y(a).	STA
+The parties are agreed that state pension credit falls within the material scope of Regulation 1408/71 as a special non-contributory benefit to which it applies.	STA
+Article 4(4) of Regulation 1408/71 provides: This Regulation shall not apply to social and medical assistance, to benefit schemes for victims of war or its consequences.	STA
+State pension credit is a means tested non-contributory benefit.	STA
+As such, it would not previously have fallen within the definition of social security.	STA
+As a non- discretionary cash benefit, it does not fall within the concept of social assistance either, unlike a discretionary cash benefit or the provision of social services.	STA
+But it falls within the material scope of the Regulation because it is among the special non-contributory benefits listed in Annex IIa.	STA
+For this purpose it is classified as a social security benefit.	STA
+Issues	Ratio
+The appellant contends that the refusal of state pension credit to a Latvian because she did not have a right to reside in the United Kingdom is prohibited by article 3(1) of Regulation 1408/71.	ARG
+Her case is that the refusal was on grounds of nationality, as the requirement to have a right to reside is met in the case of all UK nationals simply by virtue of their British nationality whereas nationals of the other Member States, other than Irish citizens (who can rely on their right to reside in Ireland), do not have that right.	ARG
+The Secretary of State concedes, and the Court of Appeal held in paras 25-26 of its judgment [2009] EWCA Civ 621, that regulation 2 of the 2002 Regulations is covertly, or indirectly, discriminatory between Latvian and United Kingdom nationals in that fewer nationals of EU Member States other than the United Kingdom have or will acquire a right to reside in the United Kingdom or elsewhere in the Common Travel Area.	ARG
+The appellants primary case, however, is that regulation 2 is overtly, or directly, discriminatory.	ARG
+Mr Lewis QC for the Secretary of State said that, if the requirement constituted direct discrimination, he could not seek to justify it.	ARG
+The following issues are therefore raised by this appeal: (1) Do the conditions of entitlement to benefit in regulation 2 of the 2002 Regulations give rise to direct discrimination for the purposes of article 3(1) of Regulation 1408/71? (2) If they give rise only to indirect discrimination, is that discrimination objectively justified on grounds independent of the appellants nationality? (3) If the indirect discrimination would otherwise be objectively justified, is that conclusion undermined by the favourable treatment that regulation 2(2) gives to Irish nationals?	Ratio
+In the Court of Appeal Moses LJ, with whom the other members of the Court agreed, held that the conditions for entitlement to state pension credit were not overtly based on the nationality of the claimant because nationals from other Member States might satisfy the right to reside test in other words, they did not discriminate on grounds of nationality so the conditions were not directly discriminatory: paras 24-25.	RLC
+Addressing himself to the question whether the indirect discrimination was justified on grounds independent of the appellants nationality, he held that it was so justified: paras 52-53.	RLC
+State pension credit had the characteristics of social assistance, despite its inclusion within the scope of Regulation 1408/71.	RLC
+The prohibition on discrimination might be restricted in that context to those who were economically or socially integrated with the country whose social assistance they sought, for the purpose of protecting the finances of the country.	RLC
+He said that this conclusion imposed no disadvantage on the appellant in the exercise of her rights under the Treaty, as she retained her Latvian pension.	RLC
+He rejected the appellants argument that the justification for restricting entitlement to those economically or socially integrated within the United Kingdom was undermined by the special treatment of Irish nationals: para 54.	RLC
+Discrimination	Ratio
+The fifth recital of the preamble to Regulation 1408/71 recognised that it was necessary, within the framework of the system of coordination that it laid down, to guarantee to workers living in the Member States within the Community equality of treatment under the various national legislations.	Ratio
+Article 3(1) gives effect to this aim by requiring that persons to whom the Regulation applies are to enjoy the same benefits under the legislation of any Member State as the nationals of that State.	Ratio
+The approach which the national court must adopt to this issue was described in Case C-124/99 Borawitz v Landesversicherungsanstalt Westfalen [2000] ECR I-7293: 23 In this respect, it must be borne in mind that the object of article 3(1) of Regulation No 1408/71 is to ensure, in accordance with [article 39 EC], equal treatment in matters of social security, without distinction based on nationality, for the persons to whom that regulation applies by abolishing all discrimination in that regard deriving from the national legislation of the Member States (Case C- 131/96 Mora Romero v Landesversicherungsanstalt Rheinprovinz [1997] ECR I-3659, paragraph 29.	PRE
+24 It is settled case law that the principle of equal treatment, as laid down in that article, prohibits not only overt discrimination based on the nationality of the beneficiaries of social security schemes but also all covert forms of discrimination which, through the application of other distinguishing criteria, lead in fact to the same result (Mora Romero, paragraph 32).	PRE
+25 Accordingly, conditions imposed by national law must be regarded as indirectly discriminatory where, although applicable irrespective of nationality, they affect essentially migrant workers or where the great majority of those affected are migrant workers, as well as conditions which are applicable without distinction but can more easily be satisfied by national workers than by migrant workers or where there is a risk that they may operate to the particular detriment of migrant workers (Case C-237/94 OFlynn v Adjudication Officer [1996] ECR I-2617, paragraph 18).	PRE
+26 It is otherwise only if those provisions are justified by objective considerations independent of the nationality of the workers concerned, and if they are proportionate to the legitimate aim pursued by the national law (OFlynn, paragraph 19).	PRE
+The European Court applied the adjectives overt and covert to the two forms of discrimination discussed in this passage.	PRE
+As Mr Cox for the appellant explained, however, they are best described as direct and indirect discrimination.	PRE
+Direct discrimination occurs where the discrimination is based on the nationality of the beneficiaries of social security schemes: Borawitz, para 24.	PRE
+Indirect discrimination occurs where, through the application of other criteria, the legislation leads to the same result: Borawitz, para 25.	PRE
+Advocate General Sharpston used the expressions direct and indirect when she analysed the Courts case law on discrimination in Case C-73/08 Bressol v Gouvernement de la Communaut Franaise [2010] 3 CMLR 559, as did the Court in paras 40-41 of its judgment.	PRE
+In para 46 of her opinion the Advocate General said that the distinction between direct and indirect discrimination lacks precision, and in para 50 that the distinction between what is overt and covert does not necessarily always coincide with that between direct and indirect discrimination.	PRE
+But I think that Mr Lewis identified the issue in this case correctly when he said that the key question on the discrimination issue is whether the conditions for entitlement to state pension credit are formulated in terms of the nationality of the claimants, or in terms of criteria other than nationality.	PRE
+The basis of entitlement under section 1(2)(a) of the State Pension Credit Act 2002 is whether the claimant is in Great Britain.	Ratio
+Thus far, it appears to be based solely on physical presence in this country and to have nothing to do with nationality.	Ratio
+But the matter does not, of course, stop there.	Ratio
+Section 1(2)(a) must be read with the 2002 Regulations which, as required by section 1(5)(a) of the 2002 Act, set out the circumstances in which a person is to be treated as being in, or not being in, Great Britain.	Ratio
+This test appears, at a superficial level, to have nothing to do with nationality either.	Ratio
+It is expressed in terms of whether or not the person is habitually resident in the United Kingdom or elsewhere in the Common Travel Area.	Ratio
+But the rules as to when a person is or is not to be treated as habitually resident do introduce tests which raise issues about nationality.	Ratio
+They are also hard, at first reading, to assimilate.	Ratio
+They involve the use of not just one, but two double negatives.	Ratio
+In regulation 2(1) a list is given of five circumstances in which no person is not to be treated as habitually resident.	Ratio
+Then in regulation 2(2) a direction is given that no person shall be so treated if he does not have a right to reside there.	Ratio
+As Lord Walker said in the course of the argument, the wording of these provisions suggests that they may be trying to hide something.	Ratio
+It is necessary to look more closely at their effect.	Ratio
+Read in isolation, the right to reside requirement in regulation 2(2) sets out a test which no United Kingdom national could fail to meet.	Ratio
+And it puts nationals of other Member States at a disadvantage.	Ratio
+As already noted, a British citizen has, by virtue of his or her United Kingdom nationality, a right to reside in the United Kingdom by virtue of his right of abode under section 2(1) of the Immigration Act 1971.	Ratio
+Those who do not have United Kingdom nationality do not have that right automatically.	Ratio
+Nationals of other Member States of the EU who do not fall within the provisions of regulation 2(1) must do something else to acquire it.	Ratio
+Under EU law they must be economically active or self-sufficient, or must be a member of the family of an EU citizen who meets these requirements.	Ratio
+The disadvantage which nationals of other Member States will encounter in trying to meet the requirements of regulation 2(2) is due entirely to their nationality.	Ratio
+Had a right to reside in the United Kingdom or elsewhere in the Common Travel Area been the sole condition of entitlement to state pension credit, it would without doubt have been directly discriminatory on grounds of nationality.	Ratio
+The effect of regulation 2(2) of the 2002 Regulations must, however, be looked at in the context of section 1(2)(a) of the 2002 Act and regulation 2 as a whole.	Ratio
+The condition which all claimants must meet, if they are to be treated as in Great Britain for the purposes of section 1(2)(a) of the 2002 Act, is that they must be habitually resident in the United Kingdom or elsewhere in the Common Travel Area.	Ratio
+Everyone, including United Kingdom nationals, must meet this requirement.	Ratio
+But while all United Kingdom nationals have a right to reside in the United Kingdom, not all of them will be able to meet the test of habitual residence.	Ratio
+Most are, of course, habitually resident here.	Ratio
+Others are not.	Ratio
+They can all meet the right to reside requirement that regulation 2(2) sets out because of their nationality.	Ratio
+But nationality alone does not enable them to meet the requirement in regulation 2(1).	Ratio
+Katherine Fleay, an employee of the Department of Work and Pensions involved in formulating policy relating to access by people from abroad to income-related benefits, referred in para 17 of her witness statement to the Departments memorandum to the Social Security Advisory Committee in February 1994.	Ratio
+In that statement it was pointed out that some UK nationals returning to the UK after a long period of absence may be held not to be habitually resident in this country.	Ratio
+EU nationals who satisfy one of the conditions listed in regulation 2(1) do not need to meet the right to reside test, as they are to be treated as habitually resident here.	Ratio
+Mr Cox for the appellant submitted that the requirement to have a right to reside here discriminated directly between citizens of the United Kingdom on the one hand and citizens of other Member States on the other.	ARG
+It was a clear case of discrimination on the basis of nationality: Vera Hoeckx v Centre Public dAide Sociale de Kalmthout [1987] 3 CMLR 638, para 24.	PRE
+That being so, article 3(1) of Regulation 1408/71 required that discrimination to be eliminated by deeming the appellant to be a British citizen for the purposes of entitlement to state pension credit.	Ratio
+I do not think that it is as simple as that when regulation 2 of the 2002 Regulations is read as a whole.	Ratio
+The requirement which everyone must satisfy is that they are in Great Britain.	Ratio
+The test which regulation 2 lays down is a composite one.	Ratio
+Some United Kingdom citizens will be able to say that they are in Great Britain.	Ratio
+Some will not.	Ratio
+That is true also of nationals of other Member States.	Ratio
+No doubt it will be more difficult in practice for nationals of other Member States to meet the test.	Ratio
+But not all United Kingdom nationals will be able to meet the test either.	Ratio
+In James v Eastleigh Borough Council [1990] 2 AC 751 a rule that those who were not of pensionable age had to pay for admission to a public swimming pool was held to directly discriminate between men and women because their pensionable ages were different.	PRE
+In that case there was an exact match between the difference in pensionable ages and the rule, as the right to free admission depended upon a single criterion an exact coincidence, as Lady Hale puts it: see para 91, below.	PRE
+The statutory pensionable age alone determined whether the person had to pay or not.	PRE
+As Lord Ackner put it at p 769, if you were a male you had, vis--vis a female, a five-year handicap.	PRE
+This was true of every male, not just some or even most of them.	PRE
+That is not so in the present case.	Ratio
+There is no such exact match.	Ratio
+The composite test is one that some UK nationals may fail to meet too because, although they have a right of residence, they are not habitually resident here.	Ratio
+Furthermore, we are not required in this case to say whether this amounts to direct discrimination in domestic law.	Ratio
+The question for us is whether it amounts to direct discrimination for the purposes of article 3(1) of Regulation 1408/71.	Ratio
+The approach which EU law takes to a composite test of this kind is indicated by the decision of the European Court of Justice in Bressol v Gouvernement de la Communaut Franaise [2010] 3 CMLR 559.	Ratio
+The Belgian legislation that was analysed in that case was similar in structure to that of regulation 2 of the 2002 Regulations.	Ratio
+It too involved a composite test, one element of which could be satisfied by a person who was not a national of the host Member State only if he met certain additional conditions but which every national of the host member state would automatically satisfy.	Ratio
+A restrictive French education policy had resulted in an influx of students from France to Belgium, whose system was based on free access to education.	Ratio
+This was thought to impose an excessive burden on public finances and to jeopardise the quality of the education provided in Belgium.	Ratio
+So the government sought, by a decree adopted in June 2006 by the Parliament of the French Community of Belgium, to limit the number of non-resident students who were entitled to enrol in certain programmes in the first two years of undergraduate studies in each university or school of higher education.	Ratio
+A resident student for the purposes of this decree was defined as a student who, at the time of registration in an institution of higher education, proved that his principal place of residence was in Belgium.	Ratio
+This was the first of two cumulative conditions which a prospective student had to satisfy.	Ratio
+He also had to fulfil one of eight other conditions, one of which was that he had the right to remain permanently in Belgium.	Ratio
+Belgians have that right by virtue of their Belgian nationality.	Ratio
+Citizens of other Member States have the right to remain permanently in Belgium only if they have a right to do so which is recognised by EU law.	Ratio
+Among the questions referred to the Court by the Belgian Constitutional Court was whether this measure was precluded by articles 12 and 18 EC read with articles 149 and 150 EC.	Ratio
+Advocate General Sharpston, in a powerful opinion, identified the issues that this question gave rise to as being whether the conditions, which had to be satisfied cumulatively, constituted direct or indirect discrimination.	Ratio
+She said that discrimination could be considered to be direct where the difference in treatment was based on a criterion which was either explicitly that of nationality or was necessarily linked to a characteristic indissociable from nationality: para 53.	Ratio
+She then examined each of the cumulative conditions separately.	Ratio
+She held that the first cumulative condition that the principal place of residence was in Belgium did not constitute direct discrimination.	Ratio
+This was because Belgians and non-Belgians alike could establish their principal place of residence in Belgium.	Ratio
+As this, apparently neutral, condition was likely to operate mainly to the detriment of nationals of other member states, it was indirectly discriminatory: paras 60-62.	Ratio
+It seemed to her, in contrast, that the second cumulative condition was necessarily linked to a characteristic indissociable from nationality.	Ratio
+Belgians automatically had the right to remain permanently in Belgium.	Ratio
+They therefore satisfied the second cumulative condition automatically.	Ratio
+Non-Belgians, on the other hand, had to fulfil additional criteria to acquire a right permanently to remain in Belgium or to satisfy one of the seven other conditions.	Ratio
+This discrimination was based on nationality and was therefore direct discrimination.	Ratio
+The answer to the question was that the measures in question were precluded by the articles of the EC Treaty that had been founded upon.	Ratio
+However the Court did not adopt the approach of the Advocate General.	Ratio
+As Lord Walker points out, it did not explain why it thought that the Advocate General was wrong to treat the case as direct discrimination.	Ratio
+But the contrast between her carefully reasoned approach and that of the Court is so profound that it cannot have been overlooked.	Ratio
+One must assume that her approach, which was to find that the measures were precluded because the second condition was directly discriminatory, was rejected by the Court as too analytical.	Ratio
+The Court looked at the conditions as a whole.	Ratio
+It referred to its judgment in Case C-212/05 Hartmann v Freistaat Bayern [2007] ECR I-6303, para 29, where it acknowledged that the principle of non-discrimination prohibits not only direct discrimination on grounds of nationality but also all indirect forms of discrimination which lead in fact to the same result by the application of other criteria of differentiation.	Ratio
+It said that a provision of national law was to be regarded as indirectly discriminatory if it was liable to affect nationals of other Member States more than nationals of the host State and there was a consequent risk that it would place the former at a particular disadvantage: paras 40-41.	Ratio
+It then proceeded in para 42 to make the following analysis, by looking at the residence conditions cumulatively: In the cases in the main proceedings, the decree of June 16, 2006 provides that unrestricted access to the medical and paramedical courses covered by that decree is available only to resident students, that is those who satisfy both the requirement that their principal residence be in Belgium and one of the eight other alternative conditions listed in points 1-8 of the first paragraph of article 1 of that decree.	Ratio
+[Emphasis added]	Ratio
+The Court concluded that, looked at in this way, the national legislation created a difference in treatment between resident and non-resident students.	Ratio
+A residence condition, such as that required by this legislation, was more easily satisfied by Belgian nationals, who more often than not reside in Belgium, than by nationals of other Member States, whose residence is generally in a Member State other than Belgium.	Ratio
+It followed that the national legislation affected nationals of Member States other than Belgium more than Belgian nationals and placed them at a particular disadvantage which was indirectly discriminatory.	Ratio
+The second cumulative condition as to the right to remain permanently in Belgium which the Advocate General said was necessarily linked to a characteristic indissociable from nationality and directly discriminatory, was subsumed into the first when the two conditions were treated cumulatively.	Ratio
+The fact that the Court then went on to consider whether the difference in treatment was objectively justified makes it plain beyond any doubt that it considered the case to be one of indirect, rather than direct, discrimination.	Ratio
+There is an obvious similarity between the provisions under consideration in Bressol and the circumstances in which a person is to be treated as being in Great Britain by regulation 2 of the 2002 Regulations.	Ratio
+The tests are of the same type and they can be analysed in the same way.	Ratio
+Just as in that case the specified courses were to be available to resident students only, here a person must be in Great Britain to be entitled to state pension credit.	Ratio
+The European Court did not follow the Advocate Generals invitation to concentrate exclusively on the second cumulative condition.	Ratio
+Nor did it pick up the point that she made in footnote 34 to her opinion, where she drew attention to Advocate General Jacobs opinion in Case C-79/99 Schnorbus v Land Hessen [2000] ECR I-10997, [2001] 1 CMLR 40, para 33 which has been discussed by Lord Walker (paras 66-68, below) and by Lady Hale (paras 88-91, below).	Ratio
+Instead it looked at the conditions cumulatively and treated them overall as importing a residence test which was indirectly discriminatory.	Ratio
+So it would be wrong in this case to concentrate exclusively on the regulation 2(2) right to reside test which is linked to nationality.	Ratio
+Looking at the regulation as a whole, in the context of section 1(2)(a) of the 2002 Act, the test which is laid down is that the claimant must be in Great Britain.	Ratio
+This test is constructed in a way that is more likely to be satisfied by a United Kingdom national than by a national of another Member State.	Ratio
+The Courts reasoning in Bressol tells us that it is not directly discriminatory on grounds of nationality.	Ratio
+But it puts nationals of other Member States at a particular disadvantage, so it is indirectly discriminatory.	Ratio
+As such, to be lawful, it has to be justified.	Ratio
+Justification	Ratio
+The test that must be applied is to be found in Case C-209/03 R (Bidar) v Ealing London Borough Council [2005] QB 812, para 54.	PRE
+In that case the European Court held that the criteria in the Education (Student Support) Regulations 2001 for granting assistance to cover the maintenance of students risked placing primarily nationals of other Member States at a disadvantage, because the condition requiring them to have residence in the United Kingdom prior to their studies was likely to be more easily satisfied by United Kingdom nationals: para 53.	PRE
+In para 54 the Court said that such a difference in treatment could be justified only if it was based on objective considerations independent of the nationality of the persons concerned and was proportionate to the legitimate aim of the national provisions.	PRE
+Another source for this test is Case C-138/02 Collins v Secretary of State for Work and Pensions [2005] QB 145, para 66, where the same formula is set out; see also Case C-164/07 Wood v Fonds de Garantie des Victimes des Actes de Terrorisme et dAutres Infractions [2008] 3 CMLR 265, para 13.	PRE
+The parties are agreed that article 3(1) of Regulation 1408/71 does not prohibit indirect discrimination if it is objectively justified by considerations that are independent of the nationality of the person concerned.	PRE
+They are also agreed that the proportionality of the conditions for state pension credit under regulation 2 of the 2002 Regulations is not in issue.	PRE
+As Mr Cox put it in his reply, what the Secretary of State has to show is that the difference in treatment of nationals of other member states is based on objective considerations independent of nationality.	PRE
+If the Secretary of State can meet this requirement, there is no need to examine the question of proportionality.	PRE
+If he cannot do so, it will not help him to say that the conditions for entitlement are proportionate.	PRE
+There are, then, two questions that need to be addressed.	PRE
+First, do the Secretary of States reasons for the difference in treatment provide an objective justification for it? Secondly, if they do, is that justification based on considerations that are independent of the nationality of the persons concerned? The jurisprudence of the European Court has consistently shown that these are matters for the national court to determine: Bressol v Gouvernement de la Communaut Franaise [2010] 3 CMLR 559, para 64.	PRE
+The Secretary of States reasons for the introduction of the right to reside requirement in the 2002 Regulations were set out in a statement made in accordance with section 174(2) of the Social Security Administration Act 1992 in April 2004 in response to concerns raised by the Social Security Advisory Committee (Cm 6181).	Ratio
+As Katherine Fleay explained in her witness statement, para 4, it was made at the same time as regulations introducing the right to reside test were laid before Parliament.	Ratio
+The underlying purpose was said to be to safeguard the United Kingdoms social security system from exploitation by people who wished to come to this country not to work but to live off income- related benefits, while allowing those who come here genuinely to work to have access to them: para 4 of Cm 6181.	Ratio
+The purpose of the habitual residence test was to prevent benefit tourism.	Ratio
+It was believed to be not unreasonable to expect people who were not economically active, whatever their nationality, to show that they had decided to live indefinitely in the United Kingdom and had a right to reside here before being entitled to benefits funded by the UK tax-payer: paras 13-17.	Ratio
+In para 45 he gave this further explanation: As already explained, the Government considers that it is not unreasonable to concentrate benefits on people who have a particularly close connection with the UK or to expect people to have a right to reside in the UK before they become entitled to income-related benefits funded by the UK tax-payer.	Ratio
+The EC Directives governing the right of those who are economically inactive to reside in other member states have been in place since the early 1990s.	Ratio
+Before the current Immigration (European Economic Area) Regulations 2000, the Immigration (EEA) Order 1994 made clear in line with those Directives that EEA nationals who were economically inactive (for example, retired people) had to have sufficient resources to avoid their becoming a burden on our social assistance system in order to be entitled to reside in the UK without having leave to remain.	Ratio
+The Governments proposals merely seek to bring the income-related benefit rules into line with this long- standing requirement.	Ratio
+In para 57 of the statement the Secretary of State said that the government believed that its proposals were compatible with EU law as there would be no difference in treatment as between nationals of the eight accession states and other nationals.	Ratio
+In para 58 he added this further point: Moreover, the new requirement to have a right to reside in the UK as a condition of access to income-related benefits will apply to UK nationals as well as current EEA nationals and nationals of the acceding states.	Ratio
+It will thus apply equally to nationals of all Member States.	Ratio
+In para 61 he again stated that the government was concerned that some current EEA nationals had taken advantage of free movement within the European Economic Area to become an unreasonable burden on this countrys benefit system, even though this negated their right to reside in the United Kingdom.	Ratio
+It was reasonable to expect people to have a right to reside in the United Kingdom before they could have access to its income-related benefits, particularly as support might last for many years.	Ratio
+His proposals were expected to bring the United Kingdom into line with the broad approach of policy and practice in Europe.	Ratio
+It should be noted, in regard to that last observation, that by letter dated 4 June 2010 the European Commission invited the United Kingdom pursuant to article 258 TFEU to submit observations on the compatibility with EU law of the imposition of a right to reside test for benefits, including state pension credit, falling within the scope of Regulation 1408/71.	Ratio
+Under this procedure, if the Commission is not satisfied with the United Kingdoms observations, it will send a reasoned opinion to the Member State following which, if it does not remedy the alleged breach within the time-frame set by the Commission, the Commission may bring the matter before the Court of Justice of the European Union.	Ratio
+Mr Drabble QC for the intervener, the AIRE Centre (Advice on Individual Rights in Europe), submitted that the Commissions decision to issue a letter of formal notice supported the conclusion that it was at least not acte clair that right to reside test was compatible with EU law.	Ratio
+So far, no opinion has yet been issued by the Commission with reference to any alleged infringement of Regulation 1408/71.	Ratio
+In these circumstances I would not draw any conclusions either one way or the other from these developments.	Ratio
+The justification that was given in para 45 of the Secretary of States statement is repeated in the agreed Statement of Facts and Issues, para 33: The justification advanced by [the Secretary of State] for the discriminatory effect of regulation 2 of the 2002 Regulations is to protect the resources of the United Kingdom by refusing means- tested benefits to non-economic European Union migrants who cannot support themselves and that there is a principle of EU law that Member States were entitled not to grant social assistance to non-economically active nationals of other EU Member States.	Ratio
+Mr Lewis submitted that the requirements of regulation 2 of the 2002 Regulations were objectively justifiable.	ARG
+He said that para 33 of the Statement of Facts and Issues was not meant to be a complete statement.	ARG
+A person would be eligible to receive state pension credit if he could show economic integration in the United Kingdom or a sufficient degree of social integration here.	ARG
+Where there was social integration, the person would be eligible.	ARG
+What the regulation sought to do was to prevent exploitation of welfare benefits by people who came to this country simply to live off benefits without working or having worked here.	ARG
+It was important to understand the nature of state pension credit.	ARG
+As the Court of Appeal observed in para 41, Regulation 1408/71 draws a distinction between social security benefits within article 4(1) and hybrid benefits within article 4(2a).	ARG
+Social security benefits, such as the appellants Latvian pension, could not be the subject of a residence condition.	ARG
+They must be exportable to any state within the EU.	ARG
+Hybrid benefits on the other hand, such as state pension credit, reflected the social and economic conditions in the country where they were paid.	ARG
+They did not lose their character as social assistance simply because they were treated by the article as hybrid.	ARG
+What mattered was the nature and function of the benefit.	ARG
+State pension credit was social assistance despite the hybrid status that it was given by Regulation 1408/71.	ARG
+It is an income-related benefit to help people in need.	ARG
+So it was not inconsistent with the purpose of Regulation 1408/71 for access to this benefit to be refused to people who did not have right to reside in this country.	ARG
+Mr Lewis submitted that this approach was supported by the judgment of the European Court in Case C-456/02 Trojani v Centre Public dAide Sociale de Bruxelles [2004] 3 CMLR 820 and various EU measures dealing with the right of residence in EU law and its consequences such as Council Directive 90/364 EEC, which made it a condition of the grant of a right of residence in a host Member State to nationals of other Member States that they have sufficient resources to avoid becoming a burden on its social assistance system during their period of residence.	ARG
+Mr Trojani was a French national.	ARG
+He moved to Belgium where he worked for a while without being registered.	ARG
+He then sought social assistance in the form of a benefit known as the minimex.	ARG
+One of the questions was whether he had a right of residence in Belgium, and was thus entitled to social assistance there, simply by virtue of being an EU citizen.	ARG
+In para 17 of his opinion in Trojani Advocate General Geelhoed said that the differential treatment of economic and non-economic migrants, viewed historically, was based on the need to remove obstacles to inter-state trade and later to provide for the free movement of persons.	Ratio
+In para 18 he contrasted the historical position with what it is today: The difference in treatment now has a more pragmatic basis.	Ratio
+So long as social security systems have not been harmonised in terms of the level of benefits, there remains a risk of social tourism, ie moving to a Member State with a more congenial social security environment.	Ratio
+And that is certainly not the intention of the EC Treaty, which to a considerable extent leaves responsibility for social policy in the hands of the Member States.	Ratio
+The Community legislature has acted on the assumption that an economic migrant will not claim any subsistence allowance in the host Member State.	Ratio
+In para 70 he said that the basic principle of Community law is that persons who depend on social assistance will be taken care of in their own Member State.	Ratio
+There was no doubt that Mr Trojani was applying for the minimex because he did not have sufficient resources to provide for himself.	Ratio
+In these circumstances he could not claim a right of residence on the basis of article 18 EC.	Ratio
+The Court endorsed the approach of the Advocate General.	Ratio
+In paras 35-36 it said: 35 It follows from the judgment making the reference that a lack of resources was precisely the reason why Mr Trojani sought to receive a benefit such as the minimex. 36 In those circumstances, a citizen of the Union in a situation such as that of the claimant in the main proceedings does not derive from article 18 EC the right to reside in the territory of a Member State of which he is not a national, for want of sufficient resources within the meaning of Directive 90/364.	Ratio
+Mr Coxs response to these arguments was that the purpose of regulation 2 of the 2002 Regulations was simply to exclude other EU citizens.	ARG
+This was plainly contrary to article 3(1) of Regulation 1408/71, whose effect was that the provisions of Regulation 1408/71 applied to all those who were within its personal scope without distinction as to whether they were lawfully resident in the host Member State.	ARG
+When the Secretary of State used the word people in his statement (see paras 37-38, above) it was plain that he was referring to citizens of other Member States.	ARG
+He was not seeking to impose additional conditions on United Kingdom nationals, as it was enough for them to prove British citizenship.	ARG
+For those who were not United Kingdom or Irish nationals, habitual residence was no longer to be enough.	ARG
+The Secretary of States purpose was not independent of nationality.	ARG
+So the regulation could not be justified by objective considerations independent of the nationality of the persons concerned.	ARG
+As for the nature of state pension credit, some benefits which had the characteristics of social assistance were properly characterised as social security.	ARG
+That was what article 4(2a), inserted by Regulation (EC) No 647/2005, was designed to do.	ARG
+There was consistent case law, starting with Case 1/72 Rita Frilli v The State (Minister for Social Security) [1973] CMLR 386, para 14, to the effect that benefits which had the dual characteristics of social assistance and social security, and which conferred upon beneficiaries a legally defined position giving them a right to benefit, are to be treated as social security.	ARG
+This was significant because, if the principle which the Secretary of State relied upon (see para 40, above) did exist, it was only relevant to social assistance benefits and not in respect of social security.	ARG
+As I understood Mr Coxs argument, he did not seriously question the proposition that the Secretary of States reasons are objectively justifiable.	Ratio
+The purpose of regulation 2 of the 2002 Regulations is to ensure that the claimant has achieved economic integration or a sufficient degree of social integration in the United Kingdom or elsewhere in the Common Travel Area as a pre-condition of entitlement to the benefit.	Ratio
+The effect of article 4(2a) of Regulation 1408/71 is that social assistance benefits such as state pension credit share features with social security.	Ratio
+But I agree with the Court of Appeal that the widening of the scope of Regulation 1408/71 does not preclude a justification of indirect discrimination which is based on the nature of the benefit: para 51.	Ratio
+The Secretary of States justification lies in his wish to prevent exploitation of welfare benefits by people who come to this country simply to live off benefits without working here.	Ratio
+That this is a legitimate reason for imposing the right of residence test finds support in Advocate General Geelhoeds opinion in Trojani v Centre Public dAide Sociale de Bruxelles [2004] 3 CMLR 820, para 70 that it is a basic principle of Community law that persons who depend on social assistance will be taken care of in their own Member State.	Ratio
+The more difficult question is whether this justification is independent of the nationality of the persons concerned.	Ratio
+A finding that the conditions in regulation 2 are indirectly discriminatory on grounds of nationality provides the context for a consideration of this question.	Ratio
+Inevitably the two questions are bound up together.	Ratio
+But the fact that the difference in treatment is based indirectly on grounds of nationality cannot be permitted to lead inevitably to the conclusion that a justification for it cannot be regarded as independent of the nationality of the persons concerned.	Ratio
+Otherwise the test for its justification which the court has laid down would be incapable of ever being met.	Ratio
+The approach which the test invites at this stage is to examine the justification on its own merits without regard to its indirect discriminatory consequences.	Ratio
+The justification is founded on the principle that those who are entitled to claim social assistance in the host Member State should have achieved a genuine economic tie with it or a sufficient degree of social integration as a pre-condition for entitlement to it.	Ratio
+In Kaczmarek v Secretary of State for Work and Pensions [2008] EWCA Civ 1310, [2009] 2 CMLR 85, para 2, Maurice Kay LJ said that if a citizen of one Member State who is lawfully present in another Member State can, without difficulty and whilst economically inactive, access the social security benefits of the host State, the implications for the more prosperous Member States with more generous social security provisions are obvious.	PRE
+The rules that regulation 2 of the 2002 Regulations lays down are intended to meet this problem.	PRE
+There are various ways in which the pre-condition for entitlement can be achieved under its provisions.	PRE
+They are not exclusively dependent on the nationality of the persons concerned.	PRE
+I think that there is force in Mr Coxs point that the persons to whom the Secretary of State was directing attention in his statement in response to concerns raised by the Social Security Advisory Committee were persons who were not nationals of the United Kingdom.	Ratio
+The context for the Secretary of States remarks was the perception that nationals of other Member States would take advantage of the right of free movement to access income-related benefits.	Ratio
+But even nationals of the United Kingdom must satisfy the test of habitual residence in order to be entitled to state pension credit: see para 26, above.	Ratio
+The same is true of Commonwealth citizens who have a right of abode here under section 2 of the Immigration Act 1971 and persons with a right of residence in the United Kingdom granted pursuant to that Act.	Ratio
+The principle on which the Secretary of States justification relies underlies the EU rules as to whether, and if so on what terms, a right of residence in the host Member State should be granted.	Ratio
+This is the issue to which Council Directive 90/364 EEC is directed.	Ratio
+In that context there is no prohibition on discrimination on grounds of nationality under EU law.	Ratio
+So there is no need to be concerned with the question whether the approach that is taken there can be justified on grounds that are independent of nationality.	Ratio
+Three questions then arise.	Ratio
+The first is whether the Secretary of States justification can be regarded as relevant in the present context.	Ratio
+The second is whether it is a sufficient justification given the effect of the rules that regulation 2 of the 2002 Regulations lays down.	Ratio
+The third is whether it is independent of the nationality of the person concerned.	Ratio
+The first and second questions can be taken together.	Ratio
+The justification is relevant because the issues that arise with regard to the grant of a right of residence are so closely related to the issues that are raised by the appellants claim to state pension credit.	Ratio
+They are, at heart, the same because they are both concerned with a right of access to forms of social assistance in the host Member State.	Ratio
+It is also a sufficient justification, in view of the importance that is attached to combating the risks of what the Advocate General in Trojani v Centre Public dAide Sociale de Bruxelles [2004] 3 CMLR 820, para 18 described as social tourism.	Ratio
+As for the third question, the answer to it depends not just on what the Secretary of State himself said in his statement (see paras 37-38, above), but also on the wording of the regulation and its effect.	Ratio
+They show that the Secretary of States purpose was to protect the resources of the United Kingdom against resort to benefit, or social tourism by persons who are not economically or socially integrated with this country.	Ratio
+This is not because of their nationality or because of where they have come from.	Ratio
+It is because of the principle that only those who are economical or socially integrated with the host Member State should have access to its social assistance system.	Ratio
+The principle, which I take from the decision in Trojani, is that it is open to Member States to say that economical or social integration is required.	Ratio
+A persons nationality does, of course, have a bearing on whether that test can be satisfied.	Ratio
+But the justification itself is blind to the persons nationality.	Ratio
+The requirement that there must be a right to reside here applies to everyone, irrespective of their nationality.	Ratio
+For these reasons I would hold that the Secretary of State has provided a sufficient justification, and that it is independent of the nationality of the person concerned.	Ratio
+It follows that the indirect discrimination that results from regulation 2 of the 2002 Regulations was not made unlawful by article 3(1) of Regulation 1408/71.	Ratio
+Irish nationals	Ratio
+Citizens of the Republic of Ireland have, as Irish nationals, a right to reside in the Republic of Ireland by virtue of their Irish citizenship.	Ratio
+So they meet the requirement of regulation 2(2) of the 2002 Regulations, even though they do not have a right to reside in the United Kingdom and are not habitually resident here.	Ratio
+It is enough that they are habitually resident in Ireland.	Ratio
+So, if they are in Great Britain too, they have the same right to state pension credit as United Kingdom nationals who are habitually resident in the United Kingdom and in Great Britain.	Ratio
+The appellant submits that, as entitlement to state pension credit is extended to Irish nationals, it is discriminatory not to extend it to nationals of all other Member States.	ARG
+As regulation 2(2) treats Irish citizens as if they were United Kingdom citizens, Latvian citizens too should be so treated by the operation of Regulation 1408/71.	ARG
+This is because that Regulation abolished all discrimination based on nationality and, in consequence, the domestic measure is to be disregarded.	ARG
+Mr Cox summarised his point graphically in his closing submission.	ARG
+He said that it was not open to the United Kingdom to give Irish nationals a free pass to state pension credit simply by showing their passports, while starving out nationals of the other Member States.	ARG
+The provision for Irish citizens in regulation 2 is protected by article 2 of the Protocol on certain aspects of article 14 EC (now article 26 TFEU) to the United Kingdom and Ireland, commonly referred to as the Protocol on the Common Travel Area.	Ratio
+Having first been annexed to the Treaty of Amsterdam, it is now annexed to the Treaty on the Functioning of the European Union and the Treaty on European Union as Protocol (No 20).	Ratio
+It states that the United Kingdom and Ireland may continue to make arrangements between themselves relating to the movement of persons between their territories.	Ratio
+It also provides that nothing in articles 26 and 77 of the Treaty on the Functioning of the European Union or in any other provision of that Treaty or of the Treaty on European Union or in any other measure adopted under them shall affect any such arrangements.	Ratio
+Mr Lewis said that the appellants argument gave rise to four questions: (1) Does the fact that different arrangements are made for Irish nationals than for nationals of other Member States undermine the policy justification for not extending the benefit to the other Member States? (2) Is this permitted by the Protocol? (3) If not, is it unlawful because it is discriminatory and unjustified? (4) If it is unlawful, what can be done about this? He submitted that the answer to the first question was straightforward.	ARG
+For economic, historical and social reasons Ireland is simply different from the other Member States.	ARG
+Recognising these differences did not undermine the policy justification for treating the other Member States differently.	ARG
+I do not think that Mr Cox had any answer to that submission.	Ratio
+Indeed he said that he did not seek in any way to affect the operation of regulation 2(2) in respect of Irish citizens.	Ratio
+The appellants case was that, as a citizen of Latvia, she was entitled to the same treatment as they receive under the arrangements that are protected by the Protocol.	Ratio
+The points in issue, therefore, are those focussed by the second, third and fourth questions.	Ratio
+The key words in the Protocol are those which indicate that the arrangements between the United Kingdom and Ireland that are protected by it are those relating to the movement of persons between their territories.	Ratio
+The principle of international law which precludes a State from denying its own nationals the right to enter its territory and reside there must be complied with in applying those arrangements: Case C-171/96 Roque v Lieutenant Governor of Jersey [1998] 3 CMLR 143, paras 38-39.	Ratio
+Mr Cox submitted that the arrangements with which the 2002 Regulations were concerned were not related to movement of persons between Ireland and the United Kingdom.	Ratio
+This was because an Irish citizen who had never set foot in Ireland and arrived in the United Kingdom could meet the requirement simply because he had a right to reside in Ireland.	Ratio
+Mr Lewis said that the situation referred to was wholly exceptional.	Ratio
+In any event, such a person would not, on arrival, satisfy the requirement as he would not be habitually resident either in the United Kingdom or in Ireland.	Ratio
+Looking at the matter realistically, it was plain that the arrangements with which the 2002 Regulations were concerned did facilitate free movement of persons between the two countries.	Ratio
+It did not limit the entitlement of Irish nationals to state pension credit to those who were economically active.	Ratio
+It facilitated the free movement of persons, not just workers.	Ratio
+Mr Cox submitted that there was no arrangement between the United Kingdom and Ireland protected by the Protocol because the provision made by each country for the others nationals was not reciprocal.	ARG
+Mr Lewis accepted that different rules as to entitlement to social security applied in Ireland.	ARG
+The Irish legislation does not provide an exemption for United Kingdom nationals or provide that residence in the United Kingdom is to be treated as residence in Ireland, as it is to be presumed unless the contrary is shown that a person is not habitually resident in the State unless he has been present in the State or any part of the Common Travel Area for a continuous period of two years: Social Welfare (Miscellaneous Provisions) Act 2004, section 17 and Schedule 1.	ARG
+But he submitted that absolute reciprocity was not required for an arrangement to fall within the protection of the Protocol.	ARG
+The arrangements could be one way only, so long as they related to the free movement of persons between the two countries.	ARG
+I think that some measure of reciprocity is contemplated by the Protocol.	Ratio
+But, as these are arrangements between two sovereign States, it would be going too far to insist on a precise match between the arrangements on one side of the Irish Sea and the other.	Ratio
+The words of article 2 do not suggest that the arrangements must meet this test to attract its protection.	Ratio
+Mr Cox submitted that, as it derogated from fundamental Community law principles, the Protocol fell to be construed strictly.	Ratio
+But in my opinion the rather loose word arrangements indicates that it is for the two States themselves to determine what would best suit the overall objective of promoting free movement between their territories, while taking account of each countrys different economic and social circumstances.	Ratio
+I would hold therefore that there is sufficient reciprocity between the respective conditions for entitlement, and a sufficient connection between the social security arrangements on either side and the aim of promoting free movement between the two countries, for the arrangements in regulation 2 of the 2002 Regulations to attract the protection of article 2 of the Protocol.	Ratio
+The third and fourth questions on Mr Lewiss list do not need to be answered.	Ratio
+I would reject the appellants argument that she is entitled to be treated in the same way as Irish nationals.	Ratio
+Conclusion	RPC
+I would hold that regulation 2 of the 2002 Regulations is indirectly discriminatory, but that the condition that it lays down is objectively justifiable on grounds independent of the appellants nationality.	RPC
+I would dismiss the appeal.	RPC
+Lord Hope has given a full and clear summary of the facts and the relevant national and EU legislation.	Ratio
+I can proceed at once to the three issues identified in para 20 of Lord Hopes judgment.	Ratio
+Direct or indirect discrimination?	Ratio
+The judgment of the Court of Appeal now under appeal was, by a strange coincidence, delivered on the same day (25 June 2009) as the opinion of Advocate General Sharpston in Bressol v Gouvernement de la Communaut Franaise (Case C73/08) [2010] 3 CMLR 559.	Ratio
+The Court of Appeal did not therefore have the opportunity of considering it.	Ratio
+The Advocate Generals opinion and the judgment of the Grand Chamber of the Court of Justice (delivered on 13 April 2010) are discussed in paras 30-34 of Lord Hopes judgment.	Ratio
+As he says, the difference between the Advocate Generals opinion and the Grand Chambers judgment is profound.	Ratio
+The opinion (paras 43-58) sets out a lengthy, scholarly and closely- reasoned discussion of the difference between direct and indirect discrimination.	Ratio
+The Grand Chamber made no reference to this discussion.	Ratio
+It treated the case as one of indirect (and therefore potentially justifiable) discrimination without explaining why the Advocate General was wrong to treat the case as direct discrimination.	Ratio
+Lord Hope (para 33) reads the judgment as treating the second cumulative condition (as to the right to remain permanently in Belgium) as having been subsumed into the first condition, but I confess that I cannot discern that subtlety in the judgment.	Ratio
+The Grand Chamber seems to have regarded it (para 45) simply as a residence condition more easily satisfied by Belgian nationals.	Ratio
+I regret that the Grand Chamber did not explain why they disagreed with the Advocate General.	Ratio
+She has, if I may respectfully say so, grappled with the real difficulties of this issue, although I do not agree with all her conclusions.	Ratio
+She has proposed a general definition of direct discrimination (para 56): I take there to be direct discrimination when the category of those receiving a certain advantage and the category of those suffering a correlative disadvantage coincide exactly with the respective categories of persons distinguished only by applying a prohibited classification.	Ratio
+In my view this is too narrow a definition.	Ratio
+As Lord Mance said in R (E) v Governing Body of JFS [2010] 2 AC 728, para 89, approving a submission from Miss Rose QC, an organisation which admitted all men but only women graduates would be engaged in direct discrimination on the grounds of sex.	Ratio
+The Advocate Generals proposed test works only if in this example the categories are limited to cohorts of non-graduates (or, in the well-known case of James v Eastleigh Borough Council [1990] 2 AC 751, to cohorts of men and women over 60 years but under 65 years of age).	Ratio
+It follows that in my opinion the Court of Appeal were wrong in adopting the reasoning in paras 22 to 24 of the judgment of Moses LJ.	Ratio
+He said in para 22: Article 3 [of Council Regulation (EC) No 1408/71] requires the conditions for entitlement to State Pension Credit, under the legislation of the United Kingdom, to be the same for Latvian nationals as for United Kingdom nationals.	Ratio
+Accordingly, it is necessary to focus on those conditions as a whole rather than one particular element of those conditions to the exclusion of others.	Ratio
+The right to reside condition does not by itself entitle a claimant to the benefit.	Ratio
+I do not see why the fact that there is more than one condition makes it necessary to focus on the conditions as a whole, if it is only one condition that produces unequal treatment.	Ratio
+The right to reside condition is not a sufficient condition for entitlement, but it is a necessary condition, and it is one that is automatically satisfied by every British national.	Ratio
+The fact that there is another cumulative condition (actual or deemed habitual residence) is irrelevant (Gravier v City of Lige (Case 293/83) [1985] ECR 593, para 14).	Ratio
+It might be different if there were alternative conditions, because neither condition would then be necessary (although one would be sufficient).	Ratio
+Returning to Bressol, I note that Advocate General Sharpston referred to the opinion of Advocate General Jacobs in Schnorbus v Land Hessen (Case C-79/99) [2000] ECR I-10997, para 33: It may be said that discrimination on grounds of sex arises where members of one sex are treated more favourably than the other.	Ratio
+The discrimination is direct where the difference in treatment is based on a criterion which is either explicitly that of sex or necessarily linked to a characteristic indissociable from sex.	Ratio
+It is indirect where some other criterion is applied but a substantially higher proportion of one sex than the other is in fact affected.	Ratio
+That is, to my mind, the best guidance that we have.	Ratio
+The second category (necessarily linked to a characteristic indissociable from sex) roughly corresponds to Advocate General Sharpstons proposed general definition, but is, I think, a better way of putting it.	Ratio
+Schnorbus was a case brought by a female law graduate whose progress to the final part of her professional training had been held up by a shortage of training places.	Ratio
+In the allocation of places some categories of applicants were given priority, including those (all male) who had completed a years compulsory national service.	Ratio
+This was, Advocate General Jacobs advised, potentially indirect discrimination on the ground of sex, but was justified as one in a list of cases where priority was appropriate (others were disability, adverse social or family circumstances, and being a mature student).	Ratio
+Advocate General Sharpston (para 67) sought to distinguish this case from Dekker v Stichting Vormingscentrum voor Jong Volwassenen (VJVCentrum) Plus (Case C-177/88) [1990] ECR I-3941 (the well-known case of a female refused a job because she was pregnant) on the ground that not all men actually completed national service (some were no doubt found medically unfit).	Ratio
+But by the same token not every woman applying for a job is capable of becoming pregnant: her age or medical history may make that impossible.	Ratio
+The true distinction was pointed out by Advocate General Jacobs in Schnorbus, that capacity for childbearing is a natural physical characteristic of women, whereas a mans liability to do national service was imposed by legislation (para 40): No amount of legislation can render men capable of bearing children, whereas legislation might readily remove any distinction between men and women in relation to compulsory national service.	Ratio
+The difference depended on a statutory obligation, and was not between men and women as such.	Ratio
+Advocate General Jacobs opinion in Schnorbus has other valuable insights.	Ratio
+He discussed whether there is some circularity in the rule that provisions potentially amounting to indirect discrimination can be justified only if those provisions are justified by objective considerations independent of the nationality of the workers concerned, a form of words frequently used by the Court of Justice (for instance in Borawitz v Landesversicherungsanstalt Westfalen (Case C-124/99) [2000] ECR I-7293, para 26, but not, as it happens, by the Grand Chamber in Bressol, paras 47-48).	Ratio
+In his opinion in Schnorbus Advocate General Jacobs observed (para 47): The Courts usual formulation may seem circular.	Ratio
+To say that there is no discrimination based on sex when a difference in treatment is justified by factors unrelated to discrimination based on sex appears self-evident.	Ratio
+In line with the definition in Directive 97/80, however, I take it to mean that (indirect) discrimination is not unlawful when the difference in treatment is justified by objective factors not in themselves (that is to say, not directly) related to sex.	Ratio
+(This question of circularity seems to have been also in the mind of the Social Security Commissioner, Mr Rowland, in his decision in this case, para 13).	Ratio
+As examples Advocate General Jacobs would, I think, have given those that he had already referred to: pregnancy (Dekker) is in itself related to sex, whereas liability to national service (Schnorbus) is not, although a national legislature may choose sex as a demarcation line.	Ratio
+But this test of seeing whether the suspect ground of discrimination is directly (in the sense, as I understand it, of centrally, or intrinsically) involved is more difficult to apply to the abstract juridical concept of nationality.	Ratio
+I agree with Lord Hope (para 33) that in Bressol the Grand Chamber must be taken to have regarded the Advocate Generals approach as too analytical.	Ratio
+I would like to be able to agree that her approach accords well with our domestic law, but I must say that it seems to me hard to reconcile with the approach of the Court of Appeal in R (Elias) v Secretary of State for Defence [2006] 1 WLR 3213, the case of Mrs Elias who was British enough to be interned (in Hong Kong between 1941 and 1945) but not British enough to be compensated (under an official scheme introduced in 2000).	Ratio
+In that case Mummery LJ, who gave the leading judgment, acknowledged (paras 104-113) the strength of the submissions made on behalf of Mrs Elias by Mr Rabinder Singh QC.	Ratio
+But he felt bound to reject them (paras 113 and 114): The powerful submissions of Mr Singh raised serious doubts in my mind about the correctness of the judges ruling on this point, which, as Mr Singh pointed out, focused more on the edges of the effects of the criteria than on their central purpose or effect.	Ratio
+In a general sense, discrimination with a discriminatory purpose, regardless of the particular form it takes, can be perceived as treating a person less favourably on racial grounds.	Ratio
+I am, however, clear that, in the present state of the law, the particular form of discrimination matters, even if there are present in the circumstances of the case a discriminatory purpose and discriminatory effects.	Ratio
+The 1976 Act, as amended, makes an important broad distinction between two different forms of discrimination.	Ratio
+This distinction is consistent with the [Race Equality] Directive [2000/43/EC] and this Court must observe it.	Ratio
+Discriminatory purpose?	Ratio
+Mummery LJs observations about discrimination with a discriminatory purpose make it appropriate to mention a point which is not, I think, controversial, but may be worth spelling out.	Ratio
+The dividing line between direct and indirect discrimination is emphatically not to be determined by some sort of mens rea on the part of one or more individual discriminators.	Ratio
+A discriminatory purpose is not necessary for direct discrimination, nor (as Mummery LJ recognised) is it inconsistent with a finding of indirect discrimination.	Ratio
+Where there is an allegation of direct discrimination of a systemic sort (embodied in legislation or rules, or in the settled practices and procedures of a public authority or an employer) it makes no difference whether or not the objectionable feature is in some way deliberately targeted at a particular group.	Ratio
+That has been clear since the decisions of the House of Lords in R v Birmingham City Council, Ex p Equal Opportunities Commission [1989] AC 1155 and James v Eastleigh Borough Council [1990] 2 AC 751.	Ratio
+Conversely, it seems that a discriminatory purpose does not, on the present state of the law, prevent unequal treatment being regarded as no more than indirect discrimination which is capable of justification.	Ratio
+It is hard to avoid the suspicion that legislators and government lawyers throughout the EU have become well aware of this.	Ratio
+There is an obvious temptation for governments, in the face of understandable popular feeling (in this case, against benefit tourism) to try to draft their way out of direct into indirect discrimination, with a view to avoiding having to distribute large sums out of public funds, or having to make some other commitment of national resources, to beneficiaries whom their electors would not regard as deserving.	Ratio
+Bressol and other cases concerned with the Belgian social security and education systems may be examples of this.	Ratio
+In the area of fishing rights Commission of the European Communities v Ireland [1978] ECR 417 seems to be a striking example, since the Irish legislations detailed prescription for exempted vessels coincided with characteristics of vessels used by the Irish fishing fleet and was not justified by the need of conservation.	Ratio
+In this country, Elias may be an example; and so may the amendments made in 2004 to the State Pension Credit Regulations 2002.	Ratio
+Having said all that, I recognise that this Court must follow the judgment of the Court of Justice of the EU in Bressol, even if some of us do not fully understand its reasoning.	Ratio
+This case must be treated as one of indirect discrimination.	Ratio
+But the correlation between British nationality and the right to reside in Great Britain is so strong that the issue of justification must in my view be scrutinised with some rigour.	Ratio
+Justification	Ratio
+The justification advanced in the Secretary of States printed case (para 54, an expanded version of the summary in para 33 of the statement of facts and issues) is that the provisions of regulation 2 (as amended) are indeed objectively justified, as they legitimately seek to identify either economic integration or a sufficient degree of social integration (an objective which applies equally to UK and other EU nationals, and indeed to nationals of third countries).	Ratio
+Reference is made to the Secretary of States formal statement under section 174(2) of the Social Security Administration Act 1992 laid before Parliament in April 2004.	Ratio
+Reference is also made to Zalewska v Department for Social Development [2008] 1 WLR 2602, 2617.	Ratio
+That was a split decision of the House of Lords on an issue as to the proportionality of measures taken in relation to economically active workers from A8 nations, and I find it of no assistance in this appeal.	Ratio
+Proportionality is not an issue here.	Ratio
+Nor are we concerned with economically active nationals of other EU States.	Ratio
+The issue is whether the objective of a sufficient degree of social integration is something for the attainment of which the provisions of regulation 2(2) are an appropriate test, independent of the nationality of the person whose social integration is in question.	Ratio
+This Court has had little assistance as to what social integration means in this context, as something separate from economic integration.	Ratio
+The Court of Appeal (paras 27 to 40) seem to have addressed only economic integration.	Ratio
+But I will assume in favour of the Secretary of State that it is a meaningful concept recognised by EU law, and that its precise content need not be defined.	Ratio
+The Secretary of States statutory statement is very largely concerned with the habitual residence test (introduced into social security legislation in 1994).	Ratio
+It had the legitimate purpose of discouraging benefit tourism.	Ratio
+The statement (para 16) indicates that the decision of the House of Lords in Chief Adjudication Officer v Wolke [1997] 1 WLR 1640 was perceived as creating a major difficulty in relation to economically inactive EU nationals.	Ratio
+That is the introduction to the explanation of the new right to reside requirement (para 17 of the statement): The Government believes that it is not unreasonable to expect that, whatever their nationality, people should show that they have a right to reside in the UK before being entitled to benefits funded by the UK taxpayer: indeed, correspondence that I and my Ministerial colleagues have received suggests that the public generally expects this.	Ratio
+The proposed regulations are thus intended to fill a gap in measures to safeguard the public purse against exploitation by people with no right to reside here, irrespective of nationality.	Ratio
+Their purpose is therefore different from the more limited purpose of the habitual residence test.	Ratio
+The appellants printed case (para 93) comments that the paragraph quoted above suggests that the Secretary of State may not have understood the effect of his amendment.	Ratio
+I have to say that I think this may be too kind: the Secretary of State and his advisers are unlikely to have misunderstood the effect of the amended regulation 2(2).	Ratio
+The reference to people with no right to reside here, irrespective of nationality may be regarded as a disingenuous description of a test which every British national passes automatically, by virtue of section 2 of the Immigration Act 1971, but which non-nationals will not pass unless they come within the special categories in regulation 2(1) (and are not excluded by regulation 2(2): under the amendment regulation 2(2) trumps regulation 2(1) in case of conflict; this particular point was not, I think, explored in argument).	Ratio
+The appellant, and anyone else in her position, is caught by regulation 2(2), and no amount of effort on her part to achieve social integration (whatever that means) will change the position (apart possibly from future marriage or naturalisation, which may be academic points so far as the appellant is concerned).	Ratio
+In the Court of Appeal Moses LJ (para 25) distinguished this case from R (Bidar) v Ealing London Borough Council [2005] QB 812, where the student applicant had to be not only ordinarily resident but also settled, a status which he could not obtain as a student (since students were not given permission to remain indefinitely).	Ratio
+But in my view the two cases are indistinguishable.	Ratio
+Other EU nationals were in a different position, but Mr Bidar and all other students in his position were excluded.	Ratio
+The same is true of the appellant and others in her position.	Ratio
+The fact that other EU nationals may be in a better position is irrelevant, for reasons already noted.	Ratio
+It is in the end a fairly short point.	Ratio
+In my opinion the provisions of regulation 2(2) are probably aimed at discriminating against economically inactive foreign nationals on the grounds of nationality.	Ratio
+Whether or not that was the intention of those who framed them, they have that effect.	Ratio
+That can, I think, be simply demonstrated.	Ratio
+If the appellant (who is now aged 72) had been a British national who had gone to Latvia 50 years ago, but was in all other respects in the same position that is, had come to England in 2000 with no family, friends or other human or financial resources here she would not be excluded, and the only reason for that difference is her nationality.	Ratio
+That difference of treatment is something to which the appellants nationality was central, intrinsic or (in the sense in which Advocate General Jacobs used it in Schnorbus) direct.	Ratio
+Even though classified as indirect discrimination, it is not capable of justification because the proposed justification, once examined, is founded on nationality.	Ratio
+In my view the third issue, raising the Irish element, does not arise.	Ratio
+But I am in full agreement with what Lord Hope says on that aspect of the matter.	Ratio
+There was a good deal of discussion about Trojani [2004] ECR I-7573, and in particular some general remarks made in the opinion of Advocate General Geelhoed.	Ratio
+It raises some difficult and interesting issues but I do not think it would be appropriate for me, in a dissenting judgment, to say more about them.	Ratio
+For my part I would allow this appeal.	RPC
+Since I differ from the majority only on the issue of justification, which is for the domestic court, a reference to the Court of Justice would not be appropriate.	RPC
+This is a difficult case.	Ratio
+It is difficult not only because of the mind-numbing complexity of the words used by the legislators but also because of the inherent complexity of the concepts developed in the pursuit of equal treatment.	Ratio
+As Lord Walker commented in the course of the argument in this case, the wording of regulation 2 of the State Pension Credit Regulations 2002 (SI 2002/1792) is so obscure that it looks as if it is trying to cover something up.	Ratio
+As Lord Walker has also commented, extra-judicially, Why does the topic of discrimination get so abstract and complicated as soon as it gets into the hands of the lawyers?.	Ratio
+.	Ratio
+.	Ratio
+Why cannot the topic be left to the intuitive decency and common sense of the right- thinking citizen? The answer, he suggests, is that intuition and common sense are sufficient in clear cases, but cannot by themselves provide the answer in marginal cases (Treating like cases alike and unlike cases differently: Some problems of anti-discrimination law, Victoria University, Wellington, New Zealand, 2 September 2010, pp 2-3).	Ratio
+Another answer, I would suggest, is that the concepts of direct and indirect discrimination, justification and proportionality, become altogether more difficult to apply the greater the number of prohibited grounds of discrimination and the wider the circumstances in which discrimination is prohibited.	Ratio
+We are concerned with a rather different prohibition of discrimination from the more familiar domestic provisions, now contained in the Equality Act 2010, which aim to prohibit discrimination in the supply of employment, goods, services and the like on the grounds of protected characteristics such as race, sex or religion.	Ratio
+Its foundation rests in article 12 of the EC Treaty: Within the scope of application of this Treaty, and without prejudice to any special provisions contained therein, any discrimination on grounds of nationality shall be prohibited.	Ratio
+This is not a general prohibition of discrimination on grounds of nationality.	Ratio
+Only the nationals of Member States are protected.	Ratio
+Discrimination against third country nationals is not prohibited.	Ratio
+Indeed it is positively expected.	Ratio
+The underlying purpose is to promote the objects of the Union and in particular the free movement of workers between the Member States and the free establishment of businesses within them.	Ratio
+The special provision made in Council Regulation (EEC) No 1408/71 is article 3.1.	STA
+This requires that: Subject to the special provisions of this Regulation, persons to whom this Regulation applies shall be subject to the same obligations and enjoy the same benefits under the legislation of any Member State as the nationals of the State.	STA
+Under article 2 of Regulation 1408/71, the persons covered by the Regulation must, among other things, be nationals of one of the Member States (or stateless persons or refugees residing within the territory of one of the Member States) or members of their families or their survivors.	STA
+Once again, therefore, this is not a general requirement of equal treatment irrespective of nationality.	STA
+It is there principally to protect the nationals of Member States.	STA
+Moreover, on the face of it, there is no breach of article 3.1 in the United Kingdoms State Pension Credit Regulations 2002.	Ratio
+Nationals of other Member States are subject to the same obligations and enjoy the same benefits under those Regulations as do the nationals of the United Kingdom.	Ratio
+The question, however, is whether the rules under which they do so discriminate against them in a way which is prohibited by article 12 of the Treaty.	Ratio
+The European jurisprudence on the interpretation of article 12 is not as clear cut as is the jurisprudence on sex discrimination.	Ratio
+Thus, for example, it tends to talk about overt and covert discrimination rather than direct and indirect and the concepts may not be precisely equivalent.	Ratio
+Also, there is no emphatic statement that direct discrimination can never be justified.	Ratio
+Commissioner Rowland referred, at para 16 of his decision in this case, to Martinez Sala v Freistaat Bayern (Case C-85/96) [1998] ECR I-2691, at para 64: Since the unequal treatment in question thus comes within the scope of the Treaty, it cannot be considered to be justified: it is discrimination directly based on the appellants nationality and, in any event, nothing to justify such unequal treatment has been put before the Court.	Ratio
+Commissioner Rowland commented that this certainly shows that the Court did not exclude the possibility that direct discrimination might in certain circumstances be justified, although he was inclined to agree that the paragraph was equivocal in that regard.	Ratio
+I mention these considerations only to suggest that we may here be dealing with a rather more flexible concept, designed for a particular purpose within the law of the European Union, than with the more familiar concepts in our domestic anti-discrimination law, based though they are upon European Union law, but with the rather different purpose of securing equality of treatment by suppliers irrespective of personal characteristics which are deemed immaterial to the transaction.	Ratio
+But with that small caveat, I agree that the questions are (i) whether there is here direct or indirect discrimination against nationals of other Member States; and (ii) whether any such discrimination is justified.	Ratio
+I have nothing to add to what Lord Hope has said on the Irish question.	Ratio
+The difference between direct and indirect discrimination assumes great importance if it controls what, if any, justification may be possible.	Ratio
+(In this respect, European Union and domestic anti-discrimination law is different from the European Convention on Human Rights, which does not draw this sharp distinction.) Yet it is by no means a straightforward question.	Ratio
+Lord Walker has drawn attention to the opinions of Advocate General Jacobs in Schnorbus v Land Hessen (Case C-79/99) [2001] 1 CMLR 1025 and Advocate General Sharpston in Bressol v Gouvernement de la Communaut Franaise (Case C-73/08) [2010] 3 CMLR 559, ostensibly applying the same test but doing so in a rather different way.	Ratio
+At para AG52 of Bressol, Advocate General Sharpston quoted Advocate General Jacobs statement at para A33 of Schnorbus: The discrimination is direct where the difference in treatment is based on a criterion which is either explicitly that of sex or necessarily linked to a characteristic indissociable from sex.	Ratio
+It is indirect where some other criterion is applied but a substantially higher proportion of one sex than the other is in fact affected.	Ratio
+The complaint in Schnorbus was that candidates who had completed their national service were given priority over other candidates in admission to the second stage of legal training but only men were eligible for national service.	Ratio
+Advocate General Jacobs took the view that this was indirect discrimination: eligibility for national service was a legal requirement rather than one, such as pregnancy, based on a physical characteristic which is indissociable from sex.	Ratio
+He went on to opine that the discrimination was justified.	Ratio
+The Court agreed with him on both points.	Ratio
+Yet this distinction between legal requirements and physical characteristics might come as something of a surprise, for example, to readers of James v Eastleigh Borough Council [1990] 2 AC 751, where the discrimination between male and female swimmers was linked to a legal requirement, the statutory retirement age, which was indissociable from sex.	Ratio
+But at least in Schnorbus, as in James, there was an exact coincidence between the requirement and the sex of those whom it advantaged or disadvantaged as the case might be: in Schnorbus all men were advantaged and all women were disadvantaged; in James all men were disadvantaged and all women were advantaged.	Ratio
+In Bressol Advocate General Sharpston took up the notion of a difference in treatment necessarily linked to a characteristic indisssociable from in her case nationality and formulated it thus, at para AG56: I take there to be direct discrimination when the category of those receiving a certain advantage and the category of those suffering a correlative disadvantage coincide exactly with the respective categories of persons distinguished only by applying a prohibited classification.	Ratio
+But she went on to opine that this test was fulfilled when there was no exact congruence between those advantaged and those disadvantaged by the requirement in question.	Ratio
+Thus she held it direct discrimination on grounds of nationality when both Belgians and other nationals might fulfil the requirement of a right to remain permanently in Belgium, but only Belgians could do so automatically.	Ratio
+This may be an attractive approach: it is, of course, the exact equivalent of the situation in this case.	Ratio
+But it is certainly a development of the principle established in Schnorbus.	Ratio
+It suggests that there can be direct discrimination even when some members of the disadvantaged group do fulfil the requirement in question even though others do not.	Ratio
+The equivalent in Schnorbus would have been if all men were eligible to do national service but only some women were eligible to do so.	Ratio
+At all events, it seems clear that the Grand Chamber in Bressol did not accept the Advocate Generals opinion on this point.	Ratio
+The Court expressly stated, at para 47, that this was indirect discrimination on the ground of nationality, which was prohibited unless it was objectively justified.	Ratio
+The Court then went on to discuss what might amount to objective justification in that case.	Ratio
+The Court must therefore have rejected the Advocate Generals view that this amounted to direct discrimination.	Ratio
+It follows, in my view, that we too should regard this case as a case of indirect, rather than direct, discrimination.	Ratio
+No-one doubts that it is indirect.	Ratio
+There have been many subtly different formulations of the test for indirect discrimination (Monaghan, for example, Equality Law, Oxford University Press, 2007, identifies four): but in essence it is the application of a criterion which is applied equally both to nationals and to non- nationals but which in fact places non-nationals at a particular disadvantage when compared with nationals.	Ratio
+The right to reside criterion obviously places non- nationals at a particular disadvantage when compared with nationals and has in fact placed Ms Patmalniece at that disadvantage.	Ratio
+Justification	Ratio
+The Grand Chamber stated the test thus in R (Bidar) v Ealing London Borough Council (Case C-209/03) [2005] QB 812, para 54: Such a difference in treatment can be justified only if it is based on objective considerations independent of the nationality of the persons concerned and is proportionate to the legitimate aim of the national provisions.	Ratio
+This is a rather less precise way of putting the test than the way in which it is put in other contexts.	Ratio
+The other formulations, for example in the Burden of Proof Directive (Council Directive 97/80/EC) or the Framework Directive on Equal Treatment (Council Directive 2000/78/EC), all make it clear that it is the provision, criterion or practice which has to be justified as a proportionate means of achieving a legitimate aim, ex hypothesi for reasons which are independent of the protected characteristic involved.	Ratio
+Although the concept of justification under article 12 has not been articulated in precisely this way, perhaps because it has not in itself been the subject of a Directive, it seems unlikely that the Court of Justice would approach it any differently.	Ratio
+The approach in the Directives mentioned is the product of its own jurisprudence.	Ratio
+If that is so, then it is the criterion of a right to reside which has to be objectively justified by considerations other than the nationality of those involved because it is that criterion which leads to the difference of treatment complained about.	Ratio
+There is no doubt about the broad aim which it is sought to pursue.	Ratio
+This is to protect the public purse, or more precisely, those who pay taxes in the United Kingdom, from the burden of relieving the poverty of everyone who is here, irrespective of the reasons why they are here.	Ratio
+When the welfare state was first established, this was not seen as a problem.	Ratio
+Everyone who was here could claim social assistance, in the shape of health and social services and also means-tested financial benefits.	Ratio
+But the state progressively withdrew that support.	Ratio
+That may be an explanation for the peculiar drafting technique of granting benefits to people in Great Britain and then defining the people who are, and are not, to be treated as in Great Britain for this purpose.	Ratio
+The general aim is to identify those who are, or rather those who are not, considered deserving of income-related, that is, means- tested benefits.	Ratio
+The Regulations contain two separate requirements, with two rather different aims.	Ratio
+The requirement of habitual residence has been there since 1994 to combat benefit tourism, people coming here with a view to claiming benefits, rather than with a view to working or establishing themselves in business or a profession here.	Ratio
+Thus certain categories of people who come here for other reasons are entitled to make claims even though they are not habitually resident here: these include people from other Member States who are workers or realistically looking for work, or have been workers but for a variety of reasons are so no longer, or people who have moved here to set up in self-employment, and members of the families of each of these, as well as people who have been granted refugee status here.	Ratio
+Other people, including UK nationals, have to show that they are habitually resident here.	Ratio
+However, as the Government said in its response to the Report of the Social Security Advisory Committee, which preceded the introduction of the right to reside test, the habitual residence test cannot and was never intended to restrict longer-term access to the income-related benefits payable out of general taxation among people who, for various reasons, may decide to live indefinitely in the UK without being economically active (2004, Cmnd 6181, para 14).	Ratio
+The right to reside test was introduced expressly for that purpose.	Ratio
+It is necessary to look at these aims in the context of what Regulation 1408/71 is trying to achieve.	Ratio
+As its recitals show, it is principally designed to co- ordinate national social security legislation in order to promote freedom of movement for employed and self-employed persons, while recognising that there are differences between the social security systems of the Member States.	Ratio
+It caters for three different kinds of benefit in three different ways.	Ratio
+At the top are those benefits described in article 4.1 as branches of social security.	Ratio
+Many of these are based upon contributory social insurance schemes but some are not.	Ratio
+Their main distinguishing feature is that they are paid as of right.	Ratio
+They are not designed to top up the income of people whose individual means of support fall short of the nationally set subsistence level.	Ratio
+Workers who move from one country to another must be allowed to participate in these social security schemes in the same way as workers in the host country.	Ratio
+Further, if they have accrued certain benefits, including old age pensions, in one country, article 10 requires that they cannot be denied these simply because they have moved to live in another country.	Ratio
+Thus Ms Patmalniece is entitled to have the Latvian authorities pay her her Latvian pension here.	Ratio
+At the bottom are social and medical assistance [and] benefit schemes for victims of war or its consequences.	Ratio
+Article 4.4 provides that these are excluded from the Regulation altogether.	Ratio
+Social assistance used to encompass the kinds of income-related benefits with which we are here concerned.	Ratio
+But now it appears to be limited to benefits in kind social and medical services along with discretionary cash benefits such as the grants and loans which are made by the United Kingdoms social fund.	Ratio
+In the middle are the special non-contributory cash benefits, financed out of general taxation to guarantee a minimum subsistence level or to cater for disabled people, and specifically listed in Annex IIa to the Regulation.	Ratio
+State pension credit is one of these.	Ratio
+So too are income-based jobseekers allowance, income support, and disability living allowance (mobility component).	Ratio
+Under article 10a, these are excluded from article 10 and are payable exclusively in the territory of the Member State in which they reside and under the legislation of that State.	Ratio
+The question is whether it is legitimate to limit these benefits, entitlement to which under the Regulation depends upon the Member State in which the claimant resides, to people who are entitled to reside in that Member State.	Ratio
+In answering that question, it is logical to look at the European law on the right to reside.	Ratio
+If nationals of one Member State have the right to move to reside in another Member State under European Union law, it is logical to require that they also have the right to claim these special non-contributory cash benefits there in other words that the State in which they reside should be responsible for ensuring that they have the minimum means of subsistence to enable them to live there.	Ratio
+But if they do not have the right under European Union law to move to reside there, then it is logical that that State should not have the responsibility for ensuring their minimum level of subsistence.	Ratio
+That is why the Court of Appeal in this case, as in the earlier cases of Abdirahman v Secretary of State for Work and Pensions [2007] EWCA Civ 657, [2008] 1 WLR 254, and Kaczmarek v Secretary of State for Work and Pensions [2008] EWCA 1310, [2009] PTSR 897, focussed on article 18.1 of the Treaty, coupled with Directive 90/364/EEC (since replaced by Directive 2004/38/EC), which restrict the right to reside (for people who do not have it under other provisions) to those who have sufficient resources to avoid becoming a burden on the social assistance system of the host member state during their period of residence.	Ratio
+As the Grand Chamber held in Trojani v Centre Public dAide Sociale de Bruxelles (Case C-456/02) [2004] 3 CMLR 820, a non-national citizen of the Union, applying for a benefit because of lack of resources, did not derive a right to reside from article 18 of the Treaty, because that very lack of resources took him outside the terms of Directive 90/364/EEC.	Ratio
+However, that is not the end of the story.	Ratio
+The Secretary of State understandably places weight on the observation of Advocate General Geelhoed, at para AG70 of Trojani: The basic principle of Community law is that persons who depend upon social assistance will be taken care of in their own Member State.	Ratio
+But the Court, having held that a person such as Mr Trojani did not derive a right to reside from European Union law, went on to say that a citizen of the Union who had been lawfully resident in the host Member State for a certain time or possessed a residence permit, and satisfied the conditions required of nationals of that Member State, could not be denied such benefits.	Ratio
+He was entitled, during his lawful residence in the host Member State, to benefit from the fundamental principle of equal treatment in article 12.	Ratio
+I take that to mean that, even where a national of another Member State does not have the right to reside in the host country under European Union law, if he has the right to reside under the national law of the host country, he is also entitled to claim these benefits on the same terms as nationals of the host country.	Ratio
+I do not find anything in Trojani to suggest that mere presence, without any right to reside in the host country, is sufficient.	Ratio
+All the emphasis in the relevant paragraphs 40 to 45 is on residence and not presence and moreover on formally approved residence.	Ratio
+The Courts answer to the question posed concludes, at para 46: However, once it is ascertained that a person in a situation such as that of the claimant in the main proceedings is in possession of a residence permit, he may rely on article 12 EC in order to be granted a social assistance benefit such as the minimex.	Ratio
+This is a fairly clear indication that it is open to Member States to make entitlement to such benefits dependent on the right to reside in the host country, even though, of necessity, such a right will be enjoyed by all nationals but only some non-nationals.	Ratio
+The AIRE Centre intervene in support of the appellant, essentially to argue that the correct mechanism to protect the public purse against non-economically active claimants from other European Union countries is, not to deny those who are lawfully present the basic means of subsistence, but to remove those who have no right to remain here: in other words, compulsorily to expel them rather than to starve them out.	Ratio
+The Court in Trojani pointed out at paragraph 45 that: it remains open to the host Member State to take the view that a national of another Member State who has recourse to social assistance no longer fulfils the conditions of his right of residence.	Ratio
+In such a case the host Member State may, within the limits imposed by Community law, take a measure to remove him.	Ratio
+However, recourse to the social assistance system by a citizen of the Union may not automatically entail such a measure.	Ratio
+Once again, the emphasis is on the right to reside.	RPC
+I do not find there any suggestion that it is not open to the host Member State to make entitlement to such benefits conditional upon that right.	RPC
+For that reason, and in agreement with Lord Hope, I would dismiss this appeal.	RPC
+For the reasons given by Lord Hope and by Lady Hale, with which I fully agree, I too would dismiss this appeal.	RPC
+For the reasons given by Lord Hope and by Lady Hale, with which I fully agree, I too would dismiss this appeal.	RPC

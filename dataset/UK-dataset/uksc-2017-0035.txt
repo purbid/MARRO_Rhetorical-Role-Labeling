@@ -1,0 +1,440 @@
+Widowed parents allowance is a contributory social security benefit payable to men and women who are widowed with dependent children.	FAC
+It is non-means- tested, so it is particularly valuable to parents who are in work, although it is taxable.	FAC
+The widowed parents entitlement depends upon the contribution record of the deceased partner.	FAC
+Currently, the widowed parent can only claim the allowance if he or she was married to, or the civil partner of, the deceased.	FAC
+The issue in this case is whether this requirement unjustifiably discriminates against the survivor and/or the children on the basis of their marital or birth status, contrary to article 14 of the European Convention on Human Rights (ECHR) when read with either article 8 of the Convention or Article 1 of the First Protocol to the Convention (A1P1).	Ratio
+The facts	FAC
+Ms McLaughlin and her partner, John Adams, lived together (apart from two short periods of separation) for 23 years until he died on 28 January 2014.	FAC
+They did not marry because Mr Adams had promised his first wife that he would never remarry.	FAC
+They had four children, aged 19 years, 17 years, 13 years and 11 years when their father died.	FAC
+He had made sufficient National Insurance contributions for Ms McLaughlin to be able to claim a bereavement payment and widowed parents allowance had she been married to him.	FAC
+Ms McLaughlins claims for both bereavement payment and widowed parents allowance were refused by the Northern Ireland Department for Communities.	FAC
+She applied for judicial review of that decision on the ground that the relevant legislation was incompatible with the ECHR.	FAC
+That claim succeeded in part before Treacy J in the High Court: In the matter of an application by Siobhan McLaughlin for Judicial Review: [2016] NIQB 11.	FAC
+He made a declaration of incompatibility under section 4(2) of the Human Rights Act 1998, that section 39A(1) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 is incompatible with article 8 of the ECHR in conjunction with article 14 insofar as it restricts eligibility for Widowed Parents Allowance by reference to the marital status of the applicant and the deceased.	FAC
+He rejected the claim in relation to the bereavement payment.	FAC
+The Court of Appeal unanimously held that the legislation was not incompatible with article 14, read either with article 8 or with A1P1: [2016] NICA 53.	RLC
+Ms McLaughlin now appeals to this Court.	RLC
+The Evolution of Bereavement Benefits	FAC
+National Insurance pensions for widows were first introduced under the Widows, Orphans and Old Age Contributory Pensions Act 1925.	FAC
+They provided a pension for all widows whose husbands fulfilled the contribution conditions, at a very modest flat rate with extra allowances for children.	FAC
+It was part of the piece- meal development of a National Insurance scheme, whereby people in work would pay into a National Insurance fund which would provide benefits if they were deprived of earnings through the ordinary vicissitudes of life: old age, invalidity, unemployment and, in the social conditions of the time, widowhood.	FAC
+The assumption - and at least among the middle classes the reality - was that women would not work after marriage, so that for them the loss of a breadwinning husband was the equivalent of the loss of a job through old age, invalidity or unemployment for people in work.	FAC
+The National Insurance scheme was quite separate from the relief of the destitute under the old Poor Law and its later replacements, beginning with the National Assistance Act 1948.	FAC
+Those were strictly means-tested benefits, whereas National Insurance benefits, having been paid for by contributions, were not.	FAC
+The National Insurance scheme was systematised and rationalised as a result of the Beveridge Report on Social Insurance and Allied Services (Cmd 6404, 1942).	FAC
+Beveridge proposed the replacement of unconditional inadequate widows pensions by a short-term widows benefit, payable for 13 weeks, to allow time for readjustment and a longer term guardian benefit for those with dependent children.	FAC
+Childless widows should be expected to work (para 153).	FAC
+However, the Report acknowledged the difficulties of women who were widowed, or whose children grew up, when they had reached an age at which it would be difficult to find work (para 156).	FAC
+This concern was reflected in the eventual legislation, the National Insurance Act 1946, which introduced three benefits: a widows allowance, a widowed mothers allowance and a widows pension where the claimant was widowed over 50 or over 40 when widowed mothers allowance ceased.	FAC
+In 1954, the United Kingdom ratified the ILO Social Security (Minimum Standards) Convention 1952 (No 102), which provided that The contingency covered shall include the loss of support suffered by the widow or child as the result of the death of the breadwinner (article 60).	FAC
+This structure remained broadly unchanged until the Social Security Act 1986, which replaced the short-term widows allowance with a one-off lump sum widows payment.	FAC
+It also increased the age threshold for full widows pension to 55 (a reduced rate pension was payable to those widowed, or whose widowed mothers allowance had ended, between 45 and 54).	FAC
+But the numbers of recipients had fallen, from an average of almost 600,000 in the 1960s to an average of around 500,000 in the 1970s.	FAC
+Social trends, including falling marriage rates, rising divorce rates and increased male life expectancy, reduced the numbers of widows under pensionable age, from over 600,000 in 1951 to under 300,000 in 1995 (ONS/OPCS Marriage and Divorce Statistics, FM2, nos 16, 23).	FAC
+By then, of course, there had been many other profound social changes.	FAC
+Women were no longer required or expected to give up work on marriage.	FAC
+Married womens participation in the labour force had grown dramatically, although their working patterns were not identical to those of men, with many more leaving the workforce or working part time, especially while children were young.	FAC
+Thus it is not surprising that by the next wave of reform, most widows eligible for the benefits were in work, although those with young children were far less likely than married or cohabiting women to be working at all and less likely than other types of lone mother to be working full-time (ONS, Living in Britain: Results from the General Household Survey 1996, tables 5.23, 5.24).	FAC
+The availability of a non-means-tested benefit may have played a part in this; but so may the greatly increased prevalence of survivors benefits in occupational pension schemes in both the public and private sectors.	FAC
+The next wave of reform came about as part of a general package of welfare and pension reforms introduced by the 1997 Labour Government.	FAC
+But a major spur to their changes to bereavement benefits was that it had become inevitable that widows benefits would be successfully challenged for discriminating against men.	FAC
+Mr Willis had already begun his case in the European Court of Human Rights; although judgment was not given until 2002, it was a reasonable prediction that he would succeed in challenging his non-entitlement to both widows payment and widowed mothers allowance as incompatible with article 14 taken with A1P1: see Willis v United Kingdom (2002) 35 EHRR 21 (he failed in relation to widows pension because he did not then and might not ever meet the eligibility requirements).	FAC
+One solution might have been to abolish widows benefits altogether, save perhaps for the one-off payment, as being based on anachronistic assumptions about the major vicissitudes in life, but to do so was seen as removing help for many people in real need.	FAC
+Instead, there was a major re-focus, based on the defects identified in the governments green paper, A new contract for welfare: Support in Bereavement (Cm 4104, November 1998): the then scheme did not give enough help at the point of bereavement; gave most help to people who did not need widows benefits because they were earning a decent living or had large occupational pensions or life insurance; gave least help to the poorest widows on income support, who saw nothing of their widows benefits; and discriminated against men (para 4).	FAC
+The essential features of the new scheme were: first, it would apply equally to widows and widowers; second, the one-off bereavement payment would be increased from 1,000 to 2,000; third, there would be a widowed parents allowance equivalent to the current widowed mothers allowance; and fourth, there would no longer be a widows pension, but a short-term bereavement allowance for six months, for widows and widowers aged 45 or over with no dependent children.	FAC
+A disregard of 10 of the widowed parents allowance would be introduced into means-tested benefits.	FAC
+That was the scheme inserted into the Social Security Contributions and Benefits Act 1992 for Great Britain by the Welfare Reform and Pensions Act 1999.	FAC
+It was also the scheme inserted by statutory instrument (1999/3147 (NI 11)) into the Social Security Contributions and Benefits (Northern Ireland) Act 1992, with which this case is concerned.	FAC
+It was amended to take account of civil partnerships by the Civil Partnerships Act 2004.	FAC
+Since then, the scheme has been radically changed yet again, by the Pensions Act 2014 and the Pensions Act (Northern Ireland) 2015, in respect of deaths taking place after their implementation in March 2017.	FAC
+Bereavement payment and widowed parents allowance have been abolished and replaced with a single bereavement support payment available to all bereaved spouses and civil partners irrespective of age.	FAC
+This is paid as an initial lump sum followed by monthly instalments for up to 18 months.	FAC
+The rates are higher if the bereaved person is pregnant or entitled to child benefit.	FAC
+The object is to focus support on the period immediately after bereavement, it being very common for bereavement to have a large short-term impact on the finances of the surviving partner (Government Response to the public consultation: Bereavement Benefit for the 21st Century, Cm 8371, July 2012, p 16).	FAC
+As before, entitlement depends on the (simplified) contribution record of the deceased and is not means-tested.	FAC
+Longer term impacts are left to means-tested benefits with some transitional cushioning.	FAC
+In essence, therefore, what began as a long-term replacement of a wifes and childrens loss of a breadwinning husbands income, moved to a long-term replacement of a breadwinners income while children were growing up, and is now a transitional compensation for the immediate financial loss suffered by the survivor and children on bereavement.	FAC
+The contribution conditions are now less onerous.	FAC
+In none of these waves of reform was consideration given to extending the scheme to unmarried partners.	FAC
+The Beveridge Report did briefly discuss Unmarried person living as a Wife, pointing out that treatment of the problem was complicated by the possibility that either or both parties might have a legal spouse.	FAC
+It recommended that Widows and guardian benefits should not be paid except to a woman who was the legal wife of the dead man.	FAC
+Retirement pension should not be paid in respect of contributions other than the womans own contributions, except to the legal wife of the retired man (para 348(ii)).	FAC
+That principle has not been officially questioned since.	FAC
+The most recent government publication, on Bereavement Benefit for the 21st Century (above), simply reports that some consultation respondents took the opportunity to raise wider issues outside the scope of the consultation, including the extension of bereavement benefit entitlement to cohabitees (p 15).	FAC
+The legislation in question	STA
+We need only consider section 39A of the Social Security Contributions and Benefits (Northern Ireland) Act 1992, in the version in force when Mr Adams died: Widowed parents allowance.	STA
+(1) This section applies where - a person whose spouse or civil partner dies on or (a) after the appointed day is under pensionable age at the time of the spouses or civil partners death, or (b) - a man whose wife died before the appointed day (i) (ii) has not remarried before that day, and is under pensionable age on that day.	STA
+(2) The surviving spouse or civil partner shall be entitled to a widowed parents allowance at the rate determined in accordance with section 39C below if the deceased spouse or civil partner satisfied the contribution conditions for a widowed parents allowance specified in Schedule 3, Part I, paragraph 5 and - (a) the surviving spouse or civil partner is entitled to child benefit in respect of a child or qualifying young person falling within subsection (3) below; or (b) the surviving spouse is a woman who either - is pregnant by her late husband, or (i) (ii) if she and he were residing together immediately before the time of his death, is (c) pregnant in circumstances falling within section 37(1)(c) above; or the surviving civil partner is a woman who - (i) was residing together with the deceased civil partner immediately before the time of the death, and (ii) is pregnant as the result of being artificially inseminated before that time with the semen of some person, or as a result of the placing in her before that time of an embryo, of an egg in the process of fertilisation, or of sperm and eggs.	STA
+(3) A child or qualifying young person falls within this subsection if the child or qualifying young person is either - (a) a son or daughter of the surviving spouse or civil partner and the deceased spouse or civil partner; or (b) a child or qualifying young person in respect of whom the deceased spouse or civil partner was immediately before his or her death entitled to child benefit; or (c) if the surviving spouse or civil partner and the deceased spouse or civil partner were residing together immediately before his or her death, a child or qualifying young person in respect of whom the surviving spouse or civil partner was then entitled to child benefit.	STA
+(4) The surviving spouse shall not be entitled to the allowance for any period after she or he remarries or forms a civil partnership, but, subject to that, the surviving spouse shall continue to be entitled to it for any period throughout which she or he - satisfies the requirements of subsection (2)(a) or (a) (b) above; and (b) is under pensionable age.	STA
+(4A) The surviving civil partner shall not be entitled to the allowance for any period after she or he forms a subsequent civil partnership or marries, but, subject to that, the surviving civil partner shall continue to be entitled to it for any period throughout which she or he - satisfies the requirements of subsection (2)(a) or (b) (a) above; and (b) is under pensionable age.	STA
+(5) A widowed parents allowance shall not be payable - (a) for any period falling before the day on which the surviving spouses or civil partners entitlement is to be regarded as commencing by virtue of section 5(1)(1) of the Administration Act; or (b) for any period during which the surviving spouse or civil partner and a person of the opposite sex to whom she or he is not married are living together as husband and wife; or (c) for any period during which the surviving spouse or civil partner and a person of the same sex who is not his or her civil partner are living together as if they were civil partners.	STA
+Thus the key features are: the claimant must be under pensionable age at the date of death and the allowance ceases once he or she reaches that age; the deceased spouse or civil partner must have satisfied the prescribed contribution conditions (the details need not concern us); the surviving spouse or civil partner must either be pregnant (in the prescribed circumstances) or be entitled to child benefit in respect of at least one child or qualifying young person who is either (a) the son or daughter of them both, or (b) a child or qualifying young person in respect of whom the deceased was entitled to child benefit immediately before his or her death, or (c) a child or qualifying young person in respect of whom the survivor was entitled to child benefit, provided that the deceased and the survivor were living together immediately before the death; and entitlement is lost if the survivor marries, forms a civil partnership or when he or she cohabits as if married or in a civil partnership.	Ratio
+The ECHR	STA
+Article 14 of the ECHR provides that: The enjoyment of the rights and freedoms set forth in this Convention shall be secured without discrimination on any ground such as sex, race, colour, language, religion, political or other opinion, national or social origin, association with a national minority, property, birth or other status.	STA
+As is now well-known, this raises four questions, although these are not rigidly compartmentalised: (1) Do the circumstances fall within the ambit of one or more of the Convention rights? (2) Has there been a difference of treatment between two persons who are in an analogous situation? (3) characteristics listed or other status? (4) Is that difference of treatment on the ground of one of the Is there an objective justification for that difference in treatment? Within the ambit?	STA
+Article 14 does not presuppose that there has been a breach of one of the substantive Convention rights, for otherwise it would add nothing to their protection, but it is necessary that the facts fall within the ambit of one or more of those: see eg Inze v Austria (1987) 10 EHRR 394, para 36.	Ratio
+In this case, it is clear that the denial of a contributory social security benefit falls within the ambit of the protection of property in A1P1: see Willis v United Kingdom (2002) 35 EHRR 21, in relation to the denial of widows payment and widowed mothers allowance to widowers.	Ratio
+The Court did not there find it necessary to consider whether the facts also fell within the ambit of the right to respect for family life protected by article 8 of the Convention.	Ratio
+But this could matter, in relation both to whether the claimant and her children are in an analogous situation to a surviving spouse or civil partner and their children and to the justification for the difference in treatment between them.	Ratio
+Another way of putting the relationship between article 14 and the substantive Convention rights is that article 14 comes into play whenever the subject matter of the disadvantage constitutes one of the modalities of the exercise of the right guaranteed: see eg Petrovic v Austria (1998) 33 EHRR 307, para 28.	PRE
+In that case a father complained that a non-contributory parental leave allowance was only available to mothers and not to fathers.	PRE
+At that date, it had not yet been decided that non-contributory state benefits were covered by A1P1, so the question was whether the allowance fell within the ambit of article 8.	PRE
+There was no violation of article 8, because the state is under no obligation to provide such an allowance.	PRE
+But this allowance paid by the state is intended to promote family life and necessarily affects the way in which the latter is organised as, in conjunction with parental leave, it enables one of the parents to stay at home to look after the children (para 27).	PRE
+By granting such an allowance states are able to demonstrate their respect for family life within the meaning of article 8 (para 29).	PRE
+Thus article 14 was applicable (although not violated in that case).	PRE
+It could be said that the connection between the organisation of family life and the parental leave allowance was closer in Petrovic than the connection between the organisation of family life and the widowed parents allowance.	Ratio
+However, to the same effect is Okpisz v Germany (2005) 42 EHRR 32, where the refusal of child benefit to certain migrants was held to violate article 14 taken with article 8: By granting child benefit, states are able to demonstrate their respect for family life within the meaning of article 8; the benefits therefore come within the scope of that provision.	PRE
+(para 32).	PRE
+Most recently, in Aldeguer Toms v Spain (2017) 65 EHRR 24, the court considered a claim for survivors benefits, brought by an unmarried same sex partner before the introduction of same sex marriage in Spain, under article 14 read with both article 8 and A1P1: it reiterated that the notion of family life not only includes dimensions of a purely social, moral or cultural nature but also encompasses material interests (para 72).	PRE
+Judge Keller, the Swiss Judge, considered that the claim should only have been considered under A1P1, because financial support from the state primarily falls within A1P1; only some additional element, such as a clear legislative intent to provide an incentive for the organisation of family life, could bring it within article 8 (para O-I2).	PRE
+In this case, as in Petrovic and Okpisz, such an element clearly exists.	Ratio
+In M v Secretary of State for Work and Pensions [2006] 2 AC 91, Lord Nicholls of Birkenhead accepted that the Child Support Act 1991 was one of the ways the United Kingdom evinces respect for children and the life of the family of which the child is part (para 17).	PRE
+Widowed parents allowance is only payable if there are children or young people for whose care and support either the deceased or the survivor or both were responsible: it is conditional on the survivor receiving child benefit and thus being a primary carer for such a child.	PRE
+It is, as Lord Bingham put it, one of the ways in which the state evinces respect for children and the life of the family of which they are part.	PRE
+Indeed, it is a stronger case than child support, which is simply a mechanism for enforcing the parents obligation to maintain ones children (and interestingly, when M got to Strasbourg, the court found a violation of article 14 read with A1P1 and did not find it necessary to consider article 8: JM v United Kingdom [2011] 1 FLR 491).	PRE
+It is fair to say that the English courts have made rather heavy weather of the ambit point, particularly in connection with article 8, because of its broad and ill- defined scope.	Ratio
+In M v Secretary of State for Work and Pensions, Lord Bingham also said this (para 4): It is not difficult, when considering any provision of the Convention, including article 8 and article 1 of the First Protocol (article 1P1), to identify the core values which the provision is intended to protect.	Ratio
+But the further a situation is removed from one infringing those core values, the weaker the connection becomes, until a point is reached when there is no meaningful connection at all.	Ratio
+At the inner extremity a situation may properly be said to be within the ambit or scope of the right, nebulous though those expressions necessarily are.	Ratio
+At the outer extremity, it may not.	Ratio
+This is a difficult passage, because it is accepted that there is no need for the substantive article to be infringed in order for article 14 to be engaged.	Ratio
+But it does suggest that the closer the facts come to the protection of the core values of the substantive article, the more likely it is that they fall within its ambit.	Ratio
+Our attention was drawn to a number of other English authorities in which the connection of article 14 with article 8 is discussed, but most of those are under appeal and so it would be unwise to comment upon them.	Ratio
+In Smith v Lancashire Teaching Hospitals NHS Foundation Trust [2017] EWCA Civ 1916; [2018] 2 WLR 1063, Sir Terence Etherton MR agreed with counsel that the only sure common thread running through the various descriptions of the ambit test, for the purposes of article 14, in the several speeches in M [2006] 2 AC 91 is that the connection or link between the facts and the provisions of the Convention conferring substantive rights must be more than merely tenuous (para 48).	PRE
+Having quoted the relevant paragraphs from Petrovic and reviewed the domestic authorities, including M, he summarised the position thus (para 55): The claim is capable of falling within article 14 even though there has been no infringement of article 8.	PRE
+If the state has brought into existence a positive measure which, even though not required by article 8, is a modality of the exercise of the rights guaranteed by article 8, the state will be in breach of article 14 if the measure has more than a tenuous connection with the core values protected by article 8 and is discriminatory and not justified.	PRE
+It is not necessary that the measure has any adverse impact on the complainant in a positive modality case other than the fact that the complainant is not entitled to the benefit of the positive measure in question.	PRE
+It may turn out that this is too restrictive a test: for example, core values is a concept derived from the domestic rather than the Strasbourg jurisprudence.	Ratio
+But there is no problem applying it to the facts of this case.	Ratio
+Widowed parents allowance is a positive measure which, though not required by article 8, is a modality of the exercise of the rights guaranteed by article 8.	Ratio
+It has a more than tenuous connection with the core values protected by article 8: securing the life of children within their families is among the principal values contained in respect for family life.	Ratio
+There is no need for any adverse impact other than the denial of the benefit in question.	Ratio
+The fact that it also falls within the ambit of A1P1 is not a problem.	Ratio
+The two articles are safeguarding different rights - respect for family life and respect for property.	Ratio
+There is no reason to regard the latter as a lex specialis excluding the former in those cases, such as this, where it applies.	Ratio
+I therefore conclude that the facts fall within the ambit, not only of A1P1, but also of article 8.	Ratio
+Analogous situation?	Ratio
+Unlike domestic anti-discrimination law, article 14 does not require the identification of an exact comparator, real or hypothetical, with whom the complainant has been treated less favourably.	Ratio
+Instead it requires a difference in treatment between two persons in an analogous situation.	Ratio
+However, as Lord Nicholls explained in R (Carson) v Secretary of State for Work and Pensions [2005] UKHL 37; [2006] AC 173, the essential question for the court is whether the alleged discrimination, that is, the difference in treatment of which complaint is made, can withstand scrutiny.	PRE
+Sometimes the answer to this question will be plain.	PRE
+There may be such an obvious, relevant difference between the claimant and those with whom he seeks to compare himself that their situations cannot be regarded as analogous.	PRE
+Sometimes, where the position is not so clear, a different approach is called for.	PRE
+Then the courts scrutiny may best be directed at considering whether the differentiation has a legitimate aim and whether the means chosen to achieve the aim is appropriate and not disproportionate in its adverse impact.	PRE
+(para 3) As was pointed out in AL (Serbia) v Secretary of State for the Home Department [2008] UKHL 42; [2008] 1 WLR 1434, there are few Strasbourg cases which have been decided on the basis that the situations are not analogous, rather than on the basis that the difference was justifiable.	PRE
+Often the two cannot be disentangled.	PRE
+However, in Shackell v United Kingdom (Application No 45851/99, decision of 27 April 2000), the European Court of Human Rights declared inadmissible a complaint that denying widows benefits to unmarried surviving partners discriminated against the survivor and her children on the ground of her unmarried status and the childrens illegitimacy.	PRE
+The court accepted that this fell within the ambit of A1P1, so found it unnecessary to consider whether it also fell within the ambit of article 8.	PRE
+However, relying on the Commissions view in Lindsay v United Kingdom (1987) 9 EHRR CD 555, that marriage is different from cohabitation, it held that the applicants situation was not comparable to that of a widow, although it also went on to hold that in any event the difference in treatment was justified, and hence by a majority that the application was inadmissible.	PRE
+In Burden v United Kingdom (2008) 47 EHRR 38 the Grand Chamber agreed with Shackell that marriage conferred a special status, but that was for the purpose of holding that sisters who had lived together all their adult lives were not in an analogous situation to married couples or civil partners for the purpose of inheritance tax relief (paras 62, 63).	PRE
+It is always necessary to look at the question of comparability in the context of the measure in question and its purpose, in order to ask whether there is such an obvious difference between the two persons that they are not in an analogous situation.	Ratio
+The factors linking the claim to article 8 are also relevant to this question.	Ratio
+It was for this reason that Treacy J was able to distinguish between Ms McLaughlins claim for the bereavement payment and her claim for widowed parents allowance.	Ratio
+In the case of the former, he held that the lack of a public contract between Ms McLaughlin and Mr Adams meant that her situation was not comparable with that of a widow and her claim must fail (paras 66, 67).	Ratio
+That decision has not been appealed.	Ratio
+In the case of the latter, he held that the relevant facet of the relationship was not their public commitment but the co-raising of children.	Ratio
+For that purpose marriage and cohabitation were analogous (para 68).	Ratio
+In my view, that analysis is correct.	Ratio
+Widowed parents allowance is only paid because the survivor is responsible for the care of children who were at the date of death the responsibility of one or both of them.	Ratio
+Its purpose must be to benefit the children.	Ratio
+The situation of the children is thus an essential part of the comparison.	Ratio
+And that situation is the same whether or not the couple were married to one another.	Ratio
+It makes no difference to the children.	Ratio
+But had the couple been married, their treatment would be very different: their household would have significantly more to live on while their carer is in work.	Ratio
+I cannot regard Shackell as conclusively against the conclusion that for this purpose the situations are analogous.	Ratio
+Unlike Treacy J, the court did not examine the purpose of each benefit separately and ask whether they should be distinguished when it came to the justification for excluding unmarried parents and their children.	Ratio
+It is also worth noting that in Sahin v Germany [2003] 2 FLR 671, the Grand Chamber concluded that, because children of married and unmarried parents should not be treated differently, neither should the unmarried parents - in that case an unmarried father for the purpose of contact with his children.	PRE
+It is also instructive that in Yiit v Turkey (2011) 53 EHRR 25, the Grand Chamber was faced with a difference in treatment for the purpose of survivors benefits between people who had only religious marriages and people who had civil marriages.	PRE
+The court began its discussion by pointing out that According to the courts settled case law, discrimination means treating differently, without an objective and reasonable justification, persons in relevantly similar situations (para 67, citing DH v Czech Republic (2007) 47 EHRR 3, para 175).	PRE
+It noted the Governments argument that civil and religious marriages were not similar for this purpose (para 75).	PRE
+But it did not answer this question directly.	PRE
+Rather, it considered whether religious marriage was a status within the meaning of article 14 and concluded that it was (paras 79, 80).	PRE
+It then went straight on to consider whether the difference in treatment was justified, thus implying that the situations were relevantly similar, and held that it was (paras 82, 87).	PRE
+Notably, Yiit involved only the mother.	Ratio
+It did not involve any of her children, who were entitled to bereavement benefits in their own right.	Ratio
+As shown by the helpful intervention of the National Childrens Bureau, which hosts the Childhood Bereavement Network, in the great majority of Council of Europe states children of the deceased are directly eligible for bereavement benefits up to a certain age.	Ratio
+The United Kingdom is unusual in channelling benefits for children through their parents.	Ratio
+Other status?	Ratio
+It is well established both in Strasbourg and domestically that not being married can be a status just as being married can be.	Ratio
+In Yiit v Turkey, for example, the Grand Chamber held that the absence of a marriage tie between two parents is one of the aspects of personal status which may be a source of discrimination prohibited by article 14 (para 79).	Ratio
+In In re G (Adoption: Unmarried Couple) [2008] UKHL 38; [2009] 1 AC 173, the House of Lords held that being unmarried was a status for the purpose of deciding whether their inability to adopt was unjustified discrimination under article 14.	Ratio
+Justification?	Ratio
+It follows, therefore, that the situation in this case is sufficiently comparable to that of a widow or widower with children for the difference in treatment based on the lack of a marriage tie to require justification.	Ratio
+This in turn depends upon whether it pursues a legitimate aim and whether there is a reasonable relationship of proportionality between the means employed and the aim sought to be realised: see, eg, Yiit v Turkey, para 67, citing Larkos v Cyprus (1999) 30 EHRR 597, para 29).	Ratio
+Further, to quote Yiit again, at para 70: The contracting states enjoy a certain margin of appreciation in assessing whether and to what extent differences in otherwise similar situations justify a different treatment in law.	Ratio
+The margin of appreciation is the latitude which the Strasbourg court will allow to member states, which is wider in some contexts and narrower in others.	Ratio
+As the Grand Chamber explained, in a much-quoted passage in Stec v United Kingdom (2006) 43 EHRR 47, para 52: The scope of this margin will vary according to the circumstances, the subject matter and the background.	Ratio
+As a general rule, very weighty reasons would have to be put forward before the court could regard a difference in treatment based exclusively on the ground of sex as compatible with the Convention.	Ratio
+On the other hand, a wide margin is usually allowed to the State under the Convention when it comes to general measures of economic or social strategy.	Ratio
+Because of their direct knowledge of their society and its needs, the national authorities are in principle better placed than the international judge to appreciate what is in the public interest on social or economic grounds, and the court will generally respect the legislatures policy choice unless it is manifestly without reasonable foundation.	Ratio
+In Willis v United Kingdom, although it concerned social security benefits where normally a wide measure would be allowed, the court held, at para 39, that very weighty reasons were required to justify a difference of treatment based exclusively on the ground of sex, and no such reasons existed.	Ratio
+On the other hand, in Stec, which also concerned the benefits system, although the difference in treatment was based on sex, it was inextricably linked to the difference in retirement ages between men and women, which had historically been justified.	Ratio
+It was a matter for member states to determine when and how to phase that out.	Ratio
+Strictly speaking, the margin of appreciation has no application in domestic law.	Ratio
+Nevertheless, when considering whether a measure does fall within the margin, it is necessary to consider what test would be applied in Strasbourg - that is why the manifestly without reasonable foundation test has generally been applied domestically in benefit cases.	Ratio
+In cases which do fall within the margin which Strasbourg will allow to member states, the domestic courts will then have to consider which among the domestic institutions is most competent and appropriate to strike the necessary balance between the individual and the public interest.	Ratio
+In a discrimination case such as In re G, it may be the courts.	Ratio
+In other cases, it may be the Government or Parliament.	Ratio
+The appellant, supported by the Child Poverty Action Group, argues that the difference in treatment is based, or largely based, on the birth status of the children, which is a suspect ground, requiring particularly careful scrutiny.	ARG
+Thus, it is argued, the marriage condition has the effect that all, or almost all, the children adversely affected are illegitimate - ie born to parents who are not married to each other - and all, or almost all, the children positively affected will be legitimate - ie born to parents who are married to one another.	ARG
+In fact, this will be so in a situation like this case, when the parents cohabited for a long period and all the children who fall within section 39A(3) are the children of both the deceased and the survivor.	ARG
+It may very well not be so in other situations, where there are children of either the deceased or the survivor from other relationships, marital or non-marital.	ARG
+It is therefore only the situation covered by section 39A(3)(a) which deserves particularly careful scrutiny.	ARG
+The legitimate aim put forward by the respondent is to promote the institutions of marriage and civil partnership by conferring eligibility to claim only on the spouse or civil partner of the person who made the contributions.	Ratio
+There is no doubt that the promotion of marriage, and now civil partnership, is a legitimate aim: this was the reason why the denial of widows benefits to an unmarried partner was held justified in Shackell; and why the preference given to civil over religious marriage was held justified in Yiit.	Ratio
+The mere existence of a legitimate aim is not enough: there has to be a rational connection between the aim pursued and the means employed.	Ratio
+Although this is not spelled out in the Strasbourg case law, it follows from the fact that the measure must pursue a legitimate aim.	Ratio
+Whether there is a rational connection between the aim in this case and the measure in question is more debateable.	Ratio
+It seems doubtful in the extreme that any couple is prompted to marry - save perhaps when death is very near - by the prospect of bereavement benefits.	Ratio
+But they are part of a (small) package of social security measures in which it pays to be married rather than to cohabit.	Ratio
+Ms McLaughlin, like many cohabitants, complains that the social security system is happy to recognise their relationship for some purposes but not for this one.	Ratio
+We have not gone into the detail of this.	Ratio
+But the general picture is that unmarried cohabitants are treated as a couple for the purpose of means-tested benefits: they will get the benefits applicable to a couple rather than the benefits applicable to two single people.	Ratio
+This may sometimes be to their advantage: the benefit cap is higher for couples and lone parents than it is for single adult households.	Ratio
+But it is often to their disadvantage, as the system assumes that two can live together more cheaply than can two single households.	Ratio
+The fact remains that the social security system does privilege marriage and civil partnership in a few ways: principally by permitting one partner to benefit from the contributions made by the other, not only for bereavement but also for retirement pension purposes.	Ratio
+This, as it seems to me, is the nub of the matter.	Ratio
+Where means-tested benefits are concerned, it is difficult indeed to see the justification for denying people and their children benefits, or paying them a lower rate of benefit, simply because the adults are not married to one another.	Ratio
+Their needs, and more importantly their childrens needs, are the same.	Ratio
+But we are concerned here with a non-means-tested benefit earned by way of the deceaseds contributions.	Ratio
+And the allowance is a valuable addition to the household income if the survivor is in work.	Ratio
+Is it a proportionate means of achieving the legitimate aim of privileging marriage to deny Ms McLaughlin and her children the benefit of Mr Adams contributions because they were not married to one another?	Ratio
+In my view, the answer to that question is manifestly no, at least on the facts of this case.	Ratio
+The allowance exists because of the responsibilities of the deceased and the survivor towards their children.	Ratio
+Those responsibilities are the same whether or not they are married to or in a civil partnership with one another.	Ratio
+The purpose of the allowance is to diminish the financial loss caused to families with children by the death of a parent.	Ratio
+That loss is the same whether or not the parents are married to or in a civil partnership with one another.	Ratio
+That view is reinforced by the international obligations to which the United Kingdom is party and which inform the interpretation of the guarantees contained in the ECHR even though they have not been directly incorporated into United Kingdom law: see eg ZH (Tanzania) v Secretary of State for the Home Department [2011] UKSC 4; [2011] 2 AC 166.	Ratio
+Principal amongst these is article 3 of the United Nations Convention on the Rights of the Child (UNCRC), which states that in all actions concerning children the best interests of the child shall be a primary consideration.	Ratio
+Given the direct link with children, there cannot be much doubt that the provision of widowed parents allowance is an action concerning children.	Ratio
+Article 26 requires State parties to recognise for every child the right to benefit from social security, including social insurance .	Ratio
+Article 2 of the UNCRC requires state parties to respect and ensure the rights set forth in the present Convention to each child within their jurisdiction without discrimination of any kind, irrespective of the childs or his or her parents birth or other status.	Ratio
+To like effect is article 10 of the International Covenant on Economic Social and Cultural Rights 1966.	Ratio
+Denying children the benefit of social insurance simply because their parents were not married to one another is inconsistent with that obligation.	Ratio
+It is also noteworthy that the great majority of member states of the Council of Europe provide survivors pensions directly to the children irrespective of birth status and in every other member state for which evidence is available, apart from Malta, where a pension is not paid directly to the child a pension can be paid to the surviving parent whether or not they were married to the deceased parent.	Ratio
+This is evidence of a European consensus which is always relevant to the width of the margin of appreciation which Strasbourg will allow.	Ratio
+This is not a difficult conclusion to reach on the facts of this case, where the couple lived together for many years, were recognised as doing so for other purposes by the Department for Communities and were parents of all the children involved.	Ratio
+Their children should not suffer this disadvantage because their parents chose not to marry - as it happens for a commendable reason, but it might not always be so.	Ratio
+This unjustified discrimination in the enjoyment of a Convention right is enough to ground a declaration of incompatibility under section 4(2) of the Human Rights Act.	Ratio
+It does not follow that the operation of the exclusion of all unmarried couples will always be incompatible.	Ratio
+It is not easy to imagine all the possible permutations of parentage which might result in an entitlement to widowed parents allowance.	Ratio
+The recent introduction into the household of a child for whom only the surviving spouse is responsible is one example.	Ratio
+Whether it would be disproportionate to deny that child the benefit of the deceaseds contributions would be a fact specific question.	Ratio
+But the test is not that the legislation must operate incompatibly in all or even nearly all cases.	Ratio
+It is enough that it will inevitably operate incompatibly in a legally significant number of cases: see Christian Institute v Lord Advocate [2016] UKSC 51; 2016 SLT 805, para 88.	Ratio
+A declaration of incompatibility does not change the law: it is then for the relevant legislature to decide whether or how it should be changed.	Ratio
+It also does not follow that the new law is incompatible.	Ratio
+Although we have been advised of its existence, we have not heard argument about it, and the argument would no doubt be very different from the argument we have heard in this case.	Ratio
+But I do not see the fact that the law has now changed as a reason for not making a declaration of incompatibility: the old law will remain relevant for deaths taking place before March 2017 for a very long time.	Ratio
+I would therefore allow the appeal and make a declaration that section 39A of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 is incompatible with article 14 of the ECHR, read with article 8, insofar as it precludes any entitlement to widowed parents allowance by a surviving unmarried partner of the deceased.	RPC
+LORD MANCE: (with whom Lady Hale, Lord Kerr and Lady Black agree)	RPC
+This appeal had led to disagreement between a majority view contained in the judgment prepared by Lady Hale and a minority view expressed by Lord Hodge.	Ratio
+While I come down in favour of the former view, I recognise the force of a number of points made by Lord Hodge.	Ratio
+The majority view faces the difficulty that the European Court of Human Rights declared inadmissible all aspects of the complaint made by Joanna Shackell in Shackell v United Kingdom (Application No 45851/99).	Ratio
+That complaint included as one element the refusal to an unmarried mother of a widowed mothers allowance following the death of her partner in 1995.	Ratio
+The Welfare Reform and Pensions Act 1999 replaced that allowance with widowed parents allowance, to cater for the death of either member of a married couple, but nothing in that change affects the reasoning in Shackell.	Ratio
+Equally, I do not think that it is possible to treat Shackell as a case where the court failed to distinguish between the benefits there claimed or to ask whether they should be treated separately or to focus on the children.	Ratio
+Ms Shackell, represented by a welfare rights worker, made a distinct claim that her children were discriminated against by reason of their illegitimate status, arguing that the refusal to pay her widows benefits in respect of her children had a direct financial consequence on her family life: violation of article 8 taken in conjunction with article 14 of the Convention.	Ratio
+The court dealt with this specifically as a complaint about non-payment of widowed mothers allowance, to which it gave a distinct response as follows: whilst it is true that the applicant does not receive Widowed Mothers Allowance, the reason for her not being eligible is that she and her late partner were not married.	Ratio
+It is not related to the status of the children The court added that it followed that the applicants ineligibility for widowed mothers allowance was compatible with the Convention for the same reasons as those which it had already set out in rejecting the claim so far as it related to widows benefits simpliciter.	Ratio
+We are therefore squarely confronted with a need to consider whether the Courts approach in Shackell, set out in para 48 above, should now be regarded as wrong or should not be followed, at least domestically.	Ratio
+In my opinion, that is indeed the position.	Ratio
+The existence of marriage was of course a condition of eligibility for widowed mothers allowance in Shackell; that was the very basis of complaint there - just as the requirement of marriage or a civil partnership is on this appeal the basis of complaint in relation to widowed parents allowance.	Ratio
+But the reasoning in Shackell fails to address what I regard as the clear purpose of this allowance, namely to continue to cater, however broadly, for the interests of any relevant child.	Ratio
+Refusal of the allowance to the survivor of a couple who are neither married nor civil partners cannot simply be regarded as a detriment to the survivor of the couple.	Ratio
+Refusal would inevitably operate in a significant number of cases to the detriment of the child.	Ratio
+There is common ground between the majority and the minority that the widowed parents allowance falls within the ambit of article 8 (see Lord Hodge, para 70).	Ratio
+In my opinion, its refusal was and is prima facie a violation of article 14 read with article 8, as well as of article 14 read with A1P1.	Ratio
+Bearing in mind that the main purpose of widowed parent allowance is to secure the continuing well-being of any child of a survivor, there seems in this context to be no tenable distinction, and indeed manifest incongruity in the difference in treatment, between a child of a couple who are married or civil partners and the child of a couple who are not.	Ratio
+In a large number of cases the effect would also be to discriminate against a child who was illegitimate.	Ratio
+Indirect discrimination does not depend on the reason for or purpose of the conduct complained of, but on its effect.	Ratio
+The European Court of Human Rights does not appear to have addressed this aspect in its brief reasoning set out in para 48 above.	Ratio
+And legitimacy or illegitimacy is a status.	Ratio
+As Lady Hale points out in paras 42-43, we do not need to consider other situations on this appeal.	Ratio
+A policy in favour of marriage or civil partnership may constitute justification for differential treatment, when children are not involved.	Ratio
+But it cannot do so in relation to a benefit targeted at the needs and well-being of children.	Ratio
+The fact that the widowed parents allowance may cease or be suspended in some situations is no answer to this.	Ratio
+The underlying thinking is no doubt that adequate support will be or is likely to be derived from another source in such situations.	Ratio
+The provisions for cessation or suspension may not be entirely logical or reflect entirely accurately the circumstances in which adequate alternative support may be expected.	Ratio
+But, if so, that does not appear to me to affect the analysis that widowed parents allowance is fundamentally aimed at securing the needs and well-being of children.	Ratio
+I take the points made by Lord Hodge (paras 85-87) that it is not always easy to judge how different benefits interact and how easy they may be to administer.	Ratio
+But the position of couples who are neither married nor civil partners is already catered for in other situations known to the law.	Ratio
+The starting point is surely that, where children are for relevant purposes in a similar situation, the law would be expected to deal with them in the same way.	Ratio
+I am not persuaded that any substantial grounds exist for thinking that this was not and is not feasible, as well as just, in the present context.	Ratio
+For these reasons, and for the additional reasoning on further points mentioned in Lady Hales judgment, I join with the majority in allowing this appeal relating to widowed parents allowance.	RPC
+LORD HODGE: (dissenting)	RPC
+I regret that I find myself in disagreement with the majority on this appeal.	RPC
+In my view the widowed parents allowance (the WPA) is not incompatible with article 14 of the European Convention on Human Rights (the ECHR) when taken with either article 8 of the ECHR or article 1 of the First Protocol to the ECHR (A1P1).	RPC
+I am very grateful to Lady Hale for setting out the facts, the evolution of bereavement benefits and the legislation, which I do not have to repeat.	RPC
+In explaining my disagreement, I will draw attention to certain features of the legislation which are to my mind of greater importance than the majority acknowledges.	RPC
+We are concerned with the version of section 39A of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 (the 1992 Act) which was in force when Mr Adams died on 28 January 2014 and which Lady Hale has set out in para 13 of her judgment.	Ratio
+The discrimination which the majority sees as incompatible with the ECHR is the exclusion of the survivor of a couple who were not married or in a civil partnership from the benefit of the WPA because, it is reasoned, the discrimination, which that exclusion entails, has not been justified and so is contrary to article 14 when read with article 8 of the ECHR.	Ratio
+The legislation	STA
+There are a number of features of the WPA which are material to my analysis.	Ratio
+First, the WPA is a contributory benefit.	Ratio
+The deceased spouse or civil partner (the Deceased) must have satisfied the prescribed contribution conditions (section 39A(2) and Schedule 3 Part I, paragraph 5).	Ratio
+The benefit which becomes available to the surviving spouse or civil partner (the Survivor) is thus the result of the Deceaseds contributions.	Ratio
+Secondly, the WPA is not means-tested but is payable even if the Survivor earns a substantial income through work, and it is subject to income tax as part of the Survivors income (formerly under section 617 of the Income and Corporation Taxes Act 1988 (ICTA) and now under Part 9, chapter 5 of the Income Tax (Earnings and Pensions) Act 2003 (ITEPA)).	Ratio
+As discussed below, the WPA is treated as pension income of the Survivor.	Ratio
+Thirdly, the WPA is payable not only when the Survivor has a responsibility for children (section 39A(3)) but also if the Survivor is a woman and is pregnant in specified circumstances (section 39A(2)(b) & (c)).	Ratio
+Fourthly, the WPA ceases to be payable (a) when the Survivor reaches pensionable age (section 39A(4A)(ii)) and (b) if the Survivor marries or enters into a civil partnership (section 39A(4) and (4A)), and is not payable so long as the Survivor cohabits with a person of the opposite sex as if they were married or with a person of the same sex as if they were civil partners (section 39A(5)(b) & (c)).	Ratio
+The first and second features - that the Survivors entitlement is dependent on the Deceaseds contributions and is not means-tested - point to the importance of the nexus between the Survivor and the Deceased.	Ratio
+It is the nature of that relationship which gives the Survivor the right to benefit from the deceaseds contributions.	Ratio
+The WPA is payable not only if there is a child of the Deceased and the Survivor or a child in respect of whom the Deceased had been entitled to child benefit immediately before his or her death (section 39A(3)(a) & (b)) but also if the Deceased and the Survivor had been living together immediately before the death and there was a child in respect of whom the Survivor was then entitled to child benefit (section 39A(3)(c)).	Ratio
+Thus, the WPA is made available to the Survivor if he or she is responsible for a child for whom the Deceased was not responsible.	Ratio
+The third and fourth features - the availability of the WPA to a pregnant woman and especially the circumstances in which WPA ceases to be payable or is suspended, point to the focus of the benefit on the provision of assistance to the bereaved Survivor: WPA, by replacing income earned by the Deceased, gives the Survivor the options of not working or of working for less hours after bereavement, notwithstanding his or her current or future financial responsibility for children.	Ratio
+That replacement income is ended or suspended when the Survivor enters into a relationship with another which may be expected to yield alternative financial support.	Ratio
+In the public consultation document, Bereavement Benefit for the 21st century, (Cm 8221) which the Secretary of State for Work and Pensions presented to Parliament in December 2011, it was recognised that the bereavement benefits were not affected by paid employment and that the majority of people who applied for those benefits were likely to be in work.	Ratio
+In that document the WPA was described as providing support towards the additional costs of raising children (p 14) and the function of it and other bereavement benefits was described in these terms: a key function of bereavement benefits is to provide some financial security in the period immediately after spousal bereavement to allow people to take time away from work should they need this.	Ratio
+(p 16) This latter description is not wholly accurate as the WPA, unlike the short-term bereavement allowance, is not confined to the 52 weeks immediately after the bereavement.	Ratio
+But the focus on the financial security of the Survivor applies to each of the bereavement benefits.	Ratio
+This focus on the position and welfare of the Survivor is consistent with the evolution of bereavement benefits which Lady Hale has summarised in paras 4 to 12 of her judgment.	Ratio
+The initial aim of bereavement benefits was to relieve the plight of the widow under pensionable age who lost the support of a bread-winning husband at a time when many married women did not work.	Ratio
+Social change, including the increase in the number of married women and widows who engage in paid work, led to the demise of the widows pension, which was payable to a widow aged over 45 when widowed and continued to be paid until she drew her retirement pension, and its replacement with a bereavement allowance for up to 52 weeks, while the WPA provided longer-term income substitution to the Survivor, in recognition of her responsibility for children.	Ratio
+The WPA, as a contributory benefit, stands in contrast to means-tested benefits for the support of children such a child tax credit, which now is being replaced by universal credit.	Ratio
+Such means-tested benefits do not require a nexus between a deceased contributor and a surviving claimant but are payable because of the need to provide for the welfare of children.	STA
+The WPA counts as income in relation to means-tested benefits but 10 of the WPA is disregarded when calculating entitlement to means-tested benefits: Regulation 104 of and paragraph 16 of Schedule 8 to the Employment and Support Allowance Regulations (Northern Ireland) 2008 (SI 2008/280).	STA
+Accordingly, a person in receipt of means tested benefits will often obtain only limited assistance from an entitlement to WPA.	STA
+Securing ECHR rights without discrimination	Ratio
+Lady Hale has set out article 14 of the ECHR and the four questions which it raises in para 15 of her judgment.	Ratio
+In relation to the first question (do the circumstances fall within the ambit of one or more of the Convention rights?), it has been established in Willis v United Kingdom (2002) 35 EHRR 21 that the denial of a contributory social security benefit falls within the ambit of the A1P1 right.	Ratio
+I therefore postpone my consideration of the concept of the ambit of a Convention right until I consider article 14 taken with article 8 below.	Ratio
+In Willis the challenge to the denial of a widows payment and a widowed mothers allowance (the precursor of the WPA) to widowers succeeded under article 14 taken in conjunction with A1P1 and the Strasbourg court (the ECtHR) did not have to consider the complaint under article 14 in conjunction with article 8.	Ratio
+A similar challenge under article 14 taken in conjunction with A1P1 was made by an unmarried mother of three children who had had a long-term relationship with a man who was the childrens father in the case of Shackell v United Kingdom (Application No 45851/99) decision of 27 April 2000.	Ratio
+She complained that the United Kingdoms social security legislation discriminated against her because she was an unmarried surviving partner by denying her a right to the widows benefits available to married women (including the widowed mothers allowance).	Ratio
+The ECtHR treated the right to widows benefits as a pecuniary right for the purposes of A1P1 and saw no need to determine whether the facts also fell within the ambit of article 8.	Ratio
+The court by majority declared the application inadmissible because it was manifestly ill-founded within the meaning of article 35 of the ECHR.	Ratio
+In reaching that conclusion the ECtHR considered not only the applicants claim to widows benefits generally but also the childrens claim that they were discriminated against in relation to widowed mothers allowance.	Ratio
+The ECtHR referred to the decision of the European Commission of Human Rights in Lindsay v United Kingdom (1987) 9 EHRR CD 555 in which the Commission rejected a comparison between unmarried cohabitees and a married couple in relation to the incidence of income tax on the basis that they were not in analogous situations.	Ratio
+The Commission stated: Though in some fields the de facto relationship of cohabitees is now recognised, there still exist differences between married and unmarried couples, in particular, differences in legal status and legal effects.	Ratio
+Marriage continues to be characterised by a corpus of rights and obligations which differentiate it markedly from the situation of a man and woman who cohabit.	Ratio
+The court, while recognising that since 1986 there had been increased social acceptance of stable personal relationships outside marriage, stated: However, marriage remains an institution which is widely accepted as conferring a particular status on those who enter into it.	Ratio
+The situation of the applicant is therefore not comparable to that of a widow.	Ratio
+Recognising that the ECHR gives States a certain margin of appreciation in the assessment of the extent to which differences in otherwise similar situations justify a different treatment in law, the court held that the promotion of marriage, by conferring limited benefits for surviving spouses, could not be said to exceed the margin of appreciation afforded to the UK Government.	Ratio
+Shackell was decided in 2000; and in 2008 the Grand Chamber of the ECtHR confirmed that approach in Burden v United Kingdom (2008) 47 EHRR 38.	Ratio
+In that case two unmarried sisters, who had lived together all their lives and who for 31 years had jointly owned the house in which they lived, complained under article 14 taken with A1P1 that it was unjustified discrimination for the UK tax system to deny them the exemption from inheritance tax which was available to property passing between spouses or civil partners.	Ratio
+In holding that there was no discrimination and therefore no violation of article 14 taken with A1P1, the Grand Chamber stated (para 63): Moreover, the Grand Chamber notes that it has already held that marriage confers a special status on those who enter into it.	Ratio
+The exercise of the right to marry is protected by article 12 of the Convention and gives rise to social, personal and legal consequences.	Ratio
+In Shackell, the court found that the situations of married and unmarried heterosexual cohabiting couples were not analogous for the purposes of survivors benefits, since marriage remains an institution which is widely accepted as conferring a particular status on those who enter it.	Ratio
+The Grand Chamber considers that this view still holds true.	Ratio
+(Emphasis added) The Grand Chamber went on to state (para 65) that what set marriage and civil partnership apart from other forms of cohabitation was the express public undertaking of a body of rights and obligations of a contractual nature.	Ratio
+The legally binding agreement which marriage or civil partnership entailed rendered those relationships fundamentally different from the relationship of cohabitation, regardless of its long duration.	Ratio
+See also, more recently albeit in the different context of testimonial privilege, Van der Heijden v Netherlands (2012) 57 EHRR 13, paras 69 and 84.	Ratio
+Thus in Yiit v Turkey (2011) 53 EHRR 25, the Grand Chamber expressed the view (in para 72) that marriage is characterised by a corpus of rights and obligations that differentiated it materially from other situations of a man and a woman who cohabit and stated: States have a certain margin of appreciation to treat differently married and unmarried couples, particularly in matters falling within the realm of social and fiscal policy such as taxation, pensions and social security.	Ratio
+I am not persuaded that this court has grounds for departing from this consistent line of authority from the ECtHR which the Grand Chamber has recently endorsed in Burden and Yiit.	Ratio
+It provides a clear answer to a complaint based on article 14 taken with A1P1.	Ratio
+There is no suggestion that Strasbourg jurisprudence is evolving on this issue in the context with which this appeal is concerned, namely the entitlement of a surviving partner to state benefits arising out of the deceaseds contributions.	Ratio
+Further, the ECtHR has not suggested that an analysis of those complaints in the context of article 14 taken with article 8 would have caused it to have reached a different decision in Shackell.	Ratio
+In my view, the ECtHRs treatment of marriage and civil partnership as conferring a status which distinguishes them from cohabitation, while not binding on this court, is a very important component of any analysis of a challenge under article 14 taken together with article 8, to which I will turn.	Ratio
+But it is necessary to consider first whether the present case falls within the ambit of article 8.	Ratio
+The ambit of article 8	Ratio
+It has long been established in the jurisprudence of the ECtHR that article 14, which seeks to secure without discrimination the enjoyment of the rights and freedoms contained in the substantive provisions of the ECHR and its protocols, does not require any breach of those substantive provisions.	Ratio
+It is sufficient for article 14 to apply that the facts of the case fall within the ambit of one or more of those substantive provisions: Abdulaziz Cabales and Balkandali v United Kingdom (1985) 7 EHRR 471, para 71; Inze v Austria (1987) 10 EHRR 394, para 36; Petrovic v Austria (1998) 33 EHRR 357, para 22; and, more recently, Aldeguer Toms v Spain (2017) 65 EHRR 24, para 74.	Ratio
+In the latter case (para 74) the ECtHR continued: The prohibition of discrimination enshrined in article 14 applies to those additional rights, falling within the general scope of any Convention article, for which the state has voluntarily decided to provide.	Ratio
+While article 8 does not require the state to provide financial support to a family in the form of state benefits, such support as the state choses to provide must be provided without discrimination.	Ratio
+For the ECtHR has held that family life in article 8 includes not only dimensions of a purely social, moral or cultural nature but also encompasses material interests: Merger v France (2004) 43 EHRR 51, para 46; Aldeguer Toms (above) para 72.	Ratio
+Thus, for example, the provision of child benefits to the parents of a child has been characterised as a way by which states are able to demonstrate their respect for family life: Okpisz v Germany (2005) 42 EHRR 32, para 32.	Ratio
+Article 8 confers a right that the state will show respect for private and family life.	Ratio
+The provision of financial support is one of the modalities of the exercise of a right guaranteed: Petrovic (above), para 28.	Ratio
+I interpret modality as a particular mode in which something is done or expressed; in relation to article 8, it is a way in which the state expresses its support for family life.	Ratio
+position thus: In our domestic jurisprudence, Lord Nicholls of Birkenhead summarised the Article 14 is engaged whenever the subject matter of the disadvantage comprises one of the ways a state gives effect to a Convention right (one of the modalities of the exercise of a right guaranteed).	Ratio
+For instance, article 8 does not require a state to grant a parental leave allowance.	Ratio
+But if a state chooses to grant a parental leave allowance it thereby demonstrates its respect for family life.	Ratio
+The allowance is intended to promote family life.	Ratio
+Accordingly the allowance comes within the scope of article 8, and article 14 read with article 8 is engaged: Petrovic v Austria (2001) 33 EHRR 307, paras 27-30.	Ratio
+(M v Secretary of State for Work and Pensions [2006] 2 AC 91, para 16)	Ratio
+More recently, in R (Steinfield) v Secretary of State for International Development [2018] UKSC 32; [2018] 3 WLR 415, in which the appellants successfully challenged as discriminatory the Civil Partnership Act 2004 because it did not make civil partnerships available to different-sex couples, Lord Kerr of Tonaghmore said this (para 18): Before Andrews J and the Court of Appeal it had been submitted that an adverse effect in relation to article 8 had to be demonstrated in order for an avowed infringement to come within its scope or ambit.	Ratio
+Counsel for the respondent did not seek so to argue before this court.	Ratio
+They were right not to do so.	Ratio
+Recent case law from the European Court of Human Rights (ECtHR) makes it clear that no detrimental effect need be established.	Ratio
+In particular, in Vallianatos [v Greece (2013) 59 EHRR 12] ECtHR found that the introduction of registered partnerships only for different sex couples, to exist alongside marriage which was also only open to different sex couples, constituted a breach of article 14 read with article 8 of the Convention: paras 80-92.	Ratio
+As a result, in order to avoid a finding of an infringement of article 14, the Secretary of State had to show the unequal treatment of different sex couples was justified.	PRE
+Like Lady Hale, I see no basis for the assertion that A1P1 is a lex specialis which excludes consideration of article 8.	Ratio
+When the ECtHR has decided cases under article 14 taken with A1P1 and found it unnecessary to consider a claim relating to the same facts under article 14 taken with article 8, it has not suggested that A1P1 has excluded consideration of article 8.	Ratio
+When the ECtHR has dismissed a challenge under article 14 taken with A1P1 and has then declined to consider article 14 taken with article 8 (as it did in Shackell), one may readily infer that the ECtHR does not see a different result arising from the latter assessment.	Ratio
+Indeed, it is questionable whether one can avoid such an inference.	Ratio
+But I see no justification for inferring more than that.	Ratio
+In my view A1P1 is a more natural home for social security benefits such as the WPA than article 8 because it is a benefit which is directed to assist the bereaved widow/widower or civil partner who has lost the financial support of the deceased.	Ratio
+But it is payable if and only if the Survivor has responsibility for children and it thereby can be seen as a means, albeit indirectly, by which the state shows respect for family life.	Ratio
+I agree therefore that the WPA falls within the ambit of article 8.	Ratio
+It is the positive act of providing the WPA, which provides assistance to the Survivor who is responsible for children and thereby promotes family life, that brings the benefit within the ambit of article 8.	Ratio
+The remaining questions	Ratio
+As a result, it is necessary to consider the other three questions which Lady Hale has set out in para 15 of her judgment.	Ratio
+They are: Is that difference of treatment on the ground of one of the (1) Has there been a difference of treatment between two persons who are in an analogous situation? (2) characteristics listed or other status? (3) Is there an objective justification for that difference in treatment?	Ratio
+I agree with Lady Hale that not being married can be a status: Yiit v Turkey (2011) 53 EHRR 25, paras 79-80; In re G (Adoption: Unmarried Couple) [2008] UKHL 38; [2009] AC 173, paras 8 (Lord Hoffmann), 107 (Lady Hale) and 132-133 (Lord Mance).	Ratio
+Different treatment in the field of state benefits based on a person not being married would not however be a suspect ground which requires the court to exercise closer scrutiny: see, by analogy, Swift v Secretary of State for Justice [2013] EWCA Civ 193; [2014] QB 373, Lord Dyson MR at paras 24-25.	Ratio
+Where I differ from the majority is on the first and third questions above, to which I now turn.	Ratio
+Those questions are not rigidly compartmentalised.	Ratio
+The ECtHR often addresses the third question without conducting a separate analysis of the first question.	Ratio
+This is unsurprising because there is a considerable overlap between the two questions in the assessment as to whether there has been unjustifiable discrimination.	Ratio
+Was there unjustifiable discrimination?	Ratio
+The first question is whether an unmarried bereaved cohabitee is in an analogous situation to a bereaved survivor who had been married to or in a civil partnership with the deceased.	Ratio
+In my view he or she is not.	Ratio
+As the appellant is a woman, I will refer to the survivor as she in the discussion which follows.	Ratio
+The majority suggests that they are in an analogous situation because it accepts Treacy Js analysis that the relevant facet of the relationship between the deceased and the survivor was the co-raising of children (emphasis added).	Ratio
+It is stated that the WPA is payable only if the survivor is responsible for the care of children who were at the date of death the responsibility of one or both of them (para 27).	Ratio
+That statement is correct.	Ratio
+But it does not follow, as the majority asserts, that the purpose of the WPA is to benefit the children.	Ratio
+There are a number of important characteristics of the WPA which show that it is a benefit to assist the bereaved Survivor rather than a benefit for bereaved children, although I recognise that it would benefit the children by providing additional income to the family unit.	Ratio
+First, as I have said, the WPA is a benefit which replaces the lost income of the deceased and thereby gives the Survivor the opportunity not to work or to work reduced hours while she is responsible for children.	Ratio
+Unlike benefits which are paid to meet a specific need of the claimant, the WPA, as an income replacing benefit, is taxable as pensions income in the hands of the Survivor: see formerly section 617 of ICTA and now sections 565, 566 and 577 of ITEPA.	Ratio
+Secondly, the WPA ceases to be payable while the Survivor remains responsible for relevant children in several circumstances which are the personal circumstances of the Survivor.	Ratio
+If she reaches retirement age, if she remarries or enters into a civil partnership, so long as she cohabits with a partner of either gender, or if she dies, the WPA ceases to be payable.	Ratio
+It is to my mind striking that the WPA ceases to be paid as soon as the Survivor enters into one of the specified relationships, regardless of whether the Survivors new partner undertakes any responsibility for the children.	Ratio
+If the WPA were properly characterised as a benefit for the bereaved children, it might be difficult to defend the rationality of these rules.	Ratio
+Thirdly, the WPA is a contributory benefit.	Ratio
+In most circumstances it is payable only if the Deceased has made sufficient National Insurance contributions.	Ratio
+The Survivors benefits, which are treated in UK tax law as a pension, are the product of the Deceaseds contributions.	Ratio
+Thus the nature of the nexus between the Deceased and the Survivor takes on a particular importance.	Ratio
+Fourthly, the sums payable to the Survivor are not related to the childrens needs or increased by reference to the number of children for whom she is responsible.	Ratio
+Instead, the rate of the WPA is calculated in a way similar to that of a Category A retirement pension.	Ratio
+The Survivor receives a basic pension at a weekly rate and an additional pension calculated by reference to a surplus created by the Deceaseds earnings or deemed earnings during his working life: the 1992 Act sections 39C, 44-45A and 46(2) and Schedule 4A. It is unsurprising that the rules governing the WPA focus on the nature of the relationship between the Deceased and the Survivor in determining the Survivors entitlement to this contributory pension.	Ratio
+When one pays due regard to these characteristics of the WPA, the reasoning of the ECtHR in Shackell, which recognises the importance of the status of the Survivor, is directly relevant and strongly supports the conclusion that the cohabiting survivor is not analogous to the Survivor who was married to or in a civil partnership with the Deceased.	Ratio
+I see no basis for reaching a different view in relation to article 14 taken with article 8 than that which the ECtHR has reached in relation to article 14 taken with A1P1.	Ratio
+On a strict analysis the question whether discrimination is objectively justified does not need to be addressed if one concludes, as I have, that the persons are not in an analogous situation.	Ratio
+Nonetheless, in view of my disagreement with my colleagues, it is appropriate to address this question.	Ratio
+In so doing, I observe that considerations which point against the persons being in an analogous situation also have a bearing on the justification of their being treated differently by the state.	Ratio
+It is usual, when addressing justification, to ask whether the difference in treatment pursues a legitimate aim and whether, in relation to the difference in treatment, there is a reasonable relationship of proportionality between the means employed and the aim sought to be realised: see for example Yiit v Turkey (above) para 67, Stec v United Kingdom (2006) 43 EHRR 47, para 51.	Ratio
+The contracting states are given a certain margin of appreciation in their assessment of whether differences in otherwise similar situations justify a different treatment in law.	Ratio
+In Stec at para 52, which Lady Hale quotes more fully at para 33, the Grand Chamber stated: The scope of this margin will vary according to the circumstances, the subject matter and the background.	Ratio
+It is not disputed that the promotion of marriage or civil partnerships, by means of which parties undertake binding legal obligations which may tend to support the long-term stability of their relationships, is a legitimate aim for the state to pursue.	Ratio
+In the United Kingdom there are a range of measures in the fields of taxation and social security benefits which promote such legal relationships.	Ratio
+These include the marriage allowance in the context of income tax, the ability of a couple to transfer assets between each other without a charge to tax in order to take advantage of income tax and capital gains tax allowances, and the ability of spouses and civil partners to transfer assets to each other free of inheritance tax and the entitlement of the surviving spouse or civil partner to inherit the deceased partners inheritance tax allowance if it has not been used.	Ratio
+In the field of social security benefits, entitlement to a survivors retirement pension and entitlement to the WPA depend on the existence of a marriage or a civil partnership.	Ratio
+There is thus a range of rules which confer financial benefits on persons who are or were married or in a civil partnership.	Ratio
+In this context it is of no real significance that the average informed citizen may not have been aware of the WPA when entering into the legal obligations which marriage or civil partnership entails.	Ratio
+Such a person is likely to have been aware that there were fiscal and other benefits to such relationships even if unaware of their details.	Ratio
+I am unpersuaded that any ignorance of the WPA calls into question the rational connection between the measure in question and the undisputed legitimate aim or the proportionality of the difference of treatment.	Ratio
+In this appeal the majority has referred to the test which the ECtHR applies in social security benefit cases and asked whether the difference in treatment is manifestly without reasonable foundation.	Ratio
+I agree that that is the test which should be applied: R (MA) v Secretary of State for Work and Pensions [2016] UKSC 58; [2016] 1 WLR 4550.	Ratio
+The majority concludes that the difference in treatment is manifestly disproportionate.	Ratio
+I cannot agree.	Ratio
+In considering, as did the Grand Chamber in Stec, the circumstances, the subject matter and background, the matters which I have discussed in paras 65-70 above demonstrate that the target of the contributory benefit, which is the WPA, is the Survivor, if she has responsibility for children, and if she has not obtained access to an alternative source of income by marriage, civil partnership or cohabitation, or by means of a retirement pension.	Ratio
+The children benefit only indirectly from the WPA which may terminate while the Survivor remains responsible for them.	Ratio
+The appellant and the Child Poverty Action Group seek to shift the focus from the Survivor onto the children and argue that the difference in treatment is largely based on the birth status of the children.	ARG
+This is not so: the WPA is the Survivors benefit.	Ratio
+It is of note that the ECtHR rejected a similar argument in Shackell (in para 2), in which the applicant had argued that her lack of an entitlement to the WPA discriminated against children because of their illegitimate status.	Ratio
+While there may be good policy reasons for a benefit which is directed at bereaved children, as the Child Poverty Group submits and commentators in the press have argued when this appeal was heard, that is not the nature of the WPA.	Ratio
+Such questions of social and economic policy fall within the remit of the democratically elected legislature and are beyond the remit of the courts.	Ratio
+The references to the international obligations of the United Kingdom in relation to children (para 40 of the majority judgment) lose their force when attention is paid to the characteristics of the WPA.	Ratio
+In my opinion there is no disproportionality in treating a cohabitee survivor differently from a surviving spouse or civil partner.	RPC
+The WPA falls clearly within the ambit of A1P1.	RPC
+It falls within the ambit of article 8 only indirectly: by giving the Survivor a pension, to which the Deceased and not she has contributed, it enables her not to work or to work fewer hours than she might otherwise have to.	RPC
+The WPA should not be equated with means-tested benefits which are directed to peoples needs and are not entitlements resulting from contributions.	RPC
+It does not address hardship.	RPC
+If the Survivor is in work, the WPA gives her additional income, albeit subject to taxation.	RPC
+If she is in receipt of means-tested benefits, the payment of the WPA provides only limited extra income.	RPC
+It will be set against her entitlement to such benefits, except for the disregard of 10 to which I referred in para 51 above.	RPC
+The provision of the WPA should be seen in the wider context of the United Kingdom social security system which gives benefits, which, unlike the WPA, are directed at children.	RPC
+Should the children be in need, there are benefits to support them.	RPC
+Thus, if the survivor died, the person who took responsibility for the child would be entitled to child benefit, guardians allowance and, depending on his or her means, child tax credit.	RPC
+The respondent also founds on the difficulty of administering the WPA if the officials charged with its administration had to investigate whether or not the deceased and the survivor had been cohabiting.	RPC
+This, it was suggested, could also involve intrusive questioning of a survivor shortly after a bereavement.	RPC
+By contrast marriage or civil partnership can readily be established by certificates from a public register.	RPC
+Problems in the administration of the WPA may also arise if a parent, who has made the necessary contributions, dies leaving children in the care of more than one former partner.	RPC
+Such difficulty in administration as there may be is a relevant consideration which can be placed in the balance when the court assesses proportionality.	RPC
+But the respondent does not need to rely on this additional consideration as I am satisfied that without it the difference in treatment about which the appellant complains is proportionate and thus objectively justified.	RPC
+Conclusion	RPC

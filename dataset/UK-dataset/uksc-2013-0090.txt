@@ -1,0 +1,585 @@
+This appeal relates to the right of the Police Service of Northern Ireland (PSNI) to retain personal information and data lawfully obtained from the appellant following his arrest on 14 October 2008 for the offence of driving with excess alcohol contrary to article 16(1)(a) of the Road Traffic (Northern Ireland) Order 1995 (the 1995 Order).	FAC
+On 5 November 2008 the appellant pleaded guilty to that offence at Newry Magistrates Court.	FAC
+He was thus a convicted person.	FAC
+He was fined 50 and disqualified from driving for 12 months but no immediate or suspended custodial sentence was imposed on him.	FAC
+He was born on 23 August 1972 and has therefore been an adult throughout the period relevant to this appeal.	FAC
+The facts are set out in the agreed statement of facts and issues and can be shortly stated.	FAC
+On 14 October 2008 at approximately 1.35 am the appellant was stopped at a police checkpoint.	FAC
+He was arrested and taken to a police station where he provided samples of breath which were found to contain 65 milligrams of alcohol per 100 millilitres of breath.	FAC
+That was 30 milligrams in excess of the permitted limit.	FAC
+On the same day the following information or data relating to the appellant was taken from him: (a) fingerprints pursuant to the statutory power in article 61 of the Police and Criminal Evidence (Northern Ireland) Order 1989 (the 1989 Order); (b) a photograph pursuant to the statutory power to do so under article 64A of the 1989 Order; and (c) a non-intimate DNA sample by buccal swab, pursuant to article 63 of the 1989 Order.	FAC
+For the purposes of this appeal it is not disputed that the appellants fingerprints, photograph and DNA sample were lawfully obtained by the PSNI with the consent of the appellant.	Ratio
+I note in passing that article 61(4) of the 1989 Order permits the PSNI to take fingerprints of a person charged with a recordable offence in circumstances where he or she does not consent.	Ratio
+Article 63(2A) of the 1989 Order permits the PSNI to take a non-intimate sample from a person detained in connection with a recordable offence in circumstances where he or she does not consent.	Ratio
+As to photographs, by article 64A of the 1989 Order, any person lawfully detained at a police station may be photographed even without his or her consent.	Ratio
+There is no threshold of recordable offence in relation to photographs.	Ratio
+As noted in para 1 above, the appellant was charged with the offence of driving with excess alcohol contrary to article 16(1)(a) of the 1995 Order, which is a recordable offence by virtue of regulation 2 of the Northern Ireland Criminal Records (Recordable Offences) Regulations 1989.	FAC
+He pleaded guilty to the offence on 5 November 2008 at Newry Magistrates Court and (as stated above) was fined 50 and disqualified from driving for 12 months.	FAC
+A DNA profile (described at paras 14 and 15 below) was subsequently taken from the DNA sample.	FAC
+Schedule 1 of the Road Traffic (Northern Ireland) Order 1996 provides for a maximum penalty of six months imprisonment for the offence of driving with excess alcohol, a maximum fine of 5,000, or both, together with an obligatory disqualification from driving for 12 months.	STA
+Article 6 Table A of the Rehabilitation of Offenders (Northern Ireland) Order 1978 provides that a conviction for driving with excess alcohol is spent after the expiry of five years.	STA
+On 15 January 2009, just over two months after the appellant pleaded guilty, his solicitor wrote to the PSNI claiming that the retention of the appellants photograph, fingerprint and DNA sample was unlawful.	FAC
+He requested that they be destroyed or returned to the appellant.	FAC
+The PSNI replied on 27 February 2009 saying that the legal consequence of the decision of the European Court of Human Rights (ECtHR) in S and Marper v United Kingdom [2008] ECHR 1169 (S and Marper) was a matter for the United Kingdom Government and that any changes to the law of the United Kingdom would be fully complied with by the PSNI.	FAC
+On 12 April 2010 responsibility for the DNA and fingerprint retention policy in Northern Ireland passed to the Northern Ireland administration following the devolution of policing and justice powers from Westminster.	FAC
+It then became a matter for the Northern Ireland Minister of Justice and the Northern Ireland Assembly as to what legislative solution was to be introduced in Northern Ireland in response to the S and Marper judgment of the Grand Chamber in Strasbourg.	FAC
+Issues	Ratio
+In the agreed statement of facts and issues the parties identified two questions for determination in this appeal as follows.	Ratio
+First, does the retention of the fingerprints, photograph, DNA sample and DNA profile disclose an interference with the appellant's right to respect for his private life within the meaning of article 8(1) of the European Convention on Human Rights (ECHR), the appellant having been convicted of a recordable offence? Second, if so, is that interference justified under article 8(2)? Those questions reflect, at least in part, the way in which the appellants case was put on an application to the Divisional Court in Northern Ireland (Higgins, Girvan and Coghlin LJJ) for judicial review of the right of the respondent to retain the material described above (which the Divisional Court described as the relevant data) for an indefinite period: [2012] NIQB 88.	Ratio
+In two respects the certificate granted by the Divisional Court is in somewhat different terms from the agreed statement of facts and issues, as follows: THE COURT CERTIFIES that the following point of law of general public importance is involved in the decision of the court.	Ratio
+Is the policy of the Police Service of Northern Ireland to retain indefinitely the DNA profile, fingerprints and photographs of a person convicted of a recordable offence in breach of article 8 of the ECHR? As can be seen, there is no reference to the DNA sample.	Ratio
+The PSNI intends to retain the DNA sample but only until the commencement of section 9 and, with it, Schedule 2 of the Criminal Justice Act (Northern Ireland) 2013 (the 2013 Act).	Ratio
+These provisions have yet to come into force but are expected to do so in the comparatively near future.	Ratio
+When they do come into force, Schedule 2 of the 2013 Act provides for the insertion of a new article 63P into the 1989 Order.	Ratio
+Article 63P(2) requires the destruction of all DNA samples as soon as a DNA profile has been taken or within six months of the taking of the DNA sample.	Ratio
+It will not therefore be possible to retain the appellants DNA sample once section 9 and Schedule 2 of the 2013 Act come into force.	Ratio
+In these circumstances the appeal was argued on the assumption that the appellants DNA sample will not be retained.	Ratio
+The appeal is thus concerned with the PSNIs policy with regard (a) to the retention of a convicted persons DNA profile and fingerprints, which I will refer to as his or her biometric data, and (b) to the retention of any photograph taken of him or her by the PSNI as described below.	Ratio
+The PSNI continues to retain and intends to retain indefinitely within its records the DNA profile, fingerprints and photograph relating to the appellant that were taken from him on 14 October 2008.	ARG
+The appellant says that it cannot lawfully do so.	ARG
+The statutory position in Northern Ireland	STA
+Pending the coming into force of the 2013 Act, which will broadly bring the position in Northern Ireland into line with the current position in England and Wales, the statutory position in Northern Ireland is as it was at the time of the decision of the ECtHR in S and Marper.	Ratio
+Article 64(lA) of the 1989 Order, as amended by the Police and Criminal Evidence (Amendment) (Northern Ireland) Order 2007 (the 2007 Order) provides a general permission to the PSNI to retain fingerprints and samples after they have fulfilled the purposes for which they were taken.	STA
+The use to which such fingerprints and samples may be put is, however, curtailed by article 64(lA) of the 1989 Order.	STA
+The fingerprints and samples must not be used by any person except for purposes related to the prevention or detection of crime, the investigation of an offence, the conduct of a prosecution or the identification of a deceased person or of the person from whom a body part came.	STA
+Article 64A(4) of the 1989 Order permits photographs relating to a person photographed to be retained by the police but it can only be used for a purpose permitted by statute.	STA
+Current statutory position in England and Wales	STA
+These amendments to the Police and Criminal Evidence Act 1984 (PACE) were introduced by the Protection of Freedoms Act 2012 in the light of the decision of the ECtHR in S and Marper.	STA
+Section 63I of PACE now provides that fingerprints and a DNA profile (derived from a DNA sample) taken from a person convicted of a recordable offence may be retained indefinitely.	STA
+Section 63K provides that where (i) the person convicted is under the age of 18 years at the time of the offence, (ii) the offence is a minor recordable offence (meaning an offence which neither attracts a custodial sentence of more than five years nor is a qualifying offence as defined in section 65A), and (iii) the person has not previously been convicted of a recordable offence, the period of retention of such material may be shorter: the length of the sentence plus five years where the person concerned receives a custodial sentence of less than five years (section 63K(2)), or, if no custodial sentence was given, five years from the time when the fingerprints or DNA sample were taken, as the case may be (section 63K(4)).	STA
+These provisions are subject to the person not re-offending during the relevant period: if the person is convicted of another recordable offence during the relevant period, the material may then be retained indefinitely (section 63K(5)).	STA
+Where the custodial sentence is five years or more or where the offence is a qualifying offence the material may again be held indefinitely.	STA
+Section 63R relates to the destruction of samples, including non- intimate samples.	STA
+Section 63R(4) provides for the general principle that a sample must be destroyed as soon as a DNA profile has been taken from it and, in any event, within six months of the sample being taken.	STA
+As to photographs, section 64A(4) of PACE is in the same terms as article 64A(4) of the 1989 Order.	STA
+At the request of the court, a note was produced on behalf of the Secretary of State, which included an annex setting out a summary overview of the PACE retention rules.	Ratio
+That annex is reproduced as Annex A to this judgment.	Ratio
+Policy and Practice of the PSNI	Ratio
+Before the decision of the ECtHR in S and Marper it was the policy and practice of the PSNI to retain the fingerprints, photographs and DNA samples of persons from whom such information or data had been lawfully taken and where there was no statutory obligation to destroy such information or data.	PRE
+The fact that a person was subsequently acquitted of the offence that led to the taking of a photograph, fingerprint or sample was of no relevance.	PRE
+After the decision in S and Marper the policy and practice of the PSNI changed in relation to those who were acquitted but remained unchanged in relation to those, like the appellant, who were subsequently convicted.	PRE
+So, once the 2013 Act is in force, the policy and practice in the case of the appellant will allow the PSNI to retain the DNA profile, fingerprints and photograph for any use to which they may be lawfully put.	Ratio
+DNA Profiles	Ratio
+The method of obtaining a DNA profile is briefly described in the case for the Secretary of State and, so far as I am aware, is not in dispute.	Ratio
+When the PSNI takes a DNA sample from a person, it is sent to Forensic Science Northern Ireland ("FSNI"), which is an agency of the Northern Ireland Department of Justice.	Ratio
+FSNI extract a DNA profile from the DNA sample.	Ratio
+A DNA profile is digitised information in the form of a numerical sequence representing a very small part of the person's DNA.	Ratio
+The DNA profile extracted by FSNI indicates a persons gender.	Ratio
+Other than indicating the gender of the person, DNA profiles do not include any information from which conclusions could be drawn as to the person's wider characteristics, such as age, height, hair colour or propensity to develop a particular disease.	Ratio
+FSNI upload the DNA profile onto the Northern Ireland DNA Database (the NIDNAD), together with sufficient information to identify the person to whom it relates.	Ratio
+This information does not include information as to whether a person has been convicted of, or is under investigation for, an offence.	Ratio
+As of June 2012, the NIDNAD included the DNA profiles of 123,044 known persons.	Ratio
+DNA profiles uploaded on to the NIDNAD are also loaded on to the United Kingdom National DNA Database, although the retention of Northern Irish DNA profiles on the NIDNAD is governed by the law and policy applicable in Northern Ireland.	Ratio
+The NIDNAD is managed by FSNI on behalf of the PSNI.	Ratio
+It is held on a standalone computer that cannot be accessed from outside FSNI.	Ratio
+Access within FSNI is restricted to a small number of FSNI staff and access is audited.	Ratio
+In particular, police officers do not have access to the NIDNAD.	Ratio
+Where a search is requested, it will be undertaken by the appropriate FSNI staff and the police will only be provided with details of the matching profile, if any.	Ratio
+Requests for searches from police forces other than the PSNI are considered on a case by case basis and are in any event subject to the same controls as a request from the PSNI.	Ratio
+FSNI will not delete a DNA profile from the NIDNAD or destroy a DNA sample (which they retain) without instructions from the PSNI.	Ratio
+Decisions to delete profiles are subject to the oversight of the PSNI Biometric Retention/Disposal Ratification Committee.	Ratio
+When a DNA profile is loaded to the NIDNAD (whether it relates to a known person or whether it is a crime scene profile, with which this appeal is not concerned) it is cross-checked with the profiles already on the database.	Ratio
+It is this process, which is known as speculative searching, which gives rise to the matches that are of use in the detection of crime.	Ratio
+The control, management and operation of the NIDNAD are overseen by the NI DNA Database Board.	Ratio
+Fingerprints	Ratio
+When a person is taken into custody, the PSNI takes his or her fingerprints using a system which digitally scans fingerprints and palm prints and automatically loads them on to the IDENT1 United Kingdom database, where they are automatically searched against other sets of fingerprints held on that database.	Ratio
+If a match is found, an electronic message is sent to the terminal at the custody suite confirming the identity of the person from whom the fingerprints were taken.	Ratio
+It is said with force that the facility to verify the identity of the person from whom fingerprints are taken is necessary to combat the risk of a person giving a false identity, which is of particular use in the United Kingdom, where, by contrast with other European countries, there is no requirement to carry an identity card.	Ratio
+Photographs	Ratio
+When a person is taken into custody, the PSNI takes his or her photograph using a digital camera.	Ratio
+The photographs are then loaded on to a PSNI database known as Niche, along with the person's custody record.	Ratio
+They form part of the custody record and are available to view when accessing the custody record.	Ratio
+Access to the Niche database is limited to authorised PSNI personnel and is audited.	Ratio
+The Niche database does not have the capability to match photographs, whether by way of facial recognition software or otherwise.	Ratio
+Photographs can of course be used to verify the identity of a person in order to combat the risk of a person giving a false identity to the police.	Ratio
+They can also be used, subject to appropriate controls, to enable witnesses to identify a person.	Ratio
+Article 8 of the ECHR	STA
+Article 8 provides: 1.	STA
+Everyone has the right to respect for his private and family life, his home and his correspondence.	STA
+2.	STA
+There shall be no interference by a public authority with the exercise of this right except such as is in accordance with the law and is necessary in a democratic society in the interests of national security, public safety or the economic well-being of the country, for the prevention of disorder or crime, for the protection of health or morals or for the protection of the rights and freedoms of others.	STA
+It is now rightly accepted on behalf of both the PSNI and the Secretary of State that article 8(1) is, as it is said, engaged, on the basis that the indefinite retention of a persons DNA profile, fingerprints and photograph interferes with the right to respect for private life recognised by article 8(1).	Ratio
+However, it is of course common ground that there is no violation of article 8 if the PSNI can satisfy the court that its policy is in accordance with the law and necessary in a democratic society for one of the reasons identified in article 8(2).	Ratio
+On the facts of this case, the questions which arise under article 8(2) are whether the retention policy is justifiable and, in particular, whether it satisfies the principle of proportionality.	Ratio
+In this regard it is helpful to recall the four elements identified by Lord Reed in Bank Mellat v HM Treasury (No 2) [2013] UKSC 39, [2014] AC 700, para 74.	PRE
+Although Lord Reeds judgment was a dissenting judgment, there is no difference in principle between his formulation of the relevant principles and those stated by Lord Sumption for the majority.	PRE
+They are (1) whether the objective of the relevant measure is sufficiently important to justify the limitation of a protected right, (2) whether the measure is rationally connected to the objective, (3) whether a less intrusive measure could have been used without unacceptably compromising the achievement of the objective, and (4) whether, balancing the severity of the measure's effects on the rights of the persons to whom it applies against the importance of the objective, to the extent that the measure will contribute to its achievement, the former outweighs the latter.	PRE
+Lord Reed added that, in essence, the question at step four is whether the impact of the rights infringement is disproportionate to the likely benefit of the impugned measure.	PRE
+He also noted at para 71 that an assessment of proportionality inevitably involves a value judgment at the stage at which a balance is to be struck between the importance of the objective pursued and the value of the right intruded upon.	PRE
+These proceedings	Ratio
+The appellant sought leave to apply for judicial review of the decision to retain the biometric data and the photograph.	RLC
+By an order of Morgan J on 3 April 2009 the applicant was granted leave to apply for judicial review on the grounds set out in paras 9(c) and (d) of the Order 53 statement as follows: (c) The retention of the [data] for an indefinite period of time in the unregulated manner observed by the European court between paras 105-125 of its Judgment in S and Marper v UK (4 December 2008) is not proportionate and does not strike a fair balance between competing public and private rights.	RLC
+(d) A conviction for an offence of relatively minor gravity is very much the type of circumstance in which the Committee of Ministers in R(92)(1) gave a provisional view that there was no need for the taking or retention of such samples.	RLC
+The European court has been heavily influenced by that document and there is every reason to believe that they would continue to be influenced by that document and those observations in circumstances where they were dealing with the conviction of an individual for a minor offence in circumstances where the samples were taken not for the true purposes of investigating the offence but simply for the purpose of retaining data in connection with the individual.	RLC
+The orders sought were: (a) a declaration that the indefinite retention of the data was unlawful and constituted an unjustifiable interference with his right to respect for private life under article 8; and (b) an order of prohibition preventing the respondent from making any use of the relevant data.	RLC
+The substantive application was heard by the Divisional Court, which refused the application on 13 November 2012.	RLC
+Girvan LJ gave the judgment of the court.	RLC
+The Divisional Court was persuaded that the infringement was justified, so that article 8(2) was satisfied.	RLC
+The appellant says that it was wrong.	RLC
+The answer depends upon a number of matters: namely the correct approach under article 8(2), a consideration of the relevant statutory provisions in Northern Ireland, together with the policy of the PSNI, and an analysis of the cases decided so far, especially by the ECtHR.	RLC
+I have considered both the correct approach to proportionality under article 8(2) and the relevant statutory provisions in Northern Ireland, together with the policy of the PSNI.	RLC
+The Divisional Court considered in some detail both S and Marper in the House of Lords, reported in [2004] 1 WLR 219, and S and Marper in the ECtHR.	RLC
+In that litigation the challenge was to the retention of fingerprints, cellular samples and DNA profiles after proceedings against the individuals had led to acquittal or discontinuance.	RLC
+It will be recalled that the majority of the House of Lords, Baroness Hale dissenting, held that there was no infringement of article 8(1) and the House concluded unanimously that the retention could in any event be justified under article 8(2).	RLC
+The ECtHR disagreed.	RLC
+It held that there was a breach of article 8(1) and that the retention could not be justified as proportionate under article 8(2).	RLC
+It was accepted by this court in R (GC) v Commissioner of Police of the Metropolis [2011] UKSC 21; [2011] 1 WLR 1230 that in the light of S and Marper the decision in the House of Lords could no longer be accepted as correct.	RLC
+The reasoning of the ECtHR is important because both parties to this appeal rely upon it.	Ratio
+The Divisional Court distinguished it on the basis that the court was not concerned with a case of retention after conviction but only with retention after acquittal.	Ratio
+At para 30 Girvan LJ quoted these two striking paragraphs from the judgment, paras 119 and 125: 119.	Ratio
+the court is struck by the blanket and indiscriminate nature of the power of retention in England and Wales.	Ratio
+The material may be retained irrespective of the nature or gravity of the offence for which the individual was originally suspected or of the age of the suspected offender; fingerprints and samples may be taken and retained from a person of any age arrested in connection with a recordable offence which includes minor or non-imprisonable offences.	Ratio
+The retention is not time limited, the material is retained indefinitely whatever the nature or seriousness of the offence of which the person was suspected.	Ratio
+Moreover there exist only limited possibilities for an acquitted individual to have the data removed from the Nationwide Database or the materials destroyed; in particular, there is no provision for independent review of the justification for the retention according to defined criteria including such factors as the seriousness of the offence, previous arrests, the strength of the suspicion against the person and any other special circumstances.	Ratio
+125.	Ratio
+In conclusion the court finds that the blanket and indiscriminate nature of the powers of retention of the fingerprints, cellular samples and DNA profiles of persons suspected but not convicted of offences as applied in the case of the present applicants, fails to strike a fair balance between competing public and private interests and that the respondent state has overstepped an acceptable margin of appreciation in this regard.	Ratio
+Accordingly, the retention at issue constitutes a disproportionate interference with the applicant's right to respect for private life and cannot be regarded as necessary in a democratic society.	Ratio
+This conclusion obviates the need for the court to consider the applicant's criticism regarding the adequacy of certain particular safeguards, such as too broad an access to the personal data concerned and insufficient protection against the misuse or abuse of such data.	Ratio
+In para 37 Girvan LJ noted that the Strasbourg analysis in S and Marper proceeded along the usual course of determining whether the interference with the individuals article 8 rights was (a) in accordance with law, (b) pursued a legitimate aim and (c) was necessary in a democratic society.	Ratio
+He added that question (c) involved the issue whether the retention was proportionate and struck a fair balance between the competing public and private interests.	Ratio
+Girvan LJ noted in para 38 that, having regard to the limited grounds upon which leave was granted, the focus of the appellants case was on the question of necessity and proportionality.	Ratio
+In para 39 he correctly noted that there was clearly a statutory power to retain the data and that the focus must be upon the proportionality of indefinite retention.	Ratio
+Under Legitimate aim, the ECtHR said at para 100 that it agreed with the Government that the retention of fingerprint and DNA information pursues the legitimate purpose of the detection and, therefore, prevention of crime.	Ratio
+It added that, while the original taking of this information pursues the aim of linking a particular person to the particular crime of which he or she is suspected, its retention pursues the broader purpose of assisting in the identification of future offenders.	Ratio
+Under the heading Necessary in a democratic society the ECtHR discussed the general principles between paras 101 and 104.	Ratio
+In summary it held that an interference will be considered necessary in a democratic society for a legitimate aim if it answers a pressing social need and, in particular, if it is proportionate to the legitimate aim pursued and if the reasons given by the national authorities to justify it are relevant and sufficient.	Ratio
+It is for the national authorities to make the initial assessment subject to review by the ECtHR.	Ratio
+A margin of appreciation must be left to the competent national authorities, which varies and depends upon a number of factors.	Ratio
+They include the nature of the right in issue, its importance for the individual, the nature of the interference and the object pursued by the interference.	Ratio
+Where there is no consensus among member states, either as to the relative importance of the interest at stake or as to how best to protect it, the margin will be wider.	Ratio
+In para 103 the ECtHR stressed the importance of the protection of data to a persons enjoyment of his rights under article 8 in some detail by reference, in particular, to Recommendation No R(92)1 of the Committee of Ministers.	Ratio
+However it concluded this part of the judgment in para 104 as follows: The interests of the data subjects and the community as a whole in protecting the personal data, including fingerprint and DNA information, may be outweighed by the legitimate interest in the prevention of crime (see article 9 of the Data Protection Convention).	Ratio
+However, the intrinsically private character of this information calls for the court to exercise careful scrutiny of any state measure authorising its retention and use by the authorities without the consent of the person concerned.	Ratio
+I agree with the Divisional Court that the ECtHR was not considering the position of convicted people.	Ratio
+At para 40 Girvan LJ said that the ECtHR was at pains to point out that the only issue to be considered was whether the retention of the data obtained from persons who had been suspected but not convicted of certain criminal actions.	Ratio
+He referred to para 106 without quoting it.	Ratio
+It must be set in its context, which begins with para 105 in the courts consideration of the application of the principles to the facts.	Ratio
+Paras 105 and 106 read: 105.	Ratio
+The court finds it to be beyond dispute that the fight against crime, and in particular against organised crime and terrorism, which is one of the challenges faced by todays European societies, depends to a great extent on the use of modern scientific techniques of investigation and identification.	Ratio
+The techniques of DNA analysis were acknowledged by the Council of Europe more than 15 years ago as offering advantages to the criminal-justice system (see Recommendation No R(92)1 of the Committee of Ministers, paras 43-44 above).	Ratio
+Nor is it disputed that the member states have since that time made rapid and marked progress in using DNA information in the determination of innocence or guilt.	Ratio
+106.	Ratio
+However, while it recognises the importance of such information in the detection of crime, the court must delimit the scope of its examination.	Ratio
+The question is not whether the retention of fingerprints, cellular samples and DNA profiles may in general be regarded as justified under the Convention.	Ratio
+The only issue to be considered by the court is whether the retention of the fingerprint and DNA data of the applicants, as persons who had been suspected, but not convicted, of certain criminal offences, was justified under article 8 paragraph 2 of the Convention.	Ratio
+In the following paragraphs the court nowhere suggests that the principles apply to convicted persons.	Ratio
+In para 112 it stresses the importance of carefully balancing the potential benefits of the extensive use of modern scientific techniques, and in particular extensive DNA databases, against important private-life interests.	Ratio
+It concludes para 112 by saying that any state claiming a pioneer role in the development of new techniques (in which it plainly included the United Kingdom) bears special responsibility for striking the right balance in this regard.	Ratio
+Paragraphs 113 and 114 read as follows: 113.	Ratio
+In the present case, the applicants fingerprints and cellular samples were taken and DNA profiles obtained in the context of criminal proceedings brought on suspicion of attempted robbery in the case of the first applicant and harassment of his partner in the case of the second applicant.	Ratio
+The data were retained on the basis of legislation allowing for their indefinite retention, despite the acquittal of the former and the discontinuance of the criminal proceedings against the latter.	Ratio
+114.	Ratio
+The court must consider whether the permanent retention of fingerprint and DNA data of all suspected but unconvicted people is based on relevant and sufficient reasons.	Ratio
+Girvan LJ quoted an extract from para 114 (without referring to the number) and italicised the words all suspected but unconvicted people.	Ratio
+In my opinion he was correct to do so.	Ratio
+They fit with the statement in para 106 quoted above that the only issue to be considered by the court was whether the retention of the fingerprint and DNA data of the applicants, as persons who had been suspected, but not convicted, of certain criminal offences, was justified under article 8(2) the Convention.	Ratio
+There is no indication that the Strasbourg court was considering the position of those who had been convicted at all.	Ratio
+I agree with Girvan LJs conclusion at para 42 that Strasbourg was not saying that a blanket policy of retaining the data of convicted persons would be unlawful.	Ratio
+It stressed in para 125 (quoted above) its conclusion that the blanket and indiscriminate nature of the powers of retention of the fingerprints, cellular samples and DNA profiles of persons suspected but not convicted of offences fails to strike a fair balance between competing public and private interests and that the respondent state has overstepped an acceptable margin of appreciation in this regard.	Ratio
+As Girvan LJ put it at the end of para 42, [t]he courts focus was solely and entirely on the issue of unconvicted persons and para 119 of the judgment [also quoted above] must be read in that context.	Ratio
+I recognise that it does not follow from the fact that the ECtHR was only considering unconvicted persons that the system in Northern Ireland (and the United Kingdom) is justified under article 8(2).	Ratio
+I also recognise that, save for exceptional cases, the policy of retaining DNA profiles from those convicted persons to whom it applies may be described as a blanket policy.	Ratio
+However, the ECtHR recognised the importance of the use of DNA material in the solving of crime.	Ratio
+It also recognised that, although the rights of the appellant and a person in his position are interfered with by the system in operation in the Northern Ireland and England and Wales (and indeed Scotland), the interference is a low level of interference.	Ratio
+I also recognise that a relevant factor to take into account in the balance is the nature of the offence of which the person concerned is convicted.	Ratio
+The United Kingdom has chosen recordable offences as the touchstone.	Ratio
+Recordable offences include any offences punishable by imprisonment, together with a limited number of non-imprisonable offences.	Ratio
+As the expression suggests, the police are obliged to keep records of convictions and offenders in relation to such offences on the Police National Computer.	Ratio
+I can see nothing unreasonable in the conclusion that such records ought to ought to include any available DNA profiles.	Ratio
+It is of course true that the appellant was only fined 50 and disqualified from driving for a year but driving with excess alcohol is a serious offence and can cause significant injury and damage.	Ratio
+It may lead to up to six months imprisonment.	Ratio
+In S and Marper the ECtHR was concerned with a scheme that involved the retention of all biometric data, including DNA samples, whereas, for the reasons explained above, the present case does not concern the retention of the sample or samples, but only the profile, which contains much less data.	PRE
+S and Marper was also concerned with a scheme which did not discriminate between adults and children whereas the present case is concerned with a scheme which only applies to adults.	PRE
+These limitations seem to me to be of real importance.	PRE
+It is true that a conviction for driving with excess alcohol will become spent but there is no support in S and Marper for the conclusion that, just because a conviction may become spent, the biometric data of a person who is convicted cannot be kept indefinitely.	Ratio
+Reliance was placed on behalf of the appellant upon the reference to spent convictions in Principle 7 of the Council of Europes Committee of Ministers Recommendation No R(87)15, which was adopted on 17 September 1987 and provides: Principle 7 - Length of storage and updating of data 7.1 Measures should be taken so that personal data kept for police purposes are deleted if they are no longer necessary for the purposes for which they were stored.	Ratio
+For this purpose, consideration shall in particular be given to the following criteria: the need to retain data in the light of the conclusion of an inquiry into a particular case; a final judicial decision, in particular an acquittal; rehabilitation; spent convictions; amnesties; the age of the data subject, particular categories of data.	Ratio
+7.2 Rules aimed at fixing storage periods for the different categories of personal data as well as regular checks on their quality should be established in agreement with the supervisory authority or in accordance with domestic law.	Ratio
+As I see it, Principle 7 gives some support for the proposition that the fact that a conviction may become spent is a potentially relevant but by no means decisive factor in considering where the balance lies.	Ratio
+Indeed it was argued before us that account should be taken of the fact that Mr Gaughrans conviction had been spent in accordance with the Rehabilitation of Offenders (Northern Ireland) Order.	Ratio
+The Secretary of State submitted in response that the Order had no relevance, because it was concerned only with the use of past criminal convictions in legal proceedings.	Ratio
+In my opinion it is unnecessary to resolve this question.	Ratio
+It is not material to the application of article 8, unless it can be said that the retention of the material after the conviction has been spent is not in accordance with domestic law.	Ratio
+That has not been argued and would in any event be an unpromising argument.	Ratio
+The Rehabilitation of Offenders Order is not concerned with the retention of information about convicted persons, but only with the disclosure of the convictions themselves.	Ratio
+It is right to add, first, that we are hearing an appeal from the Divisional Court which decided this case before the conviction had been spent, and secondly that, when it comes into force, the 2013 Act will provide in terms that the right to retain information will not be affected by the fact that any conviction has become spent.	Ratio
+Taking account of all relevant factors I would hold that the balance struck by the Northern Irish authorities, and indeed in England and Wales, is proportionate and justified.	Ratio
+It is within the margin of appreciation which the ECtHR accepts is an important factor.	Ratio
+There is in my opinion nothing in the Strasbourg jurisprudence which leads to a different conclusion.	Ratio
+Before us, as before the Divisional Court, the appellant relied upon cases such as Van der Velden v The Netherlands 29514/04 and W v The Netherlands 20689/08, [2009] ECHR 277.	Ratio
+In those cases, the complaints were held to be inadmissible.	Ratio
+They show that there are many factors which are potentially relevant to the issue of proportionality.	Ratio
+Under Dutch law DNA profiles may be retained for 30 years where the relevant offence carries a sentence of six years or more and 20 years where it carries a sentence of less than six years.	Ratio
+As it seems to me, it does not follow from the fact that in those cases time limits were held to be proportionate that the system in a member state in which there are no time limits must be disproportionate.	Ratio
+It is simply one of the factors to take into account.	Ratio
+As I see it, the benefits to the public of retaining the DNA profiles of those who are convicted are potentially very considerable and outweigh the infringement of the right of the person concerned under article 8.	Ratio
+I would accept the submission made on behalf of the Secretary of State that the retention of the biometric data contributes to law enforcement and the investigation of offences in relation to both future and historic offences.	Ratio
+The Secretary of State puts it thus in para 22 of her case.	Ratio
+(1) Where a convicted person subsequently commits another offence in relation to which a crime scene profile or fingerprints is or are obtained, the fact that there is a record of his or her DNA profile or fingerprints will assist in identifying him or her as a suspect.	Ratio
+(2) Of particular relevance to DNA profiles, where a convicted person has in the past committed a crime that remains unsolved, but a subsequent cold case review later produces a crime scene profile, the fact that there is a record of his or her DNA profile will assist in identifying him or her.	Ratio
+A number of examples were given by the Secretary of State which it is not necessary to set out in detail here.	Ratio
+It is also of some note that a DNA profile may establish that the person concerned did not commit a particular offence.	Ratio
+This is a factor which was taken into account in both Van der Velden and W. In Van der Velden the ECtHR said at p 9: Secondly, it is to be noted that while the interference at issue was relatively slight, the applicant may also reap a certain benefit from the inclusion of his DNA profile in the national database in that he may thereby be rapidly eliminated from the list of persons suspected of crimes in the investigation of which material containing DNA has been found.	Ratio
+In W the ECtHR said that it had no cause to arrive at a different conclusion from the one it had reached in earlier cases including Van der Velden and S and Marper, Where it considered that the compilation and retention of a DNA profile served the legitimate aims of the prevention of crime and the protection of the rights and freedoms of others.	Ratio
+The ECtHR added: In its Van der Velden decision the court already pointed to the substantial contribution which DNA records have made to law enforcement in recent years, and noted that while the interference at issue was relatively slight, the applicant might also reap a certain benefit from the inclusion of his DNA profile in the national database in that it allowed for a rapid elimination of the applicant as a possible suspect of a particular crime in the investigation of which material containing DNA had been found.	Ratio
+The court finds that these considerations apply equally in the present case, where the person whose DNA profile is to be compiled and stored in the database is a minor.	Ratio
+In S and Marper the ECtHR, when considering the margin of appreciation in the case of those who were acquitted, placed some reliance upon the fact that the United Kingdom was alone or almost alone in retaining biometric data in such cases.	Ratio
+There is a much broader range of approaches in the case of those who have been convicted.	Ratio
+The Secretary of State produced an annex setting out a summary of inclusions and removal criteria in other jurisdictions.	Ratio
+It is attached to this judgment as Annex B. It shows that in such cases many countries retain biometric data for very long periods.	Ratio
+In addition to England and Wales and Northern Ireland, Ireland and Scotland are I think the only jurisdictions which provide for indefinite retention.	Ratio
+However, there are several states which provide for retention until death.	Ratio
+They are Austria: five years after death or 80 years of age; Denmark: two years after death or at 80 years of age; Estonia: ten years after death; Finland: ten years after death; Lithuania: 100 years after inclusion or ten years after death; Luxembourg: ten years after death; The Netherlands: as stated above and 80 years after a conviction against minors; Romania five years after death or 60 years of age; and Slovakia: 100 years after date of birth.	Ratio
+It seems to me that in the context of a persons rights under article 8 there is little, if any, difference between retention for an indefinite period and retention until death or effectively until death.	Ratio
+Annex B shows that there are other formulae.	Ratio
+They include Belgium: 30 years after inclusion; France: 40 years after the end of the sentence or after the age of 80; Hungary: 20 years after the sentence has been served; Latvia: 75 years of age; Poland: 35 years after conviction; Germany: DNA profiles are reviewed after ten years and removal depends on a court decision; Italy: 20 years after the incident but no profile can be kept for more than 40 years; and Sweden: ten years after sentence.	Ratio
+It can thus be seen that member states have chosen many different approaches but there is, in my opinion, no principled basis upon which the system in operation in Northern Ireland can be held to be disproportionate, especially when compared with the significant number of countries which retain DNA profiles until death or effectively until death.	Ratio
+Very few states have a process of review.	Ratio
+The factors set out above seem to me to be strong factors in support of the conclusion that the PSNI was entitled to retain the biometric data as it did in the case of those convicted.	Ratio
+As the ECtHR put in a different context in Animal Defenders International v United Kingdom (2013) 57 EHRR 21, para 23, the lack of consensus between states broadens the margin of appreciation to be accorded to individual states.	Ratio
+See also eg Frett v France (2004) 38 EHRR 31, para 41 and Goodwin v United Kingdom (2002) 35 EHRR 28, para 85.	Ratio
+While a blanket policy may be objectionable in some circumstances (see eg Hirst v United Kingdom (No 2) (2006) 42 EHRR 41, para 81), all depends upon the circumstances.	Ratio
+It was put thus in the Animal Defenders case at paras 109 and 110: 109.	Ratio
+It follows that the more convincing the general justifications for the general measure are, the less importance the court will attach to its impact in the particular case.	Ratio
+110.	Ratio
+The central question as regards such measures is not, as the applicant suggested, whether less restrictive rules should have been adopted or, indeed, whether the State could prove that, without the prohibition, the legitimate aim would not be achieved.	Ratio
+Rather the core issue is whether, in adopting the general measure and striking the balance it did, the legislature acted within the margin of appreciation afforded to it.	Ratio
+See also eg Clift v United Kingdom (Application No 7205/07) at para 76.	Ratio
+In these circumstances, it appears to me that there is no basis in the ECtHR jurisprudence for the conclusion that the PSNI policy of retaining biometric data indefinitely is not justified.	Ratio
+The policy was within the margin of appreciation identified by the ECtHR.	Ratio
+The question then arises how the Northern Irish court should proceed.	Ratio
+In R (Nicklinson) v Ministry of Justice [2014] UKSC 38, [2014] 3 WLR 200, Lord Neuberger put the position thus at para 75: Where the legislature has enacted a statutory provision which is within the margin of appreciation accorded to member states, it would be wrong in principle and contrary to the approach adopted in In re G, for a national court to frank the provision as a matter of course simply because it is rational.	PRE
+However, where the provision enacted by Parliament is both rational and within the margin of appreciation accorded by the Strasbourg court, a court in the United Kingdom would normally be very cautious before deciding that it infringes a Convention right.	PRE
+As Lord Mance said in In re G, the extent to which a United Kingdom court should be prepared to entertain holding that such legislation is incompatible must depend on all the circumstances, including the nature of the subject-matter, and the extent to which the legislature or judiciary could claim particular expertise or competence.	PRE
+In re G (Adoption: Unmarried Couple) is reported at [2008] UKHL 38, [2009] AC 173.	PRE
+Having concluded that the retention policy is within the margin of appreciation accorded by the Strasbourg court, the Northern Irish court must decide for itself whether it infringes a Convention right.	Ratio
+The question is whether the policy is proportionate, and therefore justified, under article 8(2).	Ratio
+Viewed from a domestic standpoint, it appears to me that the authorities in Northern Ireland were entitled to pursue such a policy on the basis that it was justified and proportionate under article 8(2), essentially for the reasons discussed above and given by the Divisional Court as summarised below.	Ratio
+Girvan LJ set out (at para 44) 11 factors which led him (and the Divisional Court) to the conclusion that the policy of indefinite retention is not disproportionate and that the application should be refused.	Ratio
+His 11 factors were these: (i) The building up of a database of such data from those convicted of offences provides a very useful and proven resource in the battle against crime by reason of the assistance it provides in identifying individuals.	Ratio
+It is clear that the larger the database the greater the assistance it will provide.	Ratio
+While a universal database would be of immense help in combatting crime, weighing the private rights of individuals against the good which would be achieved by such a universal system requires the striking of a fair balance.	Ratio
+Experience has shown that those who have committed offences may go on to commit other offences.	Ratio
+A state decision to draw the line at those convicted of a substantial category of offences is entirely rational and furthers the legitimate aim of countering crime so as to protect the lives and rights of others.	Ratio
+(ii) The rights and expectations of convicted persons differ significantly from those of unconvicted persons.	Ratio
+The striking of a balance between the public interest and the rights of a convicted or an unconvicted individual will inevitably be appreciably different.	Ratio
+Strasbourg recognises that even in the case of some unconvicted persons retention for a period may be justifiable in the public interest.	Ratio
+(iii) A person can only be identified by fingerprints and DNA sample either by an expert or with the use of sophisticated equipment.	Ratio
+The material stored says nothing about the physical make up, characteristics or life of the person concerned and it represents objective identifying material which can only be relevant or of use when compared with comparative material taken from a person lawfully subjected to a requirement to provide such material for comparison.	Ratio
+(iv) The use to which the material can be lawfully put is severely restricted by the legislation.	Ratio
+(v) As well as being potentially inculpatory the material may be exculpatory and thus in ease of a person such as the applicant.	Ratio
+If it is inculpatory its use assists in the detection of someone likely to have been involved in crime which is a matter of deep interest to the public.	Ratio
+(vi) There is in place an exceptional case procedure which permits of a possibility of an application to have data removed.	Ratio
+(vii) Any differentiation within the system between categories of convicted persons calls for administrative action and has the potential for administrative complexity.	Ratio
+Lord Steyn described how there was the potential for interminable and invidious disputes where differentiation is operated.	Ratio
+While he was making that point in the context of differentiation between convicted and unconvicted persons (and thus was in error according to the Strasbourg court) the point retains its force in the context of differentiation between convicted persons.	Ratio
+Carswell LCJ pointed out in In re McBride [1997] NI 269 at 274 that the legislature wished to have as wide a cover for the database as possible in order to give the police the best chance of detecting criminal offenders.	Ratio
+Marper requires protections for unconvicted persons and the current legislation and policy have limited the retention of data to those convicted of recordable offences.	Ratio
+To allow further exceptions would in the view of the authorities undermine the effectiveness of the process which is designed to build up a database of those who have been involved in criminality to assist in the war against crime.	Ratio
+Such a conclusion by the state authorities is legitimate and rational.	Ratio
+(viii) The current policy in fact does distinguish between (a) unconvicted persons and those convicted of offences which are not recordable and (b) those convicted of offences which are recordable.	Ratio
+This represents a policy and legislative intent which is not blanket or indiscriminate as such but one which distinguishes between cases.	Ratio
+The choice of that differentiation is one involving the exercise of judgment by the state authorities which seeks to balance, on the one hand, the very limited impact of retention and use of such material on a person's real private life and its minimal impact on the intimate side of his life and, on the other hand, the benefit to society flowing from the creation of as effective a database as legitimately possible to help in combatting crime.	Ratio
+The choice to retain the data of those convicted of recordable offences represents the exercise of a balanced and rational judgment by the authorities.	Ratio
+(ix) In this case the offence committed by the applicant cannot, as the applicant asserts, be described as minor or trivial.	Ratio
+It was an offence of a potentially dangerous antisocial nature.	Ratio
+The criminal law has as one of its aims the protection of the lives of others and the consumption of alcohol by a driver endangers human life.	Ratio
+Indeed the state under its operative duties under article 2 must have in place laws which protect the lives of others.	Ratio
+The offence was a recordable offence being one in respect of which a period of imprisonment could be ordered.	Ratio
+(x) Time limitations on the retention of data for particular categories of offences can be imposed as has occurred in some legal systems such as in The Netherlands (See W and Van der Velden).	Ratio
+Different countries operate different policies in this field and some other countries follow practices similar to those followed in the United Kingdom.	Ratio
+Any time restriction is inevitably somewhat arbitrary and it is difficult to point to any particular reason why one particular period as opposed to another should be chosen.	Ratio
+To introduce time limitations for some offences simply to avoid a possible charge of disproportionality smacks of defensive policy making in a field which requires a proper balancing of the interests of the public against the consequences of criminal activity.	Ratio
+The introduction of different time periods for different offences or for different sentences would clearly add to the administrative burden and would require changes and deletion of recorded data.	Ratio
+This complexity would be aggravated in the case of those found guilty periodically of repeat offending in respect of minor offences.	Ratio
+The removal of such data would give the offender no benefit other than the knowledge that his data is no longer recorded.	Ratio
+As already noted the retention of the data represents a very minor intrusion into his private life.	Ratio
+(xi) The retention of the data serves the added purpose of discouraging a convicted offender from re offending for the offender has the knowledge that the police have available data which could lead to his detection.	Ratio
+The permanent retention of that data thus serves a useful long term purpose in that regard.	Ratio
+I agree with that analysis and would dismiss the appeal.	RPC
+I would answer the certified question (quoted at para 8 above) in the negative.	Ratio
+I do not think that it was suggested that, if the retention of the biometric data was lawful, the retention of the photograph was not.	Ratio
+Annex A SUMMARY OVERVIEW OF RETENTION RULES DNA SAMPLES Arrest/charge/conviction status All DNA samples regardless of whether person convicted or not Retention rule Must be destroyed once a DNA profile has been derived from it, or after six months, whichever is sooner (s 63R) Arrest/charge/conviction status Person arrested for, charged with or convicted of non-recordable offence Person arrested for recordable offence, investigation or court proceedings ongoing Person arrested for non-qualifying recordable offence (i.e. offence not on list of mainly sexual and violent offences), not charged or convicted Person arrested for qualifying recordable offence, not charged or convicted Person charged with non-qualifying recordable offence, not convicted Person charged with qualifying recordable offence, not convicted Person given penalty notice Person under 18 convicted of non-qualifying recordable offence (and not previously convicted of a recordable offence) DNA PROFILES AND FINGERPRINTS Retention rule No power to take DNA and fingerprints so no issue of retention (s 63D) Retention until investigation and/or proceedings complete, must then be destroyed unless another power to retain applies (s 63E) Must be destroyed (may first be searched against databases to check whether any match to unsolved crimes) (s 63D) Must be destroyed (may be searched against databases first), unless police apply to the Biometrics Commissioner for retention; if Biometrics Commissioner agrees, retention for 3 years (s 63F) Must be destroyed (may be searched against databases first) (s 63D) Retention for 3 years.	Ratio
+On expiry of that period the police may apply for a court order for retention for a further 2 years (ss 63F and 63G) Retention for 2 years (s 63L) Where not sentenced to a custodial sentence, retention for 5 years; where sentenced to a custodial sentence of less than 5 years, retention for the length of the sentence plus 5 years; where sentenced to a custodial sentence of 5 years or more, indefinite retention (s 63K) Indefinite retention (s 63I) Indefinite retention (s 63I) Retention for 2 years, extendable for a further 2 years if a further NSD made; however if the Biometrics Commissioner determines that retention is unnecessary the material must be destroyed (s 63M and PoFA s 20) Indefinite retention where an individual is convicted of a recordable offence (s 63N(3)).	Ratio
+Otherwise must be destroyed when it has fulfilled its purpose).	Ratio
+Person over 18 convicted of non-qualifying recordable offence Person convicted of qualifying recordable offence Material subject to a national security determination (NSD) Material given with consent Material retained with consent DNA samples, DNA profiles and fingerprints subject to the Criminal Procedure and Investigations Act 1996 and its Code of Practice (i.e. needed for disclosure or evidence in court) Annex B Retention for as long as the person consents consent must be in writing and can be withdrawn at any time (s 63O) Retention as long as CPIA or its Code apply; must be used only for the case in question and cannot be searched against databases (s 63U(5)) Summary of inclusion and removal criteria in other EU jurisdictions Derived from Santos et al, Forensic DNA databases in European countries: is size linked to performance? (2013) Life Sciences, Society and Policy, 9:12 Country Criteria for inclusion of profiles Austria Individuals suspected and/ or convicted of a dangerous assault a Belgium Suspects and individuals convicted of serious crimes (list) Denmark Estonia Finland Suspects and individuals convicted of crimes punishable by sentences of > 1 year and 6 months Suspects and convicted offenders Individuals suspected of crimes punishable with a sentence of > 6 months and offenders receiving sentences of > 3 years profiles Criteria for removal of Convicted: 5 years after death or at SO years of age if the individual has not been forensically identified in the last 5 years.	Ratio
+Minors: removed if s/he is not forensically identified in the previous three years.	Ratio
+Acquitted suspects have to apply for removal and/ or the authorities will decide if the acquitted suspect's profile is no longer necessary Convicted offenders 30 years after inclusion.	Ratio
+Profiles in the criminal investigation database deleted when no longer needed.	Ratio
+Convicted offenders 2 years after death or at 80 years of age.	Ratio
+Suspects 10 years after acquittal.	Ratio
+At 70 years of age, 2 years after death.	Ratio
+Suspects and convicted offenders 10 years after death.	Ratio
+Suspects 1 year after acquittal (on the order of a legal officer) or 10 years after death.	Ratio
+Convicted offenders 10 years after death.	Ratio
+France Suspects and individuals convicted of serious crimes (list) Germany Hungary Ireland Italy Lativa Lithuania Luxembourg Official suspects charged with crimes and individuals convicted of serious crimes or re-offending with other crimes Convicted offenders and individual suspected of crimes punishable with a sentence of > 5 years (or listed crimes involving lower sentences, such as drug trafficking) Suspects, convicted offenders (crimes punishable with a sentence of > 5 years or specific crimes involving lower sentences) and ex- convicts Individuals arrested, remanded in custody and convicted of premeditated crimes Suspects and convicted offenders any crime Suspects and convicted offenders any crime and those temporarily detained Individuals suspected of any crime (only by order of the court dealing with the case); convicted offenders included only if sentenced for listed crimes or by order of the solicitor or court dealing with the case The Netherlands Suspects and individuals convicted of offenses or crimes for which preventative custody is allowed, or by a judicial order Poland Suspects and convicted offenders (listed crimes) Convicted offenders 40 years after end of sentence or after individuals reach the age of 80.	Ratio
+Suspects removed when retention is no longer considered necessary by a law official (or at the request of the party concerned) Profiles reviewed 10 years (adults), 5 years (young people) or 2 years (children) after inclusion.	Ratio
+Removal of profiles of convicted offenders depends on a court decision.	Ratio
+Suspects deleted after acquittal.	Ratio
+Convicted offenders 20 after sentence has been served Profiles of suspects acquitted or not charged removed after 10 years, or 5 years in the case of minors.	Ratio
+Convicted offenders indefinite retention.	Ratio
+Individuals arrested and remanded in custody deleted on acquittal.	Ratio
+Convicted offenders 20 years after the incident that led to sampling.	Ratio
+No profile may be held for more than 40 years.	Ratio
+Convicted offenders 75 years.	Ratio
+Suspects 10 years after verdict, if acquitted.	Ratio
+100 years after inclusion or 10 years after the death of the suspect or convicted offender.	Ratio
+Suspects after acquittal, prescription of the crime or 10 years after death.	Ratio
+Convicted offenders 10 years Convicted offenders 30 years after sentencing if the crime is punishable with > 6 years 20 after death; 20 years if < 6 years or 12 after death.	Ratio
+Suspects and convicted sexual offenses against minors 80 years.	Ratio
+Retention may be extended in the event of a new conviction; Suspects DNA profiles are removed if they are not prosecuted or convicted (unless a match is found in the DNA database).	Ratio
+Suspects deleted after acquittal.	Ratio
+Convicted offenders after 35 years Portugal Individuals convicted of premeditated crimes with an effective prison sentence of 3 years or more, by court order Convicted offenders until criminal record annulled.	Ratio
+Romania Suspects and convicted offenders (listed crimes) Scotland Individuals detained of any crime Slovakia Suspects and convicted offenders any crime Spain Individuals detained and those convicted of serious crimes (list) Sweden Convicted offenders receiving non- financial sentences of over 2 years Suspects removed when retention no longer considered necessary by the courts or Public Prosecution.	Ratio
+Convicted offenders retained until aged 60 (in the event of the death of the individual, retained for a further 5 years) Suspects deletion after acquittal or extension of retention period in cases of relevant sexual or violent offences.	Ratio
+Convicted offenders indefinite retention.	Ratio
+Convicted offenders 100 years after the date of birth of the individual concerned.	Ratio
+Suspects removal after acquittal.	Ratio
+Individuals detained data deleted on prescription of crime.b Individuals convicted on date of prescription of criminal record (unless a court order states otherwise).	Ratio
+Suspects removed after acquittal.	Ratio
+Convicted offenders 10 years after sentence served.	Ratio
+aIn Austria serious crimes, as defined in section 16(2) of the Sicherheitspolizeigesetz (Security Police Act), are understood to be any threat against a legal asset by, committing a premeditated crime punishable by law.	Ratio
+In addition to the type of crime, the profile of an individual may be included when the police cite the nature of the crime or the personality of the respective individual as grounds for expecting them to reoffend (Prainsack and Kitzberger 2009).	Ratio
+bThe period of prescription for the crime applies to individuals who are detained and for whom the judicial proceedings do not result in acquittal or conviction.	Ratio
+LORD KERR: (dissenting)	Ratio
+On 14 October 2008 Fergus Gaughran was driving between Crossmaglen and Camlough, County Armagh when his vehicle was stopped at a police checkpoint.	FAC
+As a result of a breath test taken from Mr Gaughran at the scene, it was suspected that he had been driving after having consumed more than the permissible amount of alcohol.	FAC
+He was arrested and taken to a police station in Newry, County Down.	FAC
+There he provided more samples of breath which, when analysed, were found to contain 65 milligrams of alcohol per 100 millilitres of breath.	FAC
+This level of alcohol exceeded the permitted limit by 30 milligrams.	FAC
+Mr Gaughran was charged with the offence of driving with excess alcohol.	FAC
+He pleaded guilty to that offence at Newry Magistrates Court on 5 November 2008 and was fined 50 and ordered to be disqualified from driving for 12 months.	FAC
+As well as supplying samples of breath, Mr Gaughran provided a DNA sample.	Ratio
+His photograph and fingerprints were taken.	Ratio
+It has been established that, despite initial claims by the appellant to the contrary, all of this was done with his consent and there is no issue as to the legal entitlement of the police to take these steps.	Ratio
+The photographs, fingerprints and DNA sample are held on the database maintained by the Police Service of Northern Ireland (PSNI).	Ratio
+Section 9 of and Schedule 2 to the Criminal Justice Act (Northern Ireland) 2013 make provision about the retention of samples.	Ratio
+When they come into force a new article 63P will be inserted into the Police and Criminal Evidence (Northern Ireland) Order 1989.	Ratio
+This will have the effect that Mr Gaughrans DNA sample will be destroyed.	Ratio
+But already a DNA profile compiled from his sample has been created by the Forensic Science Agency in Northern Ireland (FSNI).	Ratio
+A DNA profile consists of digitised information in the form of a numerical sequence representing a small part of the person's DNA.	Ratio
+The DNA profile extracted by FSNI comprises 17 pairs of numbers and a marker ("XX" or "XY") which indicates gender.	Ratio
+DNA profiles do not include any information from which conclusions about personal characteristics of an individual, such as his or her age, height, hair colour or propensity to develop a particular disease might be drawn.	Ratio
+The purpose of the profile is to provide a means of identification of the person in respect of whom it is held.	Ratio
+The European Court of Human Rights (ECtHR) made these observations in para 75 of S and Marper (2009) 48 EHRR 50 about the use to which DNA profiles can be put: the profiles contain substantial amounts of unique personal data.	Ratio
+While the information contained in the profiles may be considered objective, and irrefutable in the sense submitted by the Government, their processing through automated means allows the authorities to go well beyond neutral identification.	Ratio
+The court notes in this regard that the Government accepted that DNA profiles could be, and indeed had in some cases been, used for familial searching with a view to identifying a possible genetic relationship between individuals.	Ratio
+It also accepted the highly sensitive nature of such searching and the need for very strict controls in this respect.	Ratio
+DNA profiles obtained by police in Northern Ireland, such as that of Mr Gaughran, are held (and, it is intended, will remain) on the Northern Ireland DNA database.	Ratio
+Although a profile thus created does not include information as to whether that person has been convicted of or is under investigation for an offence, it contains sufficient material to allow the person concerned to be identified and, of course, it can be used to match a DNA sample subsequently obtained.	Ratio
+The photograph and fingerprints of Mr Gaughran have also been retained and it is intended that these will also be kept indefinitely.	Ratio
+As of June 2012, the Northern Ireland DNA database included the DNA profiles of 123,044 known persons.	Ratio
+DNA profiles uploaded onto the Northern Ireland system are also loaded onto the United Kingdom wide National DNA Database.	Ratio
+The retention of Northern Irish DNA profiles on the National DNA Database is governed by the law and policy applicable in Northern Ireland.	Ratio
+Mr Gaughran claims that the policy of PSNI to retain for an indefinite period his DNA profile, his photograph and his fingerprints is an interference with his right to respect for a private life guaranteed by article 8 of the European Convention on Human Rights and Fundamental Freedoms (ECHR) and that that interference has not been justified on any of the grounds advanced by the respondent (the Chief Constable of PSNI) or the intervener (the Secretary of State for the Home Department).	Ratio
+Article 8 of ECHR provides: 1.	STA
+Everyone has the right to respect for his private and family life, his home and his correspondence.	STA
+2.	STA
+There shall be no interference by a public authority with the exercise of this right except such as is in accordance with the law and is necessary in a democratic society in the interests of national security, public safety or the economic well-being of the country, for the prevention of disorder or crime, for the protection of health or morals or for the protection of the rights and freedoms of others.	STA
+Justification of an interference with a Convention right	Ratio
+It is accepted by the respondent and the intervener that the appellants article 8 right has been interfered with; the single and central issue in the appeal is whether that interference has been justified.	Ratio
+Justification of interference with a qualified Convention right such as article 8 rests on three central pillars.	Ratio
+The interference must be in accordance with law; it must pursue a legitimate aim; and it must be necessary in a democratic society.	Ratio
+Proportionality is a sub-set of the last of these requirements.	Ratio
+The appellant has not argued that the retention of samples, his photograph and his fingerprints is other than in accordance with law see articles 64(1A) and 64A(4) of the Northern Ireland PACE Order of 1989.	Ratio
+Likewise, it is not disputed that the retention of these pursues a legitimate aim.	Ratio
+That aim was identified by ECtHR in S and Marper v United Kingdom at para 100 as the detection, and therefore, the prevention, of crime.	Ratio
+In particular the retention of samples etc.	Ratio
+was said to be for the broader purpose of assisting in the identification of future offenders.	Ratio
+One can focus, therefore, on the question of whether the measure is necessary in a democratic society.	Ratio
+In the context of this case, that means asking whether the policy is proportionate.	Ratio
+As Lord Wilson in R (Aguilar Quila) v Secretary of State for the Home Department [2012] 1 AC 621, para 45 and Lord Reed in Bank Mellat v HM Treasury (No 2) [2014] AC 700, 790, para 72ff explained, this normally requires that four questions be addressed: (a) is the legislative objective sufficiently important to justify limiting a fundamental right?; (b) are the measures which have been designed to meet it rationally connected to it?; (c) are they no more than are necessary to accomplish it?; and (d) do they strike a fair balance between the rights of the individual and the interests of the community?	PRE
+The circumstance that the measure pursues a legitimate aim does not necessarily equate to the objective of the policy being sufficiently important to justify the limitation of a fundamental right, although, in most cases, the pursuit of such an aim will provide an effective answer to the first of the mooted questions.	Ratio
+It is, at least hypothetically, possible to conceive of a legitimate aim that a contemplated policy or a legislative provision might seek to achieve but, because the right that would thereby be infringed is so fundamental, no limitation on it, on the basis of the avowed legitimacy of the aim to be pursued, would be defensible.	Ratio
+One need not dwell on this, perhaps somewhat esoteric, question, however, because it has not been contended by the appellant that no limitation on his article 8 right could be justified.	Ratio
+It is accepted that the need to counteract crime is of sufficient importance to warrant some restriction of the right to respect for private life.	Ratio
+But the actual interference, as ECtHR observed in S and Marper at para 101, must conform to the general principle of the Strasbourg jurisprudence that an interference will only be considered necessary in a democratic society if it answers a pressing social need and, in particular is proportionate to the aim pursued.	Ratio
+Importantly, the court stated that the reasons which national authorities proffered to justify the interference must be relevant and sufficient.	Ratio
+This is of especial significance in addressing the question whether it has been shown that there is in fact a rational connection between the breadth of the policy as it is currently framed and the objective which it is said to be designed to achieve.	Ratio
+The two critical questions on the issue of the proportionality of the policy of indefinite retention of the appellants DNA profile, his photograph and his fingerprints are, in my opinion, whether there is a rational connection between the legislative objective and the policy and whether it goes no further than is necessary to fulfil the objective.	Ratio
+What is the objective of the policy?	Ratio
+It is, I believe, necessary to recognise the distinction between the legislative provisions which authorise the retention of samples etc.	Ratio
+and the policy of using those provisions to retain them indefinitely.	Ratio
+The justification of, on the one hand, the enactment of statutory provisions which permit retention and, on the other, the use of those provisions to devise a policy to retain without limit must be considered separately.	Ratio
+But no distinction has been drawn between the legislation and the policy in terms of their objective.	Ratio
+In the case of both, this has been assumed to be that which was articulated in S and Marper v United Kingdom, namely, the detection of crime and assisting in the identification of future offenders.	Ratio
+It is of fundamental importance that it be recognised that the objective is not the creation of as large a database of the Northern Irish population as possible, in order that it should be available as a potential resource in the counteracting of crime.	Ratio
+The objective is defined in terms of the actual detection of crime and identification of future offenders.	Ratio
+This distinction is important because it is not difficult to hypothesise that if everyones DNA profile was held by police this might have a significant impact on the detection of future criminals.	Ratio
+The theory is, perhaps, less obvious but still tenable in relation to photographs and fingerprints.	Ratio
+But hypothesis should not be confused with evidence.	Ratio
+And the question of whether the retention of DNA profiles, photographs and fingerprints of a limited class of person viz those convicted of recordable offences, as opposed to the population at large, would in fact make a substantial contribution to counteracting crime is, at best, imponderable.	Ratio
+But before it can be said that a rational connection exists between the retention of biometric data of all convicted of recordable offences and the detection of crime and identification of future offenders one must go beyond assumption or supposition.	Ratio
+To justify an interference, it is necessary that it be shown, at the very least, that the promoted objective will be advanced, in order to support the claim that there is a rational connection between the interference and the stated objective.	Ratio
+Rational connection?	Ratio
+A connection between the aim of a measure and its terms, in order to qualify as rational, must be evidence-based see para 101 of S and Marper.	Ratio
+Mere assertion that there is such a connection will not suffice, much less will speculation or conjecture that the connection exists.	Ratio
+The fact that the interference can be characterised as relatively slight (as ECtHR described the retention of DNA profiles and fingerprints of convicted persons in the two admissibility decisions of Van der Velden v The Netherlands 29514/05 EQ-IR and W v The Netherlands 20689-08 (2009) ECHR 277) does not diminish the need for the justification to be established positively.	Ratio
+Slight interference may sound on the question of whether a measure can be regarded as no more intrusive than necessary.	Ratio
+It does not supply the answer to the question whether it is rationally connected to its avowed aim.	Ratio
+Moreover, the rational connection here must be between the objective of the detection of future criminals and the indefinite retention of the profile, fingerprints and photograph.	Ratio
+It is not enough that retaining these items on a permanent basis might, in some vague or unspecified way, help in the detection of crime in the future.	Ratio
+It is necessary to show that in a real, tangible sense, keeping DNA profiles, fingerprints and photographs indefinitely will assist in counteracting or detecting future crime.	Ratio
+That is not to say, of course, that it needs to be shown that retention of the appellants particular details will assist in preventing or detecting crime in the future.	Ratio
+But, as a minimum, it must be established that retaining forever such items from all who have been convicted of recordable crime is likely to make a positive and significant contribution to the detection of future criminal activity.	Ratio
+I accept, of course, that it is not required of the state to show that the achievement of the aim of the measure will be the only and inexorable consequence of its implementation.	Ratio
+As Lord Reed said in Bank Mellat (No 2), quoting Wilson J in the Canadian case of Lavigne v Ontario Public Service Employees Union [1991] 2 SCR 211, 291 the inquiry into rational connection between objectives and means to attain them requires nothing more than showing that the legitimate goals of the legislature are logically furthered by the means government has chosen to adopt.	Ratio
+As Lord Reed then put it: The words furthered by point towards a causal test: a measure is rationally connected to its objective if its implementation can reasonably be expected to contribute towards the achievement of that objective.	Ratio
+This is the critical question on this particular aspect of the proportionality analysis.	Ratio
+Can the indefinite retention of biometric data of all who are convicted of recordable offences be reasonably expected to contribute to the detection of crime and the identification of future offenders? It is, of course, tempting to make the assumption that the more DNA profiles etc.	Ratio
+that the police hold, the greater will be their chances of discovering the identity of those who commit crime in the future.	Ratio
+But there is a striking lack of hard evidence to support the claim that a blanket policy of retaining such items indefinitely is indispensable to the need to counteract crime or even that it will make a significant contribution to the detection of future crime.	Ratio
+The usefulness of the assembly of a pool of personal data to assist with the detection of crime was rejected in S and Marper as justification for interference with the article 8 right and should also be in this case.	Ratio
+Without proof as to the likelihood of reoffending, there is no obvious, or rational, connection between the current policy and reducing crime.	Ratio
+The current system operates on the assumption that all persons who, at any time, commit any offence are potential suspects in any future crime.	Ratio
+No evidence to support this has been provided.	Ratio
+Indeed, the only evidence proffered by the respondent on this issue was that which suggested that 90% of those who were given custodial sentences reoffended within two years, regardless of the nature of the original offence.	Ratio
+But the true significance of this particular statistic must be recognised.	Ratio
+It involves (a) the commission of more serious offences, which attract a custodial offence; (b) more serious offenders, where the custodial option has been chosen; and (c) time-limitation, rather than indefinite duration.	Ratio
+In fact, the respondent accepted during the hearing that there was no robust evidence base for the current policy.	Ratio
+It seems to me clear, therefore, that a rational connection between the policy and its professed aim has not been established.	Ratio
+Much was made in the Divisional Court of the fact that S and Marper was concerned with the retention of the data of persons who had not been convicted.	Ratio
+But the need for a rational connection between the broad policy of indefinite retention of the DNA profiles, photographs and fingerprints of all who have been convicted of recordable offences is just as necessary in their case.	Ratio
+The connection cannot be considered to be supplied simply by the fact of conviction.	Ratio
+Many who have been convicted, especially of less serious recordable offences never re-offend.	Ratio
+The rational connection between the retention of their biometric data and photographs still needs to be established.	Ratio
+It is not to be inferred or presumed simply because they have been found guilty.	Ratio
+Nor can the connection be presumed to exist just because the importance of the use of DNA material in the solving of crime has been recognised by ECtHR.	Ratio
+It requires a considerable leap of faith, or perhaps more realistically, a substantial measure of conjecture, to say that simply because DNA material is useful in combatting crime in a general way the retention forever of DNA profiles of everyone convicted of a recordable offence establishes the rational connection between that particular policy and the aim the detection of crime and the identification of future offenders.	Ratio
+In this connection, it should be remembered that recordable offences occupy a wide spectrum of criminal activity.	Ratio
+Under the Northern Ireland Criminal Records (Recordable Offences) Regulations 1989 they include not only all offences punishable by imprisonment but also examples of what may fairly be described as minor, not to say trivial, offences such as tampering with motor vehicles (article 173 of the Road Traffic (Northern Ireland) Order 1981: improper use of the public telecommunications system (section 43 of the Telecommunications Act 1984).	Ratio
+To take some even more extreme examples they include blowing a horn or other noisy instrument or ringing any bell for the purpose of announcing any show or entertainment or hawking, selling, distributing or collecting any article whatsoever, or obtaining money or alms; wilfully and wantonly disturbing any inhabitant by ringing any doorbell or knocking at any door without lawful excuse, all under section 167 of the Belfast Improvement Act 1845 and being drunk in any street under section 72 of the Town Improvement (Ireland) Act 1854.	Ratio
+These might be considered to be frivolous examples of recordable crimes which would never, in practical reality, generate the taking of biometric samples but they serve to illustrate the extremely wide potential reach of PSNIs current policy and the failure of PSNI to confront the implications of the breadth of its possible application.	Ratio
+No more than necessary to achieve the aim?	Ratio
+If one accepts the premise that the retention of DNA profiles, fingerprints and photographs of those convicted of crime can help in the detection and identification of future offenders, the question arises whether a more tailored approach than that of the current PSNI policy in relation to the retention of those materials, sufficient to satisfy the aim, is possible.	Ratio
+ECtHR has consistently condemned, or, at least, has been extremely wary of, measures which interfere with a Convention right on an indefinite or comprehensive basis.	Ratio
+Thus in Campbell v United Kingdom (1992) 15 EHRR 137 the court rejected the justification for opening and reading all correspondence between prisoners and solicitors, pointing out that letters could be opened to check for illicit enclosures without having to be read at para 48.	Ratio
+And in Open Door Counselling and Dublin Well Woman v Ireland (1992) 15 EHRR 244, the permanent nature of an injunction granted by the Supreme Court of Ireland restraining the applicants from counselling pregnant women in Ireland on the options for travelling abroad to obtain an abortion was found to be disproportionate.	Ratio
+The Irish Supreme court had granted an injunction, restraining the applicants from counselling or assisting pregnant women to obtain further advice on abortion.	Ratio
+ECtHR found the injunction to be disproportionate and in breach of article 10, because of its perpetual nature and because of its sweeping application.	Ratio
+It applied regardless of the age or health of the women who sought the applicants advice or of the reasons that the advice was sought at para 73.	Ratio
+The question whether a measure interfering with a Convention right is no more than necessary to achieve the aim is sometimes expressed as an inquiry into whether the least intrusive means has been chosen.	Ratio
+This has not always been the basis used by the Strasbourg court as a measure of the proportionality of a particular species of interference and it has been suggested that it is a factor to be weighed in the balance, but not insisted on in every case Arden LJ Human Rights and European Law (2015) OUP, p 60.	Ratio
+In R (Wilson) v Wychavon District Council Richards LJ [2007] QB 801 suggested that the least restrictive means test was not an integral part of the proportionality assessment.	PRE
+Recent case-law from ECtHR suggests, however, that resort to the least intrusive means approach will be much more readily made in deciding whether interference with a Convention right is proportionate.	PRE
+In Mouvement Raelien Suisse v Switzerland (2012) 16354/06, para 75, the court observed at the conclusion of its proportionality reasoning: the authorities are required, when they decide to restrict fundamental rights, to choose the means that cause the least possible prejudice to the rights in question.	PRE
+And in Nada v Switzerland (2013) 10593/08 , para 183, ECtHR made similar comments: The court has previously found that, for a measure to be regarded as proportionate and as necessary in a democratic society, the possibility of recourse to an alternative measure that would cause less damage to the fundamental right at issue whilst fulfilling the same aim must be ruled out.	PRE
+In Bank Mellat Lord Reed, in outlining the four-fold test of proportionality followed the approach of Dickson CJ in the Canadian case of R v Oakes [1986] 1 SCR 103.	PRE
+It is worth recalling that Lord Reed, in articulating the third element of the test, specifically endorsed the approach that one should ask whether a less intrusive measure could have been used without unacceptably compromising the achievement of the objective.	PRE
+Of course it is true that this approach does not require the condemnation of an interference simply on the basis that it is possible to conceive of a less intrusive interference at a theoretical level.	Ratio
+The mooted less intrusive measure must be capable of fulfilling, and must not unacceptably compromise, the objective.	Ratio
+As Lord Reed pointed out, a strict application of a least restrictive means test would allow only one legislative response to an objective that involved limiting a protected right.	Ratio
+But where it is clear that the legislative objective can be properly realised by a less intrusive means than that chosen, or where it is not possible to demonstrate that the database that is created by the PSNI policy is in fact needed to achieve the objective, this is, at least, a strong indicator of its disproportionality.	Ratio
+I suggest, therefore, that the least restrictive measure test is now well established as part of domestic law.	Ratio
+A recent example of its application is to be found in a case decided in October 2014, R (Gibraltar Betting and Gaming Association Ltd) v Secretary of State for Culture, Media and Sport [2014] EWHC 3236 (Admin) where the High Court went to considerable lengths in paras 182-190 to analyse this test as part of its proportionality analysis under the TFEU, ultimately explicitly accepting that the least restrictive measure test is a proper part of the proportionality assessment.	Ratio
+See also R (Sinclair Collis Ltd) v Secretary of State for Health [2012] QB 394.	Ratio
+European Union law on the least restrictive means test	Ratio
+It is beyond question that proportionality is a fundamental principle of EU law.	Ratio
+In the Skimmed Milk Powder case Bergman v Grows-Farm [1977] ECR 1211 it was held that, in order to be lawful, an obligation had to be necessary in order to attain the objective in question.	PRE
+Similarly, in Commission v United Kingdom (Re UHT Milk) [1983] ECR 203, at para 236, the ECJ commented: It must be ascertained whether the machinery employed in the present case by the UK constitutes a measure which is disproportionate in relation to the objective pursued, on the ground that the same result may be achieved by the means of less restrictive measures.	PRE
+EU law and that of ECHR have become increasingly assimilated, not least because of the possible future accession of the EU to the Convention and the enactment of the European Charter on Human Rights.	Ratio
+In this context, see also cases such as Baumbast v Secretary of State for the Home Department [2002] (Case No C-413/99) [2003] ICR 1347.	Ratio
+The Court of Justice of the European Union has traditionally given the Convention special significance as a guiding principle in its case law (Anthony Arnull, The European Union and its Court of Justice (2006) pp 339-340) and therefore, while the EU approach to proportionality is not necessarily to be imported wholesale into the Convention analysis, it is clear that the prominence given to this general principle in EU law is likely to be reflected in Strasbourg jurisprudence.	Ratio
+Canadian case-law	Ratio
+Lord Reed in Bank Mellat (No 2), referred to the circumstance that Canadian law has long embraced the least restrictive measures principle see, in particular, Ford v Quebec [1988] 2 SCR 712 and Black v Royal College of Dental Surgeons [1990] 2 SCR 232 and the classic exposition of the test in R v Oakes above.	PRE
+court stated: In Libman v AG of Quebec (1997) 151 DLR (4th ed) 385, paras 415-416 the The government must show that the measures at issue impair the right of free expression as little as reasonably possible in order to achieve the legislative objective.	PRE
+The impairment must be minimal, that is the law must be carefully tailored so that rights are impaired no more than necessary.	PRE
+The tailoring process seldom admits of perfection and the courts must accord some leeway to the legislator.	PRE
+If the law falls within a range of reasonable alternatives, the court will not find it over broad because they can conceive of an alternative which may better tailor the objective to infringement.	PRE
+This approach is largely mirrored in the current case-law of this country, particularly Bank Mellat (No 2).	Ratio
+There must be a proper inquiry into whether the measure affects the right of the individual no more than is necessary.	Ratio
+That does not require the state to show that every conceivable alternative is unfeasible a condition of unique practicability is not demanded.	Ratio
+But if it is clear that the measure goes beyond what the stated objective requires, it will be deemed disproportionate.	Ratio
+Application of the principles to the present case	Ratio
+One must return, therefore, to the question whether a more tailored approach than that of the current PSNI policy in relation to the retention of biometric materials, sufficient to satisfy the aim of detecting crime and assisting in the identification of future offenders, is possible.	Ratio
+To that question only one answer can be given, in my opinion.	Ratio
+Clearly, a far more nuanced, more sensibly targeted policy can be devised.	Ratio
+At a minimum, the removal of some of the less serious offences from its ambit is warranted.	Ratio
+But also, a system of review, whereby those affected by the policy could apply, for instance on grounds of exemplary behaviour since conviction, for removal of their data from the database would be entirely feasible.	Ratio
+Similarly, gradation of periods of retention to reflect the seriousness of the offence involved would contribute to the goal of ensuring that the interference was no more intrusive than it required to be.	Ratio
+In this context, article 5(e) of the Convention for the Protection of Individuals with regard to Automatic Processing of Personal Data should be noted.	Ratio
+It provides that personal data undergoing automatic processing shall be preserved in a form which permits identification of the data subjects for no longer than is required for the purpose for which it is required.	Ratio
+There is no evidence that consideration has been given to the question of whether it is necessary for the effective combatting of crime that the materials concerned in this case should be retained indefinitely.	Ratio
+For the intervener, the Secretary of State for the Home Department, Mr Eadie QC accepted that the decision as to how long and for what offences biometric and other data should be retained called for a nuanced decision.	Ratio
+He argued that this had been achieved by the exclusion of non-recordable offences and offences committed by children and by the fact that such material from those not convicted was no longer retained.	Ratio
+He was unable to point to evidence, however, that the question of whether it was necessary that there be retention of all data from all convicted of recordable offences for all time had been considered.	Ratio
+Absent such consideration and in light of the fact that it is eminently possible to conceive of measures which are less intrusive but which would conduce to the avowed aim of the policy, it is simply impossible to say that the policy in its present form is the least intrusive means of achieving its stated aim.	Ratio
+A fair balance?	Ratio
+The final element in the proportionality examination is whether a fair balance has been struck between the rights of the individual and the interests of the community.	Ratio
+Although this may not be of quite the same importance as the rational connection and less intrusive means factors, it deserves consideration in its own right.	Ratio
+The starting point must be a clear recognition of the importance of the rights of the individual.	Ratio
+This was emphasised by ECtHR in S and Marper at para 103: The protection of personal data is of fundamental importance to a persons enjoyment of his or her right to respect for private and family life, as guaranteed by article 8 of the Convention.	Ratio
+The domestic law must afford appropriate safeguards to prevent any such use of personal data as may be inconsistent with the guarantees of this article.	Ratio
+The need for such safeguards is all the greater where the protection of personal data undergoing automatic processing is concerned, not least when such data are used for police purposes.	Ratio
+The domestic law should notably ensure that such data are relevant and not excessive in relation to the purposes for which they are stored; and preserved in a form which permits identification of the data subjects for no longer than is required for the purpose for which those data are stored.	Ratio
+The domestic law must also afford adequate guarantees that retained personal data was efficiently protected from misuse and abuse.	Ratio
+The above considerations are especially valid as regards the protection of special categories of more sensitive data and more particularly of DNA information, which contains the person's genetic make-up of great importance to both the person concerned and his or her family.	Ratio
+At para 104 the European court acknowledged that the interests of the data subjects and the community as a whole in protecting personal data could be outweighed by the legitimate interest in the prevention of crime but it emphasised that the intrinsically private character of the information called for careful scrutiny of any state measure authorising its retention and use by state authorities.	Ratio
+Addressing the blanket and indiscriminate nature of the power of retention, the court said this at para 119: The material may be retained irrespective of the nature or gravity of the offence with which the individual was originally suspected or of the age of the suspected offender; fingerprints and samples may be taken - and retained - from a person of any age, arrested in connection with a recordable offence, which includes minor or non-imprisonable offences.	Ratio
+The retention is not time limited; the material is retained indefinitely whatever the nature of seriousness of the offence of which the person was suspected.	Ratio
+Moreover, there exist only limited possibilities for an acquitted individual to have the data removed from the nationwide database or the materials destroyed; in particular, there is no provision for independent review of the justification for the retention according to defined criteria, including such factors as the seriousness of the offence, previous arrests, the strength of the suspicion against the person and any other special circumstances.	Ratio
+While this was said in relation to those who had not been convicted of crime, much of this passage is clearly relevant to the issue under discussion here.	Ratio
+No differentiation is made based on the gravity of the offence of which an individual was convicted; the retention is not time-limited, whatever the offence; and there is no provision for independent review of the justification for the retention of the data.	Ratio
+The court also addressed the question of stigmatisation of individuals by the retention of data.	Ratio
+At para 122 it said: Of particular concern in the present context is the risk of stigmatisation, stemming from the fact that persons in the position of the applicants, who have not been convicted of any offence and are entitled to the presumption of innocence, are treated in the same way as convicted persons.	Ratio
+In this respect, the court must bear in mind that the right of every person under the Convention to be presumed innocent includes the general rule that no suspicion regarding an accuseds innocence may be voiced after his acquittal.	Ratio
+It Ii true that the retention of the applicants private data cannot be equated with the voicing of suspicions.	Ratio
+Nonetheless, their perception that they are not being treated as innocent is heightened by the fact that their data are retained indefinitely in the same way as the data of convicted persons, while the data of those who have never been suspected of an offence are required to be destroyed.	Ratio
+Of course, it is true that the sense of stigmatisation may be more acutely felt by those who have been acquitted of crime but that does not mean that someone such as the appellant would be free from such sentiment knowing as he does that his biometric data and photograph will forever remain on police databases.	Ratio
+Although he has been convicted of a crime, and a serious crime at that, he is entitled to be presumed innocent of future crime notwithstanding that conviction.	Ratio
+His sense of stigmatisation and the impact that the retention of his data on police databases must be taken into account, therefore, in an assessment of whether a fair balance has been struck between his rights and the interests of the community as a whole.	Ratio
+As Lord Reed observed in para 71 of Bank Mellat this involves what is essentially a value judgment.	Ratio
+Making due allowance for what has been claimed will be the contribution made to fighting crime by the indefinite retention of data from those such as the appellant, when weighed against his personal interests, my judgment is that a fair balance has not been struck between the two.	Ratio
+I am reinforced in this view by consideration of the provisions and intended effect of the Rehabilitation of Offenders (Northern Ireland) Order 1978.	Ratio
+By virtue of article 5 of that Order, a person who has become rehabilitated for the purposes of the Order is to be treated for all purposes in law as a person who has not committed or been charged with or prosecuted for or convicted of or sentenced for the offence.	Ratio
+Retaining the biometric data of someone who has become rehabilitated is plainly inconsistent with the requirement that he or she be treated as if they had never been convicted of the offence.	Ratio
+Conviction of the offence is the very basis on which the data are retained.	Ratio
+If Mr Gaughran had not been convicted, his data could not be retained.	Ratio
+But he is being treated markedly differently from someone who has not been convicted.	Ratio
+The Secretary of State has submitted that the sole effect of the Order is to restrict the use that may be made of past convictions in legal proceedings, eg where the subject has suppressed a spent conviction.	ARG
+This cannot be right.	Ratio
+The contexts in which a rehabilitated offender is entitled to demand that he or she be treated in precisely the same way as someone who has not been convicted are not prescribed by the Order.	Ratio
+If a rehabilitated offender is entitled, for instance, to refuse to disclose that he has not been convicted when applying for employment, why should he not be entitled to demand that his biometric data be destroyed, after the original purpose in obtaining them is no longer relevant, just as someone who has been arrested but not convicted of an offence is entitled to do?	Ratio
+It is suggested that the fact that a conviction may become spent is no more than one of a number of factors to be taken into account in deciding whether a proper balance has been struck between the appellants rights and the interests of the community.	Ratio
+I consider that it ranks much higher than this.	Ratio
+The single basis on which Mr Gaughrans biometric material is retained is that he has committed a crime.	Ratio
+If the principle of rehabilitation is to have any meaning, ex-offenders such as he cannot be defined by the fact of their former offending.	Ratio
+The philosophy underlying the rehabilitation provisions is the restoration of the ex-offender to his or her position as a citizen without the stigma of having been a criminal.	Ratio
+He once more shares with his fellow citizens, entitlement to be treated as if he was of good character.	Ratio
+If the fact that his conviction is spent is relegated to the status of a single factor of no especial significance, the purpose of rehabilitation is frustrated.	Ratio
+Rehabilitation is our criminal justice systems way of acknowledging and encouraging the potential for personal growth and change.	Ratio
+If we continue to define ex-offenders throughout their lives on the basis of their offending we deprive them of reintegration into society on equal terms with their fellow citizens.	Ratio
+The only reason proffered to justify the denial of that hope is the assertion that those convicted of offences may reoffend.	Ratio
+The premise which must underlie this claim is that those convicted of recordable offences are more likely to reoffend than those who have not been.	Ratio
+But no evidence has been presented to support that claim.	Ratio
+Unsurprisingly, therefore, no attempt to quantify such a risk has been made.	Ratio
+It is difficult to avoid the conclusion that the fact of conviction merely provides the pretext for the assembly and preservation of a database which the police consider might be useful at some time in the future and that it has no direct causal connection to the actual detection of crime and the prevention of future offending.	Ratio
+In any event, for the principle of rehabilitation to have proper effect, it is necessary that, once a conviction is spent, any supposed or presumed risk be regarded as having dissipated.	Ratio
+Offenders whose convictions are spent must be treated as any other citizen would be treated.	Ratio
+Allowing their biometric details to be retained indefinitely is in flat contradiction of that fundamental principle.	Ratio
+It is, of course, true that Mr Gaughrans conviction was not spent when the case was decided in the Divisional Court but that is nothing to the point.	Ratio
+In the first place, his conviction is now spent and, more importantly, the PSNI policy proceeds on the basis that the Rehabilitation Order provisions can effectively be ignored.	Ratio
+I do not believe that they can be and they constitute an unanswerable reason that the policy does not strike a fair balance between the rights of individuals who are entitled to the benefit of the Orders rehabilitation provisions and the interests of the community.	Ratio
+It might be said that, when the 2013 Act comes into force, there will be an express statutory power to retain indefinitely all biometric data of those convicted of a recordable offence.	Ratio
+If that will indeed be its effect, serious questions will arise, in my opinion, about its compatibility with article 8 of ECHR.	Ratio
+But that is not a matter for decision in this case.	Ratio
+The possibility of future legislation underpinning the present policy of PSNI should not deflect this court from recognising the current illegitimacy of that policy.	Ratio
+Margin of appreciation	Ratio
+It is, of course, the case that a margin of appreciation is available to national authorities in deciding where to strike the balance between the rights of the individual under article 8 of ECHR and the interests of the community.	Ratio
+The use and advantage of that margin is exemplified by the consideration in S and Marper of the different standards that have been adopted by various member states of the Council of Europe.	Ratio
+It is also referred to in the judgment of Lord Clarke and in the annexes to his judgment.	Ratio
+For a margin of appreciation to be accorded to the choice of the member state, however, some consideration must have been given by that state to the issues at stake and a considered judgment must have been made on the options available.	Ratio
+One cannot excuse a slack or ill-considered policy as survivable just because it can be said to be open to the member state to make a choice which is different from that of other member states.	Ratio
+There needs to be some form of evaluation or judgment of the issues at stake.	Ratio
+If the choice is the product of consideration and is designed to meet the particular circumstances or conditions encountered in the particular member state, that is one thing.	Ratio
+But an ill-thought out policy which does not address the essential issues of proportionality cannot escape condemnation simply because a broad measure of discretion is available to an individual state.	Ratio
+A margin of appreciation is accorded to a contracting state because Strasbourg acknowledges that the issue in question can be answered in a variety of Convention-compatible ways, tailored to local circumstances.	Ratio
+But the margin of appreciation that is available to the state does not extend to its being permitted to act in a way which is not Convention compliant.	Ratio
+If the state acts in such a way, it cannot insulate itself from challenge by recourse to the margin of appreciation principle.	Ratio
+In Wingrove v UK (1996) 24 EHRR 1, para 58, a broad margin case, ECtHR emphasised that authorities within the state in question were in a better position than international judges to give an opinion on the exact content of these requirements with regard to the rights of others as well as on the necessity of the restriction.	Ratio
+Domestic courts therefore have the responsibility to examine closely the proportionality of the measure without being unduly influenced by the consideration that the Strasbourg court, if conducting the same exercise, might feel constrained to give the contracting states decision a margin of appreciation.	Ratio
+For the reasons that I have given, I have concluded that the issues which must be considered under the proportionality exercise have not been properly addressed and that, if they had been, a more restricted policy would have been the inevitable product.	Ratio
+The margin of appreciation cannot rescue the PSNI policy from its incompatibility with the appellants article 8 right.	Ratio
+Conclusion	RPC
+I would therefore allow the appellants appeal and declare that the policy of retaining indefinitely DNA profiles, fingerprints and photographs of all those convicted of recordable offences in Northern Ireland is incompatible with article 8 of ECHR.	RPC
+I would therefore allow the appellants appeal and declare that the policy of retaining indefinitely DNA profiles, fingerprints and photographs of all those convicted of recordable offences in Northern Ireland is incompatible with article 8 of ECHR.	RPC

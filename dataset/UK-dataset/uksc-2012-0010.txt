@@ -1,0 +1,182 @@
+Section 1(1) of the Protection from Harassment Act 1997 provides that a person must not pursue a course of conduct (a) which amounts to harassment of another, and (b) which he knows or ought to know amounts to harassment of the other.	STA
+Harassment is both a criminal offence under section 2 and a civil wrong under section 3.	STA
+Under section 7(2), references to harassing a person include alarming the person or causing the person distress, but the term is not otherwise defined.	STA
+It is, however, an ordinary English word with a well understood meaning.	PRE
+Harassment is a persistent and deliberate course of unreasonable and oppressive conduct, targeted at another person, which is calculated to and does cause that person alarm, fear or distress: see Thomas v News Group Newspapers Ltd [2002] EMLR 78, para 30 (Lord Phillips of Worth Matravers MR).	PRE
+One of the more egregious forms of harassment is the stalking of women.	PRE
+But the Act is capable of applying to any form of harassment.	PRE
+Among the examples to come before the courts in recent years have been repeated offensive publications in a newspaper (as in Thomas); victimisation in the workplace (Majrowski v Guys and St. Thomass NHS Trust [2007] 1 AC 224); and campaigns against the employees of an arms manufacturer by political protesters (EDO MBM Technology Ltd v Axworthy [2005] EWHC 2490 (QB)).	PRE
+The present appeal arises out of an action for damages for harassment and for an injunction to restrain its continuance.	Ratio
+The question at issue is in what circumstances can such an action be defended on the ground that the alleged harasser was engaged in the prevention or detection of crime.	Ratio
+Section 1(3) of the Act provides: (3) Subsection (1) does not apply to a course of conduct if the person who pursued it shows (a) that it was pursued for the purpose of preventing or detecting crime, (b) that it was pursued under any enactment or rule of law or to comply with any condition or requirement imposed by any person under any enactment, or (c) that in the particular circumstances the pursuit of the course of conduct was reasonable.	STA
+The plaintiff, Mr Timothy Hayes, is a businessman who used to manage a number of companies involved in software development.	FAC
+There is an issue about whether he also owns them, but for present purposes that does not matter.	FAC
+One of Mr Hayess companies, IT-Map (UK) Ltd, used to employ the defendant, Mr Michael Willoughby.	FAC
+In 2002, the two of them fell out.	FAC
+Mr Hayes accused Mr Willoughby of attempting in conjunction with three employees of another of his companies, Nucleus Information Systems Ltd, to undermine Nucleus with a view to forcing it into liquidation and buying back its business for themselves.	FAC
+These accusations were not fanciful.	FAC
+The findings of an employment tribunal in 2006 and of Judge Moloney in these proceedings show that they were substantially justified.	FAC
+In 2003, the two companies and the four employees were locked in litigation before employment tribunals, and Nucleus was suing all four men in the High Court for conspiracy, malicious falsehood and copyright infringement.	FAC
+The High Court litigation was resolved at the end of 2004, when Nucleus accepted a payment into court.	FAC
+The disputes about the conduct of the four employees and the resultant litigation are not themselves said to be part of the course of harassment.	FAC
+They are part of the background and they are the occasion for it.	FAC
+The course of conduct on which Mr Hayes relies began in late 2003, when Mr Willoughby embarked on an unpleasant and obsessive personal vendetta against him.	FAC
+Mr Willoughby alleged that his management of his companies, principally in the accounting year 2002-3, was characterised by fraud, embezzlement and tax evasion.	ARG
+The campaign was mainly carried on by pressing these allegations in very many letters addressed over the years to the Official Receiver, the police, the Department of Trade and Industry and other public bodies.	FAC
+The judge recorded that the Official Receiver estimated that no less than 400 communications on the matter were exchanged between Mr Willoughby and the Official Receiver alone.	FAC
+The Official Receiver obtained access to the companys records and investigated the allegations.	FAC
+The DTI commenced two investigations under section 447 of the Companies Act 1985.	FAC
+The police looked into the allegations.	FAC
+All of them concluded that there was nothing in them.	FAC
+They reported their conclusions to Mr Willoughby in increasingly strong terms, but he was not to be moved and continued to raise queries about what he professed to regard as their inadequate inquiries and illogical conclusions.	FAC
+The position has now been reached, said the judge, that most of the relevant bodies are refusing to have any more to do with him, in particular because of their perception that when one of his allegations is conclusively refuted he will simply change his ground and put forward another with equal force.	FAC
+The judge found that Mr Willoughbys words and acts constituted a course of conduct, linked by a common purpose and subject-matter, calculated to cause and in fact causing alarm, distress and anxiety to Mr Hayes.	FAC
+Although he did not communicate directly with Mr Hayes, Mr Willoughby was well aware that his allegations and other conduct would get back to Mr Hayes and have that effect on him.	FAC
+The judge concluded that this amounted to harassment, and it is no longer disputed that it does.	FAC
+The sole remaining issue is whether Mr Willoughby is entitled to a defence under section 1(3)(a), on the ground that his campaign was pursued for the purpose of preventing or detecting crime.	FAC
+On that point, the judges findings were as follows: (1) Mr Willoughbys conduct was gratuitous, for apart from some modest financial claims against Mr Hayes, almost all of which were resolved at an early stage of his campaign, he had no personal interest in establishing his allegations against Mr Hayes.	RLC
+He was animated, the judge said, by mixed motives, including personal animosity to H (in fairness based largely on the same suspicions) and a sort of intellectual curiosity.	RLC
+He quoted Mr Willoughbys evidence that it was an intellectual problem, like playing bridge.	RLC
+(2) Mr Willoughby has at all times sincerely believed that Mr Hayes had stolen large sums from his companies in the United Kingdom and committed a variety of offences in the course of doing so.	RLC
+He continues to believe this to the present day.	RLC
+His campaign was throughout subjectively directed at the prevention or detection of crime.	RLC
+(3) At the outset of the campaign, there was a reasonable basis for Mr Willoughbys suspicions.	RLC
+But Mr Willoughby accepted, indeed asserted, that the crucial evidence was that of the companies bank statements which if examined would either prove or refute his allegations.	RLC
+Once it became clear that the Official Receiver had examined this material and that it did not support Mr Willoughbys case, the judge considered that his persistence ceased to be reasonable.	RLC
+The judge found that this stage had been reached by 14 June 2007, when the Official Receiver reported to him the conclusion of his investigation, or at the latest by 21 September 2007 when the Official Receiver sent him a schedule accounting for substantially the whole of the book debts of IT-Map in the relevant period.	RLC
+Thereafter, Mr Willoughbys persistence exceeded even the widest limits of reasonableness and became unreasonable and obsessive.	RLC
+The inevitable conclusion, the judge said, is that he has developed an unshakeable conviction of Hs criminal guilt which now precedes rather than follows any objective assessment.	RLC
+(4) The three incidents of personal intrusions into Mr Hayess private life (such as the contact with his GP) were never reasonable and had no relevant connection with the prevention or detection of crime.	RLC
+But they did not constitute a separate course of conduct capable of amounting to harassment independent of the correspondence with the public authorities.	RLC
+Some of these findings seem unduly charitable to Mr Willoughby.	RLC
+But the judge heard the witnesses, and it is not for an appellate court lacking that advantage to substitute its own assessment of his state of mind.	RLC
+The question is what is the effect of the findings as a matter of law.	RLC
+It is common ground that in respect of the period up to June 2007 their effect is that Mr Willoughby is entitled to rely on section 1(3)(a) as a defence to the allegation of harassment.	Ratio
+The question at issue is whether he remained entitled to do so thereafter.	Ratio
+The judge dismissed the claim in respect of the entire period, because he considered that the test for section 1(3) of the Act was wholly subjective.	Ratio
+It was therefore enough that Mr Willoughby genuinely believed in his allegations and wished to persist in investigating them.	Ratio
+The Court of Appeal allowed the appeal, granted an injunction and remitted the matter to the county court to assess damages.	Ratio
+Their reasons are given in the judgment of Moses LJ, with whom Sullivan and Gross LJJ agreed.	Ratio
+There were, in summary, two reasons.	Ratio
+In the first place, Moses LJ distinguished between the purpose of the alleged harasser and the purpose of his conduct, only the latter being in his view relevant.	Ratio
+Whatever the avowed purpose of Mr Willoughby himself, the purpose of his conduct was not reasonably or rationally connected to the prevention or detection of crime after June 2007.	Ratio
+To the extent that the course of conduct is adjudged irrational, or lacking in any reasonable connection to the avowed purpose of preventing or detecting crime, the likely conclusion will be that the purpose of the conduct was not preventing or detecting crime.	Ratio
+As I read this statement, it is a conclusion of law derived from the judges findings, and not a rejection of those findings.	Ratio
+Secondly, Moses LJ considered that the prevention and detection of crime had to be the sole purpose of the alleged harasser, and the intrusions upon Mr Hayess privacy, which the judge had found to be unrelated to the prevention or detection of crime, showed that it was not.	Ratio
+The starting point of any analysis of this question is that there is no general rule as to how purpose is to be established when it is relevant to a crime or civil wrong.	Ratio
+When purpose is relevant to the operation of a statutory provision, the question will depend on the construction of the statute in the light of the mischief to which it is directed.	Ratio
+When it is relevant to a rule of common law, the answer will normally be found in the object of the rule.	Ratio
+In his concurring judgment in the High Court of Australia in Williams v Spautz (1992) 174 CLR 509, para 4, Brennan J attempted a partial definition of purpose in the context of the tort of abuse of process, which is committed when a person conducts litigation for a purpose other than that for which the courts process is designed: Purpose, when used in reference to a transaction, has two elements: the first, a result which the transaction is capable of producing; the second, the result which the person or persons who engage in or control the transaction intend it to produce.	Ratio
+Or, to express the concept in different terms, the purpose of a transaction is the result which it is capable of producing and is intended to produce.	Ratio
+This is probably as much as can usefully be said in general terms about this protean concept.	Ratio
+I do not accept that any distinction can be drawn of the kind that Moses LJ suggests, between the purpose of a course of conduct and the purpose of the person engaging in it.	Ratio
+Acts such as these can have no purpose other than that of their perpetrator.	Ratio
+The question is by what standard that persons purpose is to be assessed.	Ratio
+In the authorities about section 1(3)(a) of the Protection from Harassment Act 1997, discussion of this question has generally been conducted in terms of a stark choice between an objective and a subjective test.	Ratio
+In EDO MBM Technology Ltd v Axworthy [2005] EWHC 2490 (QB), paras 28-29, Paul Walker J held that the test of purpose was subjective.	Ratio
+The trial judge in the present case agreed with him.	Ratio
+On the other hand, Tugendhat J in KD v Chief Constable of Hampshire [2005] EWHC 2550 (QB) at [144] thought that the test was whether the conduct was objectively justified as a means of preventing or detecting crime, at any rate when it infringed the victims rights under article 8 of the European Convention on Human Rights, and Eady J in Howlett v Holding [2006] EWHC 41 (QB), para 33, thought that there must be objectively judged some rational basis for it.	Ratio
+On this appeal the parties have adopted one or other view, according to their interest, fortifying their arguments with authorities relating to other legal contexts in which purpose is relevant.	Ratio
+The difficulty about a wholly objective test is that it is not consistent with either the language or the purpose of the Act.	Ratio
+The only wholly objective test which could work in this context is one based on the reasonableness of the alleged harasser in supposing that there was a crime to be prevented or detected or that his conduct was calculated to achieve those ends.	Ratio
+But where the draftsman intended to apply a test of reasonableness, he said so in terms, notably in sections 1(1)(b) (knows or ought to know), section 1(2) (if a reasonable person... would think) and 1(3)(c) itself (if... the course of conduct was reasonable).	Ratio
+If the defence under section 1(3)(a) was limited to cases where it was reasonable to seek to prevent or detect crime in the way that the alleged harasser set about it, it would have been unnecessary because it would have been subsumed in the general defence of reasonableness provided by section 1(3)(c).	Ratio
+Moreover, it is hard to imagine that such a limitation would be workable as applied to public authorities even if it could be reconciled with the language of section 1.	Ratio
+A wholly subjective test, on the other hand, such as the one that the judge applied to Mr Willoughby, is equally problematic.	Ratio
+Before the defence can arise, it must be shown that the victim has been harassed.	Ratio
+As Lord Nicholls pointed out in Majrowski v Guys and St. Thomass NHS Trust [2007] 1 AC 224, para 30, bearing in mind that we are concerned with conduct that is a criminal offence as well as a civil wrong, section 1 is confined to serious cases.	Ratio
+The conduct relied upon must cross the boundary between conduct which is unattractive, even unreasonable, and conduct which is oppressive and unacceptable.	Ratio
+To cross the boundary from the regrettable to the unacceptable the gravity of the misconduct must be of an order which would sustain criminal liability under section 2.	Ratio
+A large proportion of those engaging in the kind of persistent and deliberate course of targeted oppression with which the Act is concerned will in the nature of things be obsessives and cranks, who will commonly believe themselves to be entitled to act as they do.	Ratio
+Section 1(3)(a), although it was no doubt drafted mainly with an eye to the prevention or detection of crime by public authorities, applies equally to private persons who take it upon themselves to enforce the criminal law.	Ratio
+Within broad limits, the law recognises the right of private persons to do this, but vigilantism can easily and imperceptibly merge into unlawful harassment.	Ratio
+Cases such as the present one, where the harassment is said to consist in repeated and oppressive attempts to detect crime are quite likely to involve conduct falling within the sub- category of harassment defined as stalking by section 2A (added by section 111(1) of the Protection of Freedoms Act 2012).	Ratio
+This includes not just sexual stalking, but any persistent course of harassment that consists in repeatedly following a person, contacting or attempting to contact them, publishing material about them, monitoring their use of the internet, loitering in any place, or watching or spying on them: see section 2A(3).	Ratio
+Conduct said to be directed to preventing crime is likely to be an even more significant category than conduct said to be directed to its detection.	Ratio
+Recent cases before the courts illustrate the propensity of obsessives to engage in conduct which is oppressive enough to constitute harassment, in the genuine belief that they are preventing crime.	Ratio
+These ranging from the more extreme wings of the animal rights movement to the lone schizophrenic vigilante whom Mr Wolman (appearing for Mr Willoughby) submitted would be protected by section 1(3)(a).	Ratio
+Those who claim to be acting for the purpose of either preventing or detecting crime may at a purely subjective level entertain views about what acts are crimes which have no relation to reality, let alone to the law.	Ratio
+Private persons seeking to enforce the law are not amenable to judicial review, as the police are.	Ratio
+Unless they commit some other offence or civil wrong, such as assault or criminal damage, the Act of 1997 will be the only means of controlling their activities by law.	Ratio
+It cannot be the case that the mere existence of a belief, however absurd, in the mind of the harasser that he is detecting or preventing a possibly non-existent crime, will justify him in persisting in a course of conduct which the law characterises as oppressive.	Ratio
+Some control mechanism is required, even if it falls well short of requiring the alleged harasser to prove that his alleged purpose was objectively reasonable.	Ratio
+I do not doubt that in the context of section 1(3)(a) purpose is a subjective state of mind.	Ratio
+But in my opinion, the necessary control mechanism is to be found in the concept of rationality, which Eady J touched on in Howlett v Holding [2006] EWHC 41 (QB) and Moses LJ seems to have been reaching for in his judgment in the present case.	Ratio
+Rationality is a familiar concept in public law.	Ratio
+It has also in recent years played an increasingly significant role in the law relating to contractual discretions, where the laws object is also to limit the decision-maker to some relevant contractual purpose: see Ludgate Insurance Co Ltd v Citibank NA [1998] Lloyds Rep IR 221, para 35 and Socimer International Bank Ltd v Standard Bank Ltd [2008] Bus LR 1304, para 66.	Ratio
+Rationality is not the same as reasonableness.	Ratio
+Reasonableness is an external, objective standard applied to the outcome of a persons thoughts or intentions.	Ratio
+The question is whether a notional hypothetically reasonable person in his position would have engaged in the relevant conduct for the purpose of preventing or detecting crime.	Ratio
+A test of rationality, by comparison, applies a minimum objective standard to the relevant persons mental processes.	Ratio
+It imports a requirement of good faith, a requirement that there should be some logical connection between the evidence and the ostensible reasons for the decision, and (which will usually amount to the same thing) an absence of arbitrariness, of capriciousness or of reasoning so outrageous in its defiance of logic as to be perverse.	Ratio
+For the avoidance of doubt, I should make it clear that, since we are concerned with the alleged harassers state of mind, I am not talking about the broader categories of Wednesbury unreasonableness, a legal construct referring to a decision lying beyond the furthest reaches of objective reasonableness.	Ratio
+Before an alleged harasser can be said to have had the purpose of preventing or detecting crime, he must have sufficiently applied his mind to the matter.	Ratio
+He must have thought rationally about the material suggesting the possibility of criminality and formed the view that the conduct said to constitute harassment was appropriate for the purpose of preventing or detecting it.	Ratio
+If he has done these things, then he has the relevant purpose.	Ratio
+The court will not test his conclusions by reference to the view which a hypothetical reasonable man in his position would have formed.	Ratio
+If, on the other hand, he has not engaged in these minimum mental processes necessary to acquire the relevant state of mind, but proceeds anyway on the footing that he is acting to prevent or detect crime, then he acts irrationally.	Ratio
+In that case, two consequences will follow.	Ratio
+The first is that the law will not regard him as having had the relevant purpose at all.	Ratio
+He has simply not taken the necessary steps to form one.	Ratio
+The second is that the causal connection which section 1(3)(a) posits between the purpose of the alleged harasser and the conduct constituting the harassment, will not exist.	Ratio
+The effect of applying a test of rationality to the question of purpose is to enable the court to apply to private persons a test which would in any event apply to public authorities engaged in the prevention or detection of crime as a matter of public law.	Ratio
+It is not a demanding test, and it is hard to imagine that Parliament can have intended anything less.	Ratio
+The judges findings of primary fact, fairly read, mean that after June 2007 Mr Willoughbys vendetta against Mr Hayes was more than objectively unreasonable.	Ratio
+It was irrational.	Ratio
+His persistence was obsessive.	Ratio
+He was no longer guided by any objective assessment of the evidence of Mr Hayess supposed criminality and there was no longer any logical connection between his supposed purpose and his acts.	Ratio
+In the judges words, his unshakeable conviction of Mr Hayess guilt now preceded rather than followed any objective assessment of the evidence.	Ratio
+He was proceeding with his campaign for its own sake, regardless of the prospect of detecting any crimes of Mr Hayes.	Ratio
+There is no other way of characterising his persistence in pressing his allegations on the official Receiver and other investigatory authorities long after they had refused to deal further with him, so that his conduct was no longer capable of furthering the supposed purpose.	Ratio
+It follows that Mr Willoughby cannot, in the sense meant by section 1(3)(a) of the Act, be regarded as having had that purpose or of having been guided by it.	Ratio
+In these circumstances, it is strictly speaking unnecessary to decide whether the purpose specified in section 1(3)(a) must be the sole purpose of the alleged harasser.	Ratio
+But I should record that Mr Allen QC (who appeared for Mr Hayes) did not attempt to defend this particular ground of the Court of Appeals decision and in my view it was indefensible.	ARG
+A persons purposes are almost always to some extent mixed, and the ordinary principle is that the relevant purpose is the dominant one.	ARG
+It follows that the only relevance of the three intrusions upon Mr Hayess privacy found by the judge, is that they were evidence of Mr Willoughbys state of mind.	ARG
+The judge might have concluded that they demonstrated that Mr Willoughby was predominantly actuated by malice and resentment.	ARG
+But he did not and that is all that there is to say about this aspect of the matter.	ARG
+I would dismiss the appeal.	RPC
+On that footing there is no issue about the terms of the Court of Appeals order, which will stand.	RPC
+I agree that this appeal should be dismissed, essentially for the reasons given by Lord Sumption.	RPC
+Parliament in enacting section 1(3) of the Protection from Harassment Act 1997 must have regarded paragraphs (a) and (b) as representing situations in which the stated purpose under paragraph (a), or the relevant enactment, rule, condition or requirement under paragraph (b), would by itself constitute sufficient justification of the course of conduct constituting the assumed harassment, without any need to enquire whether in the particular circumstances the pursuit of the course of conduct was reasonable.	Ratio
+The Court of Appeal was clearly in error both in identifying a distinction under paragraph (a) between Mr Willoughbys purpose and the purpose of his course of conduct and in holding that the purpose of preventing or detecting crime must be the sole purpose for paragraph (a) to apply.	Ratio
+Paragraph (a) focuses on Mr Willoughbys subjective purpose and it is sufficient if his predominant purpose fell within it.	Ratio
+The judge, as I read his judgment, found that Mr Willoughbys predominant subjective purpose was to detect crime.	Ratio
+Very often that finding would conclude the case.	Ratio
+But, like Lord Sumption, I do not consider that it does here.	Ratio
+If one asks whether Parliament can really have intended there to be no limits to the pursuit of a course of conduct for the purpose of preventing or detecting crime, no matter how irrational, perverse or abusive its pursuit may have become, the answer I would give is negative.	Ratio
+Mere unreasonableness is not the limit.	Ratio
+But the law recognises looser control mechanisms such as complete irrationality, perversity, abusiveness or, indeed, in some contexts gross negligence.	Ratio
+(As to the last, see eg Spread Trustee Co Ltd v Hutcheson [2011] UKPC 13, [2012] 2 AC 194, paras 50- 51 per Lord Clarke.)	Ratio
+Which of these is in the present context adopted does not in my view ultimately matter.	Ratio
+They all probably amount to very much the same thing.	Ratio
+On the judges findings, Mr Willoughbys state of mind took his course of conduct outside paragraph (a), whether one describes it as irrational, perverse or abusive or as so grossly unreasonable that it cannot have been intended to be covered by that head of justification.	Ratio
+LORD REED (dissenting)	Ratio
+I agree that section 1(3)(a) of the Protection from Harassment Act 1997 is not subject to any requirement that the pursuit of the course of conduct, for the purpose of preventing or detecting crime, should have been reasonable: otherwise, given the terms of section 1(3)(c) (that in the particular circumstances the pursuit of the course of conduct was reasonable), section 1(3)(a) would be otiose.	Ratio
+Having reached that conclusion, I am with respect unable to agree that Parliament may nevertheless have intended to impose a requirement that the pursuit of the course of conduct should have been rational.	Ratio
+That is so for three reasons.	Ratio
+First, Parliament did not say so.	Ratio
+On its face, a test of purpose usually refers to the object or aim which the defendant had in mind: purpose connotes an intention by some person to achieve a result desired by him (Sweet v Parsley [1970] AC 132, 165 per Lord Diplock).	Ratio
+The purpose for which a course of conduct is pursued is therefore ordinarily ascertained by reference to the intention of the person who pursues it.	Ratio
+To introduce a requirement of objective rationality requires the court to read in words which Parliament did not use.	Ratio
+Furthermore, as Walker J observed in EDO MBM Technology Ltd v Axworthy [2005] EWHC 2490 at para 36, in enacting the Act Parliament was significantly extending the reach of the criminal and civil law in controversial circumstances.	Ratio
+In doing so, care was taken to identify expressly occasions when conduct was to be judged by an objective standard.	Ratio
+I have already referred to the terms of section 1(3)(c).	Ratio
+The language employed in section 1(1)(b) (knows or ought to know), section 1(2) (if a reasonable person would think) and section 8(1)(b) (where it would appear to a reasonable person), to give only a few examples, similarly demonstrates that Parliament made it clear when it intended to impose an objective requirement.	Ratio
+The implication is that it did not intend to impose such a requirement in section 1(3)(a), or in the similarly worded sections 4(3)(a), 4A(4)(a) (as inserted by section 111(2) of the Protection of Freedoms Act 2012) and 8(4)(b).	Ratio
+Moreover, I cannot readily bring to mind any example, in any context, of a statutory requirement not of reasonableness but of rationality, the latter being understood as conceptually distinct from the former.	Ratio
+Secondly, section 1(3)(a) and the similarly worded provisions elsewhere in the Act provide defences to criminal as well as civil liability.	Ratio
+It is trite that a statute is not normally to be construed as extending criminal liability beyond the limits which Parliament itself made clear in its enactment.	Ratio
+Thirdly, bearing in mind again that section 1(3)(a) and the other provisions to like effect limit the scope of criminal offences, some of which are triable on indictment, I would be slow to infer that criminal liability was intended to turn upon the subtle distinction between what is unreasonable and what is irrational.	Ratio
+Are defendants to be convicted on the basis that their conduct has overstepped the boundary separating the unreasonable from the irrational? Are juries to be required to determine where that boundary lies? It may be that appropriate directions can be devised by judges, although I do not underestimate the difficulty of devising directions which accurately reflect Lord Sumptions analysis.	Ratio
+I have to confess that I am not sure that I understand the distinction drawn at para 14 between on the one hand rationality [as] a familiar concept in public law, which is not the same as reasonableness, and on the other hand the broader categories of Wednesbury unreasonableness; or the statement that there should be an absence of arbitrariness, of capriciousness or of reasoning so outrageous in its defiance of logic as to be perverse, but that the court is not referring to a decision lying beyond the furthest reaches of objective reasonableness; or how that test is related to the causal connection between the purpose and the conduct, discussed in para 15; or whether it is the same test as is reflected in the various standards, ranging from gross negligence to complete irrationality, mentioned by Lord Mance.	Ratio
+In any event, a meaningful jury trial requires not merely that the jury is given a legally accurate direction, but that it is one which they can make sense of in practice and apply with confidence to the evidence they have heard.	Ratio
+I am not convinced that Parliament can have intended that a jury should be expected to understand and apply the sophisticated distinctions which Lord Sumption seeks to draw.	Ratio
+That Parliament should have intended section 1(3)(a) to apply, regardless of whether the pursuit of the course of conduct was objectively reasonable or not, may at first sight seem surprising, given that the conduct must otherwise constitute harassment before section 1(3)(a) can come into play.	Ratio
+It is however understandable that Parliament should not have intended that persons genuinely pursuing a course of conduct for the purpose of preventing or detecting crime should be vulnerable to prosecution or civil action under the Act, and should then have to justify their conduct to a court.	Ratio
+The possibility of such proceedings could inhibit not only the activities of the numerous public agencies with responsibilities relating to the prevention or detection of crime, but also other activities of other persons such as investigative journalists.	Ratio
+The possibility that such activities might, in the absence of immunity, be the subject of proceedings under the Act is by no means fanciful, as is demonstrated by the example of the late Robert Maxwell amongst others.	Ratio
+Indeed, journalism has already been the subject of proceedings under the Act (Thomas v News Group Newspapers Ltd [2002] EMLR 78).	Ratio
+I do not demur from the view that it may be desirable that the courts should be able to restrain the activities of a person who causes real distress through his irrational behaviour; and this case demonstrates that mental health legislation does not provide a complete answer.	Ratio
+But that is not in my view a sufficient reason for extending the scope of the Act beyond what Parliament intended.	Ratio
+If Parliament wished to amend the legislation in order to apply it to persons such as the appellant, it could do so; and, if it contemplated such an amendment, it could also consider whether, and if so how, it wished to preserve the immunity which had until now been thought to be conferred by section 1(3)(a), and the other provisions to like effect, upon public agencies exercising investigative powers and upon other persons, such as investigative journalists, whose conduct may be equally upsetting to those whom they are investigating and will also, as a result of this decision, be susceptible to challenge in the courts.	Ratio

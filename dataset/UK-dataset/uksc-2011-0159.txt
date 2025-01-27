@@ -1,0 +1,356 @@
+A person infringes a patent for a particular product if he makes, disposes of, offers to dispose of, uses or imports the product or keeps it see section 60(1)(a) of the Patents Act 1977 (the 1977 Act).	Ratio
+The principal issue on this appeal concerns the meaning of the word makes.	Ratio
+The other aspect of this appeal raises a number of issues arising out of section 68 of the 1977 Act.	Ratio
+The background facts and the patent in suit	FAC
+Intermediate Bulk Containers	FAC
+An intermediate bulk container, unsurprisingly known as an IBC, is a large container, normally around 1000 litres in volume, used for the transport of liquids.	FAC
+Such containers face tough transport conditions.	FAC
+They must be capable of bearing heavy weights (as much as six tonnes, as they are often stacked four-high), of withstanding prolonged or violent vibration, and of resisting the forces caused by the liquid splashing around inside, without buckling, cracking or springing leaks.	FAC
+IBCs of a two-part construction, resting on a flat pallet (of wood, steel, or plastic) have been well known in the trade for many years.	FAC
+They consist of a metal cage into which a large plastic container (or bottle) is fitted.	FAC
+The bottle has to fit the cage snugly, as otherwise the cage will not provide full protection, and the walls of the bottle will not be properly supported.	FAC
+The general idea is shown by the prior art IBC which is illustrated in the description of the patent involved in this case:	FAC
+IBCs are used to transport a wide range of types of liquid.	FAC
+Often, the bottle cannot be reused, because it contains residues of a toxic liquid or because it has been physically damaged.	FAC
+While the cage also has a limited life-span, which depends on a number of factors (such as the means and conditions of transport and climatic conditions), it has a significantly longer life expectancy than a bottle; the evidence suggested that, on average, it is about five or six times as long.	FAC
+Reconditioning	FAC
+Reconditioners engage in re-bottling or cross-bottling used IBCs.	FAC
+In either case the old bottle is removed, any damage to the cage repaired, and a new bottle is fitted within the cage.	FAC
+Re-bottling involves replacing the bottle with a fresh bottle from the original manufacturer; cross-bottling involves replacing the bottle with a bottle from a different source.	FAC
+Opinion in the industry is divided about cross-bottling.	FAC
+Because the bottle is not specifically designed for the cage, the fit is not always as good as with a bottle from the original manufacturer.	FAC
+For instance, stabilising loops in the top of the bottle may not precisely match up with bars on the cage, or the bottle may not fit so as to drain properly without tipping.	FAC
+However, there appears to be a healthy market for cross-bottled IBCs.	FAC
+The IBC market	FAC
+IBCs are normally sold by a manufacturer to a filler, who then uses the IBC to send its product to an end-user.	FAC
+Fillers typically include large chemical companies, and end-users include fizzy drink wholesalers, cosmetic suppliers and pharmaceutical companies.	FAC
+Manufacturers of new IBCs often also recondition their own original IBCs, but there are many suppliers of IBCs who are solely reconditioners.	FAC
+Reconditioners (whether or not they are the original manufacturers) normally collect used IBCs from end-users, who have no further use for the used IBCs.	FAC
+The end-users are sometimes, but by no means always, paid for these used IBCs by the reconditioners.	FAC
+After re-bottling or cross-bottling an IBC, the reconditioner offers the reconditioned product to fillers on the market in competition with the products of original manufacturers, and of other reconditioners.	FAC
+Reconditioned IBCs are, predictably, generally cheaper than new IBCs.	FAC
+The invention and the Patent in this case	FAC
+European Patent (UK) 0 734 967 (the Patent) has a priority date of 30 March 1995.	FAC
+Claim 1 of the Patent (the Claim) is the only relevant claim for present purposes.	FAC
+It is in the following terms (with added sub-paragraphs): [A] Pallet container for the transporting and storing of liquids, having a flat pallet, an exchangeable inner container made of plastic material with an upper, closable filler opening and a lower emptying device and also, surrounding the inner container, one outer sleeve which consists of vertical and horizontal lattice bars made of metal which support the plastic inner container filled with liquid, [B] the lattice bars which are configured as tubes being indented at the intersection points to form trough-like, double-walled recesses extending in the longitudinal direction of the lattice bars [C] in such a manner that at each intersection point between the longitudinal edges of the recesses of two lattice bars lying perpendicularly one above the other there arise four contact points with a material accumulation respectively corresponding to the quadruple lattice bar wall thickness, and the four contact points of the two lattice bars being welded together at the intersection points, [D] characterised in that the trough-like recesses of the vertical and horizontal lattice bars have a central raised part extending across the cross-section of the recesses, [E] two lattice bars respectively lying one above the other at the intersection points are welded together at the four contact points of these raised parts and the incisions of the recesses of the lattice bars adjacent on both sides to the raised part [F] with the contact and weld points form restrictedly elastic bending points with a reduced bending resistance moment relative to the raised part for relieving the weld joints at the intersection points upon application of static and/or dynamic pressure on the lattice sleeve.	FAC
+Read on its own, the Claim is not immediately accessible, and it would normally be inappropriate to consider its meaning or effect without explaining its factual and technical context, including the description (i.e. the narrative preceding the claims) of the Patent, reasonably fully.	FAC
+However, given the issues which require consideration on this appeal, only the following points need be identified: i. Item [A] extends to a complete IBC, i.e. a pallet, a bottle (the inner container) and a cage (the outer sleeve); ii.	FAC
+The claimed inventiveness lies in items [D], [E], and [F], as is indicated by the introductory words characterised in that; iii.	FAC
+The inventiveness of the Patent lies in the idea of flexible weld joints in the cage, to increase its strength and durability; iv.	FAC
+More specifically, the inventiveness lies in the idea of introducing a dimple on either side of the weld and a central raised portion; v. The description of the Patent acknowledges that the bottle is exchangeable i.e. replaceable.	FAC
+The parties	FAC
+The proprietor of the Patent is Protechna S.A. (Protechna).	FAC
+The respondent, Schtz (U.K.) Limited (Schtz) is its exclusive licensee in this country, and is the leading manufacturer of rigid composite IBCs in the United Kingdom.	FAC
+Most of its sales are of new IBCs, but about 25% are rebottled IBCs, whose cages have, after any necessary repairs, been re-bottled with new Schtz bottles.	FAC
+The appellant, Werit UK Limited (Werit), sells bottles (Werit bottles) for IBCs to a reconditioner, Delta Containers Limited (Delta).	FAC
+Delta acquires discarded IBCs originally put on the market by Schtz (Schtz IBCs), and replaces the original bottles (Schtz bottles) with Werit bottles, and then offers these cross-bottled IBCs on the market.	FAC
+These cross-bottled IBCs are therefore in competition with the original Schtz IBCs, marketed by, or with the express authority of, Schtz.	FAC
+Schtz objects to its cages being used by cross-bottlers.	ARG
+Apart from the competitive consequences, Schtz claims to be concerned that publicity about any accident with a cross-bottled product made with one of its cages might harm its reputation.	ARG
+Accordingly, it objects to Deltas re-bottling activities and contends that they infringe the Patent.	ARG
+It is common ground that, if Delta thereby infringes the Patent, Werit does so.	ARG
+The legislation	STA
+Section 60(1) of the 1977 Act (section 60(1)) is concerned with direct infringement, and provides in para (a) that a person infringes a patent if, where the invention is a product, he makes, disposes of, offers to dispose of, uses or imports the product or keeps it whether for disposal or otherwise, without the consent of the patentee.	STA
+Section 60(2) of the 1977 Act is concerned with indirect infringement, which includes the knowing supply to a primary infringer of any of the means which enables him to carry out the infringing act.	STA
+(Hence the common ground referred to at the end of the preceding paragraph).	STA
+Section 125(1) of the 1977 Act (section 125(1)) provides that unless the context otherwise requires, an invention for a patent for which a patent has been granted should be taken to be that specified in a claim of the specification of the patent , as interpreted by the description and any drawings contained in that specification, and the extent of the protection conferred by a patent shall be determined accordingly.	STA
+Section 130(7) of the 1977 Act states that certain specified sections of that Act, including sections 60 and 125, are so framed as to have, as nearly as practicable, the same effects in the United Kingdom as the corresponding provisions of the [European Patent Convention and the Community Patent Convention] have in the territories to which those Conventions apply.	STA
+The scope of protection afforded by a European patent is defined by Article 69(1) of the European Patent Convention (the EPC), as amended in 2000, which provides that [t]he extent of the protection conferred by a European patent shall be determined by the terms of the claims.	STA
+It also provides in Article 64(1) that the protection to be afforded to an EPC patentee should be the same as that afforded to a patentee under a national patent.	STA
+Article 25(a) of the Community Patent Convention (the CPC) prohibits the making, offering, putting on the market, or using a product which is the subject-matter of the patent.	STA
+The present litigation	FAC
+On 7 August 2008, Schtz issued these proceedings against Werit seeking relief on the ground that Werit infringed the Patent (as well as two earlier patents, also vested in Protechna and of which Schtz was the exclusive licensee).	FAC
+The proceedings were met with a denial of infringement on more than one ground, and a counterclaim for revocation of the three patents.	FAC
+By the time the case came on for hearing before Floyd J in March 2010, the issues concerned only two of the three patents, but there were other issues which he had to resolve.	FAC
+Following a seven-day hearing, he gave a full and prompt judgment - [2010] EWHC 660 (Pat), [2010] Bus LR 1244, [2010] FSR 22.	FAC
+The only question relevant to the present appeal which he had to consider was whether Delta infringed the Patent by mak[ing] the article claimed by the Claim, contrary to section 60(1)(a).	FAC
+On that question, Floyd J held, distinguishing the House of Lords decision in United Wire Ltd v Screen Repair Services (Scotland) Ltd, [2000] 4 All ER 353, [2001] RPC 24, that Deltas activity of replacing the inner container of a Schtz IBC with a Werit bottle does not amount to making the patented product.	FAC
+He justified this conclusion on the ground that the correct approach is to ask whether, when the part in question is removed, what is left embodies the whole of the inventive concept of the claim, and the inventive concept of [this claim] is wholly embodied in the Schtz cage paras 181, 197, and 206.	FAC
+Schtz appealed on a number of points.	RLC
+In a judgment given by Jacob LJ (with which Ward and Patten LJJ agreed), the Court of Appeal upheld the Judge on all other points, but reached a different conclusion on this issue.	RLC
+Relying on the reasoning of the Court of Appeal and House of Lords in United Wire, Jacob LJ said that it was inappropriate to determine the issue by reference to the inventive concept, and that [the] product (i.e. the IBC) ceased to exist when the bottle is removed, so [w]hat remained at that stage was merely an important component from which a new IBC could be made - [2011] EWCA Civ 303, [2011] Bus LR 1510, [2011] FSR 19, paras 69, 75, and 64.	RLC
+Accordingly, Werit was found to be liable to Schtz to pay damages or account for its profits, arising out of its infringement of the Patent.	RLC
+The Court of Appeal also had to deal with an issue relating to costs and damages, arising out of section 68 of the 1977 Act (section 68), and the fact that Schtz had failed to register its exclusive licence.	FAC
+This led to two decisions, which were favourable to Schtz.	FAC
+Accordingly, Werit had to pay the great majority of Schtzs costs of the proceedings at first instance and almost all of Schtzs costs in the Court of Appeal.	FAC
+Werit was granted permission to appeal both against the substantive order that it had infringed the Patent and against the costs order.	FAC
+I shall first consider the main issue, namely whether the Court of Appeal were right to hold that Delta did indeed make the patented article contrary to section 60(1)(a), and I shall then address certain issues arising under section 68.	Ratio
+Infringement: the proper approach to the meaning of makes	Ratio
+Introductory	Ratio
+It seems clear that the effect of section 60(1)(a) is that a person infringes a patent for a product if that person makes the product, as claimed in the patent concerned.	Ratio
+As to the making, that is the verb used in section 60(1)(a).	Ratio
+As to the product being defined by the claim, that seems clear from section 125(1).	Ratio
+In any event, if it is not the product as claimed in the patent, it is hard to see what else the subject matter of the making could rationally be.	Ratio
+The word makes must, of course, be interpreted contextually.	Ratio
+In this case, the word should, in my view, be approached bearing in mind a number of considerations (which sometimes may be apparently irreconcilable in this field, as Robert Walker LJ pointed out in Cartonneries De Thulin SA v CTP White Knight Ltd [2001] RPC 6, para 21 quoting Attorney-General v Prince Ernest Augustus Of Hanover [1957] AC 436, 461).	Ratio
+First, the word makes must be given a meaning which, as a matter of ordinary language, it can reasonably bear.	Ratio
+Secondly, it is not a term of art: like many English words, it does not have a precise meaning.	Ratio
+Thirdly, it will inevitably be a matter of fact and degree in many cases whether an activity involves making an article, or whether it falls short of that.	Ratio
+Fourthly, the word makes must be interpreted in a practical way, by reference to the facts of the particular case.	Ratio
+Fifthly, however, there is a need for clarity and certainty for patentees and others, and for those advising them.	Ratio
+Sixthly, it should be borne in mind that the word applies to patents for all sorts of products, from machinery to chemical compounds.	Ratio
+Seventhly, one should bear in mind, at least as part of the background, the need to protect the patentees monopoly while not stifling reasonable competition.	Ratio
+Eighthly, the word makes must be interpreted bearing in mind that the precise scope of a claim may be a matter almost of happenstance in the context of the question whether the alleged infringer makes the claimed product.	Ratio
+Lord Diplock described the specification of a patent as a unilateral statement by the patentee, in words of his own choosing by which he states what he claims to be the essential features of the new product Catnic Components Ltd v Hill & Smith Ltd [1982] RPC 183, 242.	Ratio
+As Lord Hoffmann explained in Kirin-Amgen Inc v Hoechst Marion Roussel Ltd [2004] UKHL 46, [2005] 1 All ER 667, [2005] RPC 169, para 21, a claim is, or at least should be drafted not only in the interest of others who need to know the area within which they will be trespassers but also in the interests of the patentee, who needs to be able to make it clear that he lays no claim to prior art or insufficiently enabled products.	Ratio
+As Lord Hoffmann went on to explain in para 35, all sorts of factors, only some of which may appear to be rational, can influence the person drafting a claim.	Ratio
+Ninthly, where, as here, there is a decision (United Wire) of the House of Lords or this court on the meaning of the word, it cannot be departed from save for very good reasons indeed.	Ratio
+Finally, particularly given that section 60 (like section 125) is one of the sections mentioned in section 130(7) of the 1977 Act, the word should be interpreted bearing in mind that it is included in a provision which is intended to be part of a scheme which applies in many other jurisdictions.	Ratio
+United Wire	PRE
+The decision of the House of Lords in United Wire assumed central importance in the Court of Appeal, as is clear from para 91 of Jacob LJs judgment, where he described Schtzs appeal as determined by United Wire, a proposition unsurprisingly supported by Mr Meade QC on behalf of Schtz before this court.	Ratio
+However, while we must be careful not to cause confusion in this area, the reasoning in that case, like the reasoning of any court, was inevitably based on the facts agreed between the parties or decided by the judge, and on the arguments raised by the parties or suggested by the court.	Ratio
+United Wire involved two patents, and the facts were summarised by Lord Hoffmann at paras 62-64 (taking the paragraph numbering from the RPC report, which includes the decision of the Court of Appeal) in these terms: 62.	PRE
+[B]oth patents are for a screen consisting of a frame to which two meshes of different mesh sizes are adhesively secured at the periphery so as to be at different tensions.	PRE
+The differences are the striking screens of the first patent and the flexible apertured [frame] of the second. . 63.	PRE
+The meshes quickly become torn in use.	PRE
+The plaintiffs therefore enjoy [the] aftermarket in selling replacement screens made in accordance with their inventions.	PRE
+64.	PRE
+The defendants [sell] reconditioned screens made from the plaintiffs own frames.	PRE
+The [metal] frames weigh about 10 kilos [and look] more like a drain cover than a picture frame.	PRE
+They are durable in relation to the rest of the materials of the screen.	PRE
+The defendants acquire the frames from the plaintiffs customers and strip them down to the bare metal by sandblasting.	PRE
+They recoat them with adhesive polyethylene and attach the two layers of mesh, coarse below and fine above.	PRE
+The differences in the sizes of the mesh produces the necessary differential tensions when both are tensioned together.	PRE
+Heat is then used to bond the meshes to the polyethylene coating of the frame, the selvage of mesh around the frame is cut off and the edges trimmed and taped.	PRE
+At first instance in United Wire, the judge had been narrowly persuaded that the defendants activities amounted to repair, and therefore that the defendant did not make the article claimed under either of the two patents.	PRE
+The Court of Appeal took a different view.	PRE
+In a judgment which was expressly approved by the House of Lords, Aldous LJ held that in cases where it is claimed that the alleged infringer makes a product contrary to section 60(1)(a) the question must be whether his acts amount to manufacture of the product, namely the product of the invention see para 25.	PRE
+In para 27, he briefly summarised the patentees case, which he accepted, and which included the contention that the defendants activities should be contrasted with on-site repair.	PRE
+He then described the defendants activity as equivalent to the purchase on the open market of frames and then using them to produce an assembly para 28.	PRE
+In the House of Lords, Lord Bingham and Lord Hoffmann gave reasoned speeches, with which the other Law Lords agreed.	PRE
+Lord Bingham, at para 56, thought the issue was simply whether the defendant made the patented article, to which the answer was a question of judgment; that it was better not to ask whether the defendants work involved repair; and that the Court of Appeal had identified the right question and reached a conclusion open to them.	PRE
+Lord Hoffmann described the point as a very short one, and (discussing an earlier case) he said that the real issue was whether the defendants had made the patented product paras 68 and 72.	PRE
+He quoted (para 70) with approval a statement made by Lord Halsbury LC that you may prolong the life of a licensed article but you must not make a new one under the cover of repair, and he warned (para 71) of the dangers of asking whether the work constituted repair.	PRE
+Lord Hoffmann described the question raised as one of fact and degree in para 72, and, at the end of his final paragraph, para 73, he said that: [The patented] product ceased to exist when the meshes were removed and the frame stripped down to the bare metal.	PRE
+What remained at that stage was merely an important component, a skeleton or chassis, from which a new screen could be made.	PRE
+Neither Lord Bingham nor Lord Hoffman said, at least in terms, that the decision of the trial judge to the contrary effect was one which he could not have reached.	PRE
+What Lord Hoffmann said at para 73 was that the Court of Appeal was entitled to substitute its own evaluation because the judge did not correctly identify the patented product.	PRE
+Lord Bingham seems also to have justified the Court of Appeal having substituted its own decision on this ground, saying in para 56 that the judge did not concentrate his attention on whether the defendants had made the patented product.	PRE
+Decisions of German courts	PRE
+The fact that the word makes is in a section of the 1977 Act which is intended to conform with the provisions of an international convention is particularly significant where, as is the case with the EPC and the CPC, the convention contains a set of principles which are intended to apply consistently across signatory states.	Ratio
+(The EPC is not an EU convention, whereas the CPC is; however, the CPC is not yet in force.)	Ratio
+The House of Lords and this court have emphasised on a number of occasions the desirability of national courts following the established approach to validity of the Technical Board of Appeal of the European Patent Office (the EPO), and the German Bundesgerichtshof (the BGH) have taken the same view see, most recently, Human Genome Sciences Inc v Eli Lilly & Co [2011] UKSC 51, [2012] 1 All ER 1154, paras 84-87, and Case Xa ZR 130/07.	Ratio
+The parties in this case have not referred to any relevant decision of the EPO, as we are here concerned with infringement.	Ratio
+However, it is worth addressing four decisions of the BGH which consider what activities constitute making a patented article.	Ratio
+The most recent such decision related to the German equivalent of the Patent Paletenbehlter II, Schtz v Mauser (Pallet Container II) Case X ZR 97/11, in July 2012.	Ratio
+These are not only decisions of a highly expert, experienced and respected court on the very point which is raised in this case, but they are decisions of a court of another signatory state to the EPC (and the CPC) on a point of some significance arising under those Conventions.	Ratio
+We should therefore accord them considerable respect, and sympathetically consider the extent to which we should adopt any points of principle or practice which they raise.	Ratio
+However, there can be no question of the courts in this jurisdiction feeling obliged to follow the approach of the German courts, any more than the German courts could be expected to feel obliged to follow the approach of the English and Welsh courts.	Ratio
+Unlike the EPO, both this court and the BGH are national courts.	Ratio
+As such, while they have a great deal, including many principles, in common, they have inevitably developed somewhat different techniques and approaches in relation to many issues, including many which arise in the field of patents.	Ratio
+While complete consistency of approach may be achieved one day, it is not a feasible or realistic possibility at the moment.	Ratio
+Nonetheless, given the existence of the EPC (and the CPC), it is sensible for national courts at least to learn from each other and to seek to move towards, rather than away from, each others approaches.	Ratio
+It appears that the BGH is of the same view.	PRE
+In Flgelradzhler (Impeller Flow Meter) Case X ZR 48/03, para 2.a, it made the point that, following the CPC, the case law on the old German patent law cannot be used automatically to interpret section 10 of the German Patent Act (equivalent to section 60 of the 1977 Act).	PRE
+In the same case at the end of para 3.b.ii, the BGH cited the reasoning of Lord Hoffmann in United Wire.	PRE
+And in Pallet Container II it considered the decision of the Court of Appeal in this case see para 47 below.	PRE
+In Impeller Flow Meter, the BGH referred to the distinction between a (permissible) repair and a (prohibited) remaking and observed that this could only be determined in the light of the particular nature of the subject matter of the invention and a balancing of the conflicting interests.	PRE
+It then said that When the interests are weighed, increasing importance can be given to whether it would be customary to expect the relevant parts to be replaced during the service life of the device .	PRE
+But what is also relevant is the extent to which the technical effects of the invention are reflected by the replaced parts.	PRE
+Therefore, the replacement of a part subject to wear and tear that is usually replaced during the expected service life of the machine - sometimes repeatedly - does not usually constitute a new manufacture.	PRE
+The situation can be different, however, if this part in fact embodies essential elements of the inventive concept.	PRE
+This approach was adopted by the BGH in Laufkranz (Wheel Tread) Case X ZR 45/05, para 17, and it was also followed in Pipettensystem (Pipette System) Case X ZR 38/06.	PRE
+In Pallet Container II, the BGH cited these three earlier decisions in support of the proposition that it may also be significant whether the parts [replaced] are such that one normally expects them to be replaced during the useful life of the product and to what extent the technical effects of the invention are reflected in the replaced parts para 23 (substantially repeated at para 28).	PRE
+It was made clear at paras 43 to 45 that, in the view of the BGH, the technical effects of the invention were not reflected in the bottle, as they were not manifested in the replaced part.	PRE
+However, the BGH went on to say that [i]f, according to the prevailing market opinion, the replacement of a part is seen as re-manufacturing the patented product, then as a general rule, a patent infringement cannot be denied, but if it was seen by general market opinion as a repair, the opposite conclusion would probably apply paras 29 and 41.	PRE
+It then observed that there was insufficient evidence available to reach a concluded view, and suggested that, if used [IBCs] which require the replacement of the inner container are viewed as practically worthless in the prevailing opinion of the purchasers of such containers, then the installation of a new inner container [w]ould be viewed as the re-manufacture of the [IBC] para 34.	PRE
+The BGH remitted the case for a determination as to what proportion of used IBCs were returned to Schtz or reconditioners for no consideration.	PRE
+In the light of the argument before us, I should make two further, perhaps connected, points about the decision in Pallet Container II.	Ratio
+First, I do not read the BGH as suggesting that the question of whether a new article is made depends on who carries out the work involved.	Ratio
+That would be illogical and unprincipled, and indeed contrary to what was said in para 19 of Pallet Container II.	Ratio
+When the BGH referred to the market, it was simply looking at the difference in value between a used IBC before and after it is reconditioned.	Ratio
+Secondly, the BGH said at para 40 that it disagreed with the Court of Appeal in this case that weight should be given to the fact that Delta described their rebottled IBCs as re-manufactured.	Ratio
+I agree with the BGH on this point: the issue we have to determine is not how a party views or markets its products, but how those products should be characterised.	Ratio
+Repairing and making	Ratio
+The reasoning of Lord Bingham and Lord Hoffmann in United Wire emphasises that one must avoid basing a decision on the point at issue by simply contrasting the two concepts of making and repairing, not least because the notions of making and repair may well overlap para 71 per Lord Hoffmann.	Ratio
+However, it was a contrast which Buckley LJ drew, and apparently found helpful, in this context in Solar Thomson Engineering Co Ltd v Barton [1977] RPC 537, 555 (in a passage quoted and approved by Lord Hoffmann in United Wire at para 72), and which Aldous LJ appears to have approved in his judgment in United Wire at paras 21-22 and 26-27.	Ratio
+The approach of Buckley LJ supports the notion that, subject to the overriding point that it should not obscure the central issue of whether the alleged infringer makes the patented article, it may sometimes be useful to consider whether the alleged infringer is repairing rather than making the article.	Ratio
+I am fortified in that view by the fact that the BGH also plainly considers this distinction to be a useful one in this field.	Ratio
+The mere fact that an activity involves replacing a constituent part of an article does not mean that the activity involves making of a new article rather than constituting a repair of the original article.	Ratio
+Repair of an item frequently involves replacement of one or some of its constituents.	Ratio
+If there are broken tiles on a roof, the replacement of those tiles is properly described as repairing the roof, and such replacements could not be said to involve rebuilding, or making, the roof.	Ratio
+Indeed, replacing the whole of a deteriorated roof of a building could be regarded as repairing the building, taken as a whole, rather than reconstructing the building.	Ratio
+There are many cases concerned with repairing obligations in leases which illustrate this point - see e.g. the discussion in Woodfall on Landlord and Tenant (October 2008), Vol 1, paras 13.32 to 13.037.12.	Ratio
+In the more directly relevant context of chattels rather than buildings, the normal use of making and repairing demonstrates the same point.	Ratio
+Works to a ship or a motor car, which involve removal and replacement of defective significant constituent parts, could be substantial in terms of physical extent, structural significance, and financial cost, without amounting to making a ship or motor car, as a matter of ordinary language: in such a case, they would be repair of the existing ship or motor car.	Ratio
+Thus, in Coleborn & Sons v Blond [1951] 1 KB 43, 49-50, Denning LJ said, in a case concerned with purchase tax, that [s]peaking generally, if you replace an old engine by a new one, or an old body by a new body, you are not making a different vehicle: you are altering and improving an old one .	Ratio
+On the facts of that case he held a new thing was made out of two parts - the old chassis and the new body [which] when assembled together make a different thing from either of them separately.	Ratio
+The approach of Lord Hoffmann in the remarks at the end of his judgment in United Wire, quoted at the end of para 35 above, appear to me to be consistent with the approach of Denning LJ in Coleborn.	Ratio
+On the facts of United Wire, Lord Hoffmann concluded (or said that the Court of Appeal was entitled to conclude) that the totality of the work described in his para 64 amounted to making a new article, because the removal of the meshes and the stripping down and repairing of the frame resulted merely in a component of the patented article from which a new screen could be [and was] made.	Ratio
+Returning to the theme of the normal meaning of a word, observations about the meaning of make in a different legal or factual context from that under consideration should be approached with caution.	Ratio
+The examples given above are referred to primarily to emphasise the somewhat slippery nature of the meaning of the word, and the very important role which context plays in determining whether a particular activity involves making an article.	Ratio
+In general terms, in a case under section 60(1)(a) the particular contextual features are those identified in paras 26 to 29 above.	Ratio
+Infringement: the present case	Ratio
+The reasoning in the decisions below	Ratio
+The first question to consider is whether either of the Courts below adopted the right approach to the question which they had to decide.	Ratio
+In my view, they did not.	Ratio
+In para 196 of his judgment, Floyd J said that [t]he difficult question, as it seems to me, is the case where the invention resides, or resides principally, in the part retained.	Ratio
+This was not the case in United Wire.	Ratio
+Mr Meade QC challenged this statement, contending that, at any rate in the case of the second of the patents in United Wire, the inventive concept in the patented article lay, at least primarily, in the frame which the defendant retained, and not in the wire meshes which it replaced.	Ratio
+I accept that contention, although, as explained below, it does not by any means wholly invalidate the approach adopted by Floyd J.	Ratio
+Similarly, Floyd J over-simplified the position in the following paragraph of his judgment, when he said that the correct approach is to ask whether, when the part in question is removed, what is left embodies the whole of the inventive concept of the claim.	Ratio
+The notion that the issue of infringement in a case such as this is to be determined simply by answering the question which the judge formulated in that passage is attractive and simple to apply.	Ratio
+However, it seems to me to conflict with the wording of sections 60(1)(a) and 125(1) as well as with the approach adopted by the Court of Appeal and House of Lords in United Wire.	Ratio
+On the other hand, I consider that the Court of Appeal were too ready to accept that the outcome of this case was governed by United Wire.	Ratio
+They do not appear to have recognised that the question of whether replacing a part of a patented article constitutes making it is a matter of fact and degree.	Ratio
+Indeed, Jacob LJ appears to have thought that replacing any part of a patented article would involve making it.	Ratio
+At para 70, he said that if Delta made a frame according to Claim 1 and fitted it with a Schtz bottle that must produce exactly the same outcome as the present position.	Ratio
+Similarly, at para 64, he said that the IBC ceased to exist when the bottle is removed and [w]hat remained at that stage was merely an important component [viz the Schtz cage] from which a new IBC could be made.	Ratio
+However, as mentioned above, it is a matter of degree, to be assessed in each case, whether replacing a worn or damaged part of a patented article amounts to making the patented article.	Ratio
+If, very unusually, an original Schtz IBC was in such a state that the bottle could be reused but the cage could not, it would, I think, be hard to challenge the view that putting the existing bottle in a new Schtz cage would involve making the claimed article.	Ratio
+On the other hand, if an original Schtz IBC was entirely reusable save that the detachable lid of the bottle (assuming the bottles design involved a detachable lid) was damaged, it could not be plausibly contended that the replacement of the lid constituted making the claimed article, even though the IBC would be unusable without a new lid.	Ratio
+In other words, the replacement of a damaged essential constituent of an IBC can constitute repairing, rather than making, the article.	Ratio
+The fact that merely replacing the damaged lid of a Schtz bottle in a Schtz cage would not infringe the Patent, cannot possibly mean that there would be no infringement if one took a lid from an IBC marketed by Schtz and fixed it to a newly made bottle in a newly made cage, which (but for the lid) would infringe the Claim.	Ratio
+By the same token, Jacob LJ was wrong to say that, because a person who replaced a damaged original Schtz cage, while keeping the original Schtz bottle, would infringe, it must follow that a person who replaced a damaged original Schtz bottle, while keeping the original Schtz cage would infringe.	Ratio
+The correct approach in this case	Ratio
+Since neither the Judge nor the Court of Appeal approached the issue in this case in the right way, we must reconsider and, if possible, determine for ourselves, the central issue, namely, whether Delta makes a patented article when it removes a damaged Schtz bottle from a Schtz cage, and replaces it with a Werit bottle.	Ratio
+As is clear from United Wire, this question requires the court to focus on the question of whether, when it replaces a component of the article (viz. the bottle) the subject of the Claim, Delta makes that article (viz. the IBC as described in the Claim).	Ratio
+In answering that question, I consider that it is both legitimate and helpful to consider the question of whether the bottle is such a subsidiary part of the patented article that its replacement, when required, does not involve making a new article.	Ratio
+There are undoubtedly points in favour of the view that the bottle is more than subsidiary in this sense, so that its replacement involves making the claimed article, namely an IBC.	Ratio
+Thus, it is a necessary part, indeed an integral part, of the patented article, but so, self-evidently, is the lid of the bottle, whose replacement, when damaged, cannot, as observed in para 59 above, sensibly be said to involve making the IBC.	Ratio
+Further, the bottle is specifically referred to in Item [A] of the Claim, but then so is the lid, albeit arguably only impliedly (an upper closable filler opening).	Ratio
+The question, however, is one of degree.	Ratio
+In that connection, the bottle is a much more substantial feature of the composite article described in the Claim than the lid of the bottle.	Ratio
+Indeed, the bottle would appear to have a greater surface area than the cage (at least if one ignores the gaps between the bars).	Ratio
+However, while undoubtedly an essential and physically large part of the patented article, it seems to me that, particularly in the context of the present issue, the bottle can fairly be said to be a relatively subsidiary part of the article, viewed as a whole.	Ratio
+In that connection, Mr Thorley QC identified two significant features of the bottle.	Ratio
+First, the bottle has a significantly lower life expectancy than the cage and, presumably, than the pallet.	Ratio
+In particular, one would anticipate replacing the bottle, on average, five or six times during the life of the cage.	Ratio
+The fact that one would expect the bottle to be replaced in this way reinforces the notion that it is a subsidiary part.	Ratio
+Another aspect of the same point is that the bottle is also physically less substantial than the cage (or, no doubt, the pallet), since it is made of plastic (albeit tough plastic) rather than metal.	Ratio
+Looking at the point another way, if the cage has a much greater life expectancy than the bottle, a purchaser of an IBC might well expect to be able to replace the bottle.	Ratio
+As Lord Hatherley LC said in Betts v Willmott (1871) LR 6 Ch App 239, 245, in a passage cited by Lord Hoffmann in United Wire at para 68: When a man has purchased an article he expects to have the control of it, and there must be some clear and explicit agreement to the contrary to justify the vendor in saying that he has not given the purchaser his licence to sell the article, or to use it wherever he pleases as against himself.	Ratio
+In principle, a purchaser of a patented article, as I see it, should be taken as entitled to make such an assumption, subject to section 60(1)(a).	Ratio
+Accordingly, for that reason also, where the article includes a component which is physically easily replaceable and in practice relatively perishable, those features must constitute a factor (which may, of course, be outweighed by other factors) in favour of concluding that the replacement of that component does not fall foul of section 60(1)(a).	Ratio
+Secondly, the bottle does not include any aspect of the inventive concept of the Patent.	Ratio
+The extent to which a component of an article is a subsidiary part, so that its replacement is more likely to involve repairing than making the article, must be a matter of degree.	Ratio
+It therefore seems to me that it must be legitimate, in the context of addressing the question whether a person makes the patented article by replacing a worn out part, to consider whether that part includes the inventive concept, or has a function which is closely connected with that concept.	Ratio
+While, as already observed, there is nothing in the judgments in United Wire to support the notion that the inventive concept is relevant to the question raised in an appeal such as this, there is nothing inconsistent with such a notion either.	Ratio
+What the reasoning in that case does rule out is the attractively simple use of the inventive concept in this sort of case which Floyd J suggested in his para 196.	Ratio
+Mr Meade QC contended that the inventive concept of a patent is often a controversial issue, and that there could therefore be problems if it was treated as relevant in determining whether an alleged infringer makes the patented article.	ARG
+I am unconvinced by that contention.	Ratio
+In almost all patents, the claimed inventive concept is clearly identified or identifiable from the patent, and, if it is unclear or disputed, it will often be an issue in the proceedings anyway.	Ratio
+I note that the BGH appears to have no difficulty in accommodating the inventive concept in this exercise, and, if Mr Meade QC was right, it would be much more likely to be a problem in Germany with its bifurcated approach (where different courts deal with infringement and validity) than in England with our unitary approach (where the two issues are dealt with by the same court).	Ratio
+Two further factors (which are connected to some extent) carry some weight with me.	Ratio
+They can be highlighted by contrasting the facts of this case with those in United Wire.	Ratio
+In this case, the replaced part, the bottle, is a free-standing item of property, which does not include, or relate to, the inventive concept.	Ratio
+In United Wire, the replaced part, the wire mesh system, had no independent identity from the retained part, the frame.	Ratio
+Hence it was much easier to say, as Lord Hoffmann did in that case, that the original product ceased to exist when the meshes were removed, whereas in this case there are, as it were, two products (disregarding the pallet, which is included in the Claim), and one of them, which is significantly longer lasting, more substantial, and the only inventive component, certainly does not cease to exist.	Ratio
+Furthermore, there is a significant difference between the nature of Deltas operations in this case and that of the defendants operations in United Wire, as described by Lord Hoffmann at para 64 of his opinion (quoted in para 31 above).	Ratio
+In this case, a damaged free-standing plastic bottle is simply replaced within the metal cage, which contains the inventive concept, and the metal cage is repaired if necessary.	Ratio
+In United Wire, unlike in this case, (i) the replaced part was integrally connected to the retained part, so the work included a significant element of demolition, (ii) the replaced part was subjected to significant improvement work, (iii) the inventive concept either largely resided in the replaced part (the first patent) or was closely connected to that part (the second patent), and (iv) the work involved could undoubtedly be described as manufacture.	Ratio
+Merely replacing a damaged plastic bottle (albeit one of considerable size) with a new plastic bottle (even allowing for the fact that the replacement has to be made) appears to me to be an exercise of a very different order.	Ratio
+It seems to me that it would accord with the eight general principles set out in paras 26 to 28 above to take into account the various factors mentioned in the preceding eleven paragraphs, when deciding whether Delta makes the patented article.	Ratio
+I derive comfort from the fact that they are factors which appear to carry force with the BGH when it is considering this issue.	Ratio
+I also consider that there is nothing in the speeches of Lord Bingham or Lord Hoffmann in United Wire which suggests that it would be wrong to take these factors into account.	Ratio
+The speeches appear to me to establish that the question to be determined in a case such as this is whether the alleged infringer makes the patented article, and that the answer to that question is often a matter of fact and degree.	Ratio
+The speeches do not give much guidance as to what specific considerations can or cannot be taken into account when determining the question.	Ratio
+The next issue to be addressed is whether it is also appropriate to consider the further point raised by the BGH in Pallet Container II, summarised in para 44 above.	Ratio
+In my view, the question of whether the end-user is paid for a used IBC could have relevance to the issue which we have to determine.	Ratio
+If an article has no value when it has been used and before it is worked on, and has substantial value after it has been worked on, that could fairly be said to be a factor in favour of the work resulting in the making of a new article, or, to put the point another way, in favour of the work involved amounting to more than repair.	Ratio
+However, that would be just one factor, and it would have to be approached with caution.	Ratio
+For instance, there might be considerable value to an end-user in having the used IBC collected by Delta, as it might otherwise have to be disposed of at some cost.	Ratio
+Or a cross- bottled IBC may have a relatively small value, so that the collection by Delta represents significant cost to Delta.	Ratio
+Further, it is possible that the value of the cage could vary significantly with the price of the metal from which it is made, and it would seem wrong that the issue whether Delta makes a new article should fluctuate with prices on the metal exchanges.	Ratio
+In this case, as in Pallet Container II, there was no evidence which can fairly enable us to assess this factor.	Ratio
+However, unlike the BGH in Pallet Container II, I am firmly of the view that we should not remit the case back to Floyd J, let alone another judge, so as to enable the parties to adduce evidence on the matter.	Ratio
+A first instance hearing in this jurisdiction involves a full and detailed examination of all the issues, requiring the parties to devote considerable expense and effort, and taking up a significant amount of court time; and an appeal is normally limited to points of law.	Ratio
+Parties are expected to adduce all their evidence and arguments before the trial judge, and are normally only permitted to adduce new evidence (whether on appeal or through a rehearing) if there was a very good reason why the evidence was not adduced at trial.	Ratio
+In any event, on the basis of the evidence and arguments which we have heard, I think it very unlikely that any such evidence would have affected the outcome.	Ratio
+Infringement: conclusion	Ratio
+Weighing up the various relevant factors, I have come to the conclusion that by replacing the bottle in the IBC, Delta does not make the article identified in the Claim.	Ratio
+Given the size of the bottle, and the fact that it is one of the two (or three, if one includes the pallet) components of that article, the issue is by no means clear.	Ratio
+However, the combination of the factors discussed in paras 63 to 72 above persuade me that the conclusion reached by Floyd J on this point was right, albeit for somewhat more nuanced reasons.	Ratio
+Deciding whether a particular activity involves making the patented article involves, as Lord Bingham said, an exercise in judgment, or, in Lord Hoffmanns words, it is a matter of fact and degree.	Ratio
+In some such cases, one can say that the answer is clear; in other cases, one can identify a single clinching factor.	Ratio
+However, in this case, it appears to me that it is a classic example of identifying the various factors which apply on the particular facts, and, after weighing them all up, concluding, as a matter of judgment, whether the alleged infringer does or does not make the patented article.	Ratio
+In the present case, given that (a) the bottle (i) is a freestanding, replaceable component of the patented article, (ii) has no connection with the claimed inventive concept, (iii) has a much shorter life expectancy than the other, inventive, component, (iv) cannot be described as the main component of the article, and (b) apart from replacing it, Delta does no additional work to the article beyond routine repairs, I am of the view that, in carrying out this work, Delta does not make the patented article.	Ratio
+I should add that, while ones focus in a case such as this should not be deflected from the central question of whether the alleged infringer makes the patented article, it may sometimes be a useful cross-check to consider whether its activities involve repairing the original product.	Ratio
+As mentioned, that was a question which Buckley LJ found helpful in Solar Thompson, and which the BGH also invokes in this connection.	Ratio
+In this case, I consider that the question does not take matters much further: for the reasons I have given for concluding that Delta does not make a new patented article, I am of the view that its cross-bottling activities involve repairing the original product.	Ratio
+I would therefore allow Werits appeal on the main issue.	RPC
+That means that Werits appeal on the section 68 issue is academic.	Ratio
+However, because the issues that the appeal raises were fully argued, and because I do not agree with some of the conclusions of the Court of Appeal, it is right to deal with that aspect also, at least to the extent that it is safe to do so.	Ratio
+The section 68 appeal	Ratio
+The background facts and law	FAC
+As mentioned above, Schtz has been granted an exclusive licence by the patentee, Protechna.	FAC
+Schtz was initially granted a licence (the first licence) on 24 March 1994.	FAC
+On 26 November 2009, the first licence was determined, and on the same day another licence (the second licence) was granted in its place.	FAC
+Sections 32 and 33 of the 1977 Act (sections 32 and 33) provide for a register of patents, on which not only patents themselves, but also transactions, instruments or events affecting rights in or under patents can be registered, partly for the purpose of establishing priority.	STA
+The first licence was not registered until 17 July 2008, more than fourteen years after it had been granted, and just before these proceedings were started.	FAC
+The second licence was not registered until 15 November 2012, some two years after it had been granted and well after the decision of the Court of Appeal on infringement.	FAC
+Section 68, in its original and current form, is in these terms: Where by virtue of a transaction, instrument or event to which section 33 above applies a person becomes the proprietor or one of the proprietors or an exclusive licensee of a patent and the patent is subsequently infringed, the court shall not award him damages or order that he be given an account of the profits in respect of such a subsequent infringement occurring before the transaction, instrument or event is registered, in proceedings for such an infringement, the court shall not award him costs or expenses unless (a) the transaction, instrument or event is registered within the period of six months beginning with its date; or (b) the court is satisfied that it was not practicable to register the transaction, instrument or event before the end of that period and that it was registered as soon as practicable thereafter.	STA
+The italicised words were in the section as enacted, but, with effect from 29 April 2006, they were repealed and replaced by the words in bold, to ensure that the section did not fall foul of Articles 13(1) and 14 of the Enforcement Directive (2004/48/EC).	STA
+This was effected by regulation 2(2) of, and para 4 of Schedule 2 to, the Intellectual Property (Enforcement etc) Regulations 2006 (SI 2006/1028).	STA
+The purpose of section 68 is not in dispute.	Ratio
+People need to know who is on the register.	Ratio
+This section is aimed at making the people who own the monopolies get on the register, as Jacob J observed in LG Electronics v NCR Financial Solutions Group Ltd [2003] FSR 24, para 18.	Ratio
+The effect of the Court of Appeals decision that Werit infringed the Patent was, at least on the face of it, that Schtz was entitled to (i) damages or an account of profits in respect of infringements occurring on or after 7 August 2002 (being six years before the issue of these proceedings), and (ii) its costs (subject, of course, to any point which Werit could have legitimately raised).	Ratio
+However, if section 68 applied, (i) its original provisions would have disentitled Schtz from recovering any damages or account in respect of infringements occurring before 29 April 2006, and (ii) the amended provisions would have cut down Schtzs right to recover costs.	Ratio
+After the Court of Appeals judgment on the main issue had been made available in draft, Werit gave notice that it intended to rely on section 68.	Ratio
+This led to two further decisions of the Court of Appeal [2011] EWCA Civ 927, [2012] FSR 2 and [2011] EWCA Civ 1337, [2012] Bus LR 746, [2012] 2 Costs LR 306.	Ratio
+The first of those decisions gives rise to three issues, and the second decision to a fourth issue.	Ratio
+I shall consider those issues in turn.	Ratio
+To what extent should reliance on section 68 be pleaded?	Ratio
+The first issue is whether Werit needed to have specifically raised its reliance on section 68 in its pleaded case before it could rely on its original restriction on damages and an account, and its subsequent restriction on costs recovery.	Ratio
+The Court of Appeal held that the point need not be pleaded, because of the mandatory terms in which section 68 is expressed the court shall not.	Ratio
+I do not agree.	Ratio
+The main point of requiring a party to put forward its contentions in a statement of case or a pleading is to ensure that the other party is not taken by surprise.	Ratio
+The mere fact that a statute is expressed in directory terms should not mean that its contents can be relied on by a party without any warning to the other party.	Ratio
+Of course, there may be good public policy issues justifying a different view in a particular case, but, absent such a factor, I consider that clear words would be required before a party could, as of right, raise a point of this nature without fairly putting the other party on notice, which would normally be in its statement of case.	Ratio
+This conclusion is supported by the reasoning of the Court of Appeal in Fookes v Slaytor [1978] 1 WLR 1293 in relation to section 1 of the Law Reform (Contributory Negligence) Act 1945, which provides that, in a negligence case, damages shall be reduced to take into account contributory negligence.	Ratio
+To much the same effect is what Lord Griffiths said about the need to plead a limitation defence in Ketteman v Hansel Properties Ltd [1987] AC 189, 219.	Ratio
+The same view is taken in Bennion on Statutory Interpretation (5th edition, 2007), p.114, and specifically in relation to section 68, by Terrell on the Law of Patents (17th edition, 2010) at para 18.89.	Ratio
+It should be recorded that none of these authorities appears to have been cited to the Court of Appeal in this case.	Ratio
+The policy behind section 68 is to encourage persons such as Schtz to register their licences or other interests under section 33 of the 1977 Act.	Ratio
+Although the court should favour an interpretation which gives such a policy real effect, I do not consider that it is a policy which justifies the view that the point need not be pleaded.	Ratio
+It would be a remarkably harsh result for a licensee who had failed to register, and would represent a potentially remarkable windfall for an infringer.	Ratio
+Under the section as originally drafted, an infringer would be able to lie low during proceedings brought by an unregistered licensee, knowing that there was a complete defence to any financial liability for continuing infringement which the licensee could end by registering.	Ratio
+Accordingly, Schtzs case on this point is a fortiori that of the successful parties in Fookes and Ketteman, where there was no continuing benefit for the party who had failed to plead the point.	Ratio
+Was Werits case sufficiently pleaded to enable it to raise section 68?	Ratio
+The second question is whether Werit did, in fact, plead its case sufficiently to enable it to rely on section 68.	Ratio
+The Court of Appeal held that if, contrary to their view, Werit had to plead its case on section 68, it had not done so.	Ratio
+Again I disagree.	Ratio
+In its pleaded case, Werit not only denied that Schtz was entitled to the relief it sought, which included damages, an account, and costs, but, crucially, in my opinion, para 5 of Werits statement of case (i) put Schtz to proof as to its status as exclusive licensee, and (ii) stated that any alleged licence had not been filed for registration and it is not admitted that the said transaction, instrument or event was registered within the period of six months beginning with its date.	Ratio
+Thus, Werits pleaded case denied Schtzs right to damages or costs, raised all the facts which were needed for a section 68 argument, and quoted the crucial words from that very section.	Ratio
+CPR 16.5(2)(a) requires a defendant to state its reasons for denying any allegation, and para 13.3(1) of Practice Direction 16 merely entitles a party to refer to any point of law it relies on.	Ratio
+At least in the circumstances of this case, it seems to me clear that there was a sufficient pleading for section 68 purposes.	Ratio
+If there were any doubt about this, it would be put to rest by the fact that para 5 was in a defence to a claim brought under the 1977 Act by an exclusive licensee, whose claim form recorded that it had instructed solicitors and counsel who were acknowledged experts in the field.	Ratio
+I should add that we were referred in this connection to evidence on behalf of Schtz as to how para 5 of Werits statement of case was understood by Schtz.	Ratio
+I very much doubt that such evidence was admissible, but, if it was, it tends to support my conclusion.	Ratio
+I therefore reach the same conclusion as the Court of Appeal on the procedural issue of whether it was open to Werit to rely on section 68, but for very different reasons.	RPC
+The Court of Appeal thought that Werit had not pleaded the point but did not need to do so; I am of the view that Werit had to plead the point, and had done so.	Ratio
+How does the costs sanction under section 68 work?	Ratio
+The conclusion of the Court of Appeal, supported by Mr Meade QC on behalf of Schtz, was that section 68 simply serves to disentitle a licensee from recovering costs incurred in connection with an infringement action during a period that the licence is unregistered.	Ratio
+Werits case, as advanced by Mr Thorley QC in the Court of Appeal and before us, is that if a claim for damages or an account by the licensee of a patent relates to an infringing act prior to registration of the licence, then the claimant licensee can recover no costs.	Ratio
+Like the Court of Appeal, I cannot accept Werits case on this point.	RPC
+It seems to me to produce an arbitrary and potentially penal result.	RPC
+It is arbitrary because the sanction would be the same whether the licensee was claiming for one weeks infringement before registration and five years after, or for five years infringement before the registration and for one weeks after.	RPC
+In the former case, it would also be penal.	RPC
+The interpretation favoured by the Court of Appeal and Schtz does not produce a penal or arbitrary result, but it leaves the section with very little bite, as an unregistered licensee could avoid its consequences simply by registering and then starting the proceedings.	Ratio
+It also seems to me to be difficult to reconcile with the wording of the amended section 68.	Ratio
+The expression proceedings for such an infringement must be a reference to the proceedings for infringe[ment] before the transaction is registered, not to proceedings, before the transaction is registered, for infringement.	Ratio
+Because the section is poorly drafted, that may not have been an insuperable obstacle to Schtzs case were there not a third interpretation, which was raised in argument by Lord Mance, and which I think is right.	Ratio
+That interpretation is that, where a licensee successfully claims damages or an account for infringement of a patent, it cannot recover its costs in so far as they are attributable to the claim for damages or an account in respect of infringements pre-dating the registration of the licence, but it can recover costs attributable to such relief in respect of infringements post-dating the registration.	Ratio
+In my view, this is the right interpretation, as it accords with the wording of section 68, and it reflects its purpose as described in LG Electronics.	Ratio
+Apparently, this interpretation was considered in argument in the Court of Appeal, but rejected on the ground that it would be unworkable.	Ratio
+I do not see why.	Ratio
+Obviously in a case where there was a claim for pre- and post-registration relief, there would have to be an apportionment, and the apportionment would normally involve an element of rough justice.	Ratio
+But that is a familiar state of affairs when it comes to costs.	Ratio
+The consequence of the late registration of the second licence	Ratio
+The final issue arises from the fact that the second licence was not registered until 15 November 2012, even though it was granted on 26 November 2009.	Ratio
+The effect of the reasoning so far is that, if Schtz had succeeded on infringement, (i) it would not have been entitled to relief in respect of infringements before 29 April 2006 (when section 68 was amended), (ii) it would have been entitled to relief in respect of infringements after that date, (iii) it would not have been entitled to costs in relation to infringements occurring between 29 April 2006 and 17 July 2008 (when the first licence was registered); (iv) it would have been entitled to costs in relation to infringements occurring between 17 July 2008 and 26 November 2009 (when the first licence was determined and the second licence was granted); (v) it would have claimed costs in relation to infringements between 26 November 2009 and 15 November 2012 (when the second licence was registered); and (vi) it would have been entitled to costs in respect of infringements after 15 November 2012.	Ratio
+Thus, the remaining issue, which is in respect of item (v) in the preceding paragraph, would have concerned costs in respect of infringements committed between 26 November 2009 and 15 November 2012.	Ratio
+The Court of Appeal accepted Schtzs contention that what mattered was that it had been registered as a licensee in July 2008 and had remained registered as such at all times since that date, and the fact that it had surrendered the first licence in exchange for the second licence did not require it to go through the exercise of re-registration.	Ratio
+This conclusion is reinforced by the fact that, although the register records the date of the licence as well as the name of the licensee, and the public has a right to inspect the register, those who wish to inspect the register have no right to see, or to be told of the terms of, the licence.	Ratio
+Werit contends, however, that the natural meaning of section 68, and in particular the word becomes, demonstrates that Schtz should have registered the second licence.	ARG
+Some support for that proposition may also be found in the fact that sections 32 and 33 appear to envisage registration of licences and other documents rather than of licensees and proprietors.	ARG
+The Court of Appeal accepted that Werits argument had force, but concluded that Article 14 of the Enforcement Directive required it to adopt what Ward LJ referred to as an artificial meaning, as opposed to the natural meaning of section 68, so as to enable Schtz to rely on the registration of the first licence, even after it had been determined and replaced by the second licence.	Ratio
+The Court of Appeal may have been right about the natural meaning of section 68 in the absence of Article 14; certainly its conclusion derives support from the reasoning of Aldous J in Minnesota Mining & Manufacturing Co v Rennicks (UK) Ltd [1992] FSR 118, Pumfrey J in Spring Form Inc v Toy Brokers Ltd [2001] EWHC 535 (Pat);[2002] F.S.R. 17, and Peter Smith J in Finecard International Ltd v Urquhart Dyke and Lord [2005] EWHC 2481 (Ch); [2006] F.S.R. 27.	Ratio
+However, despite these decisions, there does appear to be an argument the other way.	Ratio
+If the Court of Appeal was right about the natural meaning of the section, then I am very dubious about its invocation of Article 14 to justify a very different meaning to the section, especially as it has not been argued that Article 14 has direct effect.	Ratio
+This final point throws up two questions which are not straightforward and were (understandably in all the circumstances) not as fully argued as they might have been.	Ratio
+Accordingly, it would be safer not to decide the point, although I would emphasise that the reasoning of the Court of Appeal both as to the natural reading of section 68 and as to the justification for adopting an artificial meaning, should not be regarded as necessarily correct.	Ratio
+Conclusion on the section 68 costs issue	Ratio
+Accordingly, I would have allowed Werits appeal against the first section 68 judgment, but not to the extent to which Werit contended, and I would leave open the question of whether it should succeed on its appeal against the second section 68 judgment.	Ratio
+However, as I would allow Werit’s appeal on the main, infringement, issue, my conclusions on the section 68 costs issues are, strictly speaking, obiter.	Ratio

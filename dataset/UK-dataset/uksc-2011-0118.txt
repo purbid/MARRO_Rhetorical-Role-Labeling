@@ -1,0 +1,338 @@
+This appeal raises a question about what the grantee of a deed who has been provided with a defective title needs to establish in order to obtain a remedy under the granters obligation of absolute warrandice.	Ratio
+By including a clause of warrandice in a disposition of property which he has sold to the grantee, the seller warrants his title as absolute owner of the property.	Ratio
+But warrandice is a contingent obligation.	Ratio
+It only comes into effect upon eviction.	Ratio
+It has been described as an obligation to warrant the grantee against eviction of the thing sold: MP Brown, A Treatise on the Law of Sale (1821), p 240, para 329.	Ratio
+Eviction, in the strict sense of the word, only takes place when a court order is pronounced which deprives a party of his right to continue to occupy the property.	Ratio
+As Brown puts it, it is concerned with the loss of the subject through the enforcement of a third partys rights by the sentence of a judge: p 258, para 353.	Ratio
+But Scots law has never insisted upon eviction in that sense as the only pre-condition of entitlement to proceed against the granter for recourse under his obligation of warrandice.	Ratio
+There can be eviction for this purpose if eviction is threatened and there is shown to be a competing title which will inevitably prevail in competition with that which was given by the granter to the grantee.	Ratio
+The question that this case raises is directed to the requirements that must be satisfied if the grantees claim for breach of warrandice is to succeed on the basis of a threat of eviction.	Ratio
+It can now be taken as settled law that the claim will succeed if the challenge is made by the party with a competing title to the disputed subjects which is unquestionable and will inevitably prevail in competition with that of the grantee: Clark v Lindale Homes Ltd 1994 SC 210, 216.	Ratio
+The problem that has arisen in this case is that, contrary to what was understood at the time when the grantee submitted to the threat of eviction, the party who challenged the grantees title did not at that time have a competing right to the property.	Ratio
+The title to the disputed ground was vested in a third party when the threat was made.	Ratio
+But the grantee offers to prove that the challenger would have been immediately able to secure title to the disputed ground in its favour and that no proceedings would ever have been required to establish its title to it.	Ratio
+That assertion is disputed by the granter, who submits that the grantees claim would be bound to fail even if all the facts on which the grantee relies are proved.	Ratio
+Her case is that a challenge by a party whose ownership of the disputed ground was not registered or otherwise established at the time of the threat, but who would have been able subsequently to obtain a registered title, is not sufficient to engage a remedy in warrandice.	Ratio
+The situation that has arisen in this case is not one that any previous discussion of the extent of the remedy has contemplated.	Ratio
+Some of the dicta might be taken as suggesting that the granter cannot succeed as the essential requirements for a successful claim are not satisfied.	Ratio
+But the limits of what it is necessary to prove to establish an eviction for this purpose have never been precisely identified.	Ratio
+So I think that it is open to us to address the issue as one of principle.	Ratio
+But first it is necessary to set out the facts.	Ratio
+The facts	FAC
+The pursuer, Mr Morris, seeks an award of damages against the defender, Mrs Rae.	FAC
+He is the assignee of rights formerly vested in Ransom Developments Ltd (RDL), which is now in liquidation.	FAC
+On 3 August 2004 RDL concluded missives with the defender for the purchase of a plot or area of ground at 152 Dalmellington Road, Ayr.	FAC
+The transaction was settled on 23 August 2004.	FAC
+RDL received a disposition of the subjects in exchange for the purchase price of 140,000.	FAC
+The disposition contained the words and I grant warrandice.	FAC
+RDL took entry and commenced building operations on the subjects which it had purchased.	FAC
+A title to the subjects had not previously been registered in the Land Register under the Land Registration (Scotland) Act 1979.	FAC
+The system of registration of title which that Act introduced replaced the recording of deeds in the Register of Sasines as the principal means of creating real rights in land.	FAC
+Registration of title was introduced by a phased process across Scotland, one area after another.	FAC
+By the date of this transaction it had become fully operational.	FAC
+So it was necessary for RDL to seek registration of the disposition in the Land Register to complete its title to the subjects.	FAC
+The usual search and examination of the title as recorded in the Register of Sasines was carried out before the transaction was settled.	FAC
+It did not suggest that there was any reason to think that there was anything wrong with it.	FAC
+But by letter dated 8 June 2005 the Keeper of the Registers informed RDLs solicitors that an examination of the various title deeds indicated that the defender did not have, and never had, a title to part of the subjects which she had sold to RDL.	FAC
+This was the part adjacent to Kincaidston Drive over which access was to be obtained from the public road to the proposed development (the disputed part).	FAC
+The Keeper was therefore not able to complete the process of registration by issuing an unqualified land certificate.	FAC
+He would have had to exclude a right to indemnity in relation to the disputed part under section 12(2) of the Act.	FAC
+Prior to the introduction of the system of land registration a defect of the kind that the Keeper had identified might have remained undetected.	FAC
+If the subjects were possessed for ten years openly, peaceably and without any judicial interruption after the recording of a deed in the Register of Sasines that was sufficient on its own terms to constitute a real right to the subjects disponed to the purchaser, the right would have been exempt from challenge by the operation of positive prescription as from the expiry of that period: Prescription and Limitation (Scotland) Act 1973, section 1(1)(a).	FAC
+As it was, the fact that the defect had been detected made it necessary for RDL to make further enquiries with a view to resolving the problem.	FAC
+Positive prescription is available under the 1973 Act in cases where a real right has been registered in the Land Register subject to an exclusion of indemnity: section 1(1)(b).	FAC
+But, unless the defect in title could be cured in the meantime, any developments carried out on the disputed part from which the Keeper had excluded the right to indemnity would not have been marketable.	FAC
+The pursuer says in his pleadings that the disputed part was truly owned by James Craig Ltd (JCL), and that JCL can demonstrate that it obtained a good title to it by a disposition in its favour which was recorded in the Register of Sasines in September 1949.	FAC
+It had transferred title to the disputed part inadvertently to John Stevenson Lynch by a disposition dated 30 July 1991, which was recorded in the Register of Sasines on 15 August 1991.	FAC
+But Mr Lynch later acknowledged this error and accepted it.	FAC
+What then happened was that by letter dated 18 November 2005 the solicitors acting for JCL asserted JCLs title to the disputed part and threatened to evict RDL from it.	FAC
+The pursuer avers that in response to this threat RDL had to negotiate with JCL for the purchase of the disputed part, and that in order to do this it was obliged to pay JCL the sum of 70,000.	FAC
+In exchange it obtained a disposition of the disputed part from JCL on 9 March 2006.	FAC
+In recognition of the error Mr Lynch then granted a disposition of the disputed part in favour of RDL dated 30 July 2006 without any consideration having been paid to him.	FAC
+This disposition was then registered by the Keeper without exclusion of indemnity.	FAC
+That was the state of the pursuers pleadings when the case came before a temporary judge on the procedure roll for a debate as to their relevancy.	FAC
+The temporary judge, Rita Rae QC, held that the pursuer was entitled to a proof of his averments.	FAC
+The defender reclaimed, and on 5 April 2011 an Extra Division (Lords Clarke and Bracadale, Lord Bonomy dissenting) allowed the reclaiming motion and dismissed the action: [2011] CSIH 30, 2011 SC 654.	FAC
+Speaking for the majority, Lord Clarke said that it appeared to him from the authorities that the question whether the evicter had an unquestionable title to the subjects in question, and thus the right to evict, had to be judged at the time that eviction was sought or threatened.	FAC
+As JCL did not have a title to the disputed part which would have entitled it to demand possession immediately, there was no breach of warrandice: para 13.	FAC
+Lord Bonomy said that the unquestionable nature of JCLs title could be established by evidence relating to the circumstances of the disposition to Mr Lynch and the arrangements for reconveyance, and that there was no suggestion in the pleadings that any action that JCL might have raised in its own name or with Mr Lynchs authority could have been resisted successfully: para 17.	FAC
+As a result of further enquiries which followed the raising of this action, the pursuer now states in paragraph 7 of the statement of facts and issues which he has lodged for the purposes of his appeal to this court that as at November 2005 RDL and JCL both believed that JCL held the title to the disputed part.	FAC
+He offers to prove that neither party was then aware that the title had, in error, passed to Mr Lynch in 1991.	FAC
+The plans attached to the relevant titles are said to have been difficult to interpret and, just as their examination did not at first reveal that the defender did not have title to the disputed part, their examination did not reveal that JCL did not have a title to it either.	FAC
+JCLs threat of eviction was made in the belief that it held the title to the disputed part, and RDL yielded to that threat on the basis that there was no answer to it.	FAC
+There then follow these averments: Had James Craig Ltd raised proceedings against the appellant, the above mentioned error may not have been discovered.	FAC
+Even if it had been discovered, James Craig Ltd would have been immediately able to secure title to the disputed part in their favour as Lynchs subsequent acknowledgment of the error and co-operation demonstrates.	FAC
+No proceedings (or proof of title) were or would ever have been required to establish the title of James Craig Ltd to the disputed part.	FAC
+The defender states in her statement of facts and issues that the pursuers paragraph 7 is not agreed.	FAC
+In particular she disputes the assertion that if the error had been discovered JCL would have been immediately able to secure title to the disputed part and that no proceedings to establish its title would have been necessary.	FAC
+She states in her written case that it was only after she had pointed out that JCL had conveyed the disputed part to Mr Lynch in 1991 that RDL, having obtained what was essentially a worthless disposition from JCL in return for 70,000, investigated the position and obtained a further disposition from Mr Lynch.	FAC
+Further complications that she has raised are that it now appears that the missives of May 1991 which preceded the disposition of 1991 in favour of Mr Lynch proceeded in the name of James Craig (Farms) Ltd, that the proposition that the disputed part was not intended to be included in that transaction may be open to some doubt and that Mr Lynchs disposition to RDL proceeded in his own name notwithstanding the fact that on 17 June 2002 he had granted a disposition of the subjects that were conveyed to him in 1991 by JCL in favour of Lynchs Trustees.	FAC
+It is plain that there is a substantial dispute as to the true state of the facts.	FAC
+The question before us, however, is whether the pursuer is entitled to a proof of his averments.	Ratio
+It is agreed that these must be taken to include what he has set out in his statement of facts and issues.	Ratio
+For present purposes the assumption must be that he will be able to prove, among other things, what he avers in paragraph 7.	Ratio
+The issue	Ratio
+The defender states in her statement of facts and issues that the question in this case is whether a threat to evict RDL by JCL, a party whose ownership was not registered or otherwise established at the time of the threat but who subsequently was able to obtain a registered title, is sufficient to engage a remedy in warrandice.	Ratio
+The pursuer puts the point in this way: is it sufficient to engage a remedy in warrandice if the threat was made by the true owner of the disputed part, whose ownership was not yet registered at the time of the threat but to which there was no impediment to registration and which would inevitably prevail?	Ratio
+I think that the issue is best approached in two stages.	Ratio
+First, there is the way the defender puts the question.	Ratio
+In other words, as the majority in the Extra Division held, does the question whether the evicter has an unquestionable title to the subjects in question fall to be judged at the time that eviction is sought or threatened?	Ratio
+If that question is answered in the affirmative, it is clear that the pursuers averments are irrelevant.	Ratio
+He accepts that, contrary to what he says was understood to be the position at the time when the threat was made, JCL did not then have a title to the disputed part.	Ratio
+But if there is room for the remedy to be engaged where the threat is made by someone who does not have a real right to the disputed part at the time of the threat because his competing title has not yet been registered, there is a further question that must be answered.	Ratio
+What does the party with the defective title who has incurred loss as a result of a threat need to show in order to establish that the threatened demand amounted to an eviction?	Ratio
+The state of the authorities	Ratio
+A convenient starting point for an examination of these questions is to be found in the observations by Lord President Hope and Lord Morison in Clark v Lindale Homes Ltd 1994 SC 210 which led the majority in the Extra Division to conclude that the pursuers averments were irrelevant.	PRE
+At p 216B-C I said, with reference to section 895 of Bells Principles (10th ed): As I understand the statement of principle in that paragraph, eviction occurs when there is a loss to the buyer due to the fact that someone else has a competing title which is beyond doubt.	PRE
+Later on the same page, at p 216F, I said: The warrandice is breached when there is shown to be a competing title which will inevitably prevail in competition with that which has been given to the purchaser.	PRE
+But at p 220C-D, having acknowledged that more was required to justify a claim under the warrandice clause than a mere deficiency in the title of the grantee, I said: Something else was required, and according to expressions used in the authorities it is eviction which gives rise to the claim.	PRE
+The word eviction might be thought to imply that the loss is in some respect due to action by the party who has the competing title to assert his rights In the present case there are no averments that any action was taken by the party with the competing title, and if the word eviction is to be understood in this sense that would appear to be conclusive against the pursuer in this case.	PRE
+Lord Morison put the point at p 224C-D in this way: If [eviction] has not been judicially established, the warrandice clause may still be invoked if eviction in the strict sense is threatened, providing that the threat is based on an unquestionable right.	PRE
+Such a threat could only come as a result of a demand from the competing title-holder, for no one else has any right, let alone an unquestionable right, to make it.	PRE
+Taken at their face value, these observations may be said to point clearly to the conclusion that, although there was a demand in this case, the pursuer cannot invoke the warrandice clause as he is not able to show that JCL, who made the demand, had a competing title to the disputed part when the threat was made.	PRE
+According to his averments, the registered title to the disputed part was vested at that time in Mr Lynch.	PRE
+But the question which had to be decided in Clark v Lindale Homes Ltd was not directed to the problem that has arisen in this case.	PRE
+The submission for the pursuer in Clark was that warrandice was a warranty of indemnity for all losses which the purchaser might sustain arising out of a defect in title, whether or not the purchasers had been dispossessed of the whole or any part of the property.	PRE
+It was sufficient for a prevailing right to have been identified by the Keeper of the Registers which resulted in loss to the purchaser: see p 213B-C.	PRE
+This argument was rejected on the ground that there had at least to be the threat of an eviction, provided it was based on an unquestionable right.	Ratio
+The proposition that such a threat could only come from a party who, at the time of the threat, was the competing title holder went further than it was necessary to go for the disposal of the action.	Ratio
+I think that it is open to us to consider whether it went too far.	Ratio
+The first authoritative treatment of the effect of warrandice is in Stair, Institutions of the Law of Scotland (1693), II, iii, 46: The effect of warrandice is, the up-making of what is warranted, in so far as it is evicted, and the ordinary procedure in it is, when any suit is moved whereon eviction may follow, intimation is made to the warrander of the plea, that he may defend; and if eviction follow, and distress thereby, declaratory of distress, and an action of warrandice for relief is competent.	Ratio
+Also it is effectual for decerning the warrander to free the thing warranted of that which will undoubtedly infer a distress, though it hath not actually done it Yea, warrandice will take effect where there is unquestionable ground of distress, though the fiar transacted voluntarily to prevent the distress.	Ratio
+And though no intimation be made of the plea inferring distress, yet the warrandice taketh effect, unless the warrander had a relevant defence, and could instruct the same.	Ratio
+The situation relevant to this case is described in the last two sentences.	Ratio
+There was an unquestionable ground of distress, it being accepted that the defender had not given RDL a valid title to the disputed part.	Ratio
+There was also the threat of an eviction, as JCL had called upon RDL to remove from the disputed part.	Ratio
+RDL then transacted voluntarily with JCL to prevent the distress of an eviction.	Ratio
+The fact that there was no intimation to the defender is no answer to the claim.	Ratio
+The warrandice takes effect unless the defender had a relevant defence to JCLs claim.	Ratio
+The pursuer offers to prove that there was no relevant defence as, if the fact that JCL did not have a title to the disputed part had been discovered when the threat was made, JCL would have been immediately able to secure title to it with the co-operation of Mr Lynch.	Ratio
+On these facts, if they can be established, it would seem that the claim that the pursuer makes is within the scope of the remedy as described by Stair.	Ratio
+There must, on his description of it, be an unquestionable ground of distress.	Ratio
+But it is not said to be an essential requirement, assuming that a threat must be made, that the party who makes the threat must himself have an unquestionable title at the time when he makes it.	Ratio
+What is needed is that the warrander would have had no relevant defence to the threatened eviction.	Ratio
+That would seem to be the case if there was an unquestionable defect in the grantees title, and the party who made the threat was, as the pursuer avers, in a position by the exercise of a personal right that was vested in him at that time to obtain a real right to the subjects in question immediately.	Ratio
+I do not think that any guidance on this point is to be found in Erskine, An Institute of the Laws of Scotland, II, iii, 30, although in Welsh v Russell (1894) 21 R 769, 773 Lord McLaren said that there could be no better authority on the subject.	Ratio
+Erskine makes it clear that the remedy is not one of restitution but of indemnification.	Ratio
+But he does not appear to accept that warrandice may be effectual where eviction has been threatened but has not actually occurred other than in the case of inconsistent deeds of the granter.	Ratio
+As authority for the exception in the case of inconsistent deeds, reference may be made to Smith v Ross (1672) M 16596, in which the court sustained a submission that warrandice may take effect where there is no actual eviction, if the cause inferring eviction be evident and clear, especially if the same be the deed of the party warrander, who is most unfavourable, having granted double dispositions.	Ratio
+It does not appear from the discussion of the point by the institutional writers, however, that there is any compelling reason why the cause inferring the eviction, if it be an unquestionable defect against which the grantee would have had no defence until the expiry of the prescriptive period, must be drawn to his attention by the party at whose instance the eviction may take place.	Ratio
+This suggests that the law as to the requirements for there to be a relevant threat of eviction, in cases other than those arising from inconsistent deeds of the granter, was not fully developed at that stage.	Ratio
+In Bells Principles 10th ed (1899), section 121 eviction is said to include the emerging of an unquestionable burden on the subjects purchased, which the buyer is compelled to discharge.	Ratio
+In section 895 the point is again made that warrandice is not an obligation to protect but only to indemnify in case of eviction.	Ratio
+Out of this peculiarity there are said to arise several important consequences: Thus there is no action of warrandice till judicial eviction, unless the ground of demand be unquestionable, and proceeding from the fault of the seller; or the obligation to relieve be disputed, in which case the action may be brought when eviction is threatened.	Ratio
+The first of these two exceptions arises where the grantees lack of title is due to a second inconsistent deed of the seller, as was noted in Smith v Ross.	Ratio
+That is not this case.	Ratio
+The second arises where the threat of eviction is settled before a judicial eviction takes place.	Ratio
+Here too there is no examination of the requirements that must be satisfied for there to be a relevant threat, other than that the ground of demand must be unquestionable.	Ratio
+There must, as Lord Morison observed in Clark v Lindale Homes Ltd at p 224B, be compulsion exerted by a demand.	Ratio
+But the discussion so far seems to leave open the question whether the person who makes the demand must at that time have a real right to the disputed subjects, or whether it is enough that he can demonstrate that he has an unquestionable right to obtain one.	Ratio
+As Bell refers in support of his description of the obligation in section 121 to Pothiers Treatise on the Contract of Sale (translated 1839), it is perhaps worth noting that in para 83 Pothier observes that the term eviction is applied in practice both to the sentence which orders the abandonment and to the demand which is brought to obtain it.	Ratio
+In para 86 he states: The term eviction is applicable, strictly speaking, to those cases only in which the buyer is deprived of the thing sold by a sentence.	Ratio
+It is used, however, in a sense less proper, to include cases in which the buyer is deprived, without any sentence, of the power to retain the thing, in virtue of the sale.	Ratio
+In para 95, describing the circumstances that could constitute a threatened eviction, he states that where the buyer of the thing sold has to abandon it to a third party who at the time of the contract was the owner or had at least an inchoate right to compel the buyer to abandon it, this gives rise to a warranty provided the buyer can prove that the third party really had the right which he claimed.	Ratio
+The situation that he contemplates is one where the buyer has no power to retain the subjects but abandons it to forestall the expense of a sentence against him, provided that party to whom he abandons has the right to compel the abandonment.	Ratio
+Brown, Treatise on the Law of Sale (1821), makes the same point in para 330, stating that the eviction must take place in consequence of a right existing in a third party.	Ratio
+The question whether that right must be a real right to the disputed subjects, vested in the third party at the time of the demand, is not discussed.	Ratio
+In Welsh v Russell at p 773 Lord McLaren said that the obligation of warrandice differed from all other obligations, in that it was not intended that it should be performed immediately, or within a definite time, or even within what the law describes as a reasonable time: It remains latent until the conditions come into existence that give it force and effect, and it continues to affect the granter and his heirs until the possibility of adverse claims has been extinguished by the long prescription.	PRE
+That was a case where a servitude right of way had been established judicially over the garden of subjects purchased by the pursuer, but the pursuer was not able to aver that he had suffered any loss through the existence of the servitude.	PRE
+It is an important authority on the question whether more is needed to justify a claim under the warrandice than a mere unquestionable deficiency in title.	PRE
+But it does not deal with the question as to the nature of the right that must be shown to be vested in the third party at the time when he makes his threat or demand.	PRE
+The first modern case in which it was held that a claim under warrandice was competent where there was no eviction, other than in the case of an absence of title caused by a second inconsistent deed of the granter, is Watson v Swift & Cos Judicial Factor 1986 SC 55.	PRE
+Lord Morison held at p 61 that an unquestionable burden on the subjects had emerged and that this situation had been created by the grant to the pursuers of a disposition which contained an unjustified warrant of its effectiveness.	PRE
+The property was subject to redemption under a decree of adjudication, and an action had been raised by a party who was entitled to decree ordaining the pursuers to discharge the adjudication and remove from the flat.	PRE
+They had no defence to the action, which was sisted for negotiations which resulted in the pursuers obtaining a valid and marketable title to the flat.	PRE
+As in Clark v Lindale Homes Ltd, there was no need in that case to examine the question which is before us in this case.	PRE
+In his essay in A Scots Conveyancing Miscellany (1987) (ed Cusine) entitled Warrandice in the Sale of Land Kenneth G C Reid, as he then was, said at p 158 that there are a number of circumstances in which eviction is not required for a claim to be brought.	Ratio
+Two of them, he said, were well established and the possibility of additional categories was not excluded.	Ratio
+Those that were well established were (1) where the buyers absence of title was caused by a second, inconsistent deed of the seller, and (2) where an action against the buyers title is raised but then settled without proceeding to decree, provided that the buyer had no stateable defence, as in Watson v Swift & Cos Judicial Factor.	Ratio
+He observed that Stair, II, iii, 46 had reached substantially the same conclusion as Lord Morison did in that case 300 years earlier.	Ratio
+The circumstances of the present case differ from those in Watson, because no action was raised before the negotiations were concluded.	Ratio
+It does not fall within either of the two categories that, writing in 1987, Professor Reid recognised as well established.	Ratio
+But it was held in Clark v Lindale Homes Ltd that the warrandice clause may still be invoked if eviction in the strict sense is threatened, provided that the threat is based on a right which is unquestionable.	Ratio
+As for the question what the phrase a right which is unquestionable means, the editors of Professor McDonalds Conveyancing Manual 7th ed (2006), para 10.09 state that the warrandice obligation does not indemnify against loss or damage which the grantee may suffer from any cause, other than actual or constructive eviction by an adverse real right.	Ratio
+But they cite no authority for this statement, and in his title on Property in the Stair Memorial Encyclopaedia Restatement, para 707, Professor Reid states that what is required is that the true owner of the property successfully assert his right against the transferee, adding in footnote 4 the words or, in the case of a voidable title, the person entitled to lead the reduction.	Ratio
+This formulation suggests that, while the existence of an adverse real right is of course an essential requirement, the person who asserts that right need not actually be in possession of it when he leads the reduction or otherwise asserts the right against the grantee.	Ratio
+Discussion	Ratio
+As I said in para 12, above, it seems to me that the first question that needs to be addressed is whether, as the majority in the Extra Division held, the person who makes the threat has to have an unquestionable title to the subjects in other words, a right in rem at the time when he makes his threat.	Ratio
+As I have indicated in my examination of the authorities, they do not appear to me to impose such a rigid requirement on the grantee.	Ratio
+Some of the dicta in Clark v Lindale Homes Ltd might be taken as having that stark effect, but they can properly be regarded as obiter.	Ratio
+Such discussion of the remedy as there is in the previous authorities concentrates on the point that, in order to bring the obligation into effect, there has to be an eviction or at least the threat of an eviction.	Ratio
+Clearly, the party who seeks eviction or who threatens to do so must be in a position to make good his challenge to the title of the grantee.	Ratio
+But there would seem to be no good reason why the way in which that challenge may be made good cannot be worked out, in the ordinary way, according to the circumstances of each case.	Ratio
+To insist that the right on which the party who makes the threat has to found when he makes his threat must be a real right overlooks the fact that parties who have an undoubted interest in seeking to challenge the title of the grantee may not yet, for a variety of reasons, have registered a title to the subjects in their own name.	Ratio
+Where proceedings are raised to obtain an order for eviction, the party who brings those proceedings will need to show that he has a title and interest to make the claim.	Ratio
+But I do not see why, so far as the question of title to sue is concerned, that cannot take the form of an undoubted personal right against the person in whom the title to the land is vested by which that person can be required to transfer his real right to the party who has brought the proceedings or, if the proceedings are settled, to the grantee.	Ratio
+Mr Reid QC for the pursuer accepted that the obligation of warrandice was a contractual remedy.	Ratio
+But he submitted that, in a general sense, it was equitable in nature and that, for this reason, it should be accorded a degree of flexibility.	Ratio
+I think that to adopt that approach would be to introduce too much uncertainty, and it sits uneasily with an underlying concept of the law of obligations.	Ratio
+Contractual remedies are based on what the parties are to be taken to have agreed to, not what the court thinks just and equitable.	Ratio
+But there is force in the idea that, in the working out of the contractual remedy, the law seeks to find practical solutions to the problems that the case gives rise to.	Ratio
+That is why it does not insist on actual eviction as the only precondition for a claim under the obligation of warrandice.	Ratio
+It accepts that, as Stair II, iii, 46 puts it, the grantee may act voluntarily to prevent the distress.	Ratio
+He does not have to engage in pointless litigation.	Ratio
+It is, of course, essential that the grantee transacts voluntarily with the right person with the person who has a title and interest to make good the threat.	Ratio
+But to insist that the title must take the form of a real right at the time when the threat is made would be to deprive the remedy of utility in circumstances such as in this case, where it is said that the party who made the threat was nevertheless in as good a position to make good the threat as he would have been if the real right had already been vested in him.	Ratio
+I would hold that to insist on this does not give full weight to the underlying purpose of the obligation as described by Stair, and that it is wrong in principle.	Ratio
+As for what the grantee needs to show in order to establish that the threatened demand amounted to an eviction, he must, as I have just said, be able to show that he transacted with the right person.	Ratio
+There must, of course, be a competing title which will prevail in a question with the grantee.	Ratio
+And the party who makes the threat must be in a position to make it good if negotiations were to break down and the dispute were to proceed to the stage of an actual eviction.	Ratio
+The grantee must, then, be able to show that the threat was capable of being made effective.	Ratio
+But an incomplete title to the disputed subjects will be good enough if the party who makes the threat is undoubtedly in a position to compel the party in whom the real right is vested to transfer the title to him or, if the threat is compromised, to the grantee.	Ratio
+I do not see this approach as undermining the principle that parties are entitled to transact with each other on the faith of the register, as the defender suggested.	Ratio
+It is, of course, to the register that one must go to determine who has the real right.	Ratio
+That does not mean, however, that a personal right against the holder of the real right must be left out of account when one is seeking a practical solution to problems of the kind that are illustrated by this case.	Ratio
+Although the analogy is not precise, it is perhaps worth noting what is needed for there to be judicial interruption of prescription for the purposes of section 4 of the Prescription and Limitation (Scotland) Act 1973.	Ratio
+This is because it could be said that there is an affinity between the judicial interruption of prescription, which if it were to be allowed to run on for the prescriptive period would provide the grantee with an unchallengeable title, and the obligation of warrandice.	Ratio
+Warrandice remains latent until the conditions come into existence that give it force and effect.	Ratio
+But it continues to affect the grantee until the possibility of adverse claims has been extinguished by the positive prescription.	Ratio
+It is plain that a challenge to the possession which gives force and effect to the warrandice will interrupt the running of the prescription.	Ratio
+Can it be said that a challenge which is sufficient to interrupt the running of the prescription let us say, on the day before the prescriptive period expires will be sufficient to give force and effect to the obligation of warrandice?	Ratio
+As section 4(1) puts it, the interruption occurs when any person having a proper interest to do so makes a claim which challenges the possession in question.	Ratio
+As David Johnston, Prescription and Limitation of Actions (1999) points out at p 296, there is nothing in the section to say that it matters who challenges possession, so long as he has a proper interest to do so.	Ratio
+In Scammell v Scottish Sports Council 1983 SLT 462 Lord McDonald said that, had it been necessary for him to do so, he would have accepted that the challenger must put forward a competing right to possess by showing that he or someone else had a better title than the possessor.	Ratio
+But Johnston suggests at p 296 that this was a rather narrow construction of the sorts of actions which amount to challenges of the required sort, and that it may be that it should not be treated as a universal requirement.	Ratio
+I would be reluctant to accept, without further argument, that it is enough for there to be a valid threat for the purposes of the obligation of warrandice that the person who makes the threat should simply be able to assert in some general way that he has a proper interest to do so.	Ratio
+But Lord McDonalds narrower construction of the expression in the statute, which Johnston is inclined to reject, has more to commend it.	Ratio
+The paradigm case for the purposes of the law of warrandice is a judicial eviction.	Ratio
+It is hard to conceive of a case where an eviction would be ordered unless the party by whom the proceedings were brought was able to show that he or someone else had a better title than the grantee, and it is hard to conceive of a case that was brought on the basis that the better title was vested in someone else unless the party who brought the proceedings could show that he had an interest to do so.	Ratio
+But proof of the possession of an undoubted personal right which was immediately enforceable against the party with the real right in the subjects would seem to satisfy this requirement: see MRS Hamilton Ltd v Baxter 1998 SLT 1075, 1079C-D.	Ratio
+On that approach it could be said that there was a measure of harmony between what I would hold was sufficient on the facts of this case to enable the pursuer to claim under the warrandice and what would have been sufficient for JCL to interrupt the running of prescription in the pursuers favour had appropriate proceedings been brought against him.	Ratio
+Conclusion	Ratio
+I would hold that the pursuer will be entitled to the remedy he seeks if he can prove that, when RDL yielded to the threat, JCL would have been immediately able to secure title to the disputed part in its favour by calling upon Mr Lynch to transfer the title that was vested in him and that no proceedings would have been required to secure that result.	Ratio
+That is what he now offers to prove to make good his case that RDL would have had no defence to an action for its eviction (see para 9, above) and, assuming that the necessary amendment is made, I think that he is entitled to the opportunity of doing so.	Ratio
+For these reasons and those given by Lord Reed I would allow the appeal, recall the Extra Divisions interlocutor, restore the temporary judges interlocutor and remit the case to the Outer House for the hearing of a proof before answer.	RPC
+One of the usual terms of a contract of sale of heritable property in Scotland, implied if not expressed, is a warranty against defects in the sellers title to the property sold.	Ratio
+Such a warranty is normally contained in a warrandice clause in the disposition of the property.	Ratio
+Usually, as in the present case, the clause is what is known as an absolute warrandice, that is to say a warranty against all defects in title which existed when the disposition was delivered.	Ratio
+Like other contractual terms, the warrandice clause creates a personal obligation.	Ratio
+The obligation is one of indemnity: the seller is obliged to indemnify the purchaser in respect of any loss which he may suffer.	Ratio
+The obligation continues until the possibility of adverse claims against the purchaser has been extinguished by prescription (Welsh v Russell (1894) 21 R 769, 773 per Lord McLaren).	Ratio
+Contrary to what might be expected, it has long been accepted that a defect in the sellers title to the property is not in itself a breach of the warrandice: no claim arises against the seller unless the purchaser is evicted from the property.	Ratio
+The obligation to indemnify created by warrandice is therefore contingent upon eviction.	Ratio
+The term eviction is used in this context in a special sense: actual ejection or removal from the property is not required.	Ratio
+As Lord McLaren explained in Welsh v Russell (p 773), the obligation is designed to indemnify the purchaser not only against the consequences of complete eviction, but against the loss of the most inconsiderable fraction of the estate, or its diminution in value by reason of the establishment of a burden of any kind.	Ratio
+It is because eviction, in this expanded sense, ceases to be possible once a purchaser with an ex facie valid title has enjoyed uninterrupted possession for the prescriptive period that the obligation continues for that period.	Ratio
+This approach to the obligations arising under a contract of sale can be traced back to Roman law, under which the primary obligation of the seller was to deliver possession of the property sold.	Ratio
+Provided the purchaser remained in undisturbed possession, any defect in his title could be cured by prescription.	Ratio
+Putting the matter broadly, the purchaser therefore had no remedy for a lack of title, if the seller had acted in good faith, unless and until he was evicted in whole or in part by the true owner or, without actual eviction, lost the value of his purchase by reason of a defect in title: if, for example, he had to buy off the claim of the true owner, and thus had to pay twice for the same property.	Ratio
+Some modern civilian systems, such as German law, have departed from this approach and impose an obligation to convey ownership; but Scots law, like French law, adheres to the older tradition, except in relation to the sale of goods, where a different rule, derived from English law, was introduced by statute.	Ratio
+The circumstances of the present case have been fully set out by Lord Hope.	PRE
+Put briefly, Mr Morris offers in his pleadings to prove that RDL purchased the property in question from Mrs Rae in 2004.	PRE
+RDL were subsequently threatened with eviction from the property by JCL, the threat being initially made in 2005.	PRE
+The real right to the property was at that time held by Mr Lynch, but his title was voidable at the instance of JCL, the property having been conveyed to him by JCL in 1991 by mistake.	PRE
+In order to avoid eviction, RDL paid JCL 70,000, and JCL procured the grant of a disposition by Mr Lynch to RDL in 2006, which was then registered.	PRE
+Mr Morris brings these proceedings as the assignee of RDLs claim against Mrs Rae.	PRE
+On those assumed facts, a majority of an Extra Division of the Inner House considered that the action must be dismissed, on the basis that the threat of eviction must be made by a person who, at the time the threat is made, has an unquestionable title to the property, entitling him to demand immediate possession: Morris v Rae 2011 SC 654, para 13, per Lord Clarke, with whom Lord Bracadale agreed.	PRE
+Lord Bonomy dissented on the basis that JCLs threat of eviction could not have been resisted successfully: it would have been a waste of time of time and expense to have resisted eviction when JCL was ultimately bound to succeed (para 17).	PRE
+In the course of the present appeal Mr Morris has provided further information as to the facts, in order to avoid any misunderstanding which might otherwise arise from the pleadings.	Ratio
+It appears that JCL granted a disposition of the property to RDL in March 2006, in return for the payment of 70,000.	Ratio
+In about May 2006 Mrs Rae informed RDL, in her defences to the present action, that the title was held by Mr Lynch.	Ratio
+JCL then contacted Mr Lynch, who acknowledged that the property had been conveyed to him in error and in July 2006 granted the disposition to RDL.	Ratio
+I would observe that, if JCL had not procured the grant of that disposition (or a disposition by Mr Lynch to themselves, so as to cure by accretion the defect in their title to grant the March 2006 disposition), RDL would have been entitled to recover the 70,000.	Ratio
+It would therefore be an over-simplification to say that RDL paid for a worthless disposition by JCL.	Ratio
+In effect, there was a tripartite arrangement under which JCL, who had a right to the title to the property and were threatening RDL with eviction, procured the grant of a disposition to RDL by Mr Lynch, who held the title but was bound to divest himself of it when called upon to do so by JCL, in return for RDLs allowing JCL to retain the 70,000 which had previously been paid to them; and that disposition cured the defect in RDLs title and removed the threat of eviction.	Ratio
+This further information does not appear to me to alter the fundamental features of the case as pleaded.	Ratio
+Mrs Rae disputes Mr Morriss version of events, and has also put forward some additional information in the course of the appeal.	Ratio
+The question however is whether Mr Morris is bound to fail on the assumed facts which he offers in his pleadings to prove.	Ratio
+The fact that his averments are disputed is not germane to that question.	Ratio
+The critical question in the appeal, therefore, is this: what characteristics does the law insist on for a threat of eviction, to which the purchaser accedes by buying off the threat, to trigger the sellers liability to indemnify the purchaser under the warrandice? In particular, is it essential that the threat of eviction should be made by a person who has at that time a title to the property, as the majority of the Extra Division considered? Or can a personal right ever be sufficient? If so, in what circumstances may it be sufficient?	Ratio
+In reaching the conclusion which they did, the majority of the Extra Division relied upon dicta in Clark v Lindale Homes Ltd 1994 SC 210.	PRE
+In that case, Lord President Hope concluded (p 220) that since the pursuer did not aver that any action had been taken against her by the party with the competing title, the action should be dismissed; and Lord Morison said (p 224) that a threat of eviction could only come as a result of a demand from the competing title-holder, for no one else has any right, let alone an unquestionable right, to make it.	PRE
+These dicta must however be read in their context.	PRE
+The issue with which the court was concerned was whether the seller could be liable under the warrandice where a defect in title had been identified by the Keeper of the Registers but there had been no action whatsoever taken against the pursuer in consequence of the defect.	PRE
+The court was not concerned with the precise interest which had to be held by the competing title-holder, nor with the question whether there might be circumstances in which a person who currently had no title to the property might nevertheless be able to challenge the purchasers title.	PRE
+As there does not appear to be any judicial authority directly in point, it is appropriate to begin by considering the relevant principles.	Ratio
+Stair states in his Institutions of the Law of Scotland, II.iii.46: The effect of warrandice is, the up-making of what is warranted, in so far as it is evicted, and the ordinary procedure in it is, when any suit is moved whereon eviction may follow, intimation is made to the warrender of the plea, that he may defend; and if eviction follow, and distress thereby, declarator of distress, and action of warrandice for relief, is competent.	Ratio
+Also it is effectual for decerning the warrender to free the thing warranted of that which will undoubtedly infer a distress, though it hath not actually done it Yea, warrandice will take effect where there is an unquestionable ground of distress, though the fiar transacted voluntarily to prevent the distress.	Ratio
+And though no intimation be made of the plea inferring distress, yet the warrandice taketh effect, unless the warrender had a relevant defence, and could instruct the same.	Ratio
+The second sentence in this passage indicates that the sellers liability under the warrandice can be enforced in advance of actual distress, where a defect in title has emerged which will undoubtedly infer a distress.	Ratio
+The last two sentences indicate that the seller will be liable under the warrandice where the purchaser buys off the threat of eviction, provided there is an unquestionable ground of distress.	Ratio
+The purchasers failure to inform the seller will not prevent recovery under the warrandice unless the seller had a relevant defence to the threatened eviction.	Ratio
+These principles have been applied in numerous cases.	Ratio
+Two examples can be given.	Ratio
+In Downie v Campbell, 31 January 1815, FC, the pursuer had been granted a lease to commence at a future date, with absolute warrandice, by an heir of entail.	PRE
+The heir of entail having subsequently forfeited his right to the estate before the commencement of the lease, the next heir declined to implement the lease.	PRE
+The pursuer did not contest the threat of eviction and did not intimate the threat to the granter of the warrandice, but was held entitled to recover.	PRE
+Lord Meadowbank, with whom the other members of the court agreed, said that the idea that the pursuer should have maintained her title was quite untenable.	PRE
+In Menzies v Queensberry Executors (1832) 11S 18, a tenant was held to be entitled to be indemnified under his landlords warrandice after the lease of another tenant, in identical circumstances, had been set aside in a test case.	PRE
+The fact that no proceedings had been taken against him, and that he had not intimated the threat to the landlord, was not a bar to recovery.	PRE
+Lord Cringletie observed (p 20) that it is clear that any one may abandon a subject where the right is indefensible, and it is not necessary to entitle him to damages as for eviction, that he shall have given intimation, unless the granter could show that he could have defended successfully.	PRE
+It is also relevant to note what was said on this subject by Pothier, whose legal writings influenced the development of the Scots law of obligations during the eighteenth and nineteenth centuries.	Ratio
+His Trait du Contrat de Vente (1762), in particular, was extensively cited in Mungo Browns A Treatise on the Law of Sale (Edinburgh, 1821).	Ratio
+In his treatise, Pothier states at para 84 that if a buyer pays a sum in order to prevent the loss of the estate, which he would otherwise be unable to preserve, he is entitled to recover the amount which he paid from the seller.	Ratio
+Pothier also states at para 95 (as translated by L S Cushing, Pothiers Treatises on Contracts, Boston, 1839, Vol 1, p 55): An abandonment of the thing sold by the buyer, though without sentence [ie without a judicial decision], to a third person, who, at the time of the contract, was the owner of it, or, who, at that time, had at least an inchoate right to compel the buyer to abandon it, gives rise to a warranty, provided the buyer can prove, that the person, to whom he abandoned, really had the right which he claimed.	Ratio
+Pothier explains the rationale of this approach as follows (para 96): The equity of this maxim is evident.	Ratio
+Though the term eviction, in its proper sense, is applicable only to the abandonment, which one is condemned to make, by a sentence of the judge; yet, when it is proved, that the party, to whom the buyer without any sentence makes an abandonment of the thing, has a right to compel it, and that it is made only for the purpose of forestalling and avoiding the expense of a sentence, it is manifest, that in this case, it is not in the power of the buyer to retain the thing; and, consequently, that the seller does not fulfil his obligation, praestare ipsi rem habere licere, which gives rise to the warranty.	Ratio
+These various sources agree that the ground of challenge to the purchasers title must be unquestionable, or looking at the other side of the coin that the purchasers right must be untenable or indefensible.	Ratio
+Counsel for Mrs Rae argued that this requirement should be interpreted as meaning that there must be no stateable defence to proceedings against the purchaser.	ARG
+In support of that contention, reliance was placed upon Palmer v Beck 1993 SLT 485, where Lord Kirkwood said at p 488 that a claim for breach of warrandice could arise if there was a real threat of eviction, as, for example, when the true owner raises proceedings seeking to evict the purchaser and there is no stateable defence to the action.	ARG
+It is to be noted however that this was merely an example: Lord Kirkwood went on to say (ibid) that what constituted a threat of eviction giving rise to a claim for breach of warrandice must depend on the circumstances of each individual case.	ARG
+I respectfully agree.	Ratio
+Counsel also relied upon a dictum in Holms v Ashford Estates Ltd 2009 SLT 389, where Lord Eassie, delivering the opinion of the court, said (para 45) that one way of putting the requirement that the defect in title be unquestionable was by posing the question whether, were proceedings to take place between the party to whom warrandice had been granted and the competing proprietor, it could immediately be affirmed that the title of the competing proprietor was so plainly preferable as to render the position of the party claiming warrandice unstateable.	ARG
+In other words, Lord Eassie added, there would be nothing that could properly be disputed or argued in such a hypothetical action on behalf of the person to whom the warrandice has been granted.	ARG
+That dictum goes beyond what had been stated in the earlier authorities I have mentioned, and in my opinion it sets too demanding a standard.	Ratio
+Pothier requires only that it be proved that the challenger has a right to evict the purchaser: an objective test.	Ratio
+Stair can be understood in the same sense.	Ratio
+That is also consistent with the approach adopted in Clark v Lindale Homes Ltd. In that case Lord President Hope said (p 216) that the unquestionable nature of the competing title was a fact which could be demonstrated by proof; and his Lordship also observed (ibid) that the warrandice is breached when there is shown to be a competing title which will inevitably prevail in competition with that which has been given to the purchaser.	Ratio
+This approach does not depend on whether some argument might be devised by way of a defence to a challenge, but upon whether a defence would inevitably fail.	Ratio
+The approach adopted in the passages which I have cited from Stair and Pothier is practical and realistic.	Ratio
+If the purchaser of land is facing the prospect of undoubted eviction, even if it is not imminent, he has an immediate practical problem.	Ratio
+He cannot, for example, let the land to a tenant for its full value, since he cannot himself grant warrandice; he cannot spend in safety the rent received from any existing tenant, since he is liable to have to account for it to a third party; and he cannot sensibly sow crops, since a third party may be entitled to harvest them.	Ratio
+It is important for him to be able to resolve the practical problems arising from the defect in his title as soon as he can.	Ratio
+Furthermore, where eviction is threatened and the threat is unquestionably capable of being put into effect, the purchaser has no realistic alternative but to accede to it.	Ratio
+To defend his title would be a waste of time and money.	Ratio
+That may be so even where the person threatening eviction is not currently vested in the property, if for example he has an unqualified right to demand an immediate conveyance of it.	Ratio
+In most cases, the threat of eviction will arise because the purchasers right to the property is challenged by a person who has at that time a title to the property.	Ratio
+There is not however an invariable requirement that the challenger must have a title, in the ordinary sense of a right of property (whether in rem or ad rem), in order to be able to evict the purchaser, let alone to threaten eviction.	Ratio
+One situation where there is no such requirement is where the purchasers title is voidable, and the challenger is a person entitled to have it set aside.	Ratio
+In the present case, for example, supposing that Mr Lynchs title was voidable at the instance of JCL, as is averred, and further supposing that he had granted to a third party a disposition of the property other than bona fide and for value, then the third partys title would be voidable at JCLs instance, notwithstanding that JCL had no title to the property.	Ratio
+In the event that Mr Lynch had granted absolute warrandice to the third party, a claim would surely lie under the warrandice notwithstanding that the threat of eviction had been made by a person without a title.	Ratio
+It might however be argued that the situation is different where the only ground of challenge to the purchasers title arises from a competing title, and the challenger is not the person holding that title.	Ratio
+In most cases, no doubt, the person holding that title will be the only person with any title or interest to challenge the purchasers right to the property, and therefore the only person whose challenge, if resisted, can give rise to liability under the warrandice; and, if a challenge cannot give rise to liability under the warrandice if it is resisted, it can hardly give rise to liability if it is acceded to.	Ratio
+Three considerations however support the view that it need not invariably be the case that only a person holding a competing title can effectively challenge the purchasers title and thereby trigger liability under the sellers warrandice.	Ratio
+First, it is consistent with the principles stated by Stair and Pothier that the seller should be liable under the warrandice in a case such as the present.	Ratio
+On the facts as averred by Mr Morris, there was an unquestionable ground of distress, as RDLs title to the disputed property was unquestionably defective; and the threat of eviction made by JCL, in consequence of that defect, would undoubtedly infer a distress, even if it was necessary for JCL to obtain a conveyance from Mr Lynch or rectification of their disposition to him before distress would actually occur.	Ratio
+RDLs title to the disputed property could properly be described as indefensible.	Ratio
+Secondly, as I have explained, the rationale of the laws permitting a purchaser who accedes to a threat of eviction, without any judicial determination, to recover under the warrandice is essentially practical.	Ratio
+It reflects the undesirabililty of pointless delay and expense, and pointless litigation, where eviction is ultimately inevitable.	Ratio
+Where the title competing with the purchasers title is vested in person A, the fact that the threat of eviction is made by person B does not preclude the possibility that the purchaser may have no realistic alternative but to accede to the threat.	Ratio
+In particular, if person B has an unqualified right to demand from person A an immediate transfer of the title vested in him if, for example, person As title is voidable at the instance of person B - then no useful purpose will be served by requiring the purchaser to resist the threat until person B has exercised his right against person A and obtained the title: the only practical result of such a requirement would be pointless delay in the resolution of the purchaser's difficulties while the formalities required for the transfer of the title from person A to person B were completed, together with pointless expense and, possibly, pointless litigation.	Ratio
+Thirdly, in such a situation, it would be unrealistic, if not perverse, for the law to maintain that the purchaser can rely upon the sellers warrandice if he accedes to a threat by person A, but not by person B, since on the face of things the former has no real interest in threatening eviction, while the latter has an interest, although he has not yet obtained a title to the property.	Ratio
+The concept of title, in the context of a title to property, is not however the same as the concept of a title to sue; and it would be a misunderstanding to suppose that only a person who has a title to property can ever have a title to sue to enforce rights in respect of that property.	Ratio
+There is a line of authority establishing that there are circumstances in which proceedings may be brought by a person who does not at that time hold the right on which the proceedings are based, provided he has an undoubted entitlement to obtain the right and does so pendente processu.	Ratio
+This matter was discussed in the case of Westville Shipping Co Ltd v Abram Steamship Co Ltd 1923 SC (HL) 68, [1923] AC 773, in which the defenders had assigned to the pursuers their rights as the purchasers of a ship under construction.	Ratio
+The pursuers had in turn assigned the rights to a third party.	Ratio
+Both assignations were voidable on the ground of error.	Ratio
+The third party brought proceedings in England against the pursuers to have the second assignation set aside, and the pursuers then brought proceedings in Scotland against the defenders to have the first assignation set aside.	Ratio
+The third party subsequently obtained judgment by consent in the English action.	Ratio
+The pursuers were held to have had a title to bring the Scottish proceedings notwithstanding the fact that they were not entitled to have the first assignation set aside at the time when the proceedings were commenced, since the second assignation had not at that point been set aside.	Ratio
+The matter was most fully considered in the Court of Session by Lord President Clyde, whose opinion was approved in the House of Lords.	Ratio
+The Lord President said (1922 SC 571, 583): But the genuine and bona fide character of the English proceedings is not challenged; and, if the pursuers had no good answer to the sub- assignees' action, I cannot see that they were bound to postpone raising action in this court until the rescinding order was actually pronounced.	Ratio
+All that actually stood between them and reinstatement in the benefits of the builders' contract was the pronouncement of this order which the sub-assignees were moving the English court to make, and which, if the above stated hypothesis is correct, the pursuers had no means of resisting.	Ratio
+I think in these circumstances the pursuers may properly be regarded as having a substantial title to sue, and as being substantially in a position to offer restitution to the defenders.	Ratio
+If this be so, the circumstance that the substantial right was not actually completed at the initiation of proceedings is not material.	Ratio
+The Westville Shipping Co case is not on its facts an exact parallel to the present appeal, since the pursuers in that case were all along parties to the assignation which they challenged, but were not entitled to have it set aside so long as the second assignation, which depended upon the first, remained in force.	Ratio
+The approach described by the Lord President has however been applied in a range of other situations which are closer to the present case.	Ratio
+In the case of Doughty Shipping Co Ltd v North British Railway Co 1909 1 SLT 267, for example, a pursuer who had paid out the original creditors of the defender, and therefore had an entitlement to receive an assignation of their rights, did not obtain the assignation until after the proceedings had been commenced, but was held to have had a title to sue.	Ratio
+That decision was followed, on similar facts, in the case of Lanarkshire Health Board v Banafaa 1987 SLT 229.	Ratio
+The same conclusion was reached in Tayplan Ltd v D & A Contracts 2005 SLT 195, an action for breach of copyright in which the pursuers did not own the copyright at the time when the action was raised, but had a right to have it assigned to them.	Ratio
+Lord Kingarth held that a clear and unqualified personal right to demand an immediate assignation of the copyright, as he described it (para 19), was sufficient to confer a title to sue.	Ratio
+Returning therefore to the questions which I posed in para 39, it would in my opinion be just and rational for the law to answer that it is not always essential that the threat of eviction should be made by a person who has at that time a title to the property.	Ratio
+The test which one might expect, as a matter of principle, is that the purchaser must, objectively, have no realistic alternative but to accede to the threat of eviction.	Ratio
+Whether such an alternative exists in particular circumstances must be a matter of judgment on the facts.	Ratio
+That judgment would have to be made by the court, in the event that the purchaser acceded to the threat and the seller subsequently disputed his liability under the warrandice.	Ratio
+It is likely that no such alternative will exist in a situation where the person making the threat has an unqualified entitlement, exercisable immediately, to demand a transfer of the title currently vested in another person, and upon such a transfer will indubitably be entitled to evict the purchaser.	Ratio
+Applying that approach to the present case, Mr Morris offers in his pleadings to prove that JCL were entitled to require Mr Lynch to grant them a corrective disposition, as an alternative to proceedings for the reduction or rectification of the disposition in his favour, to which there would have been no possible defence.	Ratio
+In substance, therefore, Mr Morris is offering to prove that JCL had an unqualified entitlement, exercisable immediately, to demand a transfer of the title vested in Mr Lynch.	Ratio
+He also offers to prove that, upon such a transfer, RDL would have had no defence to JCLs threat of eviction.	Ratio
+In these circumstances he has in my opinion set out a relevant case against Mrs Rae.	Ratio
+For these reasons, and those given by Lord Hope, I would allow the appeal.	RPC
+To one still largely unfamiliar with the intricacies of Scottish conveyancing and Scottish civil procedure, it is surprising that the soundness of the appellants claim for damages for breach of warrandice should depend, not on the assumed truth of the elaborate pleading which is before the Court, but on the assumed truth of a different pleading which has not been formulated even in draft.	Ratio
+The more so as the rather random selection of documentary evidence which the parties have placed before the Court appears to raise doubts as to the correctness of both the existing pleading and its suggested replacement.	Ratio
+Neither deals with Mr John Lynchs sale (for a nominal consideration) of the disputed land (together with other land) by a disposition made on 17 June 2002 in favour of himself and two co-trustees.	Ratio
+Neither explains the references to two different companies, James Craig Ltd and James Craig (Farms) Ltd. Neither adverts to rectification being, in Scotland as in England, a discretionary remedy.	Ratio
+These difficulties cannot however amount to grounds for a principled dissent.	Ratio
+The appeal must be allowed for the reasons given by Lord Hope and Lord Reed.	RPC
+For the reasons given in the judgments of Lord Hope and Lord Reed, we too would allow the appeal.	RPC

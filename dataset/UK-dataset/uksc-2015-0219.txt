@@ -1,0 +1,266 @@
+The appellant Ms Vida Poshteh arrived in this country in 2003 as a refugee from Iran, where she had been subject to imprisonment and torture.	FAC
+She gained indefinite leave to remain in 2009.	FAC
+She lives with her son born in 2007.	FAC
+In October 2009 she applied to the respondent council for accommodation as a homeless person.	FAC
+Since then she has been housed in temporary accommodation provided by the council, which has been continued pending this appeal.	FAC
+The appeal arises from her refusal in November 2012 of a final offer of permanent accommodation at 52a Norland Road, London W11.	FAC
+Her grounds in short were that it had features which reminded her of her prison in Iran, and which would exacerbate the post-traumatic stress disorder, anxiety attacks and other conditions from which she suffered.	ARG
+Following a review, these grounds were held insufficient to justify her refusal.	RLC
+The councils decision was upheld on appeal by the County Court (HH Judge Baucher), and by the Court of Appeal (Moore-Bick and McCombe LJJ, Elias LJ dissenting).	RLC
+Permission to appeal to this court was granted on two issues: (1) Whether Ali v Birmingham City Council [2010] 2 AC 39 should be departed from in the light of Ali v United Kingdom (2015) 63 EHRR 20 and if so to what extent; (2) Whether the reviewing officer should have asked himself whether there was a real risk that the appellants mental health would be damaged by moving into the accommodation offered, whether or not her reaction to it was irrational, and if so, whether he did in fact apply the right test.	Ratio
+The first issue raises an issue of general importance relating to the application in this context of article 6 of the European Convention on Human Rights.	Ratio
+The second is directed to the reasoning of the reviewing officer in the particular case.	Ratio
+The law	STA
+It is unnecessary to rehearse the relevant provisions of the Housing Act 1996 Part VII in any detail.	Ratio
+As is well known, the local housing authority is under a duty to secure provision of suitable accommodation for a person who is homeless and in priority need, and has not become homeless intentionally.	Ratio
+The critical provisions in this case are section 193(7) and (7F) which deal with circumstances in which the duty ceases: (7) The local housing authority shall also cease to be subject to the duty under this section if the applicant, having been informed of the possible consequence of refusal and of his right to request a review of the suitability of the accommodation, refuses a final offer of accommodation under Part 6.	STA
+(7F) The local housing authority shall not - (a) make a final offer of accommodation under Part 6 for the purposes of subsection (7); unless they are satisfied that the accommodation is suitable for the applicant and that it is reasonable for him to accept the offer.	STA
+In the present case the issue turned not on the suitability of the accommodation, but on whether it was reasonable for the appellant to accept it.	Ratio
+The decision-makers task was described by Ward LJ in Slater v Lewisham London Borough Council [2006] EWCA Civ 394 (in terms which have not been criticised): In judging whether it was unreasonable to refuse such an offer, the decision-maker must have regard to all the personal characteristics of the applicant, her needs, her hopes and her fears and then taking account of those individual aspects, the subjective factors, ask whether it is reasonable, an objective test, for the applicant to accept.	PRE
+The test is whether a right- thinking local housing authority would conclude that it was reasonable that this applicant should have accepted the offer of this accommodation.	PRE
+(para 34)	PRE
+The applicant may request a review of an adverse decision, by a senior officer who was not involved in the original decision (section 202).	Ratio
+If the decision is confirmed, reasons must be given (section 203(4)).	Ratio
+An appeal lies to the county court on a point of law only (section 204(1)).	Ratio
+The proper approach of the court when reviewing such a decision was explained by Lord Neuberger in Holmes-Moorhouse v Richmond upon Thames London Borough Council [2009] UKHL 7; [2009] 1 WLR 413, paras 46ff.	PRE
+As he said: 47.	PRE
+review decisions are prepared by housing officers, who occupy a post of considerable responsibility and who have substantial experience in the housing field, but they are not lawyers.	PRE
+It is not therefore appropriate to subject their decisions to the same sort of analysis as may be applied to a contract drafted by solicitors, to an Act of Parliament, or to a courts judgment.	Ratio
+50.	Ratio
+Accordingly, a benevolent approach should be adopted to the interpretation of review decisions.	Ratio
+The court should not take too technical a view of the language used, or search for inconsistencies, or adopt a nit-picking approach, when confronted with an appeal against a review decision.	Ratio
+That is not to say that the court should approve incomprehensible or misguided reasoning, but it should be realistic and practical in its approach to the interpretation of review decisions.	Ratio
+The facts	FAC
+The background facts are set out in the leading judgment of McCombe LJ in the Court of Appeal.	FAC
+For present purposes it is sufficient to refer to the sequence of events following the offer of the accommodation in Norland Road on 14 November 2012.	FAC
+It was a first floor, two-bedroom flat in a purpose-built block dating from about 1985, owned by the Notting Hill Housing Group (NHHG).	FAC
+The living-room had two windows, one round window three feet in diameter, and the other rectangular three feet by five feet.	FAC
+Ms Poshteh went to see the flat on 16 November 2012, accompanied by a representative from NHHG.	FAC
+Her concerns about the physical features, not mentioned during the visit, were first raised in her letter of 29 November 2012, in which she said: [I] found the property scary given my history of post- traumatic stress.	FAC
+The windows in the sitting room were circle shaped and other windows were too small.	FAC
+The windows appeared to me as cell windows.	FAC
+I found them quite frightening and reminded me of when I was in prison in my country.	FAC
+I suffer from post-traumatic stress disorder, depression, panic and anxiety attacks, insomnia and nightmares due to torture that I experienced whilst back home in Iran.	FAC
+I therefore do not find it suitable to live in as my permanent home She enclosed letters from a therapist, and her GP (a Dr Sharma), which referred to her mental state and past trauma, and the need to avoid accommodation in a high rise building requiring a lift, but said nothing about the shape of the window.	FAC
+Her letter was treated by the council as a request for a review, which, following reference to the councils own medical advisers, led to confirmation of the decision.	FAC
+However, following her appeal to the county court, the council agreed to carry out a further review.	FAC
+A solicitors letter written on her behalf on 30 August 2013 expanded on her experience when viewing the property.	FAC
+This repeated her concerns, but for the first time stated that viewing the flat had sent her into a panic attack.	FAC
+The letter asserted (incorrectly) that the flat was in a high rise block with a lift.	FAC
+The solicitors also provided further letters relating to her medical condition, including a further letter from Dr Sharma, who understood the flat had been rejected - because the windows were very small and round and she felt like she was back in a prison and this made her scared because it reminded her of the torture she was subjected to.	FAC
+She thought that this type of property would be very unsuitable for her as it would continually trigger memories of her time in prison and the torture she suffered and this would not be good for mental state.	FAC
+A clinical therapist (Ms Baroni) wrote: In my opinion the effect of being housed in accommodation with very small dark rooms without windows at a normal height and looking out onto everyday life would inevitably remind her of both the cell she was confined in for six months, and the interrogation rooms she was tortured in on many occasions if she were housed in accommodation which would be frightening and stressful for her she might suffer a serious relapse and not be able to look after her son safely.	FAC
+On 7 October 2013 Ms Poshteh attended an interview with the reviewing officer.	FAC
+According to his note of the interview, her main reason for refusing the property was the round window in the living room which she said was exactly similar to the round windows of her cell in Iran.	FAC
+The note continues: When I questioned the applicant further about the window she admitted that the round window in the living room of the property was not exactly like the window in the prison cell.	FAC
+In fact, the applicant acknowledged that the window in the prison cell was much smaller and did not let in much light at all.	FAC
+She agreed with my description that it was like a porthole window.	FAC
+The applicant also acknowledged that there was a second large rectangular window located in the living room.	FAC
+However, she advised that it still led her to have a panic attack when she viewed the property.	FAC
+She stated that she could not adequately explain how she felt to the officer from NHHG who accompanied her to the viewing After discussion of other features of the flat which do not appear to have caused her serious concern, the note continues: Applicant stated at the interview that the property would have been OK as TA [temporary accommodation] but not as a permanent offer of accommodation in which she would have to live for ever.	FAC
+She confirmed again that this was because of the window which led her to think about her bad past She stated that she could not accept the property because of the round window in the living room.	FAC
+The reviewing officers decision came in a letter dated 17 October 2013, running to ten pages.	FAC
+He outlined the history of the case, including the medical evidence, the solicitors representations and the matters raised at the interview of 7 October, and he described the dimensions and physical features of the accommodation.	FAC
+The critical part begins at para 39 where, having found that the accommodation was objectively suitable, he said: I nevertheless acknowledge that objectively suitable accommodation may be unsuitable for a particular applicant if it causes them to suffer from symptoms of mental illness.	FAC
+Indeed, the main issue in reviewing our homelessness decision is to consider whether this offer of accommodation was reasonable for you to have accepted given your history of imprisonment and ill-treatment in Iran and your subsequent diagnosis of PTSD and associated problems of severe anxiety and depression.	FAC
+He then gave his reasons for answering that question in the affirmative (paras 41-45).	FAC
+He acknowledged that accommodation which is, for example, cramped or contains small or barred windows could exacerbate symptoms of PTSD in someone who has experienced trauma in prison.	FAC
+However, he thought it highly relevant that the medical evidence, while reporting her own concerns, did not purport to state that the property was unsuitable on medical grounds or that it was not reasonable for her to accept it.	FAC
+The clinical therapist had spoken of very small dark rooms without windows at a normal height and looking out onto everyday life as inevitably reminding her of her detention; but the reviewing officer did not think the property met this description.	FAC
+He turned to consider whether the assertions she had made to her physicians about the window size and the arrangement in the living room were consistent with the floor plan and photographs provided by NHHG: Far from being small, the circular window is in fact seven square feet in size and provides sufficient natural light to meet the relevant edition of the building regulations.	FAC
+When we discussed this at interview you acknowledged that the circular window was in fact much larger than the circular window in your prison cell, and that the only similarity lay in the fact that both were circular.	FAC
+Moreover, the circular window was not the only window in the living room, natural light being also provided by a large rectangular bay window (15 square feet in size) with views onto the street.	FAC
+The combination of these two windows far from creating the dark and airless conditions normally associated with a prison cell, maximised natural light in the living room.	FAC
+He continued: 45.	FAC
+Therefore, I cannot accept as objectively reasonable your assertion that the size or design of the window in the living room was reminiscent of a prison cell or that the windows or layout of the living room is such that it recreated the conditions of confinement or incarceration that is likely to have a significant impact on your mental health	FAC
+Having considered other factors, including the physical health of her and her child, he referred also to what he described as a social housing crisis in this borough and a severe shortage of permanent accommodation locally, which he regarded as a highly relevant factor in concluding that the offer was suitable and reasonable for her to have accepted (para 51).	FAC
+The proceedings	FAC
+As already noted, Ms Poshteh appealed unsuccessfully to the County Court.	RLC
+In the Court of Appeal there was a difference of view, McCombe LJ, with whom Moore-Bick LJ agreed, held that the reviewing officer had properly considered the relevant issues and reached a valid decision.	RLC
+Elias LJ held otherwise, focussing principally on the reasoning at the key passage in para 45 of the letter (set out above).	RLC
+As he put it: 50.	RLC
+The premise is that unless the relevant inciting stressor was one which, objectively considered, was reminiscent of a prison cell or recreated the conditions of confinement or incarceration, which this property did not, the panic attacks could effectively be ignored or at least treated as sufficiently trivial as not to be likely to affect her mental health.	RLC
+He thought this approach was flawed: If as a matter of fact the appellant would be likely to suffer panic or anxiety of such a nature and degree as to create a significant risk of damaging her mental health, it matters not whether it is an explicable or rational reaction.	RLC
+It would still be reasonable for the appellant to refuse the property, as in the El- Dinnaoui case.	RLC
+Alternatively, the officer might possibly have reasoned that absent an objectively explicable inciting stressor, any panic or anxiety induced by the premises would be minimal and unlikely to have an effect on the appellants mental health.	RLC
+If so, the analysis is still in my opinion flawed because there was no proper evidence to justify that inference.	RLC
+It is true that the medical evidence was to the effect that small and dark premises, obviously reminiscent of a prison cell, may well trigger the attacks, but that did not discount the possibility that the attacks may occur in other circumstances.	RLC
+In my judgment there was no basis for inferring simply from the nature of the inciting stressor that the attacks could not be significant enough to damage her mental health.	RLC
+(para 51)	RLC
+Moore-Bick LJ summarised what he understood to be the critical difference between the other judgments, and gave his own comment: 62.	Ratio
+The point on which my Lords are divided is whether Mr Stack wrongly dismissed as objectively unreasonable Ms Poshtehs assertion that the round window in the living room reminded her of her prison cell and as a result ignored her evidence of experiencing a panic attack when she visited the property.	Ratio
+If that were the case, I should agree with Elias LJ that he misdirected himself.	Ratio
+Ms Poshtehs reaction to the round window, as evidenced by her panic attack, was an objective fact, even if it was irrational, and was a matter to be taken into account.	Ratio
+However, reading para 45 as a whole in the context of the preceding paragraphs, I am not persuaded that Mr Stack did ignore Ms Poshtehs reaction when reaching his conclusion What Mr Stack actually said was that he did not accept as objectively reasonable her assertion that the size or design of the windows in the living room were reminiscent of a prison cell or that the windows or layout of the room recreated the conditions of confinement or incarceration that were likely to have a significant impact on her mental health.	Ratio
+The first of those observations cannot in my view be criticised, since the size and design of the windows were not on any objective view reminiscent of a prison cell.	Ratio
+Whether the windows or layout of the room recreated conditions of confinement or incarceration that were likely to have a significant impact on Ms Poshtehs mental health, on the other hand, was a matter of judgment which had to be determined by reference not only to the nature of the inciting stressor or her perception of the property but to the evidence as a whole	Ratio
+In the case to which Elias LJ referred (El-Dinnaoui v Westminster City Council [2013] EWCA Civ 231; [2013] HLR 23), the appellants wife had a medically-confirmed history of anxiety due to fear of heights.	Ratio
+They were offered a flat on the 16th floor.	Ratio
+She became distressed on leaving after the inspection and collapsed at the lift, and an ambulance had to be called.	Ratio
+The councils decision that this flat was suitable or reasonable for her to occupy was held by the Court of Appeal to be perverse and so unlawful.	Ratio
+Issue (1) application of article 6.1	Ratio
+Article 6.1 of the Convention provides: In the determination of his civil rights and obligations everyone is entitled to a fair and public hearing within a reasonable time by an independent and impartial tribunal established by law	STA
+In Ali v Birmingham City Council [2010] 2 AC 39 this court decided that the duties imposed on housing authorities under Part VII of the 1996 Act did not give rise to civil rights or obligations, and that accordingly article 6 had no application.	PRE
+In Ali v United Kingdom (2015) 63 EHRR 20 the European Court of Human Rights (in a chamber presided over by the President Judge Raimondi) held that article 6.1 did apply, but accepted in any event that the procedure applied under the Act conformed to its requirements.	PRE
+The government did not at that stage ask for the issue to be referred to the Grand Chamber.	PRE
+This appeal provides the first opportunity for this court to decide whether the approach of the Strasbourg court should now be followed in this country, and if so with what practical consequences.	Ratio
+The Secretary of State, as intervener, has invited us to confirm the decision of this court that article 6 has no application.	Ratio
+His concern is as to the effect on decision-making procedures of extending article 6 into both this and other areas of government activity relating to community care and education.	Ratio
+The domestic authorities	Ratio
+In Ali v Birmingham City Council the courts conclusion that article 6 was not engaged by section 193 turned principally on the nature of the right so granted.	PRE
+In the words of the headnote: a distinction could be drawn between the class of social security and welfare benefits whose substance was defined precisely, and which could therefore amount to an individual right of which the applicant could consider herself the holder, and those benefits which were, in their essence, dependent upon the exercise of judgment by the relevant authority; that cases in the latter category, where the award of services or benefits in kind was dependent upon a series of evaluative judgments by the provider as to whether the statutory criteria were satisfied and how the applicants need ought to be met, did not amount to a civil right within the autonomous meaning which was given to that expression for the purposes of article 6 The right to accommodation under section 193 was held to fall within the latter category, and therefore outside the scope of article 6.	PRE
+This was the unanimous conclusion of the court following detailed consideration of the authorities domestic and European.	PRE
+The case was decided against the background of two domestic cases, in which this or related issues had been discussed at the highest level, but not decided: Runa Begum v Tower Hamlets London Borough Council [2003] 2 AC 430 (in which the House had proceeded on the assumption, without deciding, that article 6 was engaged by section 193); and R (A) v Croydon London Borough Council [2009] 1 WLR 2557 (relating to a local authority decision whether or not to provide accommodation for a child in need under section 20(1) of the Children Act 1989).	PRE
+In the latter case Lady Hale (with whom the other justices agreed), found it unnecessary to reach any firm conclusions on the application of article 6 (para 34), but, after a review of the authorities, commented that she would be most reluctant to accept, unless driven by Strasbourg authority to do so, that article 6 requires the judicialisation of claims to welfare services of this kind, where every decision about the provision of welfare services has resource implications for the public authority providing the service (para 44).	PRE
+Concurring, but without specific agreement from the rest of the court, Lord Hope felt that it could now be asserted with reasonable confidence that the authoritys duty under section 20(1) did not give rise to a civil right (para 65).	PRE
+In Ali itself, Lord Hope giving the leading speech (agreed by Lady Hale and Lord Brown) noted Lord Hoffmanns observation in Runa Begum (paras 42-44) that it was not in the public interest for funds allocated to social welfare schemes to be unduly consumed in administration and legal disputes, quoting with approval the joint dissenting opinion in Feldbrugge v The Netherlands (1986) 8 EHRR 425, 443, para 15: The judicialisation of dispute procedures, as guaranteed by article 6.1, is eminently appropriate in the realm of relations between individuals but not necessarily so in the administrative sphere, where organisational, social and economic considerations may legitimately warrant dispute procedures of a less judicial and formal kind.	PRE
+Lord Hope observed that the article had now been extended to public law rights, such as social security or other cash under publicly funded schemes, but that no clearly defined stopping point to this process of expansion had been identified.	PRE
+He saw the instant case as an opportunity to introduce a greater degree of certainty into this area of public law (paras 5-6).	PRE
+He noted that in Runa Begum the House had preferred not to decide the question, one reason being the wish not to inhibit the government from developing the arguments in the Strasbourg court should it become necessary to do so (para 31); the balance of advantage now pointed in the direction of taking a decision and so ending the unhealthy uncertainty in the law (para 32).	PRE
+Reviewing the judgments in Runa Begum itself (paras 38-39), he noted with approval comments by Lord Bingham that to hold this to be a civil right would go further then Strasbourg had yet gone; by Lord Hoffmann that the whole scheme of Part VII was shot through with discretions ; by Lord Millett that, given the authority's discretion as to how it will discharge its duties and the fact that ultimately this called for an exercise of judgement, the claim could not be said to be for an individual, economic right flowing from specific rules laid down in a statute.	PRE
+He reviewed the relevant authorities since Runa Begum, including the Croydon case.	PRE
+Of the Strasbourg authorities Lord Hope noted in particular Tsfayo v United Kingdom [2007] BLGR 1; 48 EHRR 18, commenting there had been no dispute that the claim to housing benefit in that case concerned the determination of the applicants civil rights: This was not surprising, as the case fell within the mainstream of cases such as Salesi v Italy 26 EHRR 187 and Mennitto v Italy 34 EHRR 1122 where the issue was one as to the entitlement to an amount of benefit that was not in the discretion of the public authority.	PRE
+The case offers important guidance as to what is needed to satisfy the requirements of article 6.1.	PRE
+But it takes us no further on the question whether a statutory duty to provide benefits in kind as part of a scheme of social welfare falls within the scope of that article.	PRE
+(para 42) He referred to a number of straws in the wind in other cases pointing the other way, and supporting a distinction between - ... the class of social security and welfare benefits that are of the kind exemplified by Salesi v Italy 26 EHRR 187 whose substance the domestic law defines precisely and those benefits which are, in their essence, dependent upon the exercise of judgment by the relevant authority.	PRE
+(para 43) He referred for example to Loiseau v France (Application No 46809/99), 18 November 2003 (unreported), para 7 where the court had referred to a private right which can be said, at least on arguable grounds, to be recognised under domestic law and to an individual right of which the applicant may consider himself the holder.	PRE
+He concluded that article 6 was not engaged by decisions taken by the review officer (para 49).	PRE
+Lord Collins referred also to the decision in Schuler-Zgraggen v Switzerland (1993) 16 EHRR 405, relating to a contributory invalidity scheme, in which the Strasbourg court had spoken of the claim as being for an individual, economic right flowing from specific rules laid down in a federal statute (para 65).	PRE
+He distinguished the content of the statutory duty under section 193 which lacks precision and gave no right to any particular accommodation.	PRE
+Such factors together with the essentially public nature of the duty meant that it did not give rise to an individual economic right (para 73).	PRE
+To similar effect, Lord Kerr acknowledged the difficulty of finding a principled basis for the distinction between social security payments and social welfare provision, given that both require the expenditure of public resources, provide a valuable resource to the recipient; and are activated by a need on the part of the beneficiary.	Ratio
+He concluded however that - the lack of similarity to (or, rather, the distinction that can be made with) a private insurance scheme, and the dependence on discretionary judgments not only to establish entitlement but also to discharge the states obligation and the way in which the obligation can be met, all combine to make this a different type of case from the Salesi v Italy (1993) 26 EHRR 187 or Mennitto v Italy (2000) 34 EHRR 1122 models.	Ratio
+This is not an assertable right as that term was used in Stec v United Kingdom (2005) 41 EHRR SE 295.	Ratio
+(para 75)	Ratio
+I should note briefly Nzolameso v Westminster City Council [2015] UKSC 22; [2015] PTSR 549, the most recent Supreme Court decision to which we were referred on Part VII of the 1996 Act (taken with the Children Act 2004).	Ratio
+That was principally concerned with the circumstances in which the authority could reasonably make a final offer of accommodation in another area (in that case more than an hour away from where she and her family had lived for many years).	Ratio
+The councils decision was set aside on the facts of the case.	Ratio
+However, the court recognised the pressures facing authorities dealing with such cases, and the range of considerations which needed to be taken into account, including the resources available to them, the availability of accommodation in their own areas, and the similar pressures on adjoining authorities.	Ratio
+Finally, of the domestic authorities, mention should be made of R (King) v Secretary of State for Justice [2016] AC 384; [2015] UKSC 54, in which it was held that a disciplinary decision by a prison governor to order segregation did not engage article 6.1.	PRE
+Lord Reed (in a judgment agreed by the other members of the court) referred (para 113) to the Grand Chamber judgment in Boulois v Luxembourg (2012) 55 EHRR 32, concerned with release on licence, in which the court had said that for the civil limb of article 6.1 to be engaged there must be a dispute over a right which can be said, at least on arguable grounds, to be recognised under domestic law, adding (para 91): The court may not create by way of interpretation of article 6.1 a substantive right which has no legal basis in the state concerned.	PRE
+The starting-point must be the provisions of the relevant domestic law and their interpretation by the domestic courts.	PRE
+This court would need strong reasons to differ from the conclusions reached by the superior national courts by finding, contrary to their view, that there was arguably a right recognised by domestic law.	PRE
+Later in the judgment Lord Reed noted that the article had also been applied to cases concerning rights in public law regarded as closely resembling rights in private law, such as rights to state benefits.	PRE
+He commented that in Ali v Birmingham City Council - the critical feature of cases in the latter category was identified as being that the benefits in question were the subject of precise definition and could therefore amount to an individual right of which the applicant could consider herself the holder.	PRE
+Those were distinguished from benefits which were, in their essence, dependent on the exercise of judgment by the relevant authority.	PRE
+That is consistent with the approach adopted by the Grand Chamber in Boulois.	PRE
+(para 121)	PRE
+Ali v United Kingdom	PRE
+I turn to the judgment of the Strasbourg court.	Ratio
+As part of the history of the case (paras 20-24) it referred to extracts from Lord Hopes judgment in Ali v Birmingham City Council (paras 20-24), but without further discussion of the courts reasoning.	Ratio
+Under a section headed Judicial consideration of Part VII of the Housing Act 1996 it referred to only two cases: Adan v Newham London Borough Council [2002] 1 WLR 2120 CA, and Runa Begum in this court.	Ratio
+Of the former, the judgment noted that the Court of Appeal had set aside the order of the County Court on jurisdictional grounds, but had gone on in an extended obiter dictum to consider the effect of article 6: In this regard, Hale LJ opined that the right to accommodation under section 193 is more akin to a claim for social security benefits than it is a claim for social or other services, where the authorities have a greater degree of discretion and resource considerations may also be relevant.	Ratio
+(para 32) Of Runa Begum, the judgment referred to the courts conclusion that the review mechanism under Part VII complied with article 6, assuming it applied.	Ratio
+On the issue whether article 6 did apply, the only citation was of the comments of Lord Millett (paras 91 and 93), in which he had noted the features which took the case beyond the existing case law, and which made it inappropriate for determination by the ordinary judicial process; but had found it more difficult, at least in principle, to justify withdrawing it from the protection of article 6.1.	Ratio
+The court summarised the submissions of the parties, including the submission on the part of the UK government that the applicant had only a general right to be housed, not to any specific property; this was contrasted with the provision of a financial benefit where both the entitlement and the amount were determined by a clear set of conditions (para 49).	Ratio
+Under the heading The Courts assessment the judgment began by setting out general principles including the need to start from the interpretation of the relevant provisions by the domestic courts (para 54).	Ratio
+On the application of those principles to the facts of the case, it is appropriate to set out the substance of the reasoning in full: 56.	Ratio
+In the case of [Runa] Begum the House of Lords accepted that section 193(2) of the 1996 Act imposed a duty on the Council to secure that accommodation was available for occupation by Ms Begum.	Ratio
+Thus, a duty was owed which was enforceable by Ms Begum and which related to a matter of acute concern for her.	Ratio
+In the present case the Council acknowledged in its letter of 7 November 2006 to the applicant that it owed her the main housing duty to provide accommodation to her and her family The Government also accept that she had a general right to be housed although the applicant could not point to any property to which she had any right.	Ratio
+57.	Ratio
+The Court is satisfied that in the present case the applicant had a legally enforceable right by virtue of section 193 of Part VII of the 1996 Act to be provided with accommodation, albeit that this was a right that could cease to exist in certain conditions Moreover, the court proceedings in question clearly concerned a dispute over the continuing existence, if not the content, of that right; the dispute was genuine and serious; and the result of the proceedings was directly decisive for the right in question.	Ratio
+It therefore falls to the Court to decide whether or not the right in question was a civil right for the purposes of article 6 para 1 of the Convention.	Ratio
+58.	Ratio
+It is now well-established that disputes over entitlement to social security or welfare benefits generally fall within the scope of article 6 para 1 of the Convention [the footnote cites eg Tsfayo v United Kingdom 48 EHRR 18 para 40, Feldbrugge v Netherlands 8 EHRR 425, Deumeland v Germany (1986) 8 EHRR 448 and Schuler-Zgraggen v Switzerland 16 EHRR 405].	Ratio
+The Court has even recognised a right to a non- contributory welfare benefit as a civil right [citing eg Salesi v Italy (1993) 26 EHRR 187, para 19, and Tsfayo v United Kingdom, para 40].	Ratio
+However, the present case differs from previous cases concerning welfare assistance, as the assistance to be provided under section 193 of the 1996 Act not only was conditional but could not be precisely defined [comparing eg Tsfayo, in which the dispute concerned a fixed financial amount of housing benefit].	Ratio
+It concerns, as the Government noted, a benefit in kind and the Court must therefore consider whether a statutory entitlement to such a benefit may be a civil right for the purposes of article 6 para 1 59.	Ratio
+It is true that accommodation is a benefit in kind and that both the applicants entitlement to it and the subsequent implementation in practice of that entitlement by the Council were subject to an exercise of discretion.	Ratio
+Nonetheless, the Court is not persuaded that all or any of these factors necessarily militate against recognition of such an entitlement as a civil right.	Ratio
+For example, in Schuler-Zgraggen v Switzerland 16 EHRR 405, in which the applicants entitlement to an invalidity pension depended upon a finding that she was at least 66.66% incapacitated, the Court accepted that article 6 para 1 applied.	Ratio
+In any case, the discretion in the present case had clearly defined limits: once the initial qualifying conditions under section 193(1) had been met, pursuant to section 206(1) the Council was required to secure that accommodation was provided by one of three means, namely by providing accommodation itself; by ensuring that the applicant was provided with accommodation by a third party; or by giving the applicant such advice and assistance to ensure that suitable accommodation was available from a third party.	Ratio
+In this regard, the Court agrees with Hale LJ in Adan v Newham London Borough Council, in which she opined that the right to accommodation under section 193 is more akin to a claim for social security benefits than it is a claim for social or other services, where the authorities have a greater degree of discretion and resource considerations may also be relevant.	Ratio
+60.	Ratio
+In light of the above, as far as the applicability of article 6 para 1 is concerned, the Court sees no convincing reason to distinguish between the applicants right to be provided with accommodation, as acknowledged by the Council in its letter of 7 November 2006, and the right to housing benefit asserted by the applicant in Tsfayo.	Ratio
+Article 6 para 1 therefore applies and, as such, the applicant had a right to a fair hearing before an independent and impartial tribunal.	Ratio
+Having decided that article 6 did apply, the court agreed with the domestic courts that the procedure under Part VII was compliant, notwithstanding that the County Court did not have jurisdiction to conduct a full rehearing of the facts (para 83), but taking as a whole the legislative welfare scheme by virtue of which the applicant, as a homeless person, derived her civil right to be provided with accommodation (para 87).	Ratio
+Discussion of issue (1)	Ratio
+The review of the domestic authorities noted above, from Runa Begum onwards, shows a continuing debate on this issue, against the background of the uncertain Strasbourg jurisprudence.	Ratio
+The unanimous judgment of this court in Ali v Birmingham City Council was intended to settle the issue at domestic level, after a full review of all the relevant Strasbourg authorities.	Ratio
+Against this background it is necessary to consider whether the reasoning in the recent Chamber decision makes it necessary or appropriate for us to depart from that decision.	Ratio
+The Chamber acknowledged (in line with the Grand Chamber decision in Boulois) the weight to be given to the interpretation of the relevant provisions by the domestic courts.	Ratio
+It is disappointing therefore that it failed to address in any detail either the reasoning of the Supreme Court, or indeed its concerns over judicialisation of the welfare services, and the implications for local authority resources (see para 23 above).	Ratio
+Instead the Chamber concentrated its attention on two admittedly obiter statements, respectively by Hale LJ (as she then was) in the Court of Appeal in Adan, and Lord Millett in Runa Begum.	Ratio
+However, its treatment of these two statements is open to the criticism that they were taken out of context, and without regard to their limited significance in the domestic case law.	Ratio
+In Adan the application of article 6 had been conceded by counsel.	Ratio
+It is not clear that the passage quoted from the judgment of Hale LJ (para 55) was doing more than recording the basis of the concession.	Ratio
+It is true that the passage was mentioned with approval by Lord Hoffmann in Runa Begum (paras 66-69).	Ratio
+However, her own considered view on the issue is apparent from both her own judgment in the Croydon case, and her agreement with the leading judgment in Ali (in which Adan did not merit a mention).	Ratio
+Nor is it clear from the decision that the Chamber fully appreciated the width of the discretion given to the authority, including questions of resource allocation (emphasised by Lady Hale herself in other cases).	Ratio
+Lord Milletts comments needed to be read with the following sentence of his speech, which expressed his view that most European states possess limited judicial control of administrative decisions so that, if article 6 did not apply, such decisions might be outside judicial control altogether (para 93).	Ratio
+It would have been interesting to know to what extent that perception of the inadequacies of other administrative law systems was shared by the members of the Chamber, with the benefit of their more direct knowledge.	Ratio
+In any event, Lord Milletts views on this point were not shared by the rest of the House, and were overtaken by the considered and unanimous view of this court in Ali itself.	Ratio
+Questionable also, with respect, is the Chambers reliance on the decision in Schuler-Zgraggen v Switzerland as an example of entitlement subject to discretion.	Ratio
+As Lord Collins pointed out in Ali (at para 61), it was treated by the 1993 court as a claim to an individual economic right flowing from specific rules laid down in the statute.	Ratio
+The case report shows that the statute in question gave a right to a full invalidity pension where incapacity of at least 66.66% was established (para 35).	Ratio
+Once that level of incapacity was established, the financial entitlement followed as a matter of right, not discretion.	Ratio
+It is hard to see any fair comparison with the range of factors, including allocation of scare resources, to which authorities are entitled to have regard in fulfilling their obligations under the housing legislation.	Ratio
+In fairness to the Chamber, it may be that this was not spelt out in the governments submissions, as fully as it has been in recent domestic cases (see eg para 27 above).	Ratio
+Our duty under the Human Rights Act 1998 section 2 is take account of the decision of the court.	Ratio
+There appears to be no relevant Grand Chamber decision on the issue, but we would normally follow a clear and constant line of chamber decisions (see Manchester City Council v Pinnock [2011] 2 AC 104, para 48).	Ratio
+This might perhaps be said of some of the previous decisions referred to in the judgment, including most recently Tsfayo v United Kingdom (2006) in which the application of article 6 was conceded by the government.	Ratio
+However, it is apparent from the Chambers reasoning (see para 58 cited above) that it was consciously going beyond the scope of previous cases.	Ratio
+In answer to Lord Hopes concern that there was no clearly defined stopping point to the process of expansion, its answer seems to have been that none was needed.	Ratio
+That is a possible view, but one which should not readily be adopted without full consideration of its practical implications for the working of the domestic regime.	Ratio
+The scope and limits of the concept of a civil right, as applied to entitlements in the field of public welfare, raise important issues as to the interpretation of article 6, on which the views of the Chamber are unlikely to be the last word.	Ratio
+In my view, this is a case in which, without disrespect to the Chamber, we should not regard its decision as a sufficient reason to depart from the fully considered and unanimous conclusion of the court in Ali.	Ratio
+It is appropriate that we should await a full consideration by a Grand Chamber before considering whether (and if so how) to modify our own position.	Ratio
+Issue (2) - the correct test and reasons	Ratio
+I turn to the second issue which was the subject of decision in the courts below.	Ratio
+In this court Mr Westgate QC for Ms Poshteh supports the judgment of Elias LJ.	Ratio
+In addition he relies on the public sector equality duty under section 149 of the Equality Act 2010 as underlying the sharp focus which should have been given by the officer to the effects of the applicants disability.	Ratio
+For this purpose, he has subjected the decision letter to exhaustive critical analysis.	Ratio
+In summary he says that letter fails to explain the link between the objective reasonableness or otherwise of Ms Poshtehs assertion that the round window reminded her of a prison cell, and the rejection of her claim that it would have a significant impact on her mental health.	Ratio
+Nor did the letter-writer address adequately the subjective factors underlying her claim.	Ratio
+In particular he should have addressed explicitly the panic attack suffered by her when she visited the property.	Ratio
+This was a subjective fact, even if (as she was said to have admitted at the interview) the round window was not exactly like the one in her prison cell.	Ratio
+In my view, the appeal on this issue well illustrates the relevance of Lord Neubergers warning in Holmes-Moorhouse (para 7 above) against over-zealous linguistic analysis.	Ratio
+This is not to diminish the importance of the responsibility given to housing authorities and their officers by the 1996 Act, reinforced in the case of disability by the Equality Act 2010.	Ratio
+The length and detail of the decision-letter show that the writer was fully aware of this responsibility.	Ratio
+Viewed as a whole, it reads as a conscientious attempt by a hard-pressed housing officer to cover every conceivable issue raised in the case.	Ratio
+He was doing so, as he said, against the background of serious shortage of housing and overwhelming demand from other applicants, many no doubt equally deserving.	Ratio
+He clearly understood the potential importance of considering her mental state against the background of her imprisonment in Iran.	Ratio
+His description of the central issue (para 39) has not been criticised.	Ratio
+It is true that he did not in terms address her claim to have suffered a panic attack.	Ratio
+But it is hard to criticise him for giving little weight to an incident which she had not mentioned at the time, either to the NHHG officer who accompanied or in her initial letter, nor apparently to either of her medical advisers.	Ratio
+In this respect it was a very different case from El-Dinnaoui, to which Elias LJ referred (para 17 above), where the effect was immediate and obvious, and consistent with previous medical advice.	Ratio
+Nor, on the other side, did he hold against her her admission at interview that, whatever her reaction during the visit, the flat would have been acceptable on a temporary basis.	Ratio
+In any event, the issue for him was not her immediate reaction on one short visit, but how she would reasonably have been expected to cope with living there in the longer term.	Ratio
+On that he was entitled to give weight to the medical evidence submitted by her, and to consider how far it supported her case.	Ratio
+Taken in isolation the first sentence of para 45 could have been better expressed.	Ratio
+But read in the context of the preceding paragraphs the tenor is reasonably clear.	Ratio
+The medical evidence was based on a false premise; the assertions she had apparently made to them about the physical features of the property did not match the facts.	Ratio
+This was a point he had fairly put to her at the interview, and she was unable to provide a convincing answer.	Ratio
+It might well have been unreasonable to offer her (in the clinical therapists words) accommodation with very small dark rooms without windows at a normal height and looking out onto everyday life.	Ratio
+But that was not a reasonable description of this particular property, nor a sufficient ground for her not accepting it.	Ratio
+Seen in that light there is no difficulty in understanding his reasoning overall.	Ratio
+Nor does it disclose any error of law.	Ratio
+Finally I should notice Mr Westgates invitation to the court to address questions related to the standard of review by the court.	Ratio
+He developed an elaborate argument by reference to recent authorities supporting a more flexible approach in different contexts, particularly where fundamental rights are a stake (eg Pham v Secretary of State for the Home Department [2015] 1 WLR 1591).	Ratio
+This issue was not one on which permission to appeal was given, nor has Mr Westgate offered any convincing reason for extending its scope.	Ratio
+I bear in mind also Lord Neubergers comments on the potentially profound constitutional implications of a decision to replace the traditional Wednesbury tests for administrative decisions in general (R (Keyu) v Secretary of State for Foreign and Commonwealth Affairs [2016] AC 1355, para 132).	Ratio
+I would agree with Mr Westgate that, since the creation of a statutory right of appeal to the county court, recourse to the highly restrictive approach adopted 30 years ago in the Puhlhofer case (R v Hillingdon London Borough Council, Ex p Puhlhofer [1986] AC 484) is no longer necessary or appropriate.	Ratio
+However, the principles governing the right of appeal to the county court under the 1996 Act have been authoritatively established by the House of Lords in Runa Begums case and others following it (including Holmes-Moorhouse), and should be taken as settled.	Ratio
+Proliferation of authorities	Ratio
+Before leaving the case, I feel bound to say something about the volume of authorities presented in the court bundles.	Ratio
+UKSC Practice Direction 6 deals with the form and content of such volumes (paras 6.5.2ff).	Ratio
+The appellants are responsible for production of authorities in paper form in sufficient numbers for the court, subject in due course to the courts decisions on costs.	Ratio
+Paragraph 6.5.5 states: I would accordingly dismiss the appeal on the second issue.	Ratio
+The Court has on numerous occasions criticised the over- proliferation of authorities.	Ratio
+It should be understood that not every authority that is mentioned in the parties printed cases need be included in the volumes of authorities.	Ratio
+They should include only those cases that are likely to be referred to during the oral argument or which are less accessible because they have not been reported in the Law Reports.	Ratio
+In this case the court was presented with eight bundles, including more than 90 cases, reproduced in full, together with 20 other items of statutory material, guidance and textbook extracts (extending in total to some 2,700 pages).	Ratio
+The intervention of the Secretary of State was accompanied by two additional bundles, extending to more than 1,000 pages, and including 13 further authorities.	Ratio
+The most relevant cases were helpfully, and correctly (PD6 para 6.5.2), brought together in the appellants volumes 1 and 2.	Ratio
+Of the remainder the vast majority were not referred to in oral argument, and were unlikely on any view to be more than peripheral to the determination of the issues on which permission had been given.	Ratio
+I take as an example volume 4 headed Precedent - whether to depart from previous/follow Europe (or not).	Ratio
+This volume included no less than seven House of Lords or Supreme Court authorities, totalling almost 350 pages.	Ratio
+The volume was not opened during the hearing.	Ratio
+The propositions which the cases were apparently intended to support were familiar, uncontentious, and adequately summarised with appropriate citations, in the printed cases.	Ratio
+Similarly, the subjects covered by volume 6 (absence of proper reasons and standard of scrutiny) can be taken as sufficiently familiar to the court not to require extensive citation; still less the inclusion in the bundle of the whole of the Wednesbury case [1948] 1 KB 223 (12 pages), Edwards v Bairstow [1956] AC 14 (26 pages) and Kennedy v Charity Commission [2015] AC 455 (107 pages).	Ratio
+It is essential that those involved in the preparation of these bundles, whether as counsel or solicitors, take full responsibility for keeping their contents within reasonable bounds and exercise restraint.	Ratio
+The warning against proliferation of authorities is intended for the protection not just of the court, but more for the parties on whom the costs will ultimately fall.	Ratio
+In many cases (as I assume in this case) they will be borne in one way or another from public sources.	Ratio
+Conclusion	RPC
+For these reasons I would dismiss the appeal, and confirm the decision of the reviewing officer.	RPC

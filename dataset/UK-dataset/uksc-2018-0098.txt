@@ -1,0 +1,222 @@
+This appeal concerns what is sometimes called a fully qualified covenant in a lease of real property.	FAC
+Leases commonly contain a series of covenants by the tenant not to do things, typically relating to assignment, sub-letting and the use of the demised premises.	FAC
+By what is called a qualified covenant, the tenant promises not to do something without the landlords consent.	FAC
+By a fully qualified covenant, the tenant promises not to do something without the landlords consent, not to be unreasonably withheld.	FAC
+In the present case, the tenant promised not to apply for any planning permission without the consent of the landlord, not to be unreasonably withheld.	FAC
+The tenant wished to apply for planning permission for a change of use of part of the demised premises, from business to residential use, but the landlord refused consent on the ground that this would substantially increase the risk that the tenant could compulsorily acquire the freehold reversion under the Leasehold Reform Act 1967.	FAC
+The tenant claimed that the landlord was unreasonably withholding consent.	FAC
+Both the judge and the Court of Appeal agreed.	FAC
+This was in their view because, although the premises were in mixed use at the time of its grant, the lease permitted the tenant to use the whole of the premises for residential purposes.	FAC
+Since this inevitably exposed the landlord to the risk of a compulsory purchase of the freehold (enfranchisement), to refuse permission to the tenant to seek planning permission for a change of use of part of the premises to residential use was to seek to obtain an uncovenanted advantage falling outside the purpose of the fully qualified covenant against seeking planning permission.	FAC
+The landlord appeals to this court, upon the basis that protection against an increased risk of enfranchisement is a well-recognised and legitimate reason for refusing consent under a fully qualified covenant, within the general purposes of restrictive covenants in leases, namely the protection of the value of the reversion and, a fortiori, its very existence.	FAC
+The Facts	FAC
+The leasehold property in question is a terraced building at 51 Brewer Street London W1, being part of the appellants Soho estate which includes numbers 39- 61 (odd numbers) Brewer Street.	FAC
+No 51 is constructed over six floors including a basement.	FAC
+The basement and ground floor are, in area, much greater than any of the upper floors.	FAC
+By a lease dated 4 April 1986 (the Lease) the whole of No 51 was let by Standard Wharf (No 2) to Burgess & Galer Ltd for a 100 year term from 25 December 1985, for a premium of 200,000 and a peppercorn rent.	FAC
+The respondent has been the tenant under the Lease since 1998.	FAC
+The appellant is now the successor in title to the reversion under the Lease, as freeholder of No 51.	FAC
+The whole of No 51 has since October 1998 been sublet, initially to Cusdens (Victoria) Ltd and, following an assignment, since 2008 to Romanys Ltd, under two successive sub- leases, the second of which will expire in September 2023.	FAC
+The Lease contains the following relevant tenants covenants.	FAC
+Clause 3(11) contained a general user covenant in the following terms: Not to use the Demised Premises otherwise than for one or more of the following purposes (a) retail shop (b) offices (c) residential purposes (d) storage (e) studio PROVIDED however that nothing herein contained shall imply or be deemed to be a warranty that the Demised Premises may in accordance with all Town Planning Laws and Regulations now or from time to time in force be used for the purpose above mentioned.	FAC
+By clause 3(15) the Lease contained further specific user covenants prohibiting, for example, noxious noisy or offensive trades, illegal or immoral acts, use as a sex shop, use for an auction, for holding of public meetings or entertainments or use as a betting shop, public house, restaurant, off-license or wine bar.	FAC
+By clause 3(19) the tenant covenanted as follows: To perform and observe all the provisions and requirements of all statutes and regulations relating to Town and Country Planning and not to apply for any planning permission without the prior written consent of the Landlord such consent not to be unreasonably withheld This is the fully qualified covenant in issue on this appeal.	FAC
+The Lease permitted assignment of the whole (but not part) of the premises and a sub-letting of the whole or part of the premises otherwise than during the last seven years of the term, in relation to which there was a fully qualified covenant.	FAC
+At the time of the grant of the Lease in 1986, the ground floor and basement of No 51 were in retail use.	FAC
+The first and second floors were used for storage and as a staff area in connection with the retail use on the lower floors.	FAC
+The top two floors were in occasional residential use.	FAC
+At all material times the permitted use of No 51 in planning terms has been as follows: for the ground floor and basement it is retail; for the first and second floors it is office/ancillary; for the top two floors it is residential.	FAC
+Between 2013 and 2015 Romanys carried out, and the respondent paid for, building works on the four upper floors of No 51 by which each floor was converted into a self-contained flat.	FAC
+Although this was carried out with knowledge of the landlord, it reserved its rights to refuse an application for permission to apply for a change of use under clause 3(19) of the Lease, in respect of the first and second floors.	FAC
+Following the completion of those works, the top two floors of No 51 have been let to residential tenants but, pending the obtaining of planning permission for consent to a change of use, the first and second floors remain vacant.	FAC
+At the time of the grant of the Lease in 1986, the freeholder faced no immediate risk of enfranchisement because the 1967 Act imposed a residence qualification on a tenant which could not be satisfied by a limited company.	FAC
+That qualification was however removed by the Commonhold and Leasehold Reform Act 2002.	FAC
+Nonetheless the proportion of No 51 in residential use did not, for as long as it was confined to the top two floors, amount to a sufficient proportion of the whole building to give rise to a real risk of enfranchisement, because the building could not, in that state of occupation, be described as a house reasonably so called within the meaning of section 2(1) of the 1967 Act.	FAC
+It is common ground that it was for that reason that, having served a notice of claim to acquire the freehold under the 1967 Act in October 2012, the respondent abandoned it in January 2013.	FAC
+But the judge (Judge Collender QC) found, and it is not now in dispute, that if (as he thought likely) the respondent were to obtain planning permission for a change of the use of the first and second floor to residential, this would, in his words, substantially enhance the respondents prospects of obtaining enfranchisement.	FAC
+On 17 April 2015 the respondent applied under clause 3(19) of the Lease for permission from the appellants predecessor in title (Tuesday One) to apply for planning permission to change the use of the first and second floors of No 51 to residential, on the basis that residential use of those two floors was permitted by clause 3(11).	FAC
+In its reply refusing consent dated 30 April 2015, Tuesday One identified the increased risk of a successful claim to enfranchise under the 1967 Act as its reason for refusal.	FAC
+Without admitting that an enfranchisement claim would then necessarily succeed, the refusal letter continued: The effect of a successful claim to enfranchise would not merely damage the reversion; it would deprive our client of its reversion in the Premises entirely.	FAC
+Furthermore, it would deprive our client of control for estate management purposes of the block containing the Premises, which would have an adverse impact on the value of our clients investment in the block.	FAC
+It is common ground on the pleadings in the litigation which ensued that one purpose of the respondents contemplated planning application was indeed to improve its prospects of a successful claim for enfranchisement.	FAC
+Tuesday Ones refusal of consent under clause 3(19) was the casus belli for this litigation.	FAC
+The respondent was successful, both at trial and in the Court of Appeal, in its contention that consent to its intended planning application had been unreasonably withheld.	FAC
+The respondents success turned upon a perception by both the courts below (although for slightly different reasons) about what was and was not, as a matter of construction of the Lease, the purpose of clause 3(19).	FAC
+In his careful and comprehensive judgment Judge Collender put it this way: I accept that the purpose of the covenant at clause 3(19) of the lease is to protect the lessor from the possible effect of an application for planning permission, because as the owner of the land, it could be subject to enforcement action if there were a breach of a planning obligation.	RLC
+I accept the argument that it is not to enable the lessor to restrict or limit the permitted use under clause 3(11).	RLC
+In my judgment, the lessors refusal of consent under clause 3(19) is unreasonable because thereby they are seeking to achieve a collateral purpose, ie the imposition of a restriction on use that was not negotiated and is not included within clause 3(11).	RLC
+Giving the leading judgment in the Court of Appeal ([2018] Ch 603) Sir Terence Etherton MR agreed generally with the judges reasoning.	RLC
+In his view, the key reason why clause 3(19) could not be construed as having been intended to permit the landlord to refuse to consent to an application for planning permission for a use authorised by clause 3(11) which increased the risk of enfranchisement was because any third party, other than the tenant, could apply for the same planning permission, which the landlord would be powerless to oppose, and which would give rise to the same increased risk of enfranchisement.	RLC
+At para 49 he put it this way: If Rotrust were correct in its argument, Hautford would be precluded from applying for planning permission to enable Hautford to use the first and second floors for residential purposes for the 70 or so years remaining of the original 100- year term so long as Rotrust was the landlord or any assignee of the freehold held the same views as Rotrust.	RLC
+Hautford would be precluded from doing so, even though any third party would be free at any time to make such an application and, if made and successful, Hautford could take advantage of the planning permission.	RLC
+Indeed, that would have been the position from the first day of the 100-year term.	RLC
+It seems inconceivable that this was the intention of the original parties to the lease.	RLC
+Both the courts below regarded the appellants additional estate management reason for refusing consent as insufficient to render that refusal reasonable.	RLC
+The judge held that the effect of the loss of one freehold within the terrace upon enfranchisement could largely be remedied by the imposition of freehold covenants under section 10(4) of the 1967 Act, and the Court of Appeal upheld that analysis.	RLC
+In this court it was sensibly conceded by the appellant that, regardless whether section 10 afforded a complete remedy for the loss of this one freehold within the terrace in estate management terms, this could not on its own be a sufficient ground for a reasonable refusal of consent.	RLC
+The Law	Ratio
+The substantial body of case law which assists the court in determining whether a particular refusal of consent under a fully qualified covenant is unreasonable is not, subject only to one matter, significantly in issue on this appeal.	Ratio
+Rather, the outcome turns on whether the courts below were correct in their identification of the limited purpose behind clause 3(19) of this particular Lease.	Ratio
+It is therefore appropriate to set out the relevant principles relatively briefly.	Ratio
+The only contentious question of principle is whether the cases (and there are several) which suggest that a landlord may reasonably refuse consent under a fully qualified covenant to the doing of something by the tenant which increases the risk of enfranchisement are limited to covenants in leases granted before the passing of the 1967 Act.	Ratio
+Both the courts below considered that this was so: see para 63 of the judges judgment and para 53 of the judgment of the Master of the Rolls.	Ratio
+The summary of the relevant principles which best combines completeness with conciseness is to be found in the judgment of Balcombe LJ in International Drilling Fluids Ltd v Louisville Investments (Uxbridge) Ltd [1986] Ch 513, at 519H- 521E. Although the seven principles there set out are directed to the reasonableness of a refusal of consent to an assignment, the substance of them is equally applicable to refusal of consent to the making of a planning application.	Ratio
+It is unnecessary to set them out here because, in Ashworth Frazer Ltd v Gloucester City Council [2001] 1 WLR 2180 they were, without being disapproved, helpfully condensed by the House of Lords into three overriding principles.	Ratio
+At paras 3 to 5 (on pp 2182-2183) Lord Bingham of Cornhill said as follows: The first (Balcombe LJs second principle) is that a landlord is not entitled to refuse his consent to an assignment on grounds which have nothing whatever to do with the relationship of landlord and tenant in regard to the subject matter of the lease	PRE
+Thirdly: The landlords obligation is to show that his conduct was reasonable, not that it was right or justifiable.	PRE
+As Danckwerts LJ held in Pimms Ltd v Tallow Chandlers Co [1964] 2 QB 547, 564: it is not necessary for the landlords to prove that the conclusions which led them to refuse consent were justified, if they were conclusions which might be reached by a reasonable man in the circumstances .... Subject always to the first principle outlined above, I would respectfully endorse the observation of Viscount Dunedin in Viscount Tredegar v Harwood [1929] AC 72, 78 that one should read reasonableness in the general sense.	PRE
+There are few expressions more routinely used by British lawyers than reasonable and the expression should be given a broad, common sense meaning in this context as in others.	Ratio
+At para 67, (on p 2201), Lord Rodger of Earlsferry said this: The test of reasonableness is to be found in many areas of the law and the concept has been found useful precisely because it prevents the law becoming unduly rigid.	PRE
+In effect, it allows the law to respond appropriately to different situations as they arise.	PRE
+This has to be remembered when a court is considering whether a landlord has unreasonably withheld consent to the assignment of a lease.	PRE
+He continued by endorsing the passage from Tredegar v Harwood to which Lord Bingham had earlier referred.	PRE
+Both Lord Bingham and Lord Rodger placed particular emphasis upon the following dicta of Lord Denning MR in Bickel v Duke of Westminster [1977] QB 517, at 524: The words of the contract are perfectly clear English words: such licence shall not be unreasonably withheld.	PRE
+When those words come to be applied in any particular case, I do not think the court can, or should, determine by strict rules the grounds on which a landlord may, or may not, reasonably refuse his consent.	PRE
+He is not limited by the contract to any particular grounds.	PRE
+Nor should the courts limit him.	PRE
+Not even under the guise of construing the words.	PRE
+(Emphasis added)	PRE
+The Ashworth Frazer case is, again, about refusal of consent to an assignment.	Ratio
+Nonetheless, the general statements of principle which it contains are equally applicable to a refusal of consent to an application for planning permission, and need no further refinement or elucidation as general principles.	Ratio
+The Bickel case was one of those in which it was held reasonable for a landlord to refuse consent to the doing of something by the tenant which would cause or increase a risk of enfranchisement.	Ratio
+Another, referred to by the Court of Appeal, is Norfolk Capital Group Ltd v Kitway Ltd [1977] QB 506.	Ratio
+In both cases the relevant lease was granted before the passing of the 1967 Act, and the judgments were handed down by differently constituted Courts of Appeal within ten days of each other in mid-1976.	Ratio
+Taking the (slightly earlier) Kitway case first, the issue was whether the landlord could reasonably refuse consent to an assignment by a limited company (which could not enfranchise) to a private individual (who could after five years residence).	Ratio
+All three members of the court gave judgments, and it is impossible to discern in any of them a process of reasoning along the lines that it was only because the lease was granted prior to the coming into force of the 1967 Act that it was reasonable for a landlord to have regard to the risk of enfranchisement in refusing consent.	Ratio
+On the contrary, all three members of the court appeared to have regarded such a reason for refusal as eminently reasonable, subject only to authorities in Rent Act cases about normal and abnormal assignments which, in the event, they held not to be applicable.	Ratio
+At p 511 Megaw LJ said: If one were asked, without having been taken into any legal authorities relating to the matter, whether or not, in the circumstances which I have outlined, it was unreasonable for the landlords to refuse their consent when the consequences of giving that consent and of the assignment being made were likely to be that they would be deprived of their freehold interest in the property in five years time, I find it very difficult to think that anyone would find it possible to say that the landlords refusal was unreasonable.	PRE
+At p 515 Brown LJ said: If there were no authorities, I think, like Megaw LJ, that there could be no doubt that the landlords refusal here was entirely reasonable.	PRE
+Geoffrey Lane LJ added, at p 516: Now, what are the facts here? Mr Barnes concedes that the value of the landlords reversion is less if there is a possibility of any of the mews houses being enfranchised.	PRE
+There is clearly such a possibility, and accordingly the value of the landlords reversion is less.	PRE
+That being so, it would be a strange landlord indeed who gave his consent to the proposed assignments.	PRE
+The refusal of the landlords in the present circumstances was eminently reasonable.	PRE
+In the Bickel case the tenants, a friendly society not in occupation, requested consent to assign the lease to their sub-tenant, who was.	PRE
+This gave rise to the likelihood that, five years later, the assignee would be entitled to enfranchise.	PRE
+In a later part of the passage approved by Lord Bingham and Lord Rodger in the Ashworth Frazer case (quoted above), Lord Denning continued, at [1977] QB 517, 524D: The landlord has to exercise his judgment in all sorts of circumstances.	PRE
+It is impossible for him, or for the court, to envisage them all.	PRE
+When this lease was granted in 1947 no one could have foreseen that 20 years later Parliament would give a tenant a right to buy up the freehold.	PRE
+Seeing that the circumstances are infinitely various, it is impossible to formulate strict rules as to how a landlord should exercise his power of refusal.	PRE
+This passage from Lord Dennings judgment is not to be read as meaning that it was only because the lease was granted prior to the coming into force of the 1967 Act that the landlord could reasonably refuse consent to an assignment, on the grounds of an increased risk of enfranchisement.	Ratio
+On the contrary, Lord Denning was simply saying that the landlord could do so in spite of the fact that such a risk could not have been within the contemplation of the parties at the time of the grant of the lease, so that it could not have been a purpose for which the covenant against assignment had originally been sought and given.	Ratio
+He used the risk of enfranchisement as an example of the infinitely variable circumstances in which the landlord has a choice to consent or refuse consent, illustrative of the need to address the reasonableness of a refusal by reference to the facts as they are at the date of the tenants request.	Ratio
+It was a warning against addressing the reasonableness of a refusal by reference to an over-refined construction of the lease as at the time of its grant, something which Lord Denning called the guise of construing the words.	Ratio
+The thinking that a fully qualified covenant may not entitle a landlord to refuse consent because of an increased risk of enfranchisement where the covenant is contained in a lease granted after the passing of the 1967 Act may be based upon the notion that, if the lease itself gives rise to such a risk, then the landlord (who must be taken to be cognisant of the 1967 Act) must be assumed to have undertaken that risk by granting the lease, so that to seek to fend off that risk by the refusal of consent would be to obtain a collateral or uncovenanted advantage.	Ratio
+The lease in the present case was granted after the passing of the 1967 Act, but to a limited company tenant which could not (then) enfranchise.	Ratio
+But, as the judge observed, there was no sufficient restriction upon an assignment to a private individual, and that would increase the risk.	Ratio
+Furthermore, the permission to the tenant under clause 3(11) to use the whole of the premises for residential purposes might be thought to invite it.	Ratio
+It is over-simplistic, and contrary to the principles as laid down in the Ashworth Frazer case, to approach this question in any rigid or doctrinaire way, still less solely by reference to original purposes of the covenant in clause 3(19) which may have been within the contemplation of the parties when the lease was granted.	Ratio
+It will in every case be a question of fact and degree measured as at the date upon which the relevant consent is sought by the tenant.	Ratio
+There will no doubt be some leases granted after the passing of the 1967 Act which render the risk of enfranchisement so great and so obvious that the risk is not materially increased by the tenant doing that for which he seeks the landlords consent.	Ratio
+There will be other cases where the alteration in the risk attributable to the giving of consent is substantial.	Ratio
+Likewise there will be cases where the landlords reversion is of only nominal value (such as the reversion on a 999 year lease) and others where, notwithstanding reforms to the enfranchisement legislation, the landlord nonetheless reasonably anticipates a real diminution in the value of his reversion occasioned by the increase in the risk of enfranchisement, which a statutory right to compensation will not sufficiently eradicate.	Ratio
+In the present case, it is not in dispute either that the risk of enfranchisement would be substantially increased by the grant of the proposed planning permission, or that the appellants reversionary interest is of real value which would be adversely affected by enfranchisement, notwithstanding a statutory right to compensation.	Ratio
+Analysis	Ratio
+This appeal does not turn upon any refined analysis of the general principles relating to the reasonableness or otherwise of the refusal of consent under a fully qualified covenant.	Ratio
+Indeed, the reasoning in the Ashworth Frazer case is antipathetic to the carrying out of any such process of refinement.	Ratio
+Nor is there any real dispute about the relevant facts, applicable as at the date when the respondent requested consent to apply for planning permission.	Ratio
+The real issue is whether the courts below were correct in construing the Lease in such a way as to exclude resisting an increased risk of enfranchisement as a legitimate purpose of the right to refuse consent under clause 3(19).	Ratio
+In my opinion none of those three strands of reasoning supports the conclusion reached by the courts below.	Ratio
+All of them seek to address the question whether the landlords consent was unreasonably withheld by reference to an over- refined attempt to identify a limited original purpose behind clause 3(19), contrary to Lord Dennings dictum in the Bickel case, approved in the Ashworth Frazer case, that it is wrong in principle to address the question under the guise of construing the words.	Ratio
+Mr Philip Rainey QC for the appellant submitted that nothing in clause 3 and in particular clause 3(11) of the Lease could be treated as a grant because they were all parts of a comprehensive series of interlocking covenants restrictive of use.	ARG
+That may be formally correct, but it misses the substance of Miss Scotts point.	ARG
+Nonetheless, looking at the question as a matter of substance, it cannot be said that the Lease, read as a whole, conferred an unqualified right on the tenant to use the whole, or any particular part, of No 51 for residential purposes.	ARG
+Clause 3(11) must be read with clause 3(19), which required the tenant to perform and observe all the provisions and requirements of the planning legislation.	ARG
+Read together, the effect of those two clauses was to permit the tenant to use for residential purposes only such parts of No 51 as were from time to time permitted by the planning regime to be used for residential purposes.	ARG
+This might be either because of an established use when the Lease was granted, or because the tenant obtained, with the landlords consent, permission for residential use, or because such permission was obtained by a third party or, by some change in the legislation, residential use became lawful without the need for planning permission.	ARG
+At the time of the grant of the Lease, the tenant could not without breach of covenant use the first and second floors for residential purposes.	ARG
+At the time when it sought consent to apply for planning permission for that purpose, residential use of those two floors was still prohibited by the planning legislation, and therefore by clause 3(19).	ARG
+As to the judges reasoning, it may well be that one purpose of clause 3(19) was to protect the landlord from liability for compliance with conditions upon which a planning permission requested by the tenant might be granted.	Ratio
+But the identification of that specific purpose by no means excludes other purposes for the existence of clause 3(19), or for the use of the landlords right (not unreasonably) to refuse consent.	Ratio
+Nothing in the language of clause 3(19) supports the judges identification of a single purpose for its existence within the Lease, and it is simply a non sequitur to say that, because one specific purpose can be identified, no other purpose is permissible.	Ratio
+On the contrary the correct approach is to construe clause 3(19) so as to discover what, upon its express terms, it permits the landlord to do and then to decide the question of unreasonableness by asking whether the landlords refusal serves a purpose sufficiently connected with the landlord and tenant relationship, as at the time when consent is requested, in accordance with the first of Lord Binghams three principles in the Ashworth Frazer case, set out above.	Ratio
+Turning finally to the Court of Appeals reasoning, it is undoubtedly true that the combination of clause 3(11) and the ability of a third party to seek planning permission for the residential use of the first and second floors of No 51 together created a vulnerability of the freehold to enfranchisement which would not have existed if clause 3(11) had itself contained provision requiring the tenant to seek the landlords consent for an increased level of residential use within the building.	Ratio
+But the fact that the Lease by its terms rendered the freehold vulnerable to enfranchisement does not mean that a clause like 3(19), which provided a measure of protection against that risk, should be treated as incapable of being used reasonably for that purpose.	Ratio
+The fact is that, by the time when the respondent sought consent under clause 3(19), no third party had applied for planning permission for a change of the use of the first and second floors to residential and, so far as this court is aware, no such third party application has been made to date.	Ratio
+The result is that, looking at the matter as a question of fact as at the time when the respondent sought consent, the landlords ability to refuse that consent continued to afford a real measure of protection against enfranchisement of the freehold.	Ratio
+It follows that the courts below treated the question whether consent had been unreasonably refused as effectively determined by an erroneous construction of the Lease, contrary to Lord Dennings guidance in the Bickel case.	Ratio
+They therefore made an error of law which requires this court to consider the matter afresh, upon the same undisputed facts.	Ratio
+By April 2015 (when consent was sought) it remained unlawful in planning terms for the first and second floors of No 51 to be used for residential purposes.	Ratio
+There was, as at that date, no real risk of enfranchisement.	Ratio
+On the judges findings, planning permission, if requested, was likely to be granted, and the consequence would significantly increase the risk of enfranchisement which would, in turn, have a real rather than purely theoretical adverse consequence in terms of the value of the freehold reversion to the appellant.	Ratio
+No third party had applied, or was threatening to apply, for similar planning permission for change of use.	Ratio
+Applying Lord Binghams first principle in the Ashworth Frazer case, it cannot possibly be said that seeking to avoid a significant increase in the risk of enfranchisement, with consequential damage to the reversion, was something extraneous to or dissociated with the landlord and tenant relationship created by the Lease.	Ratio
+On the contrary, damage to the reversion is the quintessential type of consideration rendering reasonable the refusal of consent, as is illustrated in particular by the dicta (quoted above) in the Kitway case.	Ratio
+Applying the second principle, a down to earth factual analysis of the economic consequences to the landlord of giving or refusing the requested consent in the present case plainly suggests that a refusal is reasonable.	Ratio
+Applying the third principle, the appellant did not need to show that a refusal was right or justifiable, but merely that it was reasonable.	Ratio
+In my opinion it clearly was.	Ratio
+For those reasons I would allow this appeal.	RPC
+I have come to the conclusion that this appeal should be dismissed effectively for the reasons given by the Court of Appeal and the judge.	RPC
+The first step is to examine the scope of the power of the lessor to refuse its consent to a planning application and this can only be done by interpreting clause 3(19) in the context of the lease in the usual way.	Ratio
+The most relevant circumstances to take into account are the other provisions of the lease, including the lessees unrestricted right to use the whole of the premises if he wishes to do so for residential purposes.	Ratio
+I do not agree that this sub-clause must be read subject to the lessee first obtaining the lessors consent to a planning application for a change of use (where that is required) or that, as Lord Briggs has concluded, the right to use the premises for residential purposes was limited to those parts for which planning consent had already been obtained.	Ratio
+That would involve writing words into the user clause as opposed to treating the lessors power reasonably to refuse its consent in clause 3(19) as impliedly limited to other aspects of a planning application.	Ratio
+The lessor would have been ill-advised to rely on his power to withhold his consent to a planning application as a means of preventing the lessee from improving his chances of obtaining leasehold enfranchisement because a third party, such as a developer, could obtain that consent free from the restrictions in the lease.	Ratio
+It is not a point which is ultimately in the lessors favour that at the date of the lease the lessee could not apply for leasehold enfranchisement though he could have done if he had been an individual.	Ratio
+It was only possible for a company to apply as a result of a subsequent amendment.	Ratio
+The lessee was, however, from the date of the lease free under clause 3(13) to assign the whole of the premises to an individual who would have been free to apply for leasehold enfranchisement when he met the conditions as from the date of the lease.	Ratio
+The lessor must be taken to have been aware of this.	Ratio
+The key point in Lord Briggs judgment is that the lessor was entitled to protect the value of his reversion against a substantial increase in the chances of the lessee achieving leasehold enfranchisement and thus destroying the lessors interest in the reversion.	Ratio
+I have no doubt that the lessor can seek to protect his own interests when exercising power to refuse consent in this way, but only when that is within the purposes for which the lease permits him to use the power to refuse consent.	Ratio
+On my interpretation of the lease, the power to refuse consent to a planning application was not granted to enable the landlord to cut down the user clause.	Ratio
+Lord Briggs considers that in Bickel v Duke of Westminster [1977] QB 517, 524 (which was approved by the House of Lords in Ashworth Frazer) Lord Denning MR held that the landlord could reasonably refuse consent to an assignment on the grounds that it gave rise to an increased risk of enfranchisement in spite of the fact that such a risk could not have been within the contemplation of the parties at the time of the grant of the lease.	Ratio
+I do not agree that that is the way to read Lord Denning MRs judgment.	Ratio
+In my judgment, it is clear that Lord Denning MR attached considerable weight to the fact that the parties had not known about the possibility of enfranchisement when they entered into the lease.	Ratio
+Enfranchisement was something of a windfall for the tenant.	Ratio
+Lord Denning MR held, at pp 524-525: I have studied all the previous cases and find little guidance in any of them to solve our present problems.	PRE
+The reason is simply because it is a new situation, consequent on the Leasehold Reform Act 1967, which was never envisaged before.	PRE
+I would test it by considering first the position of the landlords - the Grosvenor Estate.	PRE
+They hold a large estate which they desire to keep in their hands so as to develop it in the best possible way.	PRE
+This would be much impeded if one house after another is bought up by sitting tenants.	PRE
+Further, if they are compelled to sell under the Leasehold Reform Act, they will suffer much financial loss, because the price is much less than the value of the house.	PRE
+Test it next by considering the position of the tenants - the Foresters.	PRE
+They hold the premises as an investment and want to sell it.	PRE
+It matters not to them whether they sell to the landlord or to sub-tenants, so long as they receive a fair price for it.	PRE
+The landlords say they are willing to negotiate a fair price for it.	PRE
+They will give the Foresters a sum equivalent to that offered by the sub-tenants.	PRE
+Test it next by considering the position of the sub-tenant herself.	PRE
+When she took her sub-lease, she had no possible claim to enfranchisement.	PRE
+It was at a high rent, outside the Act of 1967.	PRE
+She is quite well protected by the Rent Acts so far as her own occupation is concerned.	PRE
+She will not be evicted at the end of her term.	PRE
+The only result on her of a refusal will be that she will not be able to buy up the freehold for a very low figure.	PRE
+Lord Denning MRs insight was that it was not appropriate to decide the unreasonableness of consent to assignment, as Orr and Waller LJJ did, by reference to whether the circumstances of the proposed assignment were abnormal.	Ratio
+They based their conclusion on the availability of enfranchisement following assignment, when that was not available at the date of the lease.	Ratio
+Lord Denning MR considered that the court should make an assessment of all the relevant considerations to determine whether the consent was unreasonably refused.	Ratio
+In Ashworth Frazer v Gloucester City Council [2001] 1 WLR 2180 at p 2183, Lord Bingham held that Lord Denning MRs approach was the correct one.	PRE
+The other members of the House of Lords agreed with Lord Bingham or, in the case of Lord Rodger of Earlsferry, that Lord Denning MR was correct to hold that the question whether the refusal of consent was reasonable was one of the circumstances of the case, and not of law (see para 74 of Lord Rodgers speech).	PRE
+Here the parties cannot have intended that the lessor should be able to protect itself against the increased risk of leasehold enfranchisement, resulting from an increased use of the premises for residential purposes, by using the power to refuse consent to a planning application when the lessee could assign to an individual who, even at the date of the lease, would have the right to apply for enfranchisement, and when any necessary planning permission for a change of user could be obtained by the prospective assignee without any involvement of the lessee.	Ratio
+This would be so even if the circumstances at the date of the application were that the risk stood to be substantially increased and the lessor might lose his right to the reversion completely.	Ratio
+In those particular circumstances, I consider that the judge and the Court of Appeal were entitled to conclude, and right to conclude, that it would be unreasonable for the lessor to use clause 3(19) for such purpose.	Ratio
+Like Lady Arden, I would have dismissed this appeal.	RPC
+Clause 3(11) of the Lease is crucial.	Ratio
+I would therefore dismiss the appeal essentially for the reasons given by the Court of Appeal and the judge.	RPC
+In the letter dated 17 April 2015 by which, through its solicitors, the leaseholder sought the freeholders consent under clause 3(19), it suggested that clause 3(11) was crucial.	Ratio
+So did the trial judge and the Court of Appeal.	Ratio
+The subclause bears recital again.	Ratio
+It is a covenant by the leaseholder (11) Not to use the Demised Premises otherwise than for one or more of the following purposes (a) retail shop (b) offices (c) residential purposes (d) storage (e) studio PROVIDED however that nothing herein contained shall imply or be deemed to be a warranty that the Demised Premises may in accordance with all Town Planning Laws and Regulations now or from time to time in force be used for the purpose above mentioned.	Ratio
+Clause 3(11) is not a common form, or boilerplate, subclause.	Ratio
+It is a bespoke subclause of singular generosity to the leaseholder.	Ratio
+One result of it is that the Lease goes further than to omit to prohibit the use of any part of the premises for residential use.	Ratio
+Its effect is specifically to permit residential use of every part of them.	Ratio
+Indeed the permission is unqualified by any requirement to secure the freeholders prior consent to the proposed use.	Ratio
+The proviso which excludes any warranty on the part of the freeholder about accordance with planning laws in no way detracts from the width of its permission.	Ratio
+The trial judge was right to note another subclause which, albeit of some triviality, addresses the prospect of residential use of the premises, not limited to the third and fourth floors.	Ratio
+It is part of clause 3(15)(c), by which the leaseholder covenanted not to permit animals of any kind to be kept [on the demised premises] except that (1) domestic animals may be kept with the consent of the Lessor and (2) this provision regarding animals shall not apply to the existing residential sub-tenants of the upper floors of the premises.	Ratio
+The generosity of clause 3(11) to the leaseholder was no doubt a feature of the Lease which was reflected in the premium paid to the freeholder by the initial leaseholder for it and in the premiums paid for the later assignments of the lease and of the freehold reversion respectively.	Ratio
+In Soho, unlike in many parts of England and Wales, a change in the use of premises from office use or use ancillary to retail to residential use represents unlawful development unless it has been the subject of planning permission.	Ratio
+Unlike clause 3(11), clause 3(19) is a boilerplate clause.	Ratio
+The leaseholders usual covenant not to apply for any planning permission without the prior written consent of the Landlord such consent not to be unreasonably withheld generates this litigation.	Ratio
+I agree with Lord Briggs that the meaning of the leaseholders covenant in clause 3(19) is clear and generates no issue of construction.	Ratio
+I also acknowledge that, within their overarching inquiry into the reasonableness of the freeholders withholding of consent, the judges in the lower courts found it helpful to consider the purpose of the covenant.	Ratio
+For my part, I find that perspective less helpful than they did.	Ratio
+I prefer to go straight to that one word: unreasonably.	Ratio
+Were it reasonable for the freeholder not to consent to an application by the leaseholder to apply for permission to make residential use of the first and second floors, the provisions of clause 3(11) would be deprived of substantial effect.	Ratio
+Instead of the unqualified permission for residential use there given, the permission, in so far as it relates to the first and second floors, would become a fully qualified permission.	Ratio
+I agree with Sir Terence Etherton MR, at para 47, that, to that extent, any permissible withholding of consent in such circumstances would in effect rewrite clause 3(11).	Ratio
+Like the courts below, I cannot accept that an express grant of permission for residential use can - reasonably - be overridden by the freeholders deployment of an entirely unfocussed provision in relation to applications for planning permission.	Ratio
+However legitimate its concern about the prospect of enfranchisement, the freeholder cannot - reasonably - withhold its consent if the effect of doing so is to negate the permission for residential use which it granted and for which it received valuable consideration.	Ratio
+Our duty is to appraise the trial judges determination that the leaseholder had established that the freeholder was unreasonably withholding its consent to the application.	Ratio
+I happen to agree with the judges determination.	Ratio
+But, more importantly, I see no significant flaw in the manner in which he approached it.	Ratio
+The Court of Appeal was in my view right to conclude that his determination ought to be upheld.	Ratio
+In my respectful view the contrary conclusion of the majority falls foul of the second overriding principle articulated by Lord Bingham in the Ashworth Frazer case, set out in para 22 of the judgment of Lord Briggs.	Ratio

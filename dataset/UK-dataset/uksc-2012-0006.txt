@@ -1,0 +1,304 @@
+Since 1969 Mr Cusack has practised as a solicitor at 66 Station Road, Harrow (the property).	FAC
+Station Road, part of the A409, is a single carriage road in each direction flanked by a pedestrian footway.	FAC
+At some unknown date the former front garden was turned into a forecourt open to the highway, which has since then been used for parking cars of staff and clients.	FAC
+This involves cars crossing the footway to gain access, and backing into the road when leaving.	FAC
+The house had been built in around 1900 as a dwelling.	FAC
+In 1973 a personal permission was granted on appeal to Mr Cusack to use the ground floor as offices, subject to a condition requiring cessation by 31 August 1976.	FAC
+It was noted that the ground floor had been used for that purpose for some time, and permission was only sought for a temporary period to enable Mr Cusack to continue his work in the local court.	FAC
+One of the objections had related to traffic generation, but the inspector did not think that use of these rather limited premises has added materially to traffic hazard over the last two years.	FAC
+Following the expiry of that permission the use as an office has continued and has become established in planning terms.	FAC
+The present dispute began in January 2009, when the London Borough of Harrow (the council), as highway authority, wrote to Mr Cusack asserting that the movement of vehicles over the footway caused danger to pedestrians and other motorists.	FAC
+In March 2009 he was informed that the council were planning to erect barriers from 36 to 76 Station Road to prevent vehicles from driving over raised kerbs and footways.	FAC
+After some initial confusion as to the statutory basis for their proposed action, they settled on section 80 of the Highways Act 1980.	FAC
+Mr Cusack began proceedings in the county court for an injunction to prevent the erection of the barriers outside his house.	FAC
+Judge McDowall and on appeal Maddison J found in favour of the council, but their decisions were reversed by the Court of Appeal.	FAC
+Pursuant to an undertaking given by the council to the county court, no barriers have yet been erected outside number 66, although they have been erected outside some other adjoining properties.	FAC
+Apart from statute, Mr Cusack, as owner of property fronting on to the highway, would have had a common law right of access without restriction from any part of the property (see Marshall v Blackpool Corporation [1935] AC 16, 22 per Lord Atkin).	Ratio
+In practice those rights have been much circumscribed by statute.	Ratio
+As Lord Radcliffe said in Ching Garage Ltd v Chingford Corporation [1961] 1 WLR 470, 478: It is plain, therefore, that, certainly in any built-up area, there are numerous rights of access to the streets from adjoining premises, and that they are rights derived from common law or statute, general or local, or, perhaps, from a combination of the two sources.	Ratio
+In my opinion, it is well-settled law that a highway authority exercising statutory powers to improve or maintain a street or highway, such as to raise or lower its level, to form a footpath, to pave or kerb or to erect omnibus shelters, is empowered to carry out its works even though by so doing it interferes with or obstructs frontagers' rights of access to the highway.	Ratio
+As that case also shows, although many of the powers conferred by the Acts are subject to payment of compensation, there is no general rule to that effect.	Ratio
+As Lord Radcliffe said in the same case (p 475), the right to compensation is a matter of law not concession: If they can do what they want to without having to pay compensation, they have no business to use public funds in paying over money to an objector who is not entitled to it; and if they have to pay compensation, they must pay according to the proper legal measure One of the issues in the appeal is whether that simple dichotomy holds good since the enactment of the Human Rights Act 1998.	Ratio
+It is not now in dispute that the council has statutory power to do what it did.	Ratio
+The Court of Appeal declared that it is not entitled to proceed under section 80 of the Highways Act 1980, but was so entitled under section 66(2).	RLC
+The latter declaration is not under appeal.	Ratio
+The difference lies in whether compensation is payable.	Ratio
+Statutory provisions	Ratio
+I turn to the relevant sections.	Ratio
+Section 66 (in a group of sections headed Safety provisions) provides:	STA
+Footways and guard-rails etc for publicly maintainable highways (1) It is the duty of a highway authority to provide in or by the side of a highway maintainable at the public expense by them which consists of or comprises a made-up carriageway, a proper and sufficient footway as part of the highway in any case where they consider the provision of a footway as necessary or desirable for the safety or accommodation of pedestrians; and they may light any footway provided by them under this subsection.	STA
+(2) A highway authority may provide and maintain in a highway maintainable at the public expense by them which consists of or comprises a carriageway, such raised paving, pillars, walls, rails or fences as they think necessary for the purpose of safeguarding persons using the highway.	STA
+(3) A highway authority may provide and maintain in a highway maintainable at the public expense by them which consists of a footpath or bridleway, such barriers, posts, rails or fences as they think necessary for the purpose of safeguarding persons using the highway.	STA
+(5) The power conferred by subsection (3) above, and the power to alter or remove any works provided under that subsection, shall not be exercised so as to obstruct any private access to any premises or interfere with the carrying out of agricultural operations.	STA
+(8) A highway authority or council shall pay compensation to any person who sustains damage by reason of the execution by them of works under subsection (2) or (3) above.	STA
+Section 80 (in a group headed Fences and boundaries) provides: Power to fence highways (1) Subject to the provisions of this section, a highway authority may erect and maintain fences or posts for the purpose of preventing access to- (a) a highway maintainable at the public expense by them, (b) land on which in accordance with plans made or approved by the Minister they are for the time being constructing or intending to construct a highway shown in the plans which is to be a highway so maintainable, or (c) land on which in pursuance of a scheme under section 16 above, or of an order under section 14 or 18 above, they are for the time being constructing or intending to construct a highway.	STA
+(2) A highway authority may alter or remove a fence or post erected by them under this section.	STA
+(3) The powers conferred by this section shall not be exercised so as to- (a) interfere with a fence or gate required for the purpose of agriculture; or (b) obstruct a public right of way; or (c) obstruct any means of access for the construction, formation or laying out of which planning permission has been granted under Part III of the Town and Country Planning Act 1990 (or under any enactment replaced by the said Part III); or (d) obstruct any means of access which was constructed, formed or laid out before 1 July 1948, unless it was constructed, formed or laid out in contravention of restrictions in force under section 1 or 2 of the Restriction of Ribbon Development Act 1935	STA
+Reference was also made in earlier correspondence, and in argument before us, to other powers in the Highways Act.	Ratio
+They include the power to stop up private means of access subject to compensation (sections 124, 126), and the power to create crossings for, or impose conditions on the use of, accesses onto the highway (section 184).	Ratio
+Apart from providing further illustrations of the wide range of sometimes overlapping powers available to authorities under the Act, they appear to throw no useful light on the issues we have to decide.	Ratio
+The Court of Appeal	Ratio
+The Court of Appeal accepted the submission of Mr Green, for Mr Cusack, that viewed in the context of the structure of the Act as a whole, the appropriate power for what the council wanted to do was section 66 not section 80.	ARG
+As Lewison LJ recorded his submission: Section 66(2) applies where the highway authority consider that the erection of posts etc is necessary for the purpose of safeguarding persons using the highway.	ARG
+This is a much more specific reason for invoking a statutory power than the more nebulous statement of purpose in section 80.	ARG
+Indeed this is precisely the reason, according to the council, why it wishes to erect barriers across the forecourt of 66 Station Road.	ARG
+Lewison LJ found support for that submission in the principle that in statutory construction the specific overrides the general - generalia specialibus non derogant (see eg Pretty v Solly (1859) 26 Beav 606).	ARG
+In his view, the councils proposed action and the reason for taking it fall squarely within section 66(2), and accordingly section 80 did not apply to the facts of the case (para 21).	ARG
+He considered an alternative argument based on section 3 of the Human Rights Act 1998, but did not think that argument took Mr Cusacks case any further (para 27).	ARG
+In this court Mr Sauvain for the council challenges that conclusion.	ARG
+There is no justification, he says, for application of the general/specific principle where there is no conflict between the two provisions.	ARG
+Although they may overlap, they are provided for different purposes and apply in different situations.	ARG
+Where the council has two alternative statutory methods of achieving the same objective, it is entitled to adopt the one which imposes the least burden on the public purse (Westminster Bank Ltd v Minister of Housing and Local Government [1971] AC 508, 530).	ARG
+Whether compensation is payable depends on the particular statutory provision.	ARG
+Mr Green, as I understood his arguments in this court, relied less on the general/specific principle as such, than on a purposive interpretation of the statutory provisions in their context.	ARG
+Although he put his arguments in a number of ways, the common theme was that the broad, unfettered power asserted by the council, without the protection of compensation, was irreconcilable with the general scheme of the Act and the pattern of other comparable provisions.	ARG
+In particular the councils construction of section 80 would enable it to override the safeguards provided in other sections.	ARG
+In particular, it would deprive section 66(2) of most of its apparent content, and, if applied to footpaths and bridleways, would enable it to bypass the prohibition on the use of section 66 to obstruct a private access (section 66(3)(5)).	ARG
+With respect to the Court of Appeal, I am unable to see how the general/specific principle assists in this case.	Ratio
+I see no reason to regard either power as more specific or less general than the other.	Ratio
+It is true that section 66(2) is directed to a specific purpose (safeguarding persons using the highway), but the powers are defined in relatively wide terms, not necessarily related to private accesses.	Ratio
+The powers in section 80 are expressed in narrower terms, related specifically to the prevention of access to an existing or future highway.	Ratio
+Although there is no express mention of safety as a purpose, it is implicit that the section must be used for purposes related to those of the Act, which of course include, but are not necessarily confined to, highway safety.	Ratio
+Before considering Mr Greens more general submissions it is necessary to say something about the legislative background of the relevant provisions.	Ratio
+Legislative history	Ratio
+Section 80	STA
+It is of interest, though hardly unexpected, that highway safety was one of the purposes referred to when the predecessor of section 80 was first introduced as part of a statute restricting ribbon development (Restriction of Ribbon Development Act 1935, section 4).	FAC
+Mr Sauvains researches have revealed that the then Minister (Mr Hore-Belisha MP better known perhaps for his beacons) described the objects of the new powers as being - to minimise the present dangers to life and limb which result from the erection of houses and buildings with their own means of access at innumerable and ill-considered points along the road, to remove the obstruction to the free passage of traffic and to prevent the further impairment of the setting in which the roads lie.	FAC
+(Hansard (HC Debates), 29 July 1935, col 2335)	FAC
+The 1935 Act imposed a general restriction on the construction, formation or laying out without the consent of the highway authority of any means of access to or from various categories of road, including classified roads (sections 1, 2).	STA
+Where such restrictions were in force on any road, section 4 enabled the highway authority to erect fences or posts for the purpose of preventing access except at places permitted by them.	STA
+The section contained exceptions to prevent interference with agricultural fences or gates, or obstruction of public rights of way, and also to prevent obstruction of any means of access formed either before the date on which the restrictions were brought into force, or with the consent of the highway authority thereafter.	STA
+The Act (section 9) contained provision for compensation for diminution in value caused, not by the erection of the fences as such, but by the prohibition on the formation of new accesses resulting from the restrictions imposed by sections 1 and 2.	STA
+The main provisions of the 1935 Act (including sections 1, 2 and 9) were repealed by the Town and Country Planning Act 1947, at the same time as the introduction of universal planning control, which has continued under successive enactments to the present day (now the Town and Country Planning Act 1990).	Ratio
+The restrictions on ribbon development were in effect subsumed into the general prohibition of development other than with planning permission.	Ratio
+For the purposes of the planning Acts, the formation or laying out of means of access to highways was included in the definition of engineering operations and was thus treated as development requiring planning permission (see the 1990 Act, sections 55(1), 336(1)).	Ratio
+With very limited exceptions, not material to this case, no compensation was payable for refusal of permission under the new statutory scheme.	Ratio
+Section 4 of the 1935 Act was retained following the repeal of the substantive provisions of that Act (including the compensation provision), but was amended by section 113 of, and Schedule 8 to, the 1947 Act to take account of the new legislative scheme.	STA
+The amended section retained the first two exceptions (agricultural fences or gates, and public rights of way) but for the remainder there was substituted a prohibition in terms related to the 1947 Act.	STA
+It prohibited use of the section so as to obstruct - any means of access for the construction, formation or laying out of which planning permission has been granted under Part III of the Town and Country Planning Act 1947, or which was constructed, formed or laid out before the appointed day within the meaning of the said Act, unless it was constructed, formed or laid out in contravention of restrictions in force under the foregoing restrictions of this Act.	STA
+Subject to minor drafting changes, this is the form in which the provision was carried into the Highways Act 1959 (section 85), and now section 80 of the Highways Act 1980.	STA
+Section 66	STA
+Section 66(2) has a very different history, dating back to the Public Health Act 1875.	STA
+Section 149 included a power for urban authorities to place and keep in repair fences and posts for the safety of foot passengers.	STA
+That was expanded to something more like its present form in section 39 of the Public Health Acts Amendment Act 1890 (read as one with the 1875 Act: see section 2).	STA
+The 1875 Act contained a general provision giving compensation for damage caused by the exercise of powers under the Act (section 308).	STA
+These provisions were replaced by section 67(2) of the Highways Act 1959.	STA
+By contrast section 67(1) of the 1959 Act (duty to provide footways) reproduced the effect of a more recent enactment, section 58 of the Road Traffic Act 1930.	STA
+Section 67(1) and (2) were re-enacted as section 66(1) and (2) of the 1980 Act.	STA
+This different history probably explains why the right to compensation in section 66(8) extends to the effects of works under section 66(2), but not of those under section 66(1).	STA
+As this account illustrates, the current Highways Act 1980 is the result of a complex evolutionary history extending over more than 130 years.	Ratio
+Against this background, and in spite of the efforts of the consolidating draftsmen, it is not perhaps surprising that it contains a varied miscellany of sometimes overlapping and not always consistent statutory powers.	Ratio
+The Ching Garage case shows that the present councils confusion as to the appropriate source of the necessary powers is not without precedent.	Ratio
+In that case the councils arguments went through a number of vicissitudes (see p 473), before they settled on the provisions on which they lost at trial.	Ratio
+By the time of the appeal these had been overtaken by the coming into force of section 67(2) of the 1959 Act, which was substituted by amendment of their pleadings.	Ratio
+Having satisfied themselves that the proposed works fell within that provision, their Lordships were not concerned by the possible overlap with other provisions.	Ratio
+Planning immunity	Ratio
+It is common ground that the use of the property as an office, although in breach of planning control since 1976, has become immune from enforcement.	Ratio
+There is no precise finding as to when the occupants of number 66 began to use the forecourt for parking with direct access to the road, nor what works were carried out at that time.	Ratio
+Judge McDowall accepted that by the time Mr Cusack acquired the property (1969) it was in its present state, without a front wall or fence, and further that at some time thereafter the pavement was lowered at that point.	Ratio
+He was unwilling to find that it began before 1948.	Ratio
+The commencement of use of the access, if incidental to the office use of the property, would not itself have involved a material change of use requiring planning permission.	Ratio
+But when works were carried out amounting to formation or laying out of a means of access, they would have amounted to an engineering operation and thus development within the statutory definition.	Ratio
+That also would have involved a breach of planning control, but again would long since have become immune from enforcement action.	Ratio
+Section 80 provides specific protection for accesses formed since 1947 if authorised by planning permission.	Ratio
+The protection does not in terms extend to use of accesses which have become immune from enforcement under the planning Acts.	Ratio
+In that respect planning law has moved on since 1947.	Ratio
+Immunity and its consequences are now governed by amendments made to the 1990 Act by the Planning and Compensation Act 1991, implementing recommendations made in my own report on planning enforcement (Enforcing Planning Control (HMSO 1989)).	Ratio
+Among my recommendations was that a development which had become immune from enforcement should be put on the same footing as a permitted use, and that this should be done by treating it as subject to deemed planning permission.	Ratio
+I was concerned that the limbo state described as unlawful but immune was confusing to all but specialists and could create difficulties in other areas of the law, including that of compensation for acquisition of land (under the Land Compensation Act 1961, section 5) (see report pp 69-73).	Ratio
+Those recommendations were given effect by a new section 191 of the 1990 Act (Certificates of lawfulness of existing use or development).	Ratio
+Section 191(2) provides: For the purposes of this Act uses and operations are lawful at any time if - (a) no enforcement action may then be taken in respect of them (whether because they did not involve development or require planning permission or because the time for enforcement action has expired or for any other reason); and (b) they do not constitute a contravention of any of the requirements of any enforcement notice then in force.	STA
+The section enables application to be made to the local planning authority for a certificate to that effect.	STA
+It further provides: (6) The lawfulness of any use, operations or other matter for which a certificate is in force under this section shall be conclusively presumed.	STA
+(7) A certificate under this section in respect of any use shall also have effect, for the purposes of the following enactments, as if it were a grant of planning permission - (a) section 3(3) of the Caravan Sites and Control of Development Act 1960; (b) section 5(2) of the Control of Pollution Act 1974; and (c) section 36(2)(a) of the Environmental Protection Act 1990.	STA
+It is to be noted that, apart from those three specific cases, the draftsman did not in terms adopt my proposal that there should be a deemed planning permission whenever development had become immune from enforcement.	Ratio
+On the other hand, under subsection (2) lawfulness as such for the purposes of the Act does not depend on the issue of a certificate, which is relevant only as evidence of that status.	Ratio
+Nor is lawfulness limited to the three categories for which there is deemed planning permission.	Ratio
+As Chadwick LJ explained in Epping Forest District Council v Philcox [2002] Env LR 46, paras 28-30, features common to those three statutes are that they involve regulatory regimes which prevent an occupier of land from using that land for the specified purpose unless he is the holder of a licence; that the regimes are underpinned by criminal sanctions; and that no licence can be granted unless at that time the use is authorised by planning permission.	Ratio
+In those cases the fact that the use is lawful would not be enough.	Ratio
+There is no indication, however, that the specific provision for those three categories was intended to detract from the generality of the proposition that immune uses must now be regarded as lawful for all planning purposes.	Ratio
+Lawful for planning purposes might not necessarily be the same as lawful for the purposes of the Highways Act 1980.	Ratio
+However, as has been seen, the effect of the 1947 Act was to substitute the general prohibition on development under the planning Acts for the previous more specific restrictions under highways legislation.	Ratio
+Apart from planning control, we have not been referred to any other provisions in highways legislation in force since 1947, which would have precluded Mr Cusack from relying on his common law right of access to the highway.	Ratio
+Interpretation of section 80	Ratio
+Consideration of the legislative history does not in my view detract from the natural meaning of section 80 as it appears in the 1980 Act.	Ratio
+It may be of some interest in explaining why the specific provision for compensation in the 1935 Act was not retained, following the introduction of general planning control, including control over new accesses.	Ratio
+As far as concerned Mr Cusacks property, this had the effect that after the 1947 Act any prospective expectation of creating a direct access to the road was subject to the powers of the highway authority, at any time and without compensation, to prevent its use for highway reasons, unless planning permission was first obtained.	Ratio
+In my view, apart from the Human Rights Act 1998, Mr Sauvain is right in his submission that the council is entitled to rely on the clear words of section 80 for the power they seek.	Ratio
+There is no express or implied restriction on its use.	Ratio
+On the basis of the pre-1998 Act authorities, the fact that section 66(2) may confer an alternative power to achieve the same object, which is subject to compensation, is beside the point.	Ratio
+That is clear in particular from the Westminster Bank case (see above).	Ratio
+There also the legislation provided two different ways of achieving the councils objective, one under the planning Acts and the other under the Highways Act, only the latter involving compensation.	Ratio
+The authority was entitled to rely on the former.	Ratio
+Lord Reid (giving the majority speech) said: Here the authority did not act in excess of power in deciding to proceed by way of refusal of planning permission rather than by way of prescribing an improvement line.	Ratio
+Did it then act in abuse of power? I do not think so.	Ratio
+Parliament has chosen to set up two different ways of preventing development which would interfere with schemes for street widening.	Ratio
+It must have been aware that one involved paying compensation but the other did not.	Ratio
+Nevertheless it expressed no preference, and imposed no limit on the use of either.	Ratio
+No doubt there might be special circumstances which make it unreasonable or an abuse of power to use one of these methods but here there were none.	Ratio
+([1971] AC 508, 530) The passage (in the final sentence) also provides an answer to Mr Greens concern that the power might be abused in particular cases, for example, to override specific prohibitions in section 66.	Ratio
+Judicial review is not excluded in such circumstances.	Ratio
+Mr Green sought to distinguish that case by reference to the speech of Viscount Dilhorne.	ARG
+He had referred to section 220 of the Town and Country Planning Act 1962, which provided for the avoidance of doubt that the powers under that Act were exercisable notwithstanding provision in any other enactment for regulating development.	ARG
+As Mr Green observed, there is no equivalent to that in section 80.	ARG
+However, Viscount Dilhornes reliance on that section was not reflected in the comments of the majority speech, which were expressed in general terms.	ARG
+For these reasons, the council is in my view entitled to succeed, unless some additional limitation on their powers can be derived from the Human Rights Act 1998.	Ratio
+To that question I now turn.	Ratio
+Human Rights Act 1998	Ratio
+In this part of the case, Mr Green relies on article 1 of the First Protocol to the European Convention on Human Rights (A1P1), which provides: Every natural or legal person is entitled to the peaceful enjoyment of his possessions.	ARG
+No one shall be deprived of his possessions except in the public interest and subject to the conditions provided for by law The preceding provisions shall not, however, in any way impair the right of a State to enforce such laws as it deems necessary to control the use of property in accordance with the general interest or to secure the payment of taxes or other contributions or penalties.	ARG
+In the domestic context A1P1 is given effect by two provisions of the Human Rights Act (HRA).	Ratio
+First, section 3 deals with the duty of the court when interpreting legislation.	Ratio
+It requires that so far as it is possible to do so legislation must be read and given effect to in a way which is compatible with the Convention rights.	Ratio
+Secondly, section 6 deals with acts of public authorities.	Ratio
+It provides so far as material: (1) It is unlawful for a public authority to act in a way which is incompatible with a Convention right.	Ratio
+(2) Subsection (1) does not apply to an act if (a) as the result of one or more provisions of primary legislation, the authority could not have acted differently; or (b) in the case of one or more provisions of, or made under, primary legislation which cannot be read or given effect in a way which is compatible with the Convention rights, the authority was acting so as to give effect to or enforce those provisions.	Ratio
+Three questions therefore arise: Is the closure of Mr Cusacks access without compensation under i) section 80 compatible with A1P1? ii) If not, (under HRA section 3) is it possible to read section 80 in such a way as to make it compatible? iii) Alternatively, (under HRA section 6(2)(a)) could the authority have avoided the breach by acting differently?	Ratio
+Mr Green submits that use of section 80 to deprive Mr Cusack of vehicular access to his own property and the right to park on his own hard-standing, without any compensation, would be a breach of A1P1, which can be avoided by use of section 66(2) to achieve the same end.	ARG
+The effect of the Strasbourg caselaw under that article, dating from the leading case of Sporrong and Lnnroth v Sweden (1982) 5 EHRR 35, was summarised by the Grand Chamber in Depalle v France (2010) 54 EHRR 535, 559: The Court reiterates that, according to its case-law, Article 1 of Protocol No 1, which guarantees in substance the right of property, comprises three distinct rules (see, inter alia, James v United Kingdom (1986) 8 EHRR 123, para 37): the first, which is expressed in the first sentence of the first paragraph and is of a general nature, lays down the principle of peaceful enjoyment of property.	PRE
+The second rule, in the second sentence of the same paragraph, covers deprivation of possessions and subjects it to certain conditions.	PRE
+The third, contained in the second paragraph, recognises that the Contracting States are entitled, amongst other things, to control the use of property in accordance with the general interest.	PRE
+The second and third rules, which are concerned with particular instances of interference with the right to peaceful enjoyment of property, are to be construed in the light of the general principle laid down in the first rule (see Bruncrona v Finland (2004) 41 EHRR 592, paras 65- 69 and Broniowski v Poland (2004) 40 EHRR 495, para 134).	PRE
+Regarding whether or not there has been an interference, the Court reiterates that, in determining whether there has been a deprivation of possessions within the second rule, it is necessary not only to consider whether there has been a formal taking or expropriation of property but to look behind the appearances and investigate the realities of the situation complained of.	PRE
+Since the Convention is intended to guarantee rights that are practical and effective, it has to be ascertained whether the situation amounted to a de facto expropriation (see Brumrescu v Romania (1999) 33 EHRR 862, para 76 and Sporrong and Lnnroth v Sweden (1982) 5 EHRR 35, paras 63 and 69-74).	PRE
+As that passage makes clear, there is a material distinction between the second rule, relating to deprivation of possessions, and the third (the second paragraph of the article) relating to control of the use of property.	PRE
+Mr Greens primary submission is that removing Mr Cusacks common law right of access to the highway is deprivation of a possession within the second rule.	ARG
+The significance of that characterization, he says, is that where there is a deprivation of property absence of a right to compensation will only be justified in exceptional circumstances (James v UK (1986) 8 EHRR 123, para 54).	ARG
+Alternatively, if deprivation of a frontager's right of access is characterised as a control of his property rights, albeit lawful and in the general interest, the council has not discharged its onus of showing the proportionality of the interference.	ARG
+I say at once that I see no basis for his reliance on the second rule.	Ratio
+Mr Cusack has not been deprived of any property.	Ratio
+Mr Green was unable to point us to any support in the Strasbourg cases for treating a restriction on the form of access as a deprivation of a possession under that rule.	Ratio
+On the other hand, as Mr Sauvain concedes, it falls clearly within the third rule as a control of his property.	Ratio
+Accordingly, it is in that context that its compatibility with the Convention right must be considered.	Ratio
+Mr Green referred us to the decision in Chassagnou v France (1999) 29 EHRR 615, in which it was held that a law effecting the compulsory transfer to a municipal association of hunting rights over the applicants land was a disproportionate burden and thus a breach of the second paragraph of article 1.	PRE
+Although it was intended that he would be compensated by the grant of a concomitant right to hunt over other land, this was of no value to him since he disapproved of hunting on ethical grounds (see paras 82-85).	PRE
+In my view, the subject-matter of that case was so far from the present that it is of little assistance, other possibly than as an illustration of the width of the principle.	PRE
+Closer to the present context is the decision in Bugajny v Poland (Application No 22531/05) (unreported) given 6 November 2007, which was considered and applied recently by the Court of Appeal in Thomas v Bridgend County Borough Council [2012] QB 512.	PRE
+In my leading judgment I commented on the guidance to be derived from that and other cases since Sporrong: 31.	PRE
+Later cases (see eg Bugajny v Poland (Application No 22531/05) (unreported) given 6 November 2007, para 56 and following) have given further guidance on the practical application of article 1 to individual cases.	PRE
+First, the three rules are not distinct in the sense of being unconnected; the second and third rules are to be construed in the light of the general principle enunciated in the first rule.	PRE
+Secondly, although not spelt out in the wording of the article, claims under any of the three rules need to be examined under four heads: (i) whether there was an interference with the peaceful enjoyment of possessions; (ii) whether the interference was in the general interest; (iii) whether the interference was provided for by law; and (iv) proportionality of the interference.	PRE
+... 49.	PRE
+The cases show that the issue of proportionality can be expanded into the following question: whether the interference with the applicants' right to peaceful enjoyment of their possessions struck the requisite fair balance between the demands of the general interest of the public and the requirements of the protection of the individual's fundamental rights, or whether it imposed a disproportionate and excessive burden on them.	PRE
+(Bugajny v Poland 6 November 2007, para 67).	PRE
+In Bugajny itself certain plots in a development area had been designated as internal roads, which were in due course built and opened to the public.	PRE
+The developers sought to transfer ownership to the council in return for compensation, under a statute by which public roads were required to be expropriated subject to compensation.	PRE
+This request was rejected on the grounds that, not having been provided for in the local land development plan, they did not belong to the category of public roads.	PRE
+An application to the Strasbourg court alleging a breach of A1P1 succeeded.	PRE
+The requirement to accept the public use of the roads was an interference with the peaceful enjoyment of their possessions within A1P1.	PRE
+Although it met the requirements of being lawful and in the general interest, it was not proportionate.	PRE
+The court recognised that in the area of land development and town planning contracting states enjoyed a wide margin of appreciation in order to implement their policies; but it was for the court to determine whether the requisite balance was maintained in a manner consonant with the applicant's right of property (para 68).	PRE
+To explain how it approached that task, it is necessary to quote from the judgment at some length: [The roads] currently serve both the general public and the housing estate which the applicants developed and are open both to public and private transport of all kinds Given that the entire area of the housing estate covers nine hectares which were divided into as many as thirty-six plots of land designated for the construction purposes, it is reasonable to accept that a considerable number of people can be said to use these roads.	PRE
+It has not been shown or even argued that the access to the estate or the use of these roads is restricted or limited in any way.	PRE
+The situation examined in the present case must therefore be distinguished from that of fenced housing estates to which the public access is restricted by a decision of its inhabitants.	PRE
+The only way in which the land in question can now be used is as roads.	PRE
+The applicants are also currently obliged to bear the costs of their maintenance.	PRE
+The Court emphasises that the burden which the applicants were made to bear is not limited in time in any way.	PRE
+The Court observes that one of the arguments on which the authorities relied when refusing to expropriate the applicants' property was that the roads to be constructed on the estate had not been included in the local land development plan.	PRE
+However, it reiterates that it was not in dispute that the decision on the division could be issued only when the division plan submitted by the owners was compatible with the land development plan.	PRE
+The Court considers that by adopting such an approach the authorities could effectively evade the obligation to build and maintain roads other than major thoroughfares provided for in the plans and shift this obligation onto individual owners.	PRE
+The Court finally notes that the Poznan Regional Court expressed serious doubts as to whether the applicants' situation was compatible with the requirements of article 1 of Protocol No 1.	PRE
+This court expressly compared the applicants' position to that of the applicant in the Papamichalopoulos v Greece case [(1993) 16 EHRR 440] and considered it to be even worse.	PRE
+In the Court's view, the applicants' situation in the present case was less serious than the situation examined in the Papamichalopoulos judgment, because they were not divested of all possibility of using their property.	PRE
+Nonetheless, such a critical assessment on the part of the domestic court is certainly, in the Court's view, of relevance for the overall assessment of the case.	PRE
+Having regard to the above considerations, the Court is of the view that a fair balance was not struck between the competing general and individual interests and that the applicants had to bear an excessive individual burden.	PRE
+(paras 70-74)	PRE
+In the Thomas case the factual circumstances were very different, but a similar approach was applied.	Ratio
+The case concerned the exclusion of the right to compensation for the effects of road works where the opening of the road was delayed beyond a fixed time-limit, even if the delay was attributable to default by the authoritys contractor.	Ratio
+I noted that, while A1P1 does not impose any general requirement for compensation, its absence may be relevant to the issue of proportionality (para 53): In deciding whether the proportionality test is satisfied, the court is entitled to treat the compensation rights created by the 1973 Act as part of the fair balance thought necessary by Parliament.	Ratio
+Where a class of potential claimants is excluded from those rights, the court is entitled to inquire into the reasons for the exclusion, and ask whether it serves any legitimate purpose, or leads to results so anomalous as to render the legislation unacceptable: J A Pye (Oxford) Ltd v United Kingdom (2007) 46 EHRR 1083, para 83.	Ratio
+On the particular case I said: Whatever its purpose, the operation of the provision in circumstances such as the present is truly bizarre.	Ratio
+The diligent road- builder who completes his project in time is penalised by liability for compensation; the inefficient road-builder is rewarded by evading liability altogether.	Ratio
+For the householders there is a double disadvantage.	Ratio
+Not only do they suffer the inconvenience and disturbance of a protracted maintenance period, but they lose their right to any compensation for the effects of the use which they are already experiencing.	Ratio
+This result is in my view so absurd that it undermines the fairness of the balance intended by Parliament, and necessary to satisfy article 1.	Ratio
+In this respect it is my view a stronger case than Bugajny... The nature of the interference was very different.	Ratio
+But at the heart of the court's reasoning on proportionality, as I read the decision, was the arbitrary distinction drawn by the domestic law between public roads as designated in the development plan, and internal roads which were no less public in practice, and no less appropriate for adoption by the authorities.	Ratio
+The fairness of the balance between public and private interests was destroyed by the opportunity so given to the authorities to evade the responsibility otherwise imposed on them.	Ratio
+At least there the state was able to raise an arguable case for distinguishing between the two categories of road.	Ratio
+Here, instead, the section produces a result which is directly contrary to that which common sense would dictate.	Ratio
+(paras 56-57)	Ratio
+As is perhaps implicit in that passage, I regard Bugajny as a somewhat extreme example of the use of A1P1 to override the decisions of the national authorities.	Ratio
+The court effectively substituted its own views for that of the national courts as to what was a public road under national law.	Ratio
+However, it is relevant that the present case, like Bugajny, falls in the general field of land development and town planning, in which the state is allowed a wide margin of appreciation.	Ratio
+As that case also shows, the issue of proportionality is not hard-edged, but requires a broad judgment as to where the fair balance lies.	Ratio
+It is not in my view confined to cases of the truly bizarre (as in Thomas), or what might be termed irrationality or Wednesbury unreasonableness in domestic law.	Ratio
+In this respect, in my view, the Convention may require some qualification to the narrow approach established by earlier authorities, such as Westminster Bank.	Ratio
+The issue is not simply whether the councils action is an abuse of its powers under section 80, but whether in that action a fair balance was struck between the competing general and individual interests.	Ratio
+On the other hand, there is no challenge to the compatibility of section 80 as such.	Ratio
+Accordingly, the mere fact that another statutory route was available involving compensation does not in itself lead to the conclusion that reliance on section 80 was disproportionate.	Ratio
+One argument on the councils side might have been that the requirement for specific planning permission under section 80 is designed to ensure that there has been an opportunity for highway considerations to be taken into account.	Ratio
+That, however, does not explain why the exception can be overridden by use of a different power, the only material difference being liability to compensation.	Ratio
+Further the inclusion of an exception for pre-1947 uses, regardless of whether they have been assessed on safety grounds, shows that the exclusion is related at least as much to protection of accrued rights as to safety considerations.	Ratio
+It was also suggested in the course of argument that frontagers potentially at risk under section 80 could have protected themselves by seeking retrospective planning permission.	Ratio
+However, it is at least doubtful whether that would be a proper use of the councils power, in relation to a use which is already lawful for planning purposes, and where the sole object is not a planning purpose, but to secure a right to compensation under a different legislative scheme.	Ratio
+Mr Greens strongest argument in my view rests on the changes made by the 1991 Act.	Ratio
+Previously, the access, though immune from enforcement under the planning Acts, was not lawful, and therefore, it could be said, should not be the subject of compensation (cf the Land Compensation Act 1973, section 5(4)).	ARG
+As he submits, that position has now changed.	ARG
+The access is to be regarded as lawful for planning purposes, and therefore, he says, there is no good reason for treating it less favourably than a pre-1948 use.	ARG
+The question must however be answered principally by reference to the balance drawn by section 80 itself, allowing for the wide margin of appreciation allowed to the national authorities.	Ratio
+It is in my view significant that the legislature did not adopt my recommendation that all immune uses and operations should be treated generally as though subject to planning permission, apart from the three cases specified in the section.	Ratio
+There may be room for argument as to where the line in section 80 should have been drawn, but the compatibility of the section is not the issue.	Ratio
+Given the availability of the power as a legitimate means of controlling use of a private access in the public interest, its use in the present circumstances was in my view neither an abuse of the councils powers nor outside the boundaries of the discretion allowed by the Convention.	Ratio
+For these reasons, I would allow this appeal and (save for the second part of the declaration, relating to possible use of section 66(2), which is not in dispute) set aside the order of the Court of Appeal.	RPC
+LORD NEUBERGER (with whom Lord Sumpton and Lord Hughes agree)	RPC
+Mr Cusack contends that he is entitled to compensation for the loss of vehicular access to his property at 66 Station Road, Harrow, across the footway of the A409 highway.	ARG
+This contention is based on the proposition that, in order to justify its right to impede that access (the access), the council should be required to rely on section 66 of the Highways Act 1980 which provides for compensation, rather than on section 80 of the same Act, which does not.	ARG
+Mr Cusack puts his case on two alternative bases.	ARG
+The first, which was accepted by the Court of Appeal, is that, as a matter of ordinary statutory interpretation, the council cannot choose to rely on section 80, and can only properly rely on section 66.	ARG
+If this is wrong, his alternative basis, which was rejected by the Court of Appeal, is that, once one takes into account the European Convention on Human Rights, and in particular article 1 of the First Protocol (A1P1), the council must rely on section 66 rather than section 80.	ARG
+I agree with Lord Carnwath that both these arguments fail, and that accordingly the councils appeal to this court should be allowed, for the reasons which he gives.	Ratio
+However, I would like to add a little, not least because we are differing from the Court of Appeal.	Ratio
+As has been accepted by both parties, at least as a matter of language, section 66(2) and section 80(1) of the 1980 Act each appear to be capable of justifying the councils actions in blocking the access.	Ratio
+If indeed they do both apply in this case, then, subject to the effect of A1P1, it appears clear the council would be entitled to choose which of the two statutory provisions to rely on.	Ratio
+In Westminster Bank Ltd v Minister of Housing and Local Government [1971] AC 508, 530, having said that where Parliament has chosen to set up two different ways of preventing development and that [i]t must have been aware that one involved paying compensation but the other did not, Lord Reid concluded that in the absence of special circumstances which make it unreasonable or an abuse of power to use one of these methods, a highway authority was entitled to rely on either method.	Ratio
+Indeed, it was suggested that, bearing in mind the councils obligation to conserve public funds, the council has a duty to rely on section 80.	Ratio
+Thus, in a slightly different context, Lord Radcliffe said in Ching Garage Ltd v Chingford Corporation [1961] 1 WLR 470, 475, that if a highway authority can do what they want to without having to pay compensation, they have no business to use public funds in paying over money to an objector who is not entitled to it.	Ratio
+It seems to me that the correct test in a case such as this, where there are two separate statutory provisions which could apply, is that, as Lord Reid stated, it is open to the council to rely on either provision, provided that it is reasonable in all the circumstances for it to do so.	Ratio
+However, the Court of Appeal concluded that, despite the language of section 80(1), it could not be relied on here, because, construing the 1980 Act as a whole, section 66(2) was the specific statutory provision which applied to the councils actions in this case, and the council could not effectively disapply it by invoking the more general power contained in section 80(1).	Ratio
+In his clear and succinct judgment, Lewison LJ identified the relevant approach to interpretation by quoting from a judgment of Sir John Romilly MR in Pretty v Solly (1859) 26 Beav 606, 610.	Ratio
+Sir John said that wherever there is a particular enactment and a general enactment in the same statute, and the latter, taken in its most comprehensive sense, would overrule the former, the particular enactment must be operative, and the general enactment must be taken to affect only the other parts of the statute to which it may properly apply.	Ratio
+It was suggested on behalf of the council that this case represented an opportunity for this court to make it clear that canons of construction should have a limited role to play in the interpretation of statutes (and indeed contracts).	ARG
+In my view, canons of construction have a valuable part to play in interpretation, provided that they are treated as guidelines rather than railway lines, as servants rather than masters.	ARG
+If invoked properly, they represent a very good example of the value of precedent.	ARG
+Interpretation of any document ultimately involves identifying the intention of Parliament, the drafter, or the parties.	Ratio
+That intention must be determined by reference to the precise words used, their particular documentary and factual context, and, where identifiable, their aim or purpose.	Ratio
+To that extent, almost every issue of interpretation is unique in terms of the nature of the various factors involved.	Ratio
+However, that does not mean that the court has a completely free hand when it comes to interpreting documents: that would be inconsistent with the rule of law, and with the need for as much certainty and predictability as can be attained, bearing in mind that each case must be resolved by reference to its particular factors.	Ratio
+Thus, there are some rules of general application eg that a statute cannot be interpreted by reference to what was said about it in Parliament (unless the requirements laid down in Pepper v Hart [1993] AC 593 are satisfied), or that prior negotiations or subsequent actions cannot be taken into account when construing a contract.	Ratio
+In addition, particularly in a system which accords as much importance to precedence as the common law, considerable help can often be gained from considering the approach and techniques devised or adopted by other judges when considering questions of interpretation.	Ratio
+Even though such approaches and techniques cannot amount to rules, they not only assist lawyers and judges who are subsequently faced with interpretation issues, but they also ensure a degree of consistency of approach to such issues.	Ratio
+Hence the so-called canons of construction, some of which are of relatively general application, such as the so-called golden rule (that words are prima facie to be given their ordinary meaning), and some of which may assist in dealing with a more specific problem, such as that enunciated by Sir John Romilly in Pretty v Solly.	Ratio
+With few, if any, exceptions, the canons embody logic or common sense, but that is scarcely a reason for discarding them: on the contrary.	Ratio
+Of course there will be many cases, where different canons will point to different answers, but that does not call their value into question.	Ratio
+Provided that it is remembered that the canons exist to illuminate and help, but not to constrain or inhibit, they remain of real value.	Ratio
+Although the principle expressed by Sir John Romilly, sometimes referred to by the Latin expression generalia specialibus non derogant, is a valuable canon of construction, I do not consider that it applies in relation to section 66 and section 80 of the Highways Act 1980.	Ratio
+That is because I do not think that it is possible to treat section 66(2) as a specific provision in contrast with section 80(1) as the more general provision.	Ratio
+They are, as Mr Sauvain QC for the council submitted, simply different provisions concerned with overlapping aims and with overlapping applications.	Ratio
+Each provision authorises a highway authority to erect posts, in the case of section 66 to [safeguard] persons using the highway, and in the case of section 80 for the purpose of preventing access to a highway.	Ratio
+There is a relatively narrow exception, in section 66(5), to the circumstances in which section 66(2) can be relied on but by virtue of section 66(8), if it is relied on, it carries with it compensation; on the other hand, there are fairly widely drawn circumstances, set out in section 80(3), in which section 80(1) cannot be invoked, but, where it is relied on, it carries no compensation.	Ratio
+The notion that either of two independent provisions in the same statute can be invoked for a particular purpose may seem surprising, especially when that purpose involves an interference with a frontagers right of access by a public body, and when the provisions have significantly different consequences for the frontager.	Ratio
+Accordingly, one can well understand why the Court of Appeal sought to reconcile section 66(2) and section 80(1) so as to avoid, or at least to minimise, any overlap.	Ratio
+However, as Lord Carnwaths analysis in paras 13-19 above shows, the 1980 Act, like its predecessor was a consolidating statute, and, while it included amendments, it did not purport to rationalise and re-codify the existing law.	Ratio
+Rather, it sought to bring into a single Act of Parliament most, if not all, of the various existing and rather disparate statutory provisions relating to highways, which had developed over the years in a piecemeal way, with a few amendments.	Ratio
+That was equally true of the 1959 Act, as evidenced by the statutory provisions considered, and the approach taken to them by the House of Lords, in Westminster Bank.	Ratio
+Extensive reference to the genealogy or archaeology of a consolidating statute is almost always unhelpful, and is sometimes positively confusing.	Ratio
+However, in this case, once one appreciates the way in which the 1980 Act was put together, and more particularly the different statutory origins of sections 66(2) and 80(1), the force of the argument that the two provisions should be construed in a mutually exclusive way is substantially weakened.	Ratio
+In view of the history of the 1980 Act, it is unsurprising that it includes provisions which substantially overlap, and courts should not therefore strain to find an interpretation which avoids or minimises such overlap.	Ratio
+So far as the application of A1P1 is concerned, as the Grand Chamber said in Depalle v France (2010) 54 EHRR 535, para 78, it is necessary not only to consider whether there has been a formal taking or expropriation of property but to look behind the appearances and investigate the realities of the situation.	Ratio
+On that basis, it seems to me clear that the restriction of Mr Cusacks frontager rights, by depriving him of vehicular access to his property, did not involve the deprivation of a possession, within the second rule of A1P1, as identified in Depalle, para 77.	Ratio
+However, I do accept, as did the council, that it falls within the third rule there identified, namely the control [of] the use of property in accordance with the general interest.	Ratio
+As Lewison LJ said in the Court of Appeal, [2011] EWCA Civ 1514, [2012] PTSR 970, para 25, [E]ven on Mr Green's hypothesis the council is not proposing to rob Mr Cusack of all access to the highway.	Ratio
+It is merely proposing to block vehicular access to the highway; and even then perhaps only access by four wheeled vehicles.	Ratio
+So even on that basis he is not deprived of the right of access to the highway: the right is being controlled so that it can only be exercised in a particular way.	Ratio
+Given that the disadvantage suffered by Mr Cusack falls within the third rule, I do not see how it can be said that the councils reliance on section 80, with the consequence that Mr Cusack receives no compensation, falls foul of A1P1.	Ratio
+Although there is no general right to compensation where the third rule applies, that is not, I accept, the end of the matter: it is appropriate to consider whether the exceptions in section 80(3), and in particular the fact that Mr Cusacks case does not fall within them, can be said to be arbitrary.	Ratio
+I do not consider such a suggestion to be supportable.	Ratio
+Section 80(3)(c) and (d) are drawn so as to exclude accesses which are immune from enforcement under the planning legislation, as opposed to accesses which, under para (c), are the subject of planning permission or deemed planning permission, or which, in the case of para (d), pre-dated the planning legislation.	Ratio
+I accept that the distinction between (i) actual or deemed permission and (ii) immunity from enforcement is somewhat narrow, but it undoubtedly exists and has long existed, and it is far from arbitrary or irrational, as Lord Carnwath explains in paras 20-25.	Ratio
+Given that there is nothing in the argument that the councils reliance in this case on section 80, which carries no compensation, offends A1P1, I do not consider that the fact that the council could have relied on section 66, which would have carried compensation, alters that conclusion.	Ratio
+The fact that these two provisions happen to have overlapping applications, but different consequences in terms of compensation, is explicable by reference to their different origins.	Ratio
+A1P1 does not carry with it a general rule that, where the state seeks to control the use of property, and could do so under two different provisions, which have different consequences in terms of compensation, it is obliged to invoke the provision which carries some (or greater) compensation.	Ratio
+Of course, as in domestic law (as explained by Lord Reid in Westminster Bank), in a particular case with special facts, there may be such an obligation, but no such special facts have been prayed in aid here.	Ratio
+LORD MANCE	RPC
+I agree that the appeal should succeed for the reasons given by Lord Carnwath in paras 27 to 50 and by Lord Neuberger in paras 61 to 69 of their respective judgments.	RPC

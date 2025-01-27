@@ -1,0 +1,320 @@
+This appeal concerns the interpretation and application of the Mental Health (Care and Treatment) (Scotland) Act 2003 (the Act).	Ratio
+The appellant is a patient detained in the State Hospital at Carstairs who made an application to the Mental Health Tribunal for Scotland (the tribunal) for an order under section 264(2) of the Act, declaring that he was being detained under conditions of excessive security and specifying a period during which the duties under section 264(3) and (5) should be performed.	Ratio
+His application was refused.	RLC
+An appeal to the Court of Session against that decision, under section 322 of the Act, was also refused ([2011] CSIH 55; 2012 SC 138).	RLC
+He now appeals to this court.	RLC
+For the reasons I shall explain, the appeal must be dismissed.	Ratio
+It has however provided an opportunity to clarify the nature of decision-making under section 264(2), and the factors which are relevant to the proper application of that section and of other provisions of the Act.	Ratio
+The background to the Act	Ratio
+It may be helpful to begin by considering the general background to the Act.	Ratio
+Until its enactment, the statutory framework for the treatment in Scotland of persons suffering from mental disorders was contained in the Mental Health (Scotland) Act 1984, a consolidation Act which drew together a body of older legislation.	Ratio
+That legislation had become increasingly out of step with current thinking about the treatment of mental disorders, the rights of patients, and the relationship between patients and the wider community.	Ratio
+One important development was the influence of the European Convention on Human Rights, particularly after it was given effect in domestic law by the Scotland Act 1998 and the Human Rights Act 1998.	Ratio
+In particular, the Convention necessitated a more robust system of judicial protection of the rights of patients than had previously existed, and greater involvement of patients and their families and carers in decisions concerning treatment.	Ratio
+Another important development concerned the treatment of the mentally ill, with many more patients being treated outside hospitals, fewer patients requiring long-term hospital care, and a marked reduction in the number of hospital beds available for the treatment of mental illness.	Ratio
+A third development was an increasing recognition of the desirability of eliminating the stigma which had long been associated with mental illness.	Ratio
+All these developments, and others, necessitated a fundamental review of Scottish mental health law.	Ratio
+The Committee stated in the report that it was fundamental to its approach that a new Act should be based on principles stated on the face of the Act itself (Introduction, para 3): as I shall explain, that is reflected in section 1 of the Act.	Ratio
+A particular problem identified by the Committee, which in due course section 264 of the Act sought to address, was discussed in Chapter 27: 82.	Ratio
+We have received evidence from the State Hospital and the Mental Welfare Commission that there are significant numbers of entrapped patients.	Ratio
+These are patients who no longer require the level of security afforded by the State Hospital, but for whom appropriate local services are not available.	Ratio
+The State Hospitals Board suggested that there is currently little incentive for local health boards and trusts to arrange secure psychiatric services.	Ratio
+The local public is unlikely to welcome such services (indeed quite the reverse), and funding arrangements do not create incentives to develop such services.	Ratio
+The Board strongly advocated that an explicit statutory duty be placed on health boards to commission local services to address the need for a range of medium and low security services for mentally disordered offenders.	Ratio
+83.	Ratio
+We have considerable sympathy with the position of the State Hospital on this point.	Ratio
+However, we have decided that, in terms of our core remit of reviewing the Mental Health (Scotland) Act 1984, it would be more appropriate for us to propose another means of addressing this problem, which is more directed at the rights of individual patients.	Ratio
+This is that patients should have a continuing right to appeal against the level of security to which they are subjected.	Ratio
+84.	Ratio
+It seems to us that to detain a patient unnecessarily in conditions of high security is inconsistent with respect for the patient's rights, and our general principle of Least restrictive alternative.	Ratio
+Furthermore, the proposed development of medium secure units would seem to make it more likely that such an appeal right would be practicable.	Ratio
+The Committee discussed how such a right of appeal might be made effective.	Ratio
+In order to provide care at a lower level of security, arrangements would have to be made by the responsible health board.	Ratio
+The provision of such arrangements could involve practical difficulties which might be beyond the health boards control.	Ratio
+If the necessary arrangements were not put in place, it would be undesirable that a patient who was still assessed as requiring some degree of secure care should simply be discharged.	Ratio
+On the other hand, the proposed right of appeal would be meaningless unless it led to an order which was capable of being enforced.	Ratio
+Following consultation on this issue, the Committee concluded that a staged approach was appropriate: We therefore suggest that, should a patient successfully appeal to a tribunal against the level of security, it should set a time within which the necessary provision should be arranged by the responsible health board.	Ratio
+The time limit might be of the order of three months.	Ratio
+Should arrangements not be made at the expiry of that period, representatives of the health board should be required to appear before the tribunal to explain the position, and to confirm whether there is a prospect of a placement being found within a reasonable period.	Ratio
+The tribunal should be able to extend the time limit for a further period of no more than three months.	Ratio
+If, at the end of that period, no provision has been made, the tribunal could order that arrangements must be put in place to accommodate the patient within 14 days.	Ratio
+(Chapter 27, para 89)	Ratio
+In a subsequent White Paper, Renewing Mental Health Law Policy Statement (2001), the Scottish Executive broadly accepted the Committees recommendations as the framework for a future Bill, although rejecting or modifying some of the recommendations concerned with mentally disordered offenders.	Ratio
+As introduced, the Bill did not contain any provision reflecting the recommendations in relation to appeals against levels of security.	Ratio
+There was at that time only one specialist medium secure unit in Scotland, namely the Orchard Clinic in Edinburgh.	Ratio
+The provisions which became sections 264 to 273, giving effect to the Committees recommendations, were however introduced by amendment during the passage of the Bill through Parliament.	Ratio
+Commencement provisions in section 333(2) allowed the entry into force of sections 264 to 273 to be delayed until 1 May 2006, so as to allow sufficient time for additional facilities for affected patients to be commissioned.	Ratio
+Section 1 of the Act	STA
+Section 1 of the Act is a provision of particular importance.	STA
+It sets out principles to be applied by persons discharging certain functions under the Act.	STA
+The principles are set out in, or incorporated into, subsections (2) to (4).	STA
+The circumstances in which they apply are defined by subsection (1), which provides: (1) Subsections (2) to (4) below apply whenever a person who does not fall within subsection (7) below is discharging a function by virtue of this Act in relation to a patient who has attained the age of 18 years.	STA
+The tribunal does not fall within subsection (7).	STA
+Subsections (2) to (4) therefore apply to the tribunal whenever it is discharging a function by virtue of the Act in relation to a patient who is over 18.	STA
+One of the functions discharged by the tribunal under the Act, to which subsections (2) to (4) therefore apply, is that of taking decisions under section 264(2).	STA
+Section 1(2) provides: (2) In discharging the function the person shall, subject to subsection (9) below, have regard to the matters mentioned in subsection (3) below in so far as they are relevant to the function being discharged.	STA
+Subsection (9) is not relevant to the present case, and need not be considered further.	STA
+Subject only to that provision, the tribunal is under a statutory duty to have regard to the matters mentioned in subsection (3) so far as they are relevant to the function being discharged: such as, in the present case, the taking of decisions under section 264(2).	STA
+Section 1(3) provides: (3) The matters referred to in subsection (2) above are - (a) the present and past wishes and feelings of the patient which are relevant to the discharge of the function; (b) the views of [the patients named person, carer, guardian and welfare attorney, if any], which are relevant to the discharge of the function; (c) the importance of the patient participating as fully as possible in the discharge of the function; (d) the importance of providing such information and support to the patient as is necessary to enable the patient to participate in accordance with paragraph (c) above; (e) the range of options available in the patient's case; (f) the importance of providing the maximum benefit to the patient; (g) the need to ensure that, unless it can be shown that it is justified in the circumstances, the patient is not treated in a way that is less favourable than the way in which a person who is not a patient might be treated in a comparable situation; (h) the patient's abilities, background and characteristics, including, without prejudice to that generality, the patient's age, sex, sexual orientation, religious persuasion, racial origin, cultural and linguistic background and membership of any ethnic group.	STA
+Paragraphs (a), (c) and (d) reflect the importance of respect for the patients autonomy and the consequent need to enable the patient to participate in the exercise of functions concerning him or her, so far as possible.	STA
+The Millan Committee had identified in its discussion of general principles (Chapter 3, para 13) a need to broaden the extent to which those principles were reflected in mental health law.	STA
+Paragraph (b) is similar in purpose to paragraph (a), and applies the same general principle to carers and others closely involved with the patient.	STA
+Paragraphs (e) and (f) reflect the importance of ensuring that functions exercised under the Act should be discharged in the most beneficial way possible for the patient.	STA
+As the Committee had noted, that principle was reflected in the older legislation concerned with children and with adults with incapacity, but not in mental health law generally.	STA
+Paragraph (g) gives expression to the principle of non-discrimination in relation to persons with mental disorders: the term patient is defined by section 329(1) of the Act as meaning a person who has, or appears to have, a mental disorder.	STA
+The Committee had noted that this concept of equality had come to the fore in recent years.	STA
+Paragraph (h) reflects the principle of respect for diversity.	STA
+The Committee had observed that such a principle added to the principle of equality by making a positive statement of the requirement to reflect individual needs.	STA
+Before considering section 1(4), it is necessary to consider section 1(5) and (6), which list further matters to which regard must be had in particular circumstances.	STA
+Section 1(5) provides: (5) Whenever a person who does not fall within subsection (7) below is discharging a function by virtue of this Act (other than the making of a decision about medical treatment) in relation to a patient, the person shall have regard, in so far as it is reasonable and practicable to do so, to - (a) the needs and circumstances of any carer of the patient which are relevant to the discharge of the function and of which the person is aware; and (b) the importance of providing such information to any carer of the patient as might assist the carer to care for the patient.	STA
+As I have explained, the tribunal does not fall within subsection (7); and a decision under section 264(2) is not a decision about medical treatment.	STA
+It is therefore a decision to which section 1(5) applies.	STA
+Section 1(6) provides: (6) Whenever a person who does not fall within subsection (7) below is discharging a function by virtue of this Act in relation to a person who is, or has been, subject to - (a) detention in hospital authorised by [an emergency detention certificate]; (b) detention in hospital authorised by a [short-term detention certificate]; (c) [a compulsory treatment order]; or (d) [a compulsion order], the person who is discharging the function shall have regard to the importance of the provision of appropriate services to the person who is, or has been, subject to the certificate or order concerned (including, without prejudice to that generality, the provision of continuing care when the person is no longer subject to the certificate or order).	STA
+Since section 264 applies where a patients detention in a state hospital is authorised by inter alia a compulsory treatment order or a compulsion order, it follows that section 1(6) can apply when the tribunal is taking a decision under section 264.	STA
+It did so in the present case, the appellant being subject to a compulsion order.	STA
+Returning to section 1(4), it provides: (4) After having regard to - (a) the matters mentioned in subsection (3) above; (b) if subsections (5) and (6) below apply, the matters mentioned there; and (c) such other matters as are relevant in the circumstances, the person shall discharge the function in the manner that appears to the person to be the manner that involves the minimum restriction on the freedom of the patient that is necessary in the circumstances.	STA
+Section 1(4) is of a different nature from subsections (3), (5) and (6).	STA
+It does not specify matters to which the person in question must have regard.	STA
+It applies after the person has had regard to all the matters to which he or she is required to have regard, including, under paragraph (c), the residual category of such other matters as are relevant in the circumstances.	STA
+It requires the person then to discharge the function in a particular manner, namely the manner which appears to the person to involve the minimum restriction on the freedom of the patient that is necessary in the circumstances.	STA
+This broadly but not precisely reflects the Millan Committees general principle of the least restrictive alternative (Chapter 3, para 13), and Principle 9.1 of the Principles for the Protection of Persons with Mental Illness and for the Improvement of Mental Health Care, adopted by the UN General Assembly on 17 December 1991 (A/RES/46/119).	STA
+The concept of restriction on freedom is not defined, and must be considered broadly.	Ratio
+A persons freedom has many aspects, and can be restricted in many different ways.	Ratio
+To some extent, whether a particular aspect or effect of the detention of a patient is regarded as a restriction of his freedom may depend on the characteristics of the patient.	Ratio
+There may be room for debate as to whether one course of action will involve greater restriction of a patients freedom than another.	Ratio
+One course of action may, for example, involve relatively greater restriction on freedom than another for a period of time, but relatively less restriction subsequently.	Ratio
+One course of action may involve one kind of restriction on freedom, while another may involve a different type of restriction.	Ratio
+For all these reasons, the person discharging the function must have a wide power of judgment in making his or her assessment under section 1(4), and may not be able to reach any clear conclusion.	Ratio
+Section 1(4) does not prioritise the freedom of the patient over other considerations, such as the importance of providing the maximum benefit to the patient or, where relevant, the protection of the public, or the safety of other patients: it requires the minimum restriction on the freedom of the patient that is necessary in the circumstances.	Ratio
+The judgment of what is necessary in the circumstances is to be made by the person discharging the function.	Ratio
+Section 1 thus sets out an overarching approach to the discharge of functions under the Act.	Ratio
+The person discharging the function must have regard to the matters specified in subsection (3), so far as relevant, to the matters specified in subsections (5) and (6) where applicable, and to such other matters as may be relevant in the particular circumstances.	Ratio
+The person must then discharge the function in the manner that appears to him or her to involve the minimum restriction on the freedom of the patient that is necessary in those circumstances.	Ratio
+Section 1(4) will not however be determinative of all the decisions falling within its scope.	Ratio
+Some functions discharged under the Act do not impinge upon the freedom of patients.	Ratio
+In other cases, there may be a number of ways in which the function might be discharged, none of which appears to the person in question to impose a greater restriction on the freedom of the patient than is necessary in the circumstances.	Ratio
+Section 264 of the Act	STA
+Section 264 applies, in terms of subsection (1), where a patients detention in a state hospital is authorised by any of a number of specified orders and directions, including a compulsion order.	STA
+As I have explained, the appellants detention in the State Hospital is authorised by such an order, and therefore comes within the scope of section 264.	STA
+Section 264(2) provides: (2) On the application of any of the persons mentioned in subsection (6) below, the Tribunal may, if satisfied that the patient does not require to be detained under conditions of special security that can be provided only in a state hospital, make an order - (a) declaring that the patient is being detained in conditions of excessive security; and (b) specifying a period, not exceeding 3 months and beginning with the making of the order, during which the duties under subsections (3) to (5) below shall be performed.	STA
+The patient is among the persons mentioned in subsection (6), and is therefore entitled to make such an application.	STA
+Section 264(2) confers a discretion (the Tribunal may make an order), subject to a pre-condition (if satisfied that the patient does not require to be detained under conditions of special security that can be provided only in a state hospital).	Ratio
+The function conferred upon the tribunal by section 264(2) therefore involves two distinct stages.	Ratio
+First, the tribunal has to decide whether it is satisfied that the patient does not require to be detained under conditions of special security that can be provided only in a state hospital: that is to say, whether the statutory condition for the admission of a patient to a state hospital (under, for example, sections 57A(6) or 59A(6) of the Criminal Procedure (Scotland) Act 1995 as amended) is no longer satisfied.	Ratio
+If the tribunal is not so satisfied, then it will refuse the application.	Ratio
+If on the other hand it is so satisfied, then it may make an order under the subsection.	Ratio
+The second stage of the tribunals function is therefore to decide whether to exercise its discretion to make such an order.	Ratio
+If it decides to do so, then it must also decide the length of the period within which the duties under subsections (3) to (5) are to be performed, subject to a maximum period of three months.	Ratio
+The duties imposed by an order made under section 264(2) are set out in subsections (3) to (5).	Ratio
+Section 264(3) provides: (3) Where the Tribunal makes an order under subsection (2) above in respect of a relevant patient, the relevant Health Board shall identify a hospital (a) which is not a state hospital; (b) which the Board and the Scottish Ministers, and its managers if they are not the Board, agree is a hospital in which the patient could be detained in appropriate conditions; and (c) in which accommodation is available for the patient.	Ratio
+Section 264(4) makes analogous provision in relation to patients who are not relevant patients.	Ratio
+A relevant patient is defined by section 273 as one whose detention in hospital is authorised by a compulsion order and who is also subject to a restriction order, or one whose detention in hospital is authorised by a hospital direction or a transfer for treatment direction.	Ratio
+The appellant falls into the first of these categories and is therefore a relevant patient.	Ratio
+Section 264(5) provides that, where the tribunal makes an order under subsection (2), the relevant health board shall, as soon as practicable after identifying a hospital under subsection (3) or (4), notify the managers of the state hospital of the name of the hospital so identified.	Ratio
+It is relevant to note the terms of sections 265 to 267 and 272.	STA
+Section 265 provides an enforcement mechanism in relation to orders which have been made under section 264(2) and have not been recalled under section 267.	STA
+In terms of section 265(2), if the health board fails, during the period specified in the order, to give notice to the tribunal that the patient has been transferred to another hospital, there must be a further hearing before the tribunal.	STA
+If, following such a hearing, the tribunal remains satisfied that the patient does not require to be detained under conditions of special security that can be provided only in a state hospital, it may then make a further order, under section 265(3), of a similar nature to the order originally made under section 264(2).	STA
+The order made under section 265(3) must specify either a further period of 28 days, or a longer period of up to three months, within which the health board must perform its duties.	STA
+Section 266 provides a further enforcement mechanism in relation to orders made under section 265(3) which have allowed the health board a further period of more than 28 days to perform its duties, and have not been recalled under section 267.	STA
+In terms of section 266(2), if the health board fails, during the period specified in the order, to give notice to the tribunal that the patient has been transferred to another hospital, there must be a further hearing before the tribunal.	STA
+If, following such a hearing, the tribunal remains satisfied that the patient does not require to be detained under conditions of special security that can be provided only in a state hospital, it may then make a further order under section 266(3) of a similar nature to the order originally made under section 264(2), specifying a further period of 28 days within which the health board must perform its duties.	STA
+Under section 267, an application can be made to the tribunal by the health board (and, in the case of a relevant patient, by the Scottish Ministers) for the recall of an order made under section 264(2), 265(3) or 266(3).	STA
+The tribunal is required to recall the order if it is satisfied that the patient requires to be detained under conditions of special security that can be provided only in a state hospital, and also has a discretion to recall the order on any other grounds.	STA
+Under section 272(1), an order made under section 264(2), or an order made under section 265(3) which allows the health board a period of more than 28 days to perform its duties, cannot be enforced by proceedings for specific performance.	STA
+Such orders can therefore be enforced only by means of the procedures laid down in sections 265 and 266 respectively.	STA
+On the other hand, under section 272(2), an order under section 265(3) which specifies a period of 28 days, and an order under section 266(3), are enforceable by proceedings for specific performance.	STA
+One implication of these provisions is that orders made by the tribunal under section 264(2), and orders made under section 265(3) allowing the health board more than 28 days, are not enforceable.	Ratio
+In particular, following the making of an order under section 264(2), the tribunal is required to review the position at one or possibly two further hearings before the health board can be compelled by civil proceedings to identify a suitable hospital and notify the managers of the state hospital.	Ratio
+The period of time allowed to the health board to make suitable arrangements, before civil proceedings can be taken to compel it to do so, can therefore be substantial: up to three months in terms of the order made under section 264(2), a further three months in terms of the order made under section 265(3), and a further 28 days in terms of the order made under section 266(3).	Ratio
+Further time will be required to deal with applications under each of those three sections, there being in each case a requirement to afford an opportunity of making representations and of leading evidence, and to hold a hearing.	Ratio
+In the present case, an application under section 264 alone took more than 19 months to be decided by the tribunal.	Ratio
+Returning to section 264(2), I have explained the two stages of the exercise which the tribunal has to carry out.	Ratio
+At the first stage, it has to decide whether it is satisfied that the patient does not require to be detained under conditions of special security that can be provided only in a state hospital.	Ratio
+What constitute such conditions will be a question of fact for the tribunal, the answer to which may vary from time to time.	Ratio
+Having identified those conditions, the tribunal has to decide whether the patient requires to be detained under them.	Ratio
+If he does not, then the decision at stage one will be favourable to him.	Ratio
+It is to be noted that the tribunal is not concerned at stage one with the question whether accommodation is available for the patient in some other hospital in which he could be detained in appropriate conditions.	Ratio
+If the tribunal is satisfied at stage one, it then has to perform its function at stage two: that is to say, it has to decide whether to exercise its discretion to make an order.	Ratio
+As I have explained, the tribunals discharge of its function under section 264(2) falls within the scope of the general provisions set out in section 1 of the Act.	Ratio
+The tribunal must therefore have regard to the matters to which it is required to have regard under that section, and to such other matters as are relevant in the circumstances, in accordance with section 1(4)(c).	Ratio
+In the present case, for example, a relevant consideration was that the State Hospital had no female patients, whereas there were such patients in medium secure hospitals.	Ratio
+Another was the risk posed by the appellant to the safety of women.	Ratio
+As I have explained, the tribunal is required by section 1(4) to exercise its discretion at stage two in the manner that appears to [it] to be the manner that involves the minimum restriction on the freedom of the patient that is necessary in the circumstances.	Ratio
+That test employs a different concept from section 264(2): conditions of security are not synonymous with restrictions on freedom.	Ratio
+For example, the security conditions at the State Hospital include a perimeter security fence which prevents patients from having uncontrolled access to the wider community.	Ratio
+Within the perimeter, however, the movements and activities of a patient may be subject to relatively few restrictions.	Ratio
+Medium secure hospitals on the other hand typically have less secure perimeters.	Ratio
+In consequence, patients posing a risk to the public may require to be subject to relatively onerous restrictions on their movements and activities, which may not only prevent them from having uncontrolled access to the wider community but may also restrict their freedom within the hospital itself.	Ratio
+For reasons such as these, it is possible that fewer restrictions on the freedom of a particular patient may be necessary under conditions of security that are available only in a state hospital than if the patient were detained elsewhere.	Ratio
+Thus an analysis of the implications of an order under section 264(2) for the daily regime of the patient and for his progress through the system may, depending on the circumstances, result in the conclusion that the refusal of the order will result in the minimum restriction necessary in the circumstances.	Ratio
+It is also possible that no clear conclusion will be reached as to whether the patient will be subject to greater restrictions on his freedom if he is detained in a state hospital or elsewhere.	Ratio
+The tribunal should in any event exercise its discretion in such a way as to promote the policy and objects of the Act, and of section 264 in particular.	Ratio
+As I have explained, the mischief which section 264 was intended to address is the entrapment of patients who no longer require the level of security afforded by the State Hospital.	Ratio
+Given that intention, Parliament can be taken to have envisaged that if the tribunal were to conclude at stage one that the patient no longer required to be detained under conditions of special security that could be provided only in a state hospital, it would then make an order under section 264(2) unless it considered that there was some good reason not to do so.	Ratio
+In that regard, the unavailability of accommodation in a medium secure hospital in which the patient could be detained in appropriate conditions cannot have been intended to preclude the making of an order under section 264(2): otherwise, Parliaments intention in enacting section 264 could be frustrated by mere inertia on the part of health boards, and the arrangements made by sections 264 to 266 and 272, preventing the immediate enforcement of orders under section 264(2), and allowing health boards substantial periods of time where necessary to make appropriate arrangements, would be supererogatory.	Ratio
+Those provisions take account of the potential practical difficulties identified by the Millan Committee, while also guarding against the connection between entrapment and the absence of incentives for health boards to address the problem.	Ratio
+It is implicit in section 264(3), (4) and (5) that an order can be made by the tribunal under subsection (2) at a time when no hospital has been identified, other than a state hospital, in which the patient could be detained in appropriate conditions and in which accommodation is available for the patient.	Ratio
+At the same time, the unavailability of accommodation in medium secure hospitals where the patient could be detained in conditions appropriate to his particular needs, including appropriate facilities for treatment, may in some circumstances be relevant to the tribunals performance of its duty to have regard to the importance of providing the maximum benefit to the patient, in accordance with section 1(3)(f).	Ratio
+It may also be relevant to the tribunals duty to have regard to the importance of the provision of appropriate services to the patient, in accordance with section 1(6).	Ratio
+To make an order under section 264(2) where medical or other evidence demonstrated that appropriate conditions were not available outside a state hospital, or where clinically superior conditions were available in a state hospital, might be incompatible with providing the maximum benefit to the particular patient.	Ratio
+As I shall explain, the present case provides an example of such a situation.	Ratio
+Furthermore, to make an order where the tribunal was satisfied that there was no conceivable possibility that the patient could be accommodated in a medium secure hospital in appropriate conditions within any realistic timescale, and where an application for recall could not therefore be refused, would be unreasonable.	Ratio
+The view expressed in Lothian Health Board v BM 2007 SCLR 478, that the availability of accommodation in a medium secure hospital where the patient could be detained in appropriate conditions, including appropriate facilities for treatment, can never be relevant to the question whether an order should be made under section 264, and can only be raised by way of an application for the recall of the order under section 267, therefore goes too far.	Ratio
+The present case	FAC
+In 1998 the appellant appeared before the High Court of Justiciary on charges of rape, assault and breach of the peace.	FAC
+He was acquitted on the ground of insanity and made the subject of orders under which he was detained at the State Hospital.	FAC
+Although those orders were made under earlier legislation, they are now deemed to be a compulsion order and a restriction order within the meaning of the Criminal Procedure (Scotland) Act 1995 as amended.	FAC
+In 2008 the appellant applied for an order under section 264(2) of the Act.	STA
+In 2009 the tribunal issued its decision, refusing the application.	RLC
+In its decision, the tribunal described the security conditions at the State Hospital, and explained how they differed from those in hospitals of lesser security.	FAC
+It found that the appellant had in recent times been subject to the lowest level of security in the State Hospital.	FAC
+He continued to pose some risk of sexual violence.	FAC
+The best way of managing that risk could only be determined following his undertaking and completing satisfactorily a course of psychological treatment for sexual offending.	FAC
+The tribunal found that the appellant had in the past been offered such treatment at the State Hospital, on a group basis, but had declined to take part.	FAC
+He had recently indicated his willingness to engage in such treatment on a one to one or one to two basis.	FAC
+After a delay for which there was no satisfactory explanation, the provision of appropriate treatment for him was currently under consideration by the clinical psychologists at the State Hospital.	FAC
+The psychology department there was the best resourced in any secure hospital in Scotland.	FAC
+It was capable of providing appropriate treatment in a variety of forms, including one to one or one to two.	FAC
+It had assessed the appellant and was best placed to decide how to meet his needs.	FAC
+There was uncertainty as to the time scale for undertaking such treatment in a medium secure hospital.	FAC
+The tribunal correctly identified that decision-making under section 264(2) involved two stages, and it correctly understood what those stages were.	FAC
+At the first stage, it concluded that the appellant did not require to be detained under conditions of special security that could be provided only in a state hospital.	FAC
+On the facts which it had found, it was entitled to reach that conclusion: it found that the appellant could be managed within a medium secure hospital, although only subject to considerable restrictions until he had completed a course of treatment for sexual violence.	FAC
+If the appellant could be detained elsewhere in appropriate conditions of security, then he did not require to be detained under conditions of special security that could be provided only in a state hospital.	FAC
+At the second stage of its decision, the tribunal had regard to section 1 of the Act.	FAC
+It referred in particular to the importance of providing the maximum benefit to the patient (section 1(3)(f)), and to the least restrictive option (section 1(4)).	FAC
+It made no express mention of the other provisions of section 1(3), (5) or (6).	FAC
+In reaching its decision at the second stage, the tribunal noted the medical witnesses agreement that the appellant had to undertake an appropriate course of treatment before he could be allowed greater contact with women.	FAC
+If transferred to a medium secure hospital, he would have greater contact with women: although this was not explained by the tribunal, we were informed that the State Hospital has no female patients, whereas medium secure hospitals have patients of both sexes.	FAC
+If transferred before completing such treatment, he would pose a risk to any woman with whom he formed a relationship, in the event that he felt rejected or came under the influence of alcohol or drugs.	FAC
+The tribunal also shared the concern expressed by certain of the medical witnesses that the appellant was less likely to engage in such treatment in a medium secure hospital.	FAC
+There was therefore a significant risk that he would become entrapped in the medium secure system: although this was not explained by the tribunal, we were informed that this was because the progression of patients to lower levels of security depends on assessments of risk, and one of the purposes of such treatment is to provide the information necessary for that assessment process.	FAC
+Because of the risk he posed to women, he would require to be subject to restrictions on his movements in a medium secure hospital which were much greater than those to which he was subject in the State Hospital, unless and until he successfully completed such treatment.	FAC
+There was a significant risk of consequential problems for his mental health.	FAC
+In relation to the least restrictive alternative, the tribunal stated that if the appellant moved to a medium secure hospital then he would have to endure greater restrictions on his movements than currently experienced at the State Hospital, until a treatment course was satisfactorily completed.	FAC
+Such a course could take 12 to 18 months.	Ratio
+The tribunal concluded that it was of maximum benefit to the appellant that he should remain at the State Hospital and undertake appropriate treatment there.	RLC
+It stated that accordingly in the exercise of its discretion, the application should be refused.	RLC
+The challenge to the tribunals decision	FAC
+On behalf of the appellant, it was submitted to this court that the tribunals decision was vitiated by a number of errors.	ARG
+In the first place, it was argued that the tribunal had failed to exercise its discretion in accordance with the purpose of section 264.	ARG
+Since the purpose was to avoid patients being detained in state hospitals when adequate security arrangements were available elsewhere, section 264(2) should be interpreted as conferring only a residual discretion to refuse an order in exceptional circumstances at stage two, where a decision favourable to the patients application had been reached at stage one.	ARG
+Secondly, the tribunal had been influenced at stage two by the risk posed by the appellant to women.	ARG
+Risk was however an irrelevant consideration at stage two: the tribunal only reached stage two after it had already decided at stage one that the patient could be managed within a medium secure hospital.	ARG
+Thirdly, the tribunal had placed weight on a finding that the State Hospital offered better resources for the treatment of the appellant than were available in the medium secure estate.	ARG
+The unavailability of suitable resources elsewhere was not however a relevant factor: otherwise, the provisions of sections 265 and 266 would be otiose.	ARG
+Fourthly, the tribunal had failed to have regard to the wishes and feelings of the appellant, and to the need to avoid discrimination against patients, contrary to section 1(3)(a) and (g) respectively.	ARG
+Fifthly, the tribunal had misunderstood the relationship between section 1(3) and section 1(4).	ARG
+It had elevated the importance of providing maximum benefit to the patient (section 1(3)(f)) above the least restrictive alternative principle (section 1(4)), thus inverting the proper approach.	ARG
+I shall consider each of these contentions in turn.	ARG
+The width of the discretion exercised at stage two	Ratio
+If the tribunal reaches a conclusion favourable to the patients application at stage one, it must then exercise its discretion whether to grant the application in accordance with the principles set out in section 1 and in accordance with the policy underlying section 264.	Ratio
+Putting the matter broadly, if the patient does not require to be detained under conditions of special security available only in a state hospital, this approach should lead to the granting of the application unless in the particular circumstances there is some good reason to refuse it.	Ratio
+It would therefore be potentially misleading to describe the tribunals discretion as unqualified: the range of matters which it may take into account is not subject to any express restriction, and is necessarily wide, but its discretion must nevertheless be exercised in a manner which is consistent with the intention of Parliament.	Ratio
+On the other hand, it would also be wrong to say that it is only in exceptional circumstances that an application should be refused at stage two: it is impossible to say a priori whether the circumstances in which an application may properly be refused will be exceptional or not.	Ratio
+There is no legal reason why they need be.	Ratio
+Indeed, exceptional circumstances cannot be a legal test: circumstances can be described as exceptional only by reference to a criterion, rather than exceptionality being a criterion in itself.	Ratio
+The relevance of risk at stage two	Ratio
+The risk posed by the patient to the safety of others is plainly relevant to the tribunals assessment at stage one, since the conditions of security under which the patient requires to be detained are dependent upon the nature and extent of any risk which he poses.	Ratio
+If the tribunal concludes at stage one that the patient does not require to be detained under conditions of special security that can be provided only in a state hospital, it is by implication finding that the conditions of security that can be provided elsewhere are equally capable of addressing the risk posed by the patient.	Ratio
+The tribunal cannot rationally exercise its discretion at stage two on a basis which is inconsistent with that conclusion.	Ratio
+In those circumstances, the tribunal was correct to consider one aspect of the issue of risk namely, the necessity for security arrangements available only in a state hospital - at stage one, and other aspects namely, the risk to female patients in a medium secure hospital, and the implications of that risk for restrictions on the appellants freedom in that setting, and consequently for the appellants mental health - at stage two.	Ratio
+The relevance of the quality of the resources available in medium secure hospitals	Ratio
+As I have explained, when the tribunal is taking a decision under section 264(2), the unavailability of accommodation for the patient at another hospital where he could be detained in appropriate conditions does not preclude the granting of the application.	Ratio
+That does not however entail that the quality of treatment available at other hospitals, as compared with the treatment available at the State Hospital, is irrelevant to the tribunals exercise of its discretion.	Ratio
+There is nothing in section 264 which expressly or implicitly bars the tribunal from taking such a clinical comparison into account.	Ratio
+Under section 1, the quality of the treatment available elsewhere may be a relevant consideration, notably under section 1(3)(f) and section 1(6), both of which were relevant in the present case.	Ratio
+Furthermore, the quality of treatment available in a medium secure hospital, and in particular the availability of the particular form of treatment required by the patient, may affect the risk posed by the patient in that setting.	Ratio
+The potential raising of the level of risk is in itself a matter to which the tribunal is entitled to have regard, under section 1(4)(c), and it may have consequences which are also relevant to the tribunals decision, for example under section 1(3)(f) or section 1(4).	Ratio
+In the present case, the tribunals focus was upon the availability of the most suitable treatment for the appellants particular needs in the State Hospital and in a medium secure hospital, the likelihood of his accepting appropriate treatment in each of those settings, and the implications of those matters for the risk which he would pose in each of those settings, for the necessary restrictions on his movement and for his mental health.	Ratio
+Although the tribunal might have given a fuller explanation of its factual findings in relation to these matters, its approach to them did not involve any error of law.	Ratio
+The tribunals failure to refer to section 1(3)(a) and (g)	Ratio
+The tribunal made no express mention of section 1(3)(a), and did not refer in terms to the appellants wishes or feelings in the reasons it gave for its decision.	Ratio
+It is nevertheless clear that the tribunal had regard to the appellants wishes and feelings so far as relevant, as required by section 1(3)(a).	Ratio
+In particular, it took account of his wish to be transferred to a medium secure hospital, and it considered his attitude towards different forms of treatment.	Ratio
+I am unable to accept the submission on behalf of the tribunal, seemingly endorsed by the Inner House at para 14 of the opinion delivered by Lord Bonomy, that the non-discrimination principle set out in section 1(3)(g) is irrelevant to the tribunals discharge of its function under section 264, since a patient is not comparable to a person of full capacity: on the contrary, section 1(3)(g) is undoubtedly relevant, most obviously to the way in which the patient is treated by the tribunal in its procedures.	Ratio
+In the present case, it was argued that section 1(3)(g) required the tribunal to respect the appellants right to decline to accept the most beneficial form of treatment.	Ratio
+No reference was made to section (1)(3)(g) by the tribunal.	Ratio
+In reaching its decision, however, the tribunal bore in mind that the appellant might decline to participate in an appropriate course of treatment if transferred to a medium secure hospital.	Ratio
+It was partly for that reason that it concluded that his application should be refused.	Ratio
+Generally, in relation to this aspect of the appellants contentions, it is necessary to have regard to general guidance relevant to the duty of tribunals to give reasons for their decisions, such as that given by Lord Clyde in City of Edinburgh Council v Secretary of State for Scotland 1998 SC (HL) 33, 49-50; [1997] 1 WLR 1447, 1464-1465.	PRE
+Applied in the present context, that guidance does not require a formulaic rehearsal of every matter referred to in section 1 of the Act, regardless of its importance in the particular case.	PRE
+It is also necessary to bear in mind general guidance given to courts scrutinising the reasoning of expert tribunals, such as that given by Baroness Hale of Richmond in AH (Sudan) v Secretary of State for the Home Department [2007] UKHL 49; [2008] AC 678, para 30 and that given by Sir John Dyson in MA (Somalia) v Secretary of State for the Home Department [2010] UKSC 49; [2011] 2 All ER 65, para 45.	PRE
+In the present case, the reasons given by the tribunal dealt with the critical issues sufficiently to enable the parties and the court to understand why the application had been refused.	PRE
+That was enough.	PRE
+The relationship between section 1(3)(f) and section 1(4)	PRE
+It is not readily apparent from the tribunals decision that it understood the structure of section 1, and the potential significance of section 1(4) in particular.	Ratio
+On the facts of the present case, however, it does not appear that any misunderstanding can have affected the substance of the tribunals decision, as opposed to the manner in which it was expressed.	Ratio
+The tribunal considered section 1(4), which it referred to as the least restrictive option.	Ratio
+It stated that if the appellant moved to a medium secure hospital, then until a psychotherapy course was satisfactorily completed he would have to endure greater restrictions on his movements than currently experienced in the State Hospital.	Ratio
+Such a course could take 12 to 18 months.	Ratio
+If the implication of that statement is that the tribunal considered that the refusal of the application would result in the minimum restriction on the appellants freedom that was necessary in the circumstances, then it could have stopped there: that would have been a proper basis for refusing the application.	Ratio
+It appears more likely however that the tribunal did not reach a clear conclusion as to the least restrictive option, perhaps because of the uncertainties as to the appellants likely attitude to treatment in a medium secure hospital, and as to the timescale and outcome of such treatment.	Ratio
+In those circumstances it was entitled to exercise its discretion having regard to all relevant matters and in accordance with the objects of the Act.	Ratio
+It concluded that it would be of maximum benefit to the appellant to undertake the necessary course of treatment at the State Hospital, because (1) the State Hospital had carried out the necessary groundwork to offer him such treatment, and was best placed to offer him the most suitable treatment for his needs, (2) he was less likely to undertake such treatment at a medium secure hospital, (3) he would have to endure greater restrictions on his movements at such a hospital until he completed such treatment, because of the risk to women in that setting, (4) such treatment could take 12 to 18 months to complete, and (5) the restrictions on his movements until the treatment was completed would place his mental health at risk.	Ratio
+On that basis, it exercised its discretion to refuse the application.	Ratio
+In the light of the matters to which it referred, all of which were relevant, its decision cannot be regarded as unreasonable.	Ratio
+Conclusion	RPC
+For these reasons, and those given by Lady Hale, I would dismiss the appeal.	RPC
+A fundamental modernisation of the system for detaining and treating mental patients took place in Scotland under the Mental Health (Scotland) Act 1960 and in England and Wales under the Mental Health Act 1959.	Ratio
+The aim was to integrate and normalise the treatment of mental patients within the mainstream National Health Service.	Ratio
+But there remained the high security institutions, in Scotland the state hospital at Carstairs and in England and Wales what were then known as the special hospitals at Broadmoor, Rampton, Moss Side and Park Lane (which at that stage were not run as part of the NHS but now are).	Ratio
+It soon became clear that there were many patients detained in the high security hospitals who did not need to be there but who could not be transferred to other settings and thus became trapped.	Ratio
+There were many reasons for this.	Ratio
+These patients were most unlikely to be able to move directly from the highly structured setting of the special hospital into a community setting.	Ratio
+Many would be unable to move directly into an ordinary psychiatric hospital or unit.	Ratio
+But there was a lack of facilities with an intermediate level of security which could enable the patient to move on without endangering either his own health or safety or that of others.	Ratio
+There was also some reluctance among hospital staff, as well as local communities, to having former special hospital patients in their midst.	Ratio
+The problem was recognised as long ago as 1974, when the Butler Committee on Mentally Abnormal Offenders published an Interim Report (1974, Cmnd 5698), ahead of its main recommendations, urging the setting up of secure units in each NHS region.	Ratio
+This became government policy, and eventually medium and low secure units were established and became an attractive if challenging area of forensic psychiatric practice.	Ratio
+According to the Care Quality Commission, 11% of all psychiatric hospital inpatients in England and Wales on census day in 2010 were on medium or high security wards, compared with 76% in general wards and 13% on low security wards (Count me in 2010, p 27).	Ratio
+The proportions of detained patients on high, medium or low security wards are likely to be double that, as something over half of all inpatients are detained.	Ratio
+This was achieved through government policy and professional commitment rather than through asserting the individual rights of patients.	Ratio
+Mr Ashingdane was a Broadmoor patient who was deemed ready for transfer back into his local hospital, but was denied a bed there because the nurses trade union operated a ban on taking special hospital patients.	Ratio
+He launched proceedings against the trade union branch secretaries, the Secretary of State and the area health authority.	Ratio
+We shall never know whether his claim against the Secretary of State and the local health authority might have succeeded on the grounds that it was unlawful for them to take the union ban into account, because at that stage both were virtually immune from suit under section 141 of the 1959 Act and so his claim was struck out (see Ashingdane v Department of Health and Social Security [1981] CLY 175u).	Ratio
+He then complained to the European Court of Human Rights that, among other things, his detention in Broadmoor did not fall within the lawful detention of persons of unsound mind permitted by article 5(1)(e) of the Convention, because he did not need to be in Broadmoor.	Ratio
+The Court held that there had to be a relationship between the grounds of detention and the place and conditions of detention, so that a person detained because of mental disorder had to be kept in some sort of hospital or clinic appropriate to that purpose (Ashingdane v United Kingdom (1985) 7 EHRR 528).	Ratio
+But beyond that article 5 is not concerned with the conditions under which a patient is detained; keeping him in Broadmoor longer than he needed to be there did not change the character of his detention and was not a violation of article 5.	Ratio
+Since then, beyond the very remote possibility of judicial review, patients in England and Wales have been unable to complain that they are being detained in conditions of excessive security.	Ratio
+It was therefore progressive and far-sighted of the Millan Committee to recommend that individual patients in Scotland should have the right to challenge the place of their detention on that basis and of the Scottish Parliament to pass what became sections 264 to 273 of the Mental Health (Care and Treatment) (Scotland) Act 2003.	Ratio
+Despite all the recent changes to the Mental Health Act 1983 (which consolidated the 1959 Act with later amendments), the law in England and Wales still lags behind the law in Scotland in this respect.	Ratio
+No doubt those with an interest in the subject south of the border will be keeping a close eye on experience with the Scottish jurisdiction.	Ratio
+It would obviously defeat the object of the legislation if the authorities were able simply to say that no bed was available in another, less secure, hospital.	Ratio
+It must be the case, as Lord Reed observes (para 38), that this is irrelevant to the first stage: deciding whether (in the case of a state hospital patient) he requires to be detained under conditions of special security that can be provided only in a state hospital (section 264(2)) or (in the case of a patient in another hospital) he is being subject to a level of security that is excessive in his case (section 268(2)).	Ratio
+It must also be the case, as Lord Reed says (paras 41 and 54), that having decided that question in favour of the patient, the expectation is that the tribunal will make an order unless in the particular circumstances of the case there is some good reason not to do so.	Ratio
+More difficult is whether the non-availability of a bed constitutes a good reason at the second stage, the exercise of the tribunals discretion in the light of the guidance given in section 1(2), (3), (4), (5) and (6) of the 2003 Act.	Ratio
+I agree with Lord Reed (para 43) that it would be unreasonable to make an order under section 264, or indeed section 268, if there were no conceivable possibility of an appropriate bed being found elsewhere.	Ratio
+But that is a conclusion which a tribunal should be slow to reach.	Ratio
+I would add that the search for an appropriate bed need not be confined to Scotland.	Ratio
+If there are appropriate facilities in England, Wales or Northern Ireland, then the patient can be transferred there.	Ratio
+The difficult case is the one like this, where the patient is not being denied a bed in a medium secure unit, but it is said that the conditions and treatment there will not be appropriate to his particular needs.	Ratio
+These are not for the high level of security which can only be provided at the state hospital, but to be kept away from unsupervised contact with women until he has properly addressed the problem which brought him into the hospital in the first place.	Ratio
+One can easily see how such a case could develop into an unseemly contest between the state hospital doctors, who wish their patient to move on, and the medium secure unit doctors who consider their facilities unsuitable.	Ratio
+A principal object of giving patients individual rights is to stimulate the authorities into providing appropriate facilities for them, so it is important to ask whether such facilities could be provided in less secure settings.	Ratio
+There is the further problem in a case like this, that the reason why the experts do not consider a medium secure unit suitable is that the patient has not undergone a particular course of treatment.	Ratio
+One must beware the Catch 22 where the patient does not need a high level of security, but the facilities offered are not in fact suitable to the level of security he does need, and the reason for that is the lack of appropriate work which has been done with him in the state hospital.	Ratio
+This is akin to the problem of those post-tariff life or indeterminate sentence prisoners who are denied the opportunity of demonstrating that they are safe to be moved on or out by the lack of appropriate courses for them: see R (Walker) v Secretary of State for Justice (Parole Board intervening) [2010] 1 AC 553 and James v United Kingdom (2012) 56 EHRR 399.	Ratio
+If Ashingdane is right, this does not engage article 5(1) in the way it was said to be engaged in James.	Ratio
+Nevertheless, being denied the opportunity of moving on because the state hospital has not provided the treatment which would enable the patient to move on is likely to engender a sense of injustice which might, at the very least, be considered anti- therapeutic.	Ratio
+Fortunately, it looks as if this patients treatment needs are now being addressed in a way which he can accept.	Ratio
+I confess to having found this case a troublesome one.	Ratio
+Is it a case in which the authorities could provide the appropriate facilities outside the state hospital if they chose to do so? If it is, then in my view the tribunal should at least make an order at the first hearing, even if the search eventually proves fruitless so that the order has to be recalled.	Ratio
+Alternatively, is it a case where the patients therapeutic needs will genuinely be better met in the state hospital than they would be outside it? This is obviously relevant to factor (f) in section 1(3) (para 14 above), the importance of providing the maximum benefit to the patient, and to section 1(6) (para 21), the importance of the provision of appropriate services to the [patient].	Ratio
+Those are factual matters for the tribunal, but I agree with Lord Reed that the evidence that the forensic psychology facilities at the state hospital were better than anywhere else, and that the patient would be more inclined to engage with them if he were still there (and thus had the incentive to demonstrate that he was ready to move on), was highly relevant to that question.	Ratio
+So in my view the tribunal was entitled to take the view that the patients therapeutic needs would be better met in the state hospital.	Ratio
+As Lord Reed has made clear (para 23), the obligation in section 1(4) is of a different nature from the obligation to consider the various matters listed in section 1(3), (5) and (6).	Ratio
+It is not a matter to be taken into account.	Ratio
+It is the manner in which the discretion is to be exercised, that is, the manner that involves the minimum restriction on the freedom of the patient that is necessary in the circumstances.	Ratio
+Generally speaking, one would expect that if a patient does not need to be detained with the level of security that can only be provided at the state hospital, the minimum restriction on the patients freedom that is necessary in the circumstances will be found elsewhere.	Ratio
+Once again, the object of the legislation would be defeated if the authorities were able to say that they had chosen to provide medium secure facilities in such a way as to make it difficult for people like this patient to move on.	Ratio
+They might, for example, provide single sex accommodation where patients would not come into unsupervised contact with women until they were ready.	Ratio
+However, I agree with Lord Reed (para 56) that risk, whether to the patient or others, is not irrelevant to the exercise of the tribunals discretion.	Ratio
+It is inherent in factors 1(3)(f) and 1(6).	Ratio
+This in turn feeds into what is necessary for the purpose of section 1(4).	Ratio
+So the tribunal could conclude that, in the light of the patients treatment needs and the risks he posed either to himself or others, the restrictions on his freedom which would be necessary in a medium secure unit would in fact be greater than those entailed in staying in the state hospital.	Ratio
+But I would hope that among the factors it considers when reaching that conclusion are the wishes and feelings of the patient (section 1(3)(a)).	Ratio
+It could be that a patient is willing to accept a greater restriction on his freedom for the sake of the opportunity to leave the state hospital.	Ratio
+It is therefore with a degree of reluctance that I conclude, for the reasons given by Lord Reed, that the tribunal was entitled to reach the conclusion that they did and that therefore this appeal must be dismissed.	RPC
+It has, however, provided the court with a useful opportunity, both to clarify how these provisions are meant to work, and to sound some warning bells as to how they should not work.	RPC

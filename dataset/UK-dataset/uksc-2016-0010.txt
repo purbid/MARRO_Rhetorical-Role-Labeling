@@ -1,0 +1,338 @@
+This appeal tests the limits, in a modern context, of the long-established remedy known as the solicitors equitable lien.	FAC
+In its traditional form it is the means whereby equity provides a form of security for the recovery by solicitors of their agreed charges for the successful conduct of litigation, out of the fruits of that litigation.	FAC
+It is a judge-made remedy, motivated not by any fondness for solicitors as fellow lawyers or even as officers of the court, but rather because it promotes access to justice.	FAC
+Specifically it enables solicitors to offer litigation services on credit to clients who, although they have a meritorious case, lack the financial resources to pay up front for its pursuit.	FAC
+It is called a solicitors lien because solicitors used to have a virtual monopoly on the pursuit of litigation in the higher courts.	FAC
+Nothing in this judgment should be read as deciding whether the relaxation of that monopoly means that the lien is still limited only to solicitors.	FAC
+Solicitors have, since time immemorial, been entitled to a common law retaining lien for payment of their costs and disbursements.	Ratio
+That is an essentially defensive remedy, which merely enables them to hold on to their clients papers and other property in their actual possession, pending payment.	Ratio
+It affords no assistance where there is nothing of value in the solicitors possession, and is powerless where, in a litigation context, the defendant to the claim pays the judgment debt or agreed settlement amount direct to the solicitors client, the claimant.	Ratio
+But equity deals with that deficiency in the common law by first recognising, and then enforcing, an equitable interest of the solicitor in the fruits of the litigation, against anyone who, with notice of it, deals with the fruits in a manner which would otherwise defeat that interest.	Ratio
+Originally the fruits of the litigation were first identified in the judgment debt.	Ratio
+Later this was extended to the debt due under an arbitration award and, later still, to the debt due to the claimant under an agreement to settle the claim.	Ratio
+Each of those types of debt was identified as a form of property, a chose in action, in which equity could recognise and enforce an equitable interest in favour of the solicitor.	Ratio
+It was called a lien because the chose in action represented the fruits of the solicitors work.	Ratio
+But it is better analysed as a form of equitable charge.	Ratio
+Traditionally, the solicitors interest could not be identified as a beneficial share in the chose, because that would have offended the laws against maintenance and champerty.	Ratio
+Rather it was, from the earliest times, recognised as a security interest, enforceable against the fruits of the litigation up to the amount contractually due to the solicitor, in priority to the interest of the successful client, or anyone claiming through him.	Ratio
+It did not depend upon the fruits of the litigation including a specific amount for party and party costs, such as a judgment for costs, or an element in a settlement sum on account of costs.	Ratio
+In the ordinary course of traditional litigation, with solicitors acting on both sides, the amount due under a judgment, award or settlement agreement would be paid by the defendants solicitor to the claimants solicitor.	Ratio
+Or the claimants solicitor might recover the sum due to his client by processes of execution.	Ratio
+In either case the equitable lien would entitle the solicitor not merely to hold on to the money received, but to deduct his charges from it before accounting to his client for the balance.	Ratio
+But equity would also enforce the security where the defendant (or his agent or insurer) paid the debt direct to the claimant, if the payer had either colluded with the claimant to cheat the solicitor out of his charges, or dealt with the debt inconsistently with the solicitors equitable interest in it, after having notice of that interest.	Ratio
+In an appropriate case the court would require the payer to pay the solicitors charges again, direct to the solicitor, leaving the payer to such remedy as he might have against the claimant.	Ratio
+This form of remedy, or intervention as it is sometimes called, arose naturally from the application of equitable principles, in which equitable interests may be enforced in personam against anyone whose conscience is affected by having notice of them, either to prevent him dealing inconsistently with them, or by holding him to account if he does.	Ratio
+The modern context in which the extent of this remedy comes to be reviewed is that of the pursuit of modest claims for personal injuries arising out of road traffic accidents, by solicitors retained under a Conditional Fee Agreement (CFA) using the Pre-Action Protocol for Low Value Personal Injury Claims in Road Traffic Accidents (the RTA Protocol).	FAC
+In bare outline this highly effective scheme, hammered out by stakeholders under the auspices of the Civil Justice Council and approved by the Civil Procedure Rule Committee, enables modest claims for personal injuries to be notified by the claimants solicitors to the defendants insurer using a bespoke online platform (The RTA Portal) and, where liability is admitted, for a settlement to be negotiated, or quantum to be determined by the court, at a fraction of the cost and effort which would have to be deployed if the matter were to become the subject of ordinary proceedings in the County Court, and on terms which reward the claimants solicitors with modest fixed costs for their work on the process.	FAC
+It is an express objective of the RTA Protocol, and its provisions are designed so to ensure, that the solicitors are paid their fixed costs and charges at each stage of the process, direct by the defendants insurer.	FAC
+The casus belli for this litigation was a decision by the appellant insurer (Haven) to respond to the notification of claims on the RTA Portal by offering to settle direct with claimants, on terms which included no amount for their solicitors costs or disbursements (fixed or otherwise), with the twin inducements to claimants of a speedier and more generous payment than would be likely to be available from a settlement using the RTA Protocol and Portal.	FAC
+The motivation of the insurer was the opportunity to avoid having to add, to the settlement amount for the injury, the fixed costs and disbursements payable under the terms of the RTA Protocol to the claimants solicitors.	FAC
+Settlements thereby achieved included claims by clients of the respondent solicitors (Edmondson) arising from three motor accidents, all of whom retained the respondent firm on a particular type of identically worded CFA retainer, known in the trade as a CFA Lite, designed to ensure that in no circumstances would the client have to put his hands in his own pocket for payment of the firms charges.	FAC
+Edmondson responded by a claim against Haven for wrongful inducement to the clients to breach their retainer contract, intentional causing of loss by unlawful means and, by amendment, seeking equitable enforcement of its solicitors lien.	FAC
+Although the sums involved are individually modest, we were told that this practice by Haven had been repeated on a sufficiently large scale for the determination of the dispute to have financial consequences running to many millions of pounds.	FAC
+The trial judge (HHJ Jarman QC) rejected the claims in tort and refused to grant permission to appeal in respect of those claims.	RLC
+An application for permission was made to the Court of Appeal, but not dealt with because of its disposal of the claim to enforce the solicitors lien.	RLC
+That claim was rejected by the trial judge because, in his view, there had been no collusion between Haven and the claimants to cheat the solicitors, and because Haven was not on notice of the terms of the retainers.	RLC
+In the Court of Appeal [2015] EWCA Civ 1230; [2016] 1 WLR 1385 the main submission of Haven was that the particular terms of the CFA Lite retainers created no contractual liability of the claimants for Edmondsons charges, so that there was nothing upon which an equitable security could be founded.	RLC
+The Court of Appeal agreed that there was no such contractual liability upon the true construction of the retainers.	RLC
+Nonetheless it decided that the equitable jurisdiction to intervene could be extended far enough to enable the court to recognise and then enforce an interest of Edmondson under the RTA Protocol in receiving its fixed costs and charges as therein provided or, alternatively, an interest under an express provision in the retainers to sue in its clients names for recovery of those charges from Haven, and that Haven knew of those interests.	RLC
+Accordingly the Court of Appeal ordered Haven to pay the charges allowable under the RTA Protocol to Edmondson, in addition to the settlement sums already paid to the claimants.	RLC
+In this court Haven repeated its main submission that the retainers created no contractual liability to pay the charges upon which an equitable lien or charge could be founded, and submitted that the Court of Appeal had been wrong to extend the equity of intervention as it did, the extension being contrary to settled principle.	ARG
+Edmondson countered first by asserting that the retainers did contain a sufficient contractual liability of the clients for their charges to support their equitable lien on conventional grounds.	ARG
+Secondly, and in the alternative, Edmondson vigorously supported the extended power of equitable intervention in the absence of such a contractual liability, as devised by the Court of Appeal.	ARG
+This court permitted The Law Society of England and Wales to intervene in writing, broadly in support of the solution devised by the Court of Appeal, and to submit written evidence about the widespread use of the CFA Lite, and the use of the RTA Protocol.	ARG
+The court is grateful for the submissions both of the parties and of the Law Society.	ARG
+This is, according to the researches of counsel, the first occasion for this court (or its predecessor) to consider the nature and effect of the solicitors equitable lien.	Ratio
+It is therefore appropriate to describe its evolution in a little more detail than might otherwise have been necessary.	Ratio
+Before doing so, I must first summarise the facts, set out the relevant terms of the CFA Lite retainer, and describe the terms and modus operandi of the RTA Protocol.	Ratio
+The Facts	FAC
+I must first describe the particular facts about each accident, and the steps taken to settle the claims arising from them.	FAC
+I do so, with gratitude, from the summary given in the judgment of Lloyd Jones LJ in the Court of Appeal.	FAC
+Ainsley Tonkin	FAC
+Mr Ainsley Tonkin was involved in a road traffic collision on 10 April 2012.	FAC
+Havens insured was also involved in the collision and on the 12 April 2012.	FAC
+Haven, having obtained Mr Tonkins contact details from its insureds accident report form, contacted Mr Tonkin concerning a hire vehicle.	FAC
+On 16 April 2012 Mr Tonkin entered into a CFA with Edmondson and on 17 April 2012 the case entered the Portal.	FAC
+On 20 April 2012 Mr Tonkin telephoned Haven asking where they go from here.	FAC
+He was told by Louise Richardson of Haven: ... What we can do is offer you a scheme to compensate you for your injury.	FAC
+We can work out a sum of money and you can put it into your account as soon as you agree on that figure.	FAC
+Mr Tonkin told Ms Richardson that he had his insurance solicitor and volunteered the information that there was a 14-day cooling off period.	FAC
+They then negotiated on the telephone and Ms Richardson offered 2,200.	FAC
+She said: So the offer stands at the moment at two thousand two hundred pounds and obviously [indecipherable] think about it but if you do ask your solicitors they will tell you that they can get you more ... but at the end of the day that offer will come from myself and we through solicitors we have to pay solicitor costs as well.	FAC
+Mr Tonkin replied that he fully understood that and went on to raise other matters.	FAC
+They eventually negotiated a settlement at 2,350.	FAC
+Mr Tonkin asked what he should do about the solicitors he had instructed.	FAC
+Ms Richardson said he should just call them and tell them that he did not want to deal with them any more and they could just close the claim.	FAC
+On 23 April 2012 Haven sent a written offer of settlement to Mr Tonkin who on 24 April 2012 completed and signed the mandate of acceptance which was returned to Haven on 26 April.	FAC
+The mandate of acceptance confirmed that the offer was accepted: in full and final settlement of my claim for Pain, Suffering & Loss of Amenity in respect of injuries sustained and any financial losses incurred in relation to the road traffic accident.	FAC
+Michael Wheater, Dale Makey, Saul Mohsin and Rose Lunt	FAC
+On 23 June 2012, Mr Michael Wheater, Mr Dale Makey, Mr Saul Mohsin and Ms Rose Lunt were all travelling in the same vehicle when it was involved in a road traffic accident.	FAC
+On 20 July 2012 all four entered into CFAs with Edmondson and on 23 July 2012 their cases entered the Portal.	FAC
+On 24 July 2012 Haven sent to each of them a letter containing an offer of settlement.	FAC
+On 7 August 2012 Mr Mohsin telephoned Mr OConnell of Haven who told him that we offer services if you want to come to us to avoid going to the solicitors.	FAC
+Mr Mohsin explained that he had actually gone to some solicitors but he was concerned that it was going to take a long time to get everything settled.	FAC
+Later that day Mr Mohsin telephoned Haven again with the news that he had spoken to Mr Wheater, Mr Makey and Ms Lunt and that they were all going to accept the offer.	FAC
+On the same day Mr Mohsin sent an email enclosing mandates of acceptance completed by all four claimants.	FAC
+Daniel Grannell	FAC
+Mr Daniel Grannell was involved in a road traffic accident on 30 August 2012.	FAC
+On the following day he entered into a CFA with Edmondson and his case entered the Portal that day.	FAC
+On 10 September 2012 Haven sent Mr Grannell a letter offering to settle the claim for 1,900.	FAC
+On 14 September 2012 Haven received a completed mandate of acceptance signed by Mr Grannell on 13 September 2012.	FAC
+Thereafter an impostor claiming to be Mr Grannell spoke by telephone with Haven and the compensation was paid to an account on his directions.	FAC
+When Mr Grannell subsequently contacted Haven, Haven became aware that it had been defrauded.	FAC
+In a telephone conversation on 6 November 2012 Mr Grannell stated that the mandate of acceptance dated 13 September 2012 was genuine.	FAC
+Mr Ralph McClaren of Haven told him that the offer of 1,900 was still on the table and that he could arrange for that to be paid at once.	FAC
+Mr Grannell replied that he would love that.	FAC
+Mr McClaren then said that he would contact Edmondson and tell Edmondson what they had done.	FAC
+He then added: As I say theyll probably when you speak to them theyll probably will tell you not to ya know or you shouldnt do that but for the to be honest with you if when they call you probably a bit less the reason we offer you a bit more is because of the fact the solicitors get kept out of it so we don't have to pay their fees thats basically it.	FAC
+Mr Grannell said he was absolutely happy with that.	FAC
+The facts relevant to the issue about notice were the same in all three cases.	FAC
+As will shortly appear, the RTA Protocol prescribes a simple online form of notification of a claim (a Claim Notification Form or CNF) which contains a tick box opposite a statement that the solicitors had been retained under a CFA which provided for a success fee.	FAC
+In each case Edmondson ticked the box and filled in the date of the retainer.	FAC
+Thus Haven knew that information via the Portal before it began negotiating with the claimants.	FAC
+Haven did not know the detailed terms of the retainers, which I shall now describe.	FAC
+The CFA Lite Retainers	FAC
+Each of the claimants retained Edmondson on identical terms.	FAC
+They were each sent, on the same day, the following documents.	FAC
+First, a document headed (under the firms logo) CFA, containing these relevant provisions: This agreement is a binding legal contract between you and your solicitor/s.	FAC
+Before you sign, please read everything carefully.	FAC
+This agreement must be read in conjunction with the Law Society document What you need to know about a CFA.	FAC
+Paying us If you win your claim, you pay our basic charges, our disbursements and a success fee.	FAC
+You are entitled to seek recovery from your opponent of part or all of our basic charges, our disbursements, a success fee and insurance premium as set out in the document What you need to know about a CFA.	FAC
+The Success Fee The success fee is set at 100% of basic charges, where the claim concludes at trial; or 12.5% where the claim concludes before a trial has commenced.	FAC
+In addition 5% relates to the postponement of payment of our fees and expenses and cannot be recovered from your opponent.	FAC
+The Success fee inclusive of any additional percentage relating to postponement cannot be more than 100% of the basic charges in total.	FAC
+Secondly, they were sent the Law Society document referred to in the above quotation.	FAC
+It is a standard form document published in 2005.	FAC
+It contained the following relevant provisions.	FAC
+What do I pay if I win? If you win your claim, you pay our basic charges, our disbursements and a success fee.	FAC
+The amount of these is not based on or limited by the damages.	FAC
+You can claim from your opponent part or all of our basic charges, our disbursements, a success fee and insurance premium.	FAC
+Basic charges These are for work done from now until this agreement ends.	FAC
+These are subject to review.	FAC
+Under the heading How we calculate our basic charges the document sets out a table of hourly rates.	FAC
+Road Traffic Accidents If your claim is settled before proceedings are issued, for less than 10,000, our basic costs will be 800; plus 20% of the damages agreed up to 5,000; and 15% of the damages agreed between 5,000 and 10,000.	FAC
+[If you live in London, these costs will be increased by 12.5%].	FAC
+These costs are fixed by the Civil Procedure Rules.	FAC
+Provision is then made for charging VAT.	FAC
+Dealing with costs if you win You are liable to pay all our basic charges, our disbursements and success fee.	FAC
+Normally, you can claim part or all of our basic charges, our disbursements success fee and insurance premium from your opponent.	FAC
+If we and your opponent cannot agree the amount, the court will decide how much you can recover.	FAC
+If the amount agreed or allowed by the court does not cover all our basic charges and our disbursements, then you pay the difference.	FAC
+You will not be entitled to recover from your opponent the part of the success fee that relates to the cost to us of postponing receipt of our charges and our disbursements.	FAC
+This remains payable by you.	FAC
+As with the costs in general, you remain ultimately responsible for paying our success fee.	FAC
+You agree to pay into a designated account any cheque received by you or by us from your opponent and made payable to you.	FAC
+Out of the money, you agree to let us take the balance of the basic charges; success fee; insurance premium; our remaining disbursements; and VAT.	FAC
+You take the rest.	FAC
+We are allowed to keep any interest your opponent pays on the charges.	FAC
+If your opponent fails to pay If your opponent does not pay any damages or charges owed to you, we have the right to take recovery action in your name to enforce a judgment, order or agreement.	FAC
+The charges of this action become part of the basic charges.	FAC
+In a lengthy definitions section there is this definition of win: Win Your claim for damages is finally decided in your favour, whether by a court decision or an agreement to pay you damages or in any way that you derive benefit from pursuing the claim.	FAC
+The third document is the Client Care Letter.	FAC
+It deals with a number of miscellaneous aspects of the solicitor client relationship and is not primarily drafted as a contractual document.	FAC
+But it contains the following relevant provisions: Costs: In this case we have advised and you have elected to enter into a conditional fee agreement.	FAC
+Full details of the terms of the agreement and our charging rates are set out within the conditional fee agreement and the accompanying schedules.	FAC
+For the avoidance of any doubt if you win your case I will be able to recover our disbursements, basic costs and the success fee from your opponent.	FAC
+You are responsible for our fees and expenses only to the extent that these are recovered from the losing side.	FAC
+This means that if you win, you pay nothing.	FAC
+It is this last quoted passage that is said to make the retainer a CFA Lite, because of its evident intent to assure the client that he will not in any circumstances have to put his hand in his own pocket to pay his solicitors.	FAC
+The RTA Protocol	FAC
+This voluntary pre-action protocol came into force in 2010.	FAC
+At the relevant time for present purposes it applied to claims for RTA personal injuries between 1,000 (which was the dividing line between the Fast Track and the Small Claims Track) and 10,000.	FAC
+It has since been extended to higher value claims, up to 25,000, which corresponds with the boundary between the Fast Track and the Multi Track.	FAC
+Current Government proposals to raise the Small Claims Track boundary to 5,000 for RTA cases may greatly affect its scope, since more that 90% by number of RTA cases are for damages below that level.	FAC
+I can again take the summary of the relevant provisions of the RTA Protocol from the judgment of Lloyd Jones LJ in the Court of Appeal.	Ratio
+The Protocol describes in great detail the behaviour the court will normally expect of parties, of their legal representatives and of the parties insurers, involved in such claims.	Ratio
+Under the Protocol scheme parties, lawyers and insurers, when required to send information to one another, are expected to do so electronically through a website (the Portal) established by road accident insurers.	Ratio
+While notice of claims falling within the Protocol is expected to be given in accordance with the procedures set out in the Protocol, they are not mandatory.	Ratio
+However, there are possible costs consequences if qualifying claims are not processed in accordance with the Protocol.	Ratio
+The preamble to the RTA Protocol states: 2.1 This Protocol describes the behaviour the court will normally expect of the parties prior to the start of proceedings where a claimant claims damages valued at no more than 10,000 as a result of a personal injury sustained by that person in a road traffic accident.	FAC
+The aims of the Protocol are set out in paragraph 3.1.	FAC
+3.1 The aim of this Protocol is to ensure that (1) the defendant pays damages and costs using the process set out in the Protocol without the need for the claimant to start proceedings; (2) damages are paid within a reasonable time; and (3) the claimants legal representative receives the fixed costs at the end of each stage in this Protocol.	FAC
+Claims which no longer continue under the Protocol cannot subsequently re-enter the process.	FAC
+(Paragraph 5.11)	FAC
+The process is initiated by the completion of the Claim Notification Form (CNF).	Ratio
+Paragraph 6.1 provides: 6.1 The claimant must complete and send - (1) the CNF to the defendants insurers; ... The RTA Protocol makes provision for response by the insurer as follows: 6.10 The defendant must send to the claimant an electronic acknowledgment the next day after receipt of the CNF; 6.11 The defendant must complete the Insurer Response section of the CNF (the CNF response) and send it to the claimant within 15 days; 6.15 The claim will no longer continue under this Protocol where the defendant, within the period in paragraph 6.11 or 6.13 - (1) makes an admission of liability but alleges contributory negligence (other than in relation to the claimants admitted failure to wear a seat belt); (2) does not complete and send the CNF response; (3) does not admit liability; or (4) notifies the claimant that the defendant considers that (a) there is inadequate mandatory information in the CNF; or (b) if proceedings were issued, the small claims track would be the normal track for that claim.	Ratio
+The Protocol makes provision for fixed costs to be paid at specified points.	FAC
+Paragraph 6.18 makes provision for Stage 1 fixed costs.	FAC
+6.18 Except where the claimant is a child, the defendant must pay the Stage 1 fixed costs in rule 45.29 where liability is admitted; or (1) liability is admitted and contributory negligence (2) is alleged only in relation to the claimants admitted failure to wear a seat belt, within ten days after sending the CNF response to the claimant as provided in paragraph 6.11 or 6.13.	FAC
+If the claim proceeds to Stage 2, the Protocol requires a Stage 2 Settlement Pack including a medical report to be sent to the defendant within 15 days of the claimant approving a final medical report and agreeing to rely on it.	FAC
+(Paragraph 7.26).	FAC
+There is a 35 day period for consideration of the Stage 2 Settlement Pack by the defendant (Paragraph 7.28).	FAC
+Paragraph 7.37 provides: 7.37 Any offer to settle made at any stage by either party will automatically include, and cannot exclude - (1) (2) (3) the Stage 2 fixed costs in rule 45.29; an agreement in principle to pay disbursements; a success fee in accordance with rule 45.31(1).	FAC
+Paragraph 7.40 provides in respect of Settlement: (1) 7.40 Except where the claimant is a child or paragraphs 7.41 and 7.42 apply, the defendant must pay - the agreed damages less any (a) deductible amount which is payable to the CRU; and (b) previous interim payment; any unpaid Stage 1 fixed costs in rule 45.29; the Stage 2 fixed costs in rule 45.29; the (2) (3) (4) accordance with rule 45.30; and (5) a success fee in accordance with rule 45.31 for Stage 1 and Stage 2 fixed costs, within ten days of the end of the relevant period in paragraphs 7.28 to 7.30 during which the parties agreed a settlement.	FAC
+relevant disbursements allowed in Part 36 CPR - Offers to Settle, has been amended to take account of the Protocol.	FAC
+Part 45 CPR, Fixed Costs, makes specific provision for costs under the Protocol scheme.	FAC
+The Solicitors Equitable Lien: the Existing Law	Ratio
+The earliest decision to recognise the equitable lien is Welsh v Hole (1779) 1 Dougl KB 238.	PRE
+The plaintiff obtained judgment for 20 and costs in a civil claim for assault, but then compromised the claim for a direct payment by the defendant of 10.	PRE
+There was no collusion to defeat the solicitors right to payment of his bill.	PRE
+Lord Mansfield said this: An attorney has a lien on the money recovered by his client, for his bill of costs; if the money come to his hands, he may retain to the amount of his bill.	PRE
+He may stop it in transit if he can lay hold of it.	PRE
+If he apply to the Court, they will prevent its being paid over till his demand is satisfied.	PRE
+I am inclined to go still farther, and to hold that, if the attorney give notice to the defendant not to pay till his bill should be discharged, a payment by the defendant after such notice would be in his own wrong, and like paying a debt which has been assigned, after notice.	PRE
+But I think we cannot go beyond those limits.	PRE
+There having been no notice in that case, the solicitors claim against the defendant failed.	PRE
+It is implicit in Lord Mansfields reasoning that, if there had been notice to the defendant, he would have had to pay a second time, up to the amount of the solicitors bill.	Ratio
+The typically terse judgment may be said to have dealt with legal and equitable lien without clearly distinguishing between the two, but the analogy of an assigned debt shows that Lord Mansfield recognised that the solicitor had an interest in the judgment debt which the court would protect, provided that notice of that interest had been given to the debtor before payment to the judgment creditor.	Ratio
+An interest dependent upon notice is typical of an equitable interest.	Ratio
+Confirmation that payment of the judgment debt to the claimant after notice of the solicitors interest exposed the payer to having to pay again was provided in Read v Dupper (1795) 6 Term Rep 361.	PRE
+In that case the defendants solicitor paid the plaintiff direct, after notice of the plaintiffs solicitors interest, and had to pay again.	PRE
+Lord Kenyon began: The principle by which this application is to be decided was settled long ago, namely that the party should not run away with the fruits of the cause without satisfying the legal demands of his attorney, by whose industry, and in many instances at whose expense, those fruits are obtained.	PRE
+Lord Kenyon explained Lord Mansfields reference to assignment in Welsh v Hole in terms of equitable principle.	PRE
+He said: according to the rules of equity and honest dealing if the assignee give notice to the debtor of such assignment, he shall not afterwards be suffered to avail himself of a payment to the principal in fraud of such notice.	PRE
+In Ormerod v Tate (1801) 1 East 464 the fruits consisted of the debt arising from an arbitration award.	PRE
+That appears to have been a case of collusion, because Lord Kenyon described the arrangement to pay the claimant direct as: no other than a mere shuffle between the plaintiff and defendant to cheat the attorney of his lien.	PRE
+He described the extension of the principle to accommodate arbitration awards as justified by convenience, good sense and justice and recognised a public interest in the extension, to encourage litigants to use arbitration.	PRE
+Two early cases demonstrate that access to justice lay behind the development of the principle.	PRE
+The first is Ex p Bryant (1815) 1 Madd 49.	PRE
+Vice Chancellor Plumer said: I do not wish to relax the doctrine as to lien, for it is to the advantage of clients, as well as solicitors; for business is often transacted by solicitors for needy clients, merely on the prospect of having their costs under the doctrine as to lien.	PRE
+The Vice Chancellor also said, obiter, that knowledge of the solicitors lien on the part of the payer would be as effective as notice.	PRE
+To the same effect is Gould v Davis (1831) 1 Cr & J 415.	PRE
+The second case is In re Moss (1866) LR 2 Eq 345, although it was about a legal rather than equitable lien.	PRE
+Lord Romilly MR said: I think it of great importance to preserve the lien of solicitors.	PRE
+That is the real security for solicitors engaged in business.	PRE
+It is also beneficial to the suitors.	PRE
+It would frequently happen, but for the lien which solicitors have upon papers and deeds, that a client who is not able to advance money to enable them to carry on business would be deprived of justice, through inability to prosecute his claims in the suit.	PRE
+Barker v St Quintin (1844) 12 M & W 441 shows, better than any other, that the equitable lien operates by way of security or charge.	PRE
+Baron Parke said: The lien which an attorney is said to have on a judgment (which is, perhaps, an incorrect expression) is merely a claim to the equitable interference of the Court to have that judgment held as a security for his debt.	PRE
+A similar analysis is provided by Lord Hanworth MR in Mason v Mason and Cottrell [1933] P 199, at 214.	PRE
+The use of the concepts security and charge imply that there must be identified some fund over which it can operate.	PRE
+This was described as a necessary condition of equitable interference under this principle in In re Fuld decd (No 4) [1968] P 727, per Scarman J at 736.	PRE
+The requirement for a fund may be satisfied not just by a judgment debt or arbitration award, but also by a debt arising from a settlement agreement.	PRE
+Provided that the debt has arisen in part from the activities of the solicitor there is no reason in principle (and none has been suggested) why formal proceedings must first have been issued, all the more so in modern times when parties and their solicitors are encouraged as a matter of policy to attempt to resolve disputes by suitable forms of ADR, and when pre-action protocols of widely differing kinds have been developed precisely for that purpose.	PRE
+The authorities on the solicitors equitable lien (including many of those summarised above) were recently reviewed by the Court of Appeal in Khans Solicitors v Chifuntwe [2014] 1 WLR 1185.	PRE
+The fund in question consisted of a debt arising from the agreement of the Home Secretary to settle pending judicial review proceedings by a payment of a specific sum on account of the claimants costs.	PRE
+The payment was made direct by the Treasury Solicitor to the claimant (by then acting in person) after express notice from the claimants former solicitors that they claimed a lien.	PRE
+The Home Secretary was ordered to pay the settlement sum a second time to the solicitors, less an amount already paid by the client on account.	PRE
+Sir Stephen Sedley provided this summary, at para 33: In our judgment, the law is today (and, in our view, has been for fully two centuries) that the court will intervene to protect a solicitors claim on funds recovered or due to be recovered by a client or former client if (a) the paying party is colluding with the client to cheat the solicitor of his fees, or (b) the paying party is on notice that the other partys solicitor has a claim on the funds for outstanding fees.	PRE
+The form of protection ought to be preventative but may in a proper case take the form of dual payment.	PRE
+I consider that to be a correct statement of the law.	Ratio
+It recognises that the equity depends upon the solicitor having a claim for his charges against the client, that there must be something in the nature of a fund against which equity can recognise that his claim extends (which is usually a debt owed by the defendant to the solicitors client which owes its existence, at least in part, to the solicitors services to the client) and that for equity to intervene there must be something sufficiently affecting the conscience of the payer, either in the form of collusion to cheat the solicitor or notice (or, I would add knowledge) of the solicitors claim against, or interest in, the fund.	Ratio
+The outcome of the case also recognised that the solicitors claim is limited to the unpaid amount of his charges.	Ratio
+Implicit in that is the recognition that the solicitors interest in the fund is a security interest, in the nature of an equitable charge.	Ratio
+It remains to consider whether the decision of the Court of Appeal in the present case is either an application of that settled principle, or a legitimate extension of it, in the context of its finding that Edmondson had no contractual entitlement to its charges from any of the claimants, but only the expectation of receiving fixed costs, disbursements and a success fee under the terms of the RTA Protocol.	Ratio
+But it is first necessary to determine whether or not Edmondson did have a contractual entitlement to its charges under the CFA.	Ratio
+Construction of the CFA - Does the client have any contractual liability to pay the solicitors charges?	Ratio
+At the heart of the Court of Appeals analysis lay a negative answer to that question.	Ratio
+Like the trial judge, Lloyd Jones LJ identified a tension between the terms of the CFA itself (incorporating the Law Societys standard 2005 terms) and the last quoted passage in the Client Care Letter which, being labelled for the avoidance of any doubt, was held to prevail.	Ratio
+At para 18 he said: The solicitor has no recourse against his client for the fees and is limited to what he can recover from the losing side.	Ratio
+Later, at para 30, he continued: I consider that the effect of the client care letter is to override the general provisions in each CFA with the result that the underlying claimants were not under any personal liability to pay the fees of Edmondson.	Ratio
+Rather, Edmondson has limited its fees to what may be recovered from the defendants in the underlying proceedings.	Ratio
+In these circumstances, Edmondson would not have a lien over assets received on its clients account because there is no underlying liability of the clients to Edmondson for the lien to protect.	Ratio
+I respectfully disagree.	Ratio
+In my judgment, for the reasons which follow, the Client Care Letter did not destroy the basic liability of the client for Edmondsons charges expressly declared in the CFA and Law Societys standard terms.	Ratio
+It merely limited the recourse from which Edmondson could satisfy that liability to the amount of its recoveries from the defendant.	Ratio
+It both preserved and in my view affirmed that basic contractual liability, to the full extent necessary to form the basis of a claim to an equitable charge as security.	Ratio
+The first question is whether the Client Care Letter had contractual effect at all.	Ratio
+Both it and the two other documents sought to make it clear that the full terms of the retainer were to be found in the CFA document and in the incorporated Law Society terms.	Ratio
+Nonetheless I am prepared to assume, in favour of the client, that the last quoted passage in the Client Care Letter was either part of the contract of retainer, or a collateral contract.	Ratio
+I consider that the language of that passage does three things.	Ratio
+First, it asserts a right for Edmondson to recover its fees and charges from the defendant.	Ratio
+That affirms the equitable lien, since there would otherwise be no basis upon which Edmondson could do so.	Ratio
+Secondly it states in clear terms that such a recovery is the means by which Edmondson can give effect to a continuing responsibility of the client for those fees.	Ratio
+Thirdly it limits Edmondsons recourse for the fees to the amount recovered from the defendant.	Ratio
+There is in my view a compelling parallel in a limited recourse secured loan agreement.	Ratio
+A lender may lend a million pounds to a borrower, take valuable security, and then agree to limit his recourse to the amount recovered by enforcing that security.	Ratio
+It would be absurd to say that the lender thereby deprived the security of all effect because the borrower would not have to put his hand in his pocket to pay anything in addition.	Ratio
+The Client Care Letter was plainly intended to be read, so far as possible, in accordance with, rather than in opposition to, the CFA and Law Societys terms.	Ratio
+Those two documents are, in the passages from them quoted above, shot through with clear assertions of the clients responsibility for the firms charges in the event of a win in the litigation, which is defined to include a settlement of the claim under which there is an agreement to pay the claimant damages.	Ratio
+Full effect can be given to the objective stated in the Client Care Letter, that the client should not have to put his hand in his own pocket to pay the solicitors charges, without destroying the basic contractual responsibility of the client for their payment, if it is construed as I have described.	Ratio
+Did Haven have Notice of Edmondsons Lien?	Ratio
+The result of the above analysis is that there did exist, in each of the six cases, a sufficient contractual entitlement of Edmondson against its claimant clients to form the basis of a claim to an equitable lien over the agreed settlement debts payable by Haven on behalf of its insured drivers.	Ratio
+The conventional analysis therefore requires the following questions to be answered: (1) did those settlement debts owe their creation, to a significant extent, to Edmondsons services provided to the claimants under the CFAs? and (2) in the absence of collusion did Haven have notice (or knowledge) of Edmondsons interest in the settlement debts?	Ratio
+There has been no challenge to an affirmative answer to the first question, save in the case of Mr Tonkin, to which I shall return below.	Ratio
+Edmondson completed and lodged the CNFs onto the RTA Portal as the first step in its discharge of its duties under its retainers.	Ratio
+Each CNF contained a sufficient description of the clients claims and an indication that, unless settled, they would in due course lead to litigation.	Ratio
+Even though it did not involve Edmondson in much work, it was enough to trigger Edmondsons entitlement to its basic charge, disbursements and success fee under the CFA terms if there ensued a successful outcome to the claim, and enough to galvanise Haven into making a direct settlement offer to each of the claimants.	Ratio
+The question of knowledge or notice is in dispute.	Ratio
+Absence of notice was the main reason why the claims failed before the judge.	Ratio
+In his view it was a fatal objection that Haven did not know the detailed terms of the CFAs.	Ratio
+In the Court of Appeal it was held that Haven had both express notice, implied notice and the requisite knowledge in any event.	Ratio
+The claim under the traditional principles of equitable lien failed, not because of absence of notice, but because there was no underlying responsibility of the clients to pay Edmondsons charges.	Ratio
+It is common ground that, by the time that Haven paid the settlement sums direct to the claimants, it knew that each of them had retained Edmondson under a CFA, but not its detailed terms.	Ratio
+This much was apparent from the CNFs which Edmondson placed on the Portal.	Ratio
+Haven also knew, from the fact that Edmondson chose to initiate each claim by using the RTA Portal, that Edmondson was most unlikely to have been paid its charges up front, but rather that it expected, if successful, to obtain payment of its charges from monies paid by Haven under the terms of the RTA Protocol, if the case settled while in the Portal, or by way of a costs order if it went to court.	Ratio
+Either way, Haven knew that Edmondson was looking to the fruits of the claim for recovery of its charges.	Ratio
+Havens knowledge that, if the claim could not be settled direct, it would have to fund Edmondsons recoverable charges is also apparent from the recorded telephone conversations with Mr Tonkin and Mr Grannell set out above.	Ratio
+The judge found that Haven had this knowledge, and intended by settling direct to avoid having to pay Edmondsons charges.	Ratio
+The claim of collusion failed, not because Haven lacked the requisite intent, but because each of the claimants did.	Ratio
+In my judgment the Court of Appeals approach to the question of notice is to be preferred to that of the judge.	Ratio
+Once a defendant or his insurer is notified that a claimant in an RTA case has retained solicitors under a CFA, and that the solicitors are proceeding under the RTA Protocol, they have the requisite notice and knowledge to make a subsequent payment of settlement monies direct to the claimant unconscionable, as an interference with the solicitors interest in the fruits of the litigation.	Ratio
+The very essence of a CFA is that the solicitor and client have agreed that the solicitor will be entitled to charges if the case is won.	Ratio
+Recovery of those charges from the fruits of the litigation is a central feature of the RTA Protocol.	Ratio
+The re-formulation of the Equitable Lien by the Court of Appeal	Ratio
+This courts conclusion that the CFAs made between Edmondson and its clients did contain a sufficient contractual entitlement to charges to support the equitable lien on traditional grounds makes it strictly unnecessary to address this further question, because the sub-stratum upon which it is based is missing.	Ratio
+There is simply no need, on these facts, to do more than apply the principles summarised in the Khans case, to reach the conclusion that Edmondson are entitled to have Haven pay them the charges identified in the CFAs as recoverable in the event of a win, to the extent that those charges did not exceed the settlement sums actually agreed to be paid to the claimants.	Ratio
+But the correctness or otherwise of the Court of Appeals reformulation of the principle has been extensively argued, and supported by the Law Society as intervener.	Ratio
+The Court of Appeal rested its conclusion on two alternative grounds, both of which assumed that Edmondsons clients had no contractual responsibility of any kind for its charges.	Ratio
+The first was that Edmondson had its own entitlement to recover its charges from Haven under the RTA Protocol.	Ratio
+The second was that the clients had such an entitlement, and Edmondson had a right to sue Haven for its enforcement using the clients name for that purpose.	Ratio
+There are in my judgment insuperable obstacles in the way of each of those alternatives.	Ratio
+They stem mainly from the voluntary nature of the RTA Protocol.	Ratio
+It is not contractual in nature (although participants do undertake certain irrelevant contractual obligations to PortalCo, which operates the RTA Portal).	Ratio
+A failure to comply with some provisions, such as the requirement to lodge a CNF response within 15 days, automatically leads to the case leaving the scheme.	Ratio
+Other breaches of its terms entitle, but do not oblige, the other party to take the case out of the scheme.	Ratio
+True it is that, in a case where liability is not in issue, the solicitor participant has an expectation that it will receive its charges stage by stage under the scheme from the defendants insurer, but that is not a contractual or other legal right.	Ratio
+Generally, breach of protocol terms may lead to adverse costs orders if the matter then becomes the subject of proceedings in court, but this lies in the discretion of the court.	Ratio
+For this purpose I am prepared to assume that an offer of a settlement payment, made direct by the insurer to the claimant, which makes no provision for payment of Stage 2 fixed costs, disbursements and a success fee to the solicitor, at a time when a case has entered and not yet left the scheme, is a breach of paragraph 7.37 of the RTA Protocol.	Ratio
+But it creates no legal or equitable rights of any kind, if the client has no responsibility to the solicitor sufficient to support the solicitors lien.	Ratio
+There is no legal entitlement of the solicitor direct against the insurer which the lien can support by way of security.	Ratio
+As for suing in the name of the client, this is (as counsel agreed) a form of contractual subrogation.	Ratio
+The solicitor can be in no better position than the client, as against the insurer.	Ratio
+In the present case, all the clients contracted with Haven to receive settlement sums which did not include a costs element, and were paid in full.	Ratio
+Any attempt by Edmondson to stand in their shoes by way of subrogation would be met by an unanswerable defence from Haven, based upon the settlement agreements.	Ratio
+Counsel for Edmondson presented a detailed and vigorous submission to the effect that the flexibility of the equitable remedy for the protection of solicitors was apt to respond to any instance of unconscionable conduct by the insurer, including breach of the RTA Protocol, all the more so because of the strong public policy in enforcing the scheme, designed as it was to balance the competing interests of its stakeholders while ensuring access to justice for the victims of road accidents at proportionate cost.	ARG
+He sought to show, by reference to the cases which I have summarised, that this remedy had that flexibility from the outset.	ARG
+I acknowledge that equity operates with a flexibility not shared by the common law, and that it can and does adapt its remedies to changing times.	Ratio
+But equity nonetheless operates in accordance with principles.	Ratio
+While most equitable remedies are discretionary, those principles provide a framework which makes equity part of a system of English law which is renowned for its predictability.	Ratio
+I have sought to identify from the cases the settled principles upon which this equitable remedy works.	Ratio
+One of them is that the client has a responsibility for the solicitors charges.	Ratio
+It is simply wrong in my view to seek to distil from those cases a general principle that equity will protect solicitors from any unconscionable interference with their expectations in relation to recovery of their charges.	Ratio
+Furthermore the careful balance of competing interests enshrined in the RTA Protocol assumes that a solicitors expectation of recovery of his charges from the defendants insurer is underpinned by the equitable lien, based as it is upon a sufficient responsibility of the client for those charges.	Ratio
+Were there no such responsibility, it is hard to see how the payment of charges to the solicitor, rather than to the client, would be justified.	Ratio
+Furthermore, part of the balance struck by the RTA Protocol is its voluntary nature.	Ratio
+Its voluntary use stems from a perception by all stakeholders that its use is better for them than having every modest case go to court.	Ratio
+If the court were to step in to grant coercive remedies to those affected by its misuse by others, that balance would in all probability be undermined.	Ratio
+Mr Tonkin	Ratio
+It was submitted for Haven that the particular facts about Mr Tonkins case did not entitle Edmondson to an equitable lien because, it was said, Edmondsons work pursuant to its retainer made no significant contribution to the settlement.	ARG
+The submission was that Haven offered Mr Tonkin a settlement before, and without regard to, Edmondson logging Mr Tonkins claim onto the Portal.	ARG
+I disagree.	Ratio
+The relevant chronology is as follows.	Ratio
+On 12 April 2012, shortly after the accident, Haven contacted Mr Tonkin to discuss the provision of a hire car for him.	Ratio
+This had nothing to do with a personal injury claim, although of course it arose from the same accident.	Ratio
+Mr Tonkin and Edmondson entered into a CFA for the purpose of pursuing his personal injury claim on 16 April and, on the following day, Edmondson logged the details of that claim onto the Portal.	Ratio
+Three days later, on 20 April, and after Haven had acknowledged the claim on the Portal, Mr Tonkin telephoned Haven.	Ratio
+The transcript of the conversation shows that he was ringing about the provision of a hire car.	Ratio
+Haven took that opportunity to make him an oral settlement offer for his personal injuries, initially of 2,200, later revised after negotiation to 2,350.	Ratio
+This was repeated in writing by Haven on 23 April, and accepted by Mr Tonkin on the following day.	Ratio
+Solicitors for a claimant generally contribute to a settlement by logging an RTA claim onto the Portal in two ways.	Ratio
+First, they thereby supply to the insurer the essential details of the claim necessary for the insurer to appraise it and decide whether, and if so in what amount, to make a settlement offer.	Ratio
+These go well beyond the details the insurer is likely to receive from its insureds accident report, although that report will be likely to assist the insurer to decide whether liability should be put in issue.	Ratio
+Secondly, they thereby demonstrate that the claimant intends seriously to pursue a claim for personal injuries, and has obtained, by the CFA, the services of solicitors for that purpose on terms which do not require the claimant to provide his own litigation funding up front.	Ratio
+The incentive which that will usually supply to the insurer to settle a modest claim early, before costs increase, and where liability is not in issue, is obvious.	Ratio
+In Mr Tonkins case the evidence does not show that Haven had, before Edmondson logged the claim onto the Portal, already obtained any, let alone any sufficient, information about the personal injuries claim.	Ratio
+The earlier discussion with Mr Tonkin was about the provision of a hire car.	Ratio
+Moreover the chronology shows that Haven had already received and acknowledged Mr Tonkins personal injury claim via the Portal before it made him a settlement offer.	Ratio
+Nor did Mr Tonkin telephone Haven on 20 April to seek such a settlement.	Ratio
+The inference is plain that Haven was encouraged by the logging of the claim onto the Portal to make an early offer of settlement, and nothing in the judges findings of fact displaces it.	Ratio
+Mr Tonkins claim is not therefore an exception to the others, so far as concerns the application of the established principles about the solicitors equitable lien.	Ratio
+Edmondson made a modest but still significant contribution to the obtaining of the settlement which ensued, and that was sufficient to trigger the lien.	Ratio
+Conclusion	RPC
+For those reasons, which differ from those of the Court of Appeal, I would nonetheless dismiss this appeal, subject to one point of detail.	RPC
+The Court of Appeal proceeded upon the basis that the equitable remedy could be deployed to provide a means for Edmondson to recover from Haven precisely those fixed costs, disbursements and success fee provided for under the RTA Protocol, regardless of the amount agreed to be paid in settlement.	RPC
+By contrast the remedy exists to provide security for the solicitors charges under his retainer, limited to the amount of the debt created by the settlement agreement.	RPC
+In the present cases, one effect of the retainer was to limit those recoveries to the amount recoverable from the defendants or their insurers.	RPC
+To the extent that the fixed costs regime limits those recoveries below that recoverable under the tables in the CFAs, that limitation would have to be taken into account, as it has been by the Court of Appeals order.	RPC
+Calculations carried out at the courts request suggest that the Protocol based recovery was, in all cases other than Mr Tonkin, slightly greater than the amounts agreed to be paid in settlement of the respective claims.	RPC
+The Court of Appeals order for payment therefore needs to be reduced to the settlement amount in each case.	RPC
+The same calculations show that the Protocol-based recovery was, in the case of Mr Grannell, slightly higher than the corresponding entitlement under the relevant CFA: (2,070.50 as against 2,043.50).	RPC
+But since both amounts exceed the settlement figure of 1,900, no additional adjustment appears to be necessary.	RPC
+Counsel are asked to agree the precise form of the order which should now be made, in the light of this courts reasoning.	RPC
+Calculations carried out at the courts request suggest that the Protocol based recovery was, in all cases other than Mr Tonkin, slightly greater than the amounts agreed to be paid in settlement of the respective claims.	RPC
+The Court of Appeals order for payment therefore needs to be reduced to the settlement amount in each case.	RPC
+The same calculations show that the Protocol-based recovery was, in the case of Mr Grannell, slightly higher than the corresponding entitlement under the relevant CFA: (2,070.50 as against 2,043.50).	RPC
+But since both amounts exceed the settlement figure of 1,900, no additional adjustment appears to be necessary.	RPC
+Counsel are asked to agree the precise form of the order which should now be made, in the light of this courts reasoning.	RPC

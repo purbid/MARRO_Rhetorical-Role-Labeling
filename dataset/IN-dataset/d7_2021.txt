@@ -1,0 +1,68 @@
+Challenge in these appeals is to the judgment of a Division Bench of the Kerala High Court.	FAC
+The Civil Revision petitions in proceedings under Order 34 Rule 5 of the Code of Civil Procedure, 1908 (in short the 'Code') were dismissed by a common judgment dated 02 June 1997.	FAC
+Factual position, which is practically undisputed need to be noted in brief.	Ratio
+The decrees for sale in the above cases were passed on 08 February 1989 and 30 July 1985 respectively.	FAC
+At the time of passing the decrees in the case, amendments as applicable to the State of Kerala were in force.	FAC
+The amendment stood repealed by virtue of section 97(1) of the Code of Civil Procedure (Amendment) Act, 1976 (Act 104 of 1976)(in short the 'Amendment Act') which came into force on 01 February 1977.	Ratio
+By an amendment effected section 122 of the Code, by the High Court of Kerala, Order 34 of the Code as existed before 01 February 1977 was incorporated in the Code with effect from 20 November 1990.	Ratio
+It is thus clear that on the dates when decrees were passed in the case, the Civil Procedure Code was in force in the State of Kerala.	Ratio
+The prayer for redemption in terms of Order 34 Rule 5 of the Code as made by the judgment debtors was rejected.	FAC
+The High Court held that the petitions under Order 34 Rule 5 were not maintainable on two grounds namely.	RLC
+U/s. 60 of the Transfer of Property Act, 1882 (in short the 'Act') right to redemption continues to inhere in a mortgage only until it is extinguished by act of parties or by a decree of Court.	Ratio
+By the passing of a decree, the mortgage security merges in the decree and is replaced by the security of the order of sale.	Ratio
+Accordingly the right of redemption is extinguished by the final decree under Order 34 Rule 5(3) of Code.	Ratio
+Reliance was placed on a decis ion of the Patna High Court in Sheo Narain Sah vs Mt. Deolchan Kuer (AIR 1943 Patna 208).	ARG
+Though a right under Order 34 Rule 5 was available under the Code, after the substitution of Order XXXIV by the Kerala amendment there is no such right available to the Mortgagor.	Ratio
+Learned counsel for the appellants submitted that the High Court's view is clearly untenable.	ARG
+First, the Kerala amendment became non est. because of the Amendment Act.	Ratio
+Secondly, the view expressed by the Patna High Court was not approved by this Court.	Ratio
+Learned counsel for the respondents on the other hand submitted that it was commonly believed that the Kerala amendment introduced on 15 January 1974 was in force at all times and the fresh amendment done in November, 1990 was just by way of clarification that it was effective till the amendment.	ARG
+High Court has held that by the passing of the decree for sale, the mortgage debt is merged into the decree and thereafter right to redemption is not available.	Ratio
+In taking that view, the High Court has relied on the decision of the Patna High Court in Sheo Narayan's case (supra).	Ratio
+The view taken by the Patna High Court was held to be not the correct view as observed by this Court in Mhadagonda Ramgonda Patil and Ors. vs Shripal Balwant Rainade & Ors. (1988 (3) SCC 298 1988 Indlaw SC 456).	PRE
+It was held that unless and until a decree of order debarring the mortgagor from redeeming the property is passed under Sub Rule 3(a) of Rule 8 of Order XXXIV the right of redemption is available.	PRE
+It was inter alia held as follows:	PRE
+It is thus manifestly clear that the right of redemption will be extinguished (1) by the act of the parties or (2) by the decree of a court.	PRE
+We are not concerned with the question of extinguishment of the right of redemption by the act of the parties.	PRE
+The question is whether by the preliminary decree or final decree passed in the earlier extinguished.	PRE
+The decree that is referred to in the proviso to section 60 of the Transfer of Property Act is a final decree in a suit for foreclosure, as provided in sub rule (2) of Rule 3 of Order 34 and a final decree in a redemption suit as provided in Order 34, Rule 8(3)(a) of the Code of Civil Procedure.	PRE
+Sub rule (2) of Rule 3, inter alia, provides that where payment in accordance with sub rule (1) has not been made, the court shall, on an application made by the plaintiff in this behalf, pass a final decree declaring that the defendant and all persons claiming through or under him are debarred from all right to redeem the mortgaged property and also, if necessary, ordering the defendant to put the plaintiff in possession of the property.	PRE
+Thus, in a final decree in a suit for foreclosure, on the failure of the defendant to pay all amounts due, the extinguishment of the right of redemption has to be specifically declared.	PRE
+Again, in a final decree in a suit for redemption of mortgage by conditional sale or for redemption of an anomalous mortgage, the extinguishment of the right of redemption has to be specifically declared, as provided in clause (a) of sub rule (3) of Rule 8 of Order 34 of the Code of Civil Procedure.	Ratio
+These are the two circumstances (1) a final decree in a suit for foreclosure under Order 34, Rule 3(2); and (2) a final decree in a suit for redemption under Order 34, Rule 8(3)(a) of the Code of Civil Procedure when the right of redemption is extinguished.	Ratio
+In the instant case, the earlier suit was not a suit for foreclosure nor was either of the mortgages, a mortgage by conditional sale or an anomalous mortgage and, accordingly, there was no declaration in the final decree passed in the earlier suit for redemption that the respondents would be debarred from all right to redeem the mortgaged property.	Ratio
+Rule 5(1) of Order 34 expressly recognized the right of the mortgagor to redeem the mortgage at any time before the confirmation of a sale made in pursuance of a final decree passed in a suit for sale.	Ratio
+Similarly, Rule 8(1) of Order 34 permits the mortgagor to redeem the mortgaged property before the confirmation of the sale held in pursuance of a final decree in a redemption suit, unless such final decree debars the mortgagor from all right to redeem the mortgaged property which, as noticed earlier, is provided for in sub rule (3)(a) of Rule 8 of Order 34 relating to a mortgage by conditional sale or an anomalous mortgage.	Ratio
+Thus, the provisions of Order 34 have laid down in clear terms the circumstances when the right of redemption of the mortgagor would stand extinguished.	Ratio
+It is also clear that in a suit for redemption, a mortgage other than a mortgage by conditional sale or an anomalous mortgage, the mortgagor has a right of redemption even after the sale has taken place pursuant to the final decree, but before the confirmation of such sale.	Ratio
+In view of these provisions, the question of merger of mortgage debt in the decretal debt does not at all arise.	Ratio
+We are, therefore, of the view that the decision in Sheo Narain case in so far as it lays down the merger of the mortgage debt in the decretal debt and the consequent extinguishment of the right of redemption of the mortgagor after the passing of the final decree in a suit for redemption is erroneous."	Ratio
+As there is no such final decree in this case, the right of the mortgagor to redeem the property is available to him till the confirmation of the sale in pursuance to the decree.	Ratio
+The High Court further held that the right of redemption provided for under Order XXXIV Rule 5 is not available to the appellants in view of the fact that by the time the applications were filed, the Code as amended by substituting Order XXXIV do not contain a similar provision with effect from 20 November 1990.	Ratio
+This view is also not correct.	Ratio
+The decrees in the case were passed at a time when the Code was in force in the State of Kerala and the amendment in 1974 so far as the State of Kerala is concerned was not operative.	Ratio
+Composite decrees were passed in both under order XXXIV Rule 4 and 5 together.	Ratio
+Those were the provisions in regard to enforcement of mortgages, and whatever may be the wording of the decree, they shall be deemed to be passed under Order XXXIV Rule 5 as it stood at the time of the passing of the decree.	Ratio
+It is not necessary that all the clauses mentioned in the provisions under which the decree is passed should be incorporated in the decree.	Ratio
+While interpreting such a decree, it must be read as if all the provisions therein are incorporated in the decree.	Ratio
+The Court may not at the time of passing of the decree, be aware as to which contingency will happen in future.	Ratio
+Each of the decrees was under Order XXXIV Rule 5 of the Code as it stood before 20 November 1990.	Ratio
+The effect of section 97(1) of the Amendment Act is that all the local amendments made to any of the provisions of the Code either by a State Legislature or by a High Court which were inconsistent with the Code as amended by the Amendment Act stood repealed irrespective of the fact whether the corresponding provision of the Code had been amended or modified by the Amendment Act and that was subject only to what was found in sub section (2) of Section 97. (See Ganpat Giri vs IInd Additional District Judge, Balia and Ors. (AIR 1986 SC 589 1986 Indlaw SC 313).	PRE
+That being so, till 20 November 1990, the Kerala amendment was not effective from 01 February 1977.	Ratio
+While considering a case interpreting Order XX Rule 12 of the Code in Chittoori Subbanna Vs.	PRE
+Kudappa Subbanna (AIR 1965 SC 1325 1964 Indlaw SC 231) this Court laid down the principles to be followed in interpreting such decrees when the decree has not specifically mentioned all the clauses in the provision under which the decree is passed.	PRE
+Right of redemption of a mortgage is a substantive right of Mortgagor which has accrued to him to be exercised under Order XXXIV Rule 5 of the Code when the decree was passed which cannot be taken away by the amendment of order XXXIV of the Code which was made only after the decree in this case.	PRE
+An application under Order XXXIV Rule 5 is maintainable until the final determination of proceedings to set aside the sale under Order XXXIV either by way of appeal or revision. (See Manganlal Vs m/s. Jaiswal Industries Neemach & Ors. 1989 (4) SCC 344 1989 Indlaw SC 647, New Kenilworth Hotel (P) Ltd. Vs.	PRE
+Ashoka Industries Ltd. & Ors 1995 (1) SCC 161 1994 Indlaw SC 1114, section Sivaprakasam Vs.	Ratio
+B.V. Muniraj & Ors 1997 (9) SCC 636 1997 Indlaw SC 861, U. Nilan Vs.	Ratio
+Kannayyan (Dead) Through Lrs. 1999 (8) SCC 511 1999 Indlaw SC 531, Kharaiti Lal Vs.	Ratio
+Raminder Kaur & Ors 2000(3) SCC 664 2000 Indlaw SC 215, V.K. Palaniappa Chettiar (Dead) by LRs Vs.	Ratio
+U. Ramaswamy Grounder & Anr. 2001 (4) SCC 413 2001 Indlaw SC 20204).	Ratio
+In the present appeals, the applications were filed before the proceedings for setting aside the sale were pending before the executing court or in appeal.	Ratio
+In C.A. 1488 89 of 2000 proceedings under order XXI Rule 90 were pending and they were finally decided in C.M.A 353 of 1995 by order dated 02 June 1997, along with the main order.	Ratio
+In C.A. No.1490 91 of 2000 proceedings under Order 21 Rule 89 to set aside the sale was finally decided only by the order dated 02 June 1997 in C.M.A. 18 of 1993 and the application under Order 34 Rule 5 was filed earlier.	Ratio
+It is also seen that no order has been passed by the Court confirming the sale as required under Order 21 Rule 92.	Ratio
+Above being the position, the impugned judgment of the High Court is indefensible and is set aside.	RPC
+Appeals are allowed.	RPC
+Costs made easy.	RPC
+Appeals allowed.	RPC

@@ -13,3 +13,15 @@ dataset folder has two folders:
 ##UK-dataset: Snippet of what the UK Supreme Court data looks like. 
 
 This work is a continuation of and builds on https://github.com/Law-AI/semantic-segmentation.
+
+## 📄 Citation
+
+If you use this dataset in your research, please cite our paper:
+
+```bibtex
+@article{bambroo2025marro,
+  title={MARRO: Multi-Headed Attention for Rhetorical Role Labeling in Legal Documents},
+  author={Bambroo, Purbid and Adhikary, Subinay and Bhattacharya, Paheli and Chakraborty, Abhijnan and Ghosh, Saptarshi and Ghosh, Kripabandhu},
+  journal={arXiv preprint arXiv:2503.10659},
+  year={2025}
+}

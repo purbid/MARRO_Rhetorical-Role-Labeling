@@ -1,19 +1,45 @@
 # MARRO_Rhetorical-Role-Labeling
-Rhetorical Role Labelling in a  multi-task learning setup uses label shift prediction as an auxiliary task.  
+This repository focuses on **Rhetorical Role Labeling** in legal documents using a **multi-task learning framework**, where **label shift prediction** is incorporated as an auxiliary task.
 
-This repository contains the code for Rhetorical Role Labeling on India and UK Supreme Court data. We use various approaches, the most favorable being multi-task learning, which uses label shift prediction as an auxiliary task.
+We experiment with multiple approaches, with **multi-task learning** emerging as the most effective strategy.
 
-We can achieve SOTA performance on both datasets when compared to previous methods. 
+---
 
-In the following lines, we delineate the dataset (for now, we release a portion of it; please get in touch with the authors if you wish to gain access to the complete dataset). 
+## 🚀 Key Highlights
 
-dataset folder has two folders:
+- 📊 Achieves **state-of-the-art (SOTA)** performance on both:
+  - Indian Supreme Court dataset
+  - UK Supreme Court dataset  
+- 🧠 Utilizes **label shift prediction** as an auxiliary task to enhance performance  
+- ⚖️ Designed specifically for **legal document understanding**
 
-##IN-dataset: Snippet of what the Indian Supreme Court data looks like. 
-##UK-dataset: Snippet of what the UK Supreme Court data looks like. 
+---
 
-This work is a continuation of and builds on https://github.com/Law-AI/semantic-segmentation.
+## 📂 Dataset
 
+Currently, we release a **subset of the dataset**.  
+If you are interested in accessing the **full dataset**, please contact the authors.
+
+The `dataset/` directory contains:
+
+- `IN-dataset/`  
+  → Sample data from the **Indian Supreme Court**
+
+- `UK-dataset/`  
+  → Sample data from the **UK Supreme Court**
+
+---
+
+## 🔗 Related Work
+
+This work builds upon and extends:  
+👉 https://github.com/Law-AI/semantic-segmentation
+
+---
+
+## 📬 Note
+
+For full dataset access or collaboration inquiries, feel free to reach out to the authors.
 ## 📄 Citation
 
 If you use this dataset in your research, please cite our paper:

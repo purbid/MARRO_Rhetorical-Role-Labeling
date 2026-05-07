@@ -39,7 +39,7 @@ This work builds upon and extends:
 
 ## 📬 Note
 
-For **full dataset** access or collaboration inquiries, feel free to reach out to the authors.
+For **full dataset** visit the link: https://huggingface.co/datasets/subinay612/MARRO_Rhetorical-Role-Labeling
 ## 📄 Citation
 
 If you use this dataset in your research, please cite our paper:

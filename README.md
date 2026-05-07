@@ -18,7 +18,7 @@ We experiment with multiple approaches, with **multi-task learning** emerging as
 ## 📂 Dataset
 
 Currently, we release a **subset of the dataset**.  
-If you are interested in accessing the **full dataset**, please contact the authors.
+If you are interested in accessing the **complete dataset**, please visit: https://tinyurl.com/MARRO-Rhetorical-Role.
 
 The `dataset/` directory contains:
 
@@ -37,9 +37,6 @@ This work builds upon and extends:
 
 ---
 
-## 📬 Note
-
-For **complete dataset**, please visit: https://tinyurl.com/MARRO-Rhetorical-Role
 ## 📄 Citation
 
 If you use this dataset in your research, please cite our paper:
